@@ -1,0 +1,10 @@
+<section class="box {% if include.type %}box--type-{{ include.type }}{% endif %}"
+         data-box-id="{{ include.box-id }}"
+         {% if include.author-id %}data-author-id="{{ include.author-id }}"{% endif %}
+         {% if include.timestamp %}data-timestamp="{{ include.timestamp }}"{% endif %}
+         data-dbname="{{ include.dbname }}"
+         data-last-modified-by="{{ include.last-modified-by }}">
+
+    <header class="box__header">
+        <h2 class="box__title">{{ include.title | default: "Untitled" }}</h2>
+    </header>

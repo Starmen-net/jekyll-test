@@ -9,3 +9,5 @@ layout: home
 This is some text from **./index.markdown**.
 
 {% include test-include.markdown %}
+
+{% include_relative some-other-file.markdown %}
