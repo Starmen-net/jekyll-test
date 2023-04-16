@@ -1,0 +1,165 @@
+---
+title: MOTHER 2 / EarthBound Sound Effects
+categories:
+  - mother2
+date: 2005-04-03 18:39:18 +0500
+---
+{% include box-open.html box-id="884" title="MOTHER 2 / EarthBound Sound Effects:" author-id="926" timestamp="2005-04-03 18:39:18 +0500" type="norm" dbname="box55233" last-modified-by="127" %}
+<table border="0" width="99%">
+<tr><td width="33%">
+<a href="attack1.wav">Attack 1</a><br />
+<a href="attack2.wav">Attack 2</a><br />
+<a href="beach.wav">Beach</a><br />
+<a href="beam.wav">Beam Shot</a><br />
+<a href="burp.wav">Belch Burp</a><br />
+<a href="bikebell.wav">Bike Bell</a><br />
+<a href="chirp.wav">Bird Chirp</a><br />
+<a href="boss.wav">Boss Intro</a><br />
+<a href="brainshock.wav">Brainshock</a><br />
+<a href="bubble.wav">Bubble Gum</a><br />
+<a href="bulldozermove.wav">Bulldozer 1</a><br />
+<a href="bulldozerstart.wav">Bulldozer 2</a><br />
+<a href="bulldozerstop.wav">Bulldozer 3</a><br />
+<a href="bump.wav">Bump</a><br />
+<a href="buy1.wav">Buying</a><br />
+<a href="eb_buzzbuzz.wav">Buzz Buzz</a><br />
+<a href="camera.wav">Camera Click</a><br />
+<a href="eb_camera.wav">Camera Guy</a><br />
+<a href="buy2.wav">Cash Register</a><br />
+<a href="eb_newchar.wav">Character Joins</a><br />
+<a href="click.wav">Click</a><br />
+<a href="counterpsi.wav">Counter PSI</a><br />
+<a href="curshoriz.wav">Cursor 1</a><br />
+<a href="cursverti.wav">Cursor 2</a><br />
+<a href="die.wav">Death</a><br />
+<a href="dd.wav">Deep Darkness Cymbal Crash</a><br />
+<a href="waterdeep.wav">Deep Water</a><br />
+<a href="eb_winboss.wav">Defeating a Boss</a><br />
+<a href="eb_win.wav">Defeating an Enemy</a><br />
+<a href="disrupt1.wav">Disruption 1</a><br />
+<a href="disrupt2.wav">Disruption 2</a><br />
+<a href="dodge.wav">Dodge</a><br />
+<a href="doorclose.wav">Door Closing</a><br />
+<a href="dooropen1.wav">Door Opening 1</a><br />
+<a href="dooropen2.wav">Door Opening 2</a><br />
+<a href="drill.wav">Drill</a><br />
+<a href="dman1.wav">Dungeon Man 1</a><br />
+<a href="dman2.wav">Dungeon Man 2</a><br />
+<a href="eat.wav">Eating Food</a><br />
+<a href="ambush.wav">Enemy Ambush</a><br />
+<a href="enemyhit.wav">Enemy Attack</a><br />
+<a href="enemydie.wav">Enemy Death</a><br />
+<a href="enemyattack.wav">Enemy Turn</a><br />
+<a href="enterbattle.wav">Entering a Battle</a><br />
+<a href="equip.wav">Equipment</a><br />
+<a href="error.wav">Error</a><br />
+<a href="explosion.wav">Explosion</a><br />
+<a href="fall.wav">Fall</a><br />
+<a href="falling.wav">Falling</a><br />
+</td><td width="33%">
+<a href="eb_fanfare.wav">Fanfare</a><br />
+<a href="fire1.wav">Fire 1</a><br />
+<a href="fire2.wav">Fire 2</a><br />
+<a href="fire3.wav">Fire 3</a><br />
+<a href="fire4.wav">Fire 4</a><br />
+<a href="flame.wav">Fire 5</a><br />
+<a href="flash1.wav">Flash 1</a><br />
+<a href="flash2.wav">Flash 2</a><br />
+<a href="flash3.wav">Flash 3</a><br />
+<a href="flash4.wav">Flash 4</a><br />
+<a href="flash5.wav">Flash 5</a><br />
+<a href="flash6.wav">Flash 6</a><br />
+<a href="flash7.wav">Flash 7</a><br />
+<a href="freeze1.wav">Freeze 1</a><br />
+<a href="freeze2.wav">Freeze 2</a><br />
+<a href="freeze3.wav">Freeze 3</a><br />
+<a href="freeze4.wav">Freeze 4</a><br />
+<a href="itemget1.wav">Getting Items 1</a><br />
+<a href="itemget2.wav">Getting Items 2</a><br />
+<a href="present.wav">Gift Box</a><br />
+<a href="giygas.wav">Giygas</a><br />
+<a href="giygas_die.wav">Giygas About to Die</a><br />
+<a href="breath.wav">Giygas' Breath</a><br />
+<a href="giygas_static.wav">Giygas Static</a><br />
+<a href="heal 1.wav">Healing 1</a><br />
+<a href="heal 2.wav">Healing 2</a><br />
+<a href="heli.wav">Helicopter</a><br />
+<a href="help.wav">Help</a><br />
+<a href="hpsuck.wav">HP Sucker</a><br />
+<a href="hypno.wav">Hypnosis</a><br />
+<a href="imissya.wav">I Missed You</a><br />
+<a href="past.wav">In the Past</a><br />
+<a href="cafe.wav">Jackie's Caf&eacute;</a><br />
+<a href="knock.wav">Knock</a><br />
+<a href="lightning.wav">Lightning</a><br />
+<a href="mbutterfly.wav">Magic Butterfly</a><br />
+<a href="magicstep.wav">Magicant Step</a><br />
+<a href="manimani.wav">Mani Mani Statue</a><br />
+<a href="miss.wav">Miss</a><br />
+<a href="moonside.wav">Moonside</a><br />
+<a href="mysterious.wav">Mystery</a><br />
+<a href="charselect.wav">Naming Characters</a><br />
+<a href="okdesuka.wav">OK desu ka?</a><br />
+<a href="paralysis1.wav">Paralysis 1</a><br />
+<a href="paralysis2.wav">Paralysis 2</a><br />
+<a href="phonehangup.wav">Phone Hang Up</a><br />
+<a href="phonering.wav">Phone Ringing</a><br />
+<a href="copcar.wav">Police Siren</a><br />
+<a href="possess.wav">Possession</a>
+</td><td width="33%">
+<a href="pray.wav">Pray</a><br />
+<a href="psi.wav">PSI Attack</a><br />
+<a href="psilearn.wav">PSI Learned</a><br />
+<a href="magnet.wav">PSI Magnet</a><br />
+<a href="refill.wav">Refill</a><br />
+<a href="reflect1.wav">Reflect 1</a><br />
+<a href="reflect2.wav">Reflect 2</a><br />
+<a href="robotstep.wav">Robot Step</a><br />
+<a href="launch.wav">Rocket Launch</a><br />
+<a href="watershallow.wav">Shallow Water</a><br />
+<a href="shield1.wav">Shield 1</a><br />
+<a href="shield2.wav">Shield 2</a><br />
+<a href="shieldkill.wav">Shield Killer</a><br />
+<a href="shockwave.wav">Shockwave</a><br />
+<a href="skyrunner.wav">Sky Runner Beep</a><br />
+<a href="smash.wav">SMAAAASH!</a><br />
+<a href="sphinx1.wav">Sphinx Dance 1</a><br />
+<a href="sphinx2.wav">Sphinx Dance 2</a><br />
+<a href="sphinx3.wav">Sphinx Dance 3</a><br />
+<a href="sphinx4.wav">Sphinx Dance 4</a><br />
+<a href="sphinx5.wav">Sphinx Dance 5</a><br />
+<a href="sphinx6.wav">Sphinx Dance 6</a><br />
+<a href="spooky.wav">Spooky</a><br />
+<a href="spore.wav">Spore</a><br />
+<a href="starstorm.wav">Starstorm</a><br />
+<a href="static.wav">Static</a><br />
+<a href="statsdown.wav">Stats Down</a><br />
+<a href="statsup.wav">Stats Up</a><br />
+<a href="ailment.wav">Status Ailment</a><br />
+<a href="steps.wav">Steps</a><br />
+<a href="storm1.wav">Storm 1</a><br />
+<a href="storm2.wav">Storm 2</a><br />
+<a href="storm3.wav">Storm 3</a><br />
+<a href="storm4.wav">Storm 4</a><br />
+<a href="strangepsi.wav">Strange PSI</a><br />
+<a href="eb_surprise.wav">Surprise</a><br />
+<a href="tcrash.wav">Teleport Crash</a><br />
+<a href="teleport.wav">Teleporting</a><br />
+<a href="text.wav">Text</a><br />
+<a href="thunder1.wav">Thunder 1</a><br />
+<a href="thunder2.wav">Thunder 2</a><br />
+<a href="timetunnel.wav">Time Tunnel</a><br />
+<a href="eb_title.wav">Title Screen Music</a><br />
+<a href="venus.wav">Venus</a><br />
+<a href="water.wav">Water</a><br />
+<a href="window.wav">Window</a><br />
+<a href="wound.wav">Wound</a><br />
+<a href="wow.wav">WOW!</a><br />
+<a href="yell.wav">Yell</a><br />
+</td></tr></table>
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2016-11-21 19:25:07 +0600" last-modified-by-name="CerealQueen" %}
+
+{% include box-open.html box-id="885" title="Sound Effects Archive:" author-id="926" timestamp="2005-04-03 18:42:35 +0500" type="norm" dbname="box38508" last-modified-by="127" %}
+<img src="/include/submitimage/m2.png" width="12" height="10" />&nbsp;<a href="eb_sfx_archive.zip">Download all 147 sound effects (11.9 MB)</a><br />
+Sound effects courtesy of EBismaru and Tomato.
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2007-06-20 19:14:49 +0500" last-modified-by-name="lewahi" %}
