@@ -2,9 +2,9 @@
 title: MOTHER
 categories:
   - merchandise
-date: 2010-10-20 09:13:00 +0500
+date: 2010-10-20 14:13:00 +0000
 ---
-{% include box-open.html box-id="3897" title="MOTHER:" author-id="45" timestamp="2010-10-20 09:13:00 +0500" type="norm" dbname="box64554" last-modified-by="127" %}
+{% include box-open.html box-id="3897" title="MOTHER" author-id="45" timestamp="2010-10-20 14:13:00 +0000" type="norm" dbname="box64554" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -65,4 +65,4 @@ date: 2010-10-20 09:13:00 +0500
 <a href="/merchandise/images/m1stuff.jpg" ><img src="/merchandise/images/m1stuff.jpg" title="MOTHER Box" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/motherw.jpg" ><img src="/merchandise/images/motherw.jpg" title="MOTHER Map" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:50:07 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:50:07 +0000" last-modified-by-name="Tomato" %}

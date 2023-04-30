@@ -2,9 +2,9 @@
 title: Mother 2 Zippo Lighter
 categories:
   - merchandise
-date: 2005-01-03 20:58:37 +0600
+date: 2005-01-04 02:58:37 +0000
 ---
-{% include box-open.html box-id="328" title="Mother 2 Zippo Lighter:" author-id="45" timestamp="2005-01-03 20:58:37 +0600" type="norm" dbname="box48317" last-modified-by="75" %}
+{% include box-open.html box-id="328" title="Mother 2 Zippo Lighter" author-id="45" timestamp="2005-01-04 02:58:37 +0000" type="norm" dbname="box48317" last-modified-by="75" %}
 	<center>
 	<img src="/merchandise/images/m2_lighter_title.jpg" border="0" alt="Mother 2 Zippo Lighter" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-03 20:58:37 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m2_lighter_front.jpg">Front</a> - <a href="/merchandise/images/m2_lighter_back.jpg">Back</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-15 12:20:53 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-15 17:20:53 +0000" last-modified-by-name="PoeTrader" %}

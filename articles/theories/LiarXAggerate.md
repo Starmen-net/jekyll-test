@@ -2,13 +2,13 @@
 title: Theories - Lier X. Agerate
 categories:
   - articles
-date: 2011-11-01 23:31:14 +0500
+date: 2011-11-02 04:31:14 +0000
 ---
-{% include box-open.html box-id="4073" title="Theories topic for the week of October 27- November 1, 2011:" author-id="1419" timestamp="2011-11-01 23:31:14 +0500" type="norm" dbname="box20994" last-modified-by="127" %}
+{% include box-open.html box-id="4073" title="Theories topic for the week of October 27- November 1, 2011" author-id="1419" timestamp="2011-11-02 04:31:14 +0000" type="norm" dbname="box20994" last-modified-by="127" %}
 <center><img src="/articles/theories/lierx.png" title="Hey kid you like popsicles? I got a whole freezer full of them in my hole." /><p/>Lier X. Agerate is a strange man who lives on the hill in Onett, and is one of the first characters you meet, but you never really learn much about him. I tasked it to you, dear SM.Netters, and you delivered. Below is this week's Theories submissions!</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-01 23:37:15 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-02 04:37:15 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4074" title="Theory of the Week:" author-id="1419" timestamp="2011-11-01 23:37:22 +0500" type="norm" dbname="box29823" last-modified-by="127" %}
+{% include box-open.html box-id="4074" title="Theory of the Week" author-id="1419" timestamp="2011-11-02 04:37:22 +0000" type="norm" dbname="box29823" last-modified-by="127" %}
 Nearly everything that you need to know about a Mr. Aggerate is found within his name. He is a liar. This has become his defining character trait. He is deceptive, manipulative, and once had dreams of ruling the world with a reign built upon mistruths. Perhaps the pinnacle of Mr. Aggerate's deceptive ways is the long-ago construction of an illusion-building device known as the Mind Altering Neurological Interrupter Molded Around Nefarious Ideas, or MANIMANI. As a punishment for his lies and to protect the world which he once tried to conquer, the forces of the universe arranged it so that Liar X. Aggerate's defining character trait has become him.<p/>
 
 Liar X. Aggerate is the incarnation of the lies told by people around the world. For as long as people tell lies, Liar X. Aggerate lives. He can not find eternal piece or escape from his past transgressions for as long as mankind continues to deceive. Liar X. Aggerate has lived for a very, very long time, and has grown weary of an eternal existence.<p/>
@@ -16,9 +16,9 @@ Liar X. Aggerate is the incarnation of the lies told by people around the world.
 The first step in finding release, Liar X. Aggerate knows, is in the destruction of the MANIMANI, though this is a task that can only be carried out by a particular type of person - one with incredible psychic power and an ability to see through illusion. If the machine were to fall into any other hands, the lies and deception in the world would only increase. It is for these reasons that Liar X. Aggerate constructed an artificial hill with which to hide his invention. Deep in the bowels of this mound, beneath Mr. Aggerate's house, the machine awaits the arrival of a certain boy. When this child arrives, Mr. Aggerate is certain to introduce the child to the evil instrument that he has hidden for all these years. <p/>
 
 - Emily
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-01 23:38:25 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-02 04:38:25 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4075" title="The Neverending Adventures of Truckdrawer:" author-id="1419" timestamp="2011-11-01 23:38:59 +0500" type="norm" dbname="box37529" last-modified-by="127" %}
+{% include box-open.html box-id="4075" title="The Neverending Adventures of Truckdrawer" author-id="1419" timestamp="2011-11-02 04:38:59 +0000" type="norm" dbname="box37529" last-modified-by="127" %}
 In the beginnig of Earthbound, as you climb the hill to the meteorite, you might've ran into a billboard building, treasure hunting, all around creepy man by the name of Liar X. Aggerate. The last thing we truly get to know about him is that he sells the dark-minded Mani-Mani statue to a Mr. Carpainter. However, this theorist knew that couldn't be where his story ended, and with research and random DNA tests, I've come over a few discoveries.<p/>
 
 Think about it, even in Earthbound standards, Liar X. Aggerate seems like a bit of a fake name. That's because, it is! My curiosity first led me to the now calm Happy-Happy Village, where I decided to interview Mr. Carpainter. I didn't truly get much out of that, except for one thing. Carpainter was only his first name. He, as far as he knew had no family, except for a brother he thought got abducted by aliens.<p/>
@@ -46,9 +46,9 @@ Now, did I ever tell Carpainter about his brother. Of course not! That guy creep
 Thus is the story of Li-err, Mr. Truckdrawer. Another ashed question, now a bright flame. Til next week, this is Pheen-X (Firej7) saying, WHO ARE YOU!<p/>
 
 - Firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-01 23:40:12 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-02 04:40:12 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4076" title="More like Snitchy X. Snitcherate:" author-id="1419" timestamp="2011-11-01 23:40:36 +0500" type="norm" dbname="box40773" last-modified-by="127" %}
+{% include box-open.html box-id="4076" title="More like Snitchy X. Snitcherate" author-id="1419" timestamp="2011-11-02 04:40:36 +0000" type="norm" dbname="box40773" last-modified-by="127" %}
 Who am I, you ask? My name is Lier X. Aggerate. I’m a retired Olympic medal-winning synchronized swimmer.<p/>
 
 What do you mean, you don’t believe that?<p/>
@@ -66,10 +66,10 @@ Until one day, one of our heists went wrong. We accidentally tripped an alarm an
 So that’s my story. You may not believe it, but that’s on your head, not mine.<p/>
 
 - vgamer164
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-01 23:41:46 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-02 04:41:46 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4077" title="I KNEW IT:" author-id="1419" timestamp="2011-11-01 23:42:06 +0500" type="norm" dbname="box60880" last-modified-by="127" %}
+{% include box-open.html box-id="4077" title="I KNEW IT" author-id="1419" timestamp="2011-11-02 04:42:06 +0000" type="norm" dbname="box60880" last-modified-by="127" %}
 Lier X. Agerate is a simple man, who at best, is a bit of an exaggerator, right? Well, it turns out, he has had a story as to how he gained his lying streak. The story goes as follows-I was neither a murder suspect, nor a target for an international spy organization. But I drove a car down the Jersey Turnpike at 80 mph. ...A police officer pulled me over and asked for my driver's license. He said I was going 20 mph over the speed limit. I instantly pointed to my wife and said, "I'm in a hurry, my wife is in labor." Fortunately, my wife actually had a big stomach. I hoped he'd let me go with this excuse. "Oh, since it's an emergency. I'll lead you to the hospital with my police car," he said. "No, it's not necessary." "Why not?" asked the officer. "Uh... well..." "Let's get going," said the officer... "No, no! We can't! This baby is a demon child!" And yes, I remembered 3/4ths of that article from memory.<p/>
 
 - lucario99
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-01 23:42:45 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-02 04:42:45 +0000" last-modified-by-name="Captain Bozo" %}

@@ -2,13 +2,13 @@
 title: Theories - Hereditary PSI
 categories:
   - articles
-date: 2012-05-23 16:11:51 +0500
+date: 2012-05-23 21:11:51 +0000
 ---
-{% include box-open.html box-id="4453" title="Theories topic for the weeks of May 2 - May 23, 2012:" author-id="1419" timestamp="2012-05-23 16:11:51 +0500" type="norm" dbname="box37230" last-modified-by="127" %}
+{% include box-open.html box-id="4453" title="Theories topic for the weeks of May 2 - May 23, 2012" author-id="1419" timestamp="2012-05-23 21:11:51 +0000" type="norm" dbname="box37230" last-modified-by="127" %}
 <center>PSI is a truly powerful gift, one that very few people wield. One theory is that it's hereditary. If this is true, then what other characters in the game possess great powers?</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-23 16:13:02 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-23 21:13:02 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4454" title="Theory of the Week:" author-id="1419" timestamp="2012-05-23 16:13:04 +0500" type="norm" dbname="box63539" last-modified-by="127" %}
+{% include box-open.html box-id="4454" title="Theory of the Week" author-id="1419" timestamp="2012-05-23 21:13:04 +0000" type="norm" dbname="box63539" last-modified-by="127" %}
 Okay, so lets assume PSI is hereditary. That means in the game Earthbound, Poo, Paula, and Ness are all related. Some people believe that this power came from Gygias himself, and that he fathered all three of these innoncent children's grandparents. I think that's just plain gross. Here's what really happened.<p/>
 
 Noah, when he was on the ark (also known as the white ship) grabbed a strange being known as a Magypsie. However he accidentally grabbed two of the same gender (not being able to tell the difference) and they thus wound up marrying his two sons. Magypsies had the ability to do crazy psychic stuff, and this ability they passed on to their children. Only some had the magical abilty. In fact, you have about a 1/128th chance of gaining this special power as being one of the Magypsie's offspring. In other words, you have about as much chance of finding the sword of kings.<p/>
@@ -32,9 +32,9 @@ There are few other people, lucky enough to be born with this amazing ability. B
 ~Fin~<p/>
 
 - mrstaplez
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-23 16:14:31 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-23 21:14:31 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4455" title="I bet that's why her house is unlocked...:" author-id="1419" timestamp="2012-05-23 16:14:33 +0500" type="norm" dbname="box18414" last-modified-by="127" %}
+{% include box-open.html box-id="4455" title="I bet that's why her house is unlocked..." author-id="1419" timestamp="2012-05-23 21:14:33 +0000" type="norm" dbname="box18414" last-modified-by="127" %}
 Ness’s mom stared nervously out the window. She could not believe what she was seeing. Huge mechanical octopuses, 7-foot-tall human-like aliens, and even giant, unnerving, mobile eye balls with legs! They all seemed to be patrolling the meteorite that had fallen earlier that week. Consequently, this caring, solicitous mother could do nothing more than wonder whether or not her son would be alright during this apparent alien invasion.<p/>
 
 Not to mention, the power was out, so Ness’s mom couldn’t do the laundry, nor watch her favorite soaps. She and Tracy could do nothing more than sit at the table and eat raw steak meat (the oven wouldn’t work, either).<p/>
@@ -60,4 +60,4 @@ Ness’s mom began panicking fearfully. Looking up to the sky, she noticed unide
 And so, Ness’s mother returned to pointlessly standing around the house, waiting for her son to arrive. She had just made an amazing discovery, yet she decided to keep it to herself, for the time being. Of course, that particular Starman had tons of back-up, who could have avenged his death, but the sight of its obliterated corpse in front of the house caused his allies to reconsider that notion. Instead, they chose to hover around the small residence, acting as intimidating and frightening as possible.<p/>
 
 -AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-23 16:15:40 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-23 21:15:40 +0000" last-modified-by-name="Captain Bozo" %}

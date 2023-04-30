@@ -2,9 +2,9 @@
 title: 'Mother 3 +Love T&#039;s:'
 categories:
   - merchandise
-date: 2007-01-22 19:58:28 +0600
+date: 2007-01-23 01:58:28 +0000
 ---
-{% include box-open.html box-id="2812" title="Mother 3 +Love T's:" author-id="45" timestamp="2007-01-22 19:58:28 +0600" type="norm" dbname="box6542" last-modified-by="127" %}
+{% include box-open.html box-id="2812" title="Mother 3 +Love T's" author-id="45" timestamp="2007-01-23 01:58:28 +0000" type="norm" dbname="box6542" last-modified-by="127" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m3lovet_title.png" width="350" height="306" border="0" alt="Mother 3 +Love T's" />
 	</center>
@@ -42,4 +42,4 @@ date: 2007-01-22 19:58:28 +0600
 	<a href="/merchandise/images/m3lovet_insert1_front.jpg">Insert 1 (Front)</a> - <a href="/merchandise/images/m3lovet_insert1_back.jpg">Insert 1 (Back)</a> - <a href="/merchandise/images/m3lovet_insert2.jpg">Insert 2</a> - 
 	<a href="/merchandise/images/m3lovet_bag_front1.jpg">Bag (Front 1)</a> - <a href="/merchandise/images/m3lovet_bag_front2.jpg">Bag (Front 2)</a> - <a href="/merchandise/images/m3lovet_bag_back1.jpg">Bag (Back 1)</a> - 
 	<a href="/merchandise/images/m3lovet_bag_back2.jpg">Bag (Back 2)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:30:34 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:30:34 +0000" last-modified-by-name="Tomato" %}

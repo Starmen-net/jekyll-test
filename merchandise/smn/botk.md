@@ -2,9 +2,9 @@
 title: Bay of the Kraken
 categories:
   - merchandise
-date: 2005-01-04 01:20:59 +0600
+date: 2005-01-04 07:20:59 +0000
 ---
-{% include box-open.html box-id="442" title="Bay of the Kraken:" author-id="45" timestamp="2005-01-04 01:20:59 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="442" title="Bay of the Kraken" author-id="45" timestamp="2005-01-04 07:20:59 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_botk_title.jpg" border="0" alt="Bay of the Kraken" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 01:20:59 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_botk_poster.jpg">Poster</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:22:15 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:22:15 +0000" last-modified-by-name="ShadowX" %}

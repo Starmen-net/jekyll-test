@@ -2,9 +2,9 @@
 title: 'MOTHER Soundtrack Cassette Tape:'
 categories:
   - merchandise
-date: 2005-01-03 00:31:45 +0600
+date: 2005-01-03 06:31:45 +0000
 ---
-{% include box-open.html box-id="247" title="MOTHER Soundtrack Cassette Tape:" author-id="45" timestamp="2005-01-03 00:31:45 +0600" type="norm" dbname="box38222" last-modified-by="127" %}
+{% include box-open.html box-id="247" title="MOTHER Soundtrack Cassette Tape" author-id="45" timestamp="2005-01-03 06:31:45 +0000" type="norm" dbname="box38222" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -129,4 +129,4 @@ date: 2005-01-03 00:31:45 +0600
 	<br /><br />
 	Special thanks to <a href="mailto:wheelchairboy11@hotmail.com">Wheelchairboy</a> 
 	for providing some pictures.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:17:36 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:17:36 +0000" last-modified-by-name="Tomato" %}

@@ -2,9 +2,9 @@
 title: EarthBound 64 - Official Art
 categories:
   - eb64
-date: 2019-06-12 16:00:09 +0500
+date: 2019-06-12 21:00:09 +0000
 ---
-{% include box-open.html box-id="5329" title="Nintendo 64 DD Era Screenshots:" author-id="28590" timestamp="2019-06-12 16:00:09 +0500" type="norm" dbname="box11470" last-modified-by="127" %}
+{% include box-open.html box-id="5329" title="Nintendo 64 DD Era Screenshots" author-id="28590" timestamp="2019-06-12 21:00:09 +0000" type="norm" dbname="box11470" last-modified-by="127" %}
 <a href="1996/n_Cast.jpg" class="thumbnail"><img src="1996/n_Castthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a href="1996/n_Chase.jpg" class="thumbnail"><img src="1996/n_Chasethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a href="1996/n_Chase_2.jpg" class="thumbnail"><img src="1996/n_Chase_2thumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
@@ -50,9 +50,9 @@ date: 2019-06-12 16:00:09 +0500
 <a href="1997/n_Yosaku_House.jpg" class="thumbnail"><img src="1997/n_Yosaku_Housethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a href="1998/n_Bronson_Fuel.jpg" class="thumbnail"><img src="1998/n_Bronson_Fuelthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a href="1998/Hiroki-Chan.jpg" class="thumbnail"><img src="1998/Hiroki-Chanthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-22 21:41:27 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-23 02:41:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5330" title="Nintendo 64 Era Screenshots:" author-id="28590" timestamp="2019-06-12 16:06:43 +0500" type="norm" dbname="box33643" last-modified-by="127" %}
+{% include box-open.html box-id="5330" title="Nintendo 64 Era Screenshots" author-id="28590" timestamp="2019-06-12 21:06:43 +0000" type="norm" dbname="box33643" last-modified-by="127" %}
 <a href="1998/Butch.jpg" class="thumbnail"><img src="1998/Butchthumb.png"  WIDTH="50" HEIGHT="50" border="1" /></a> 
 <a href="1998/Livestock.jpg" class="thumbnail"><img src="1998/Livestockthumb.png"  WIDTH="50" HEIGHT="50" border="1" /></a> 
 
@@ -167,9 +167,9 @@ date: 2019-06-12 16:00:09 +0500
 
 <a href="2000/n_World_Doomed_2.JPG" class="thumbnail"><img src="2000/n_World_Doomed_2thumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-25 16:54:31 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-25 21:54:31 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5331" title="Battle Screenshots:" author-id="28590" timestamp="2019-06-12 16:11:36 +0500" type="norm" dbname="box14328" last-modified-by="127" %}
+{% include box-open.html box-id="5331" title="Battle Screenshots" author-id="28590" timestamp="2019-06-12 21:11:36 +0000" type="norm" dbname="box14328" last-modified-by="127" %}
 <a href="1997/n_Boar_Dragon_Battle.jpg" class="thumbnail"><img src="1997/n_Boar_Dragon_Battlethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 
 <a href="1999/n_Boar_Battle.jpg" class="thumbnail"><img src="1999/n_Boar_Battlethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
@@ -183,9 +183,9 @@ date: 2019-06-12 16:00:09 +0500
 <a href="2000/n_Pork_Trooper.JPG" class="thumbnail"><img src="2000/n_Pork_Trooperthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 16:12:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 21:12:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5332" title="Logo & Character Renders:" author-id="28590" timestamp="2019-06-12 16:12:33 +0500" type="norm" dbname="box58575" last-modified-by="127" %}
+{% include box-open.html box-id="5332" title="Logo & Character Renders" author-id="28590" timestamp="2019-06-12 21:12:33 +0000" type="norm" dbname="box58575" last-modified-by="127" %}
 <a href="sketches/Logo.png"><img src="sketches/Logothumb.png" WIDTH="50" HEIGHT="50" border="1" /></a>
 <a href="characters/Cast Photo.jpg"><img src="characters/Cast_Photothumb.png" WIDTH="50" HEIGHT="50" border="1" /></a>
 <a href="characters/andonuts.jpg"><img src="characters/andonuts.png" WIDTH="50" HEIGHT="50" border="1" /></a>
@@ -215,9 +215,9 @@ date: 2019-06-12 16:00:09 +0500
 
 
 <a href="characters/Platypus.png"><img src="characters/Platypusthumb.png" WIDTH="50" HEIGHT="50" border="1" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 16:14:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 21:14:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5333" title="Concept Sketches:" author-id="28590" timestamp="2019-06-12 16:14:56 +0500" type="norm" dbname="box21169" last-modified-by="127" %}
+{% include box-open.html box-id="5333" title="Concept Sketches" author-id="28590" timestamp="2019-06-12 21:14:56 +0000" type="norm" dbname="box21169" last-modified-by="127" %}
 <a href="sketches/art1.jpg"><img src="sketches/art1.png" WIDTH="150" HEIGHT="150" border="1"  /></a>
 <a href="sketches/art2.jpg"><img src="sketches/art2.png" WIDTH="150" HEIGHT="150" border="1" /></a>
 <a href="sketches/art3.jpg"><img src="sketches/art3.png" WIDTH="150" HEIGHT="150" border="1" /></a>
@@ -249,8 +249,8 @@ date: 2019-06-12 16:00:09 +0500
 
 
 <a href="sketches/Treehouse.jpg"><img src="sketches/Treehousethumb.png" WIDTH="150" HEIGHT="150" border="1" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 16:16:33 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 21:16:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5334" title="Credits:" author-id="28590" timestamp="2019-06-12 16:16:48 +0500" type="norm" dbname="box10557" last-modified-by="127" %}
+{% include box-open.html box-id="5334" title="Credits" author-id="28590" timestamp="2019-06-12 21:16:48 +0000" type="norm" dbname="box10557" last-modified-by="127" %}
 A <i>HUGE</i> thank you goes to Sebastian to helping provide a few updated screenshots, to OkeijiDragon for the discovery of new art, and to Echoes, for finding many new discoveries and compiling them so neatly!
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 16:16:59 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 21:16:59 +0000" last-modified-by-name="CerealQueen" %}

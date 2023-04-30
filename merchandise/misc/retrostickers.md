@@ -2,9 +2,9 @@
 title: NP Retro Stickers
 categories:
   - merchandise
-date: 2006-01-28 23:24:52 +0600
+date: 2006-01-29 05:24:52 +0000
 ---
-{% include box-open.html box-id="1816" title="NP Retro Stickers:" author-id="45" timestamp="2006-01-28 23:24:52 +0600" type="norm" dbname="box31043" last-modified-by="45" %}
+{% include box-open.html box-id="1816" title="NP Retro Stickers" author-id="45" timestamp="2006-01-29 05:24:52 +0000" type="norm" dbname="box31043" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/rs_title.jpg" border="0" alt="NP Retro Stickers" />
 	</center>
@@ -31,4 +31,4 @@ date: 2006-01-28 23:24:52 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/rs_ness.jpg">Ness</a> - <a href="/merchandise/images/rs_stickers.jpg">Stickers</a> - <a href="/merchandise/images/rs_npcover.jpg">NP Cover</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-02-03 21:38:28 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-02-04 03:38:28 +0000" last-modified-by-name="ShadowX" %}

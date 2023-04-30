@@ -2,9 +2,9 @@
 title: Starmen.Net Stuffage
 categories:
   - merchandise
-date: 2005-01-03 21:38:39 +0600
+date: 2005-01-04 03:38:39 +0000
 ---
-{% include box-open.html box-id="348" title="Starmen.Net Apparel:" author-id="45" timestamp="2005-01-03 21:38:39 +0600" type="norm" dbname="box4297" last-modified-by="45" %}
+{% include box-open.html box-id="348" title="Starmen.Net Apparel" author-id="45" timestamp="2005-01-04 03:38:39 +0000" type="norm" dbname="box4297" last-modified-by="45" %}
 <table1 />
 	<a href="12bj.php">1+2 Ball Jersey</a><br />
 	<a href="12gts.php">1+2 Grey T-Shirtz0r</a><br />
@@ -136,9 +136,9 @@ date: 2005-01-03 21:38:39 +0600
 	09/26/03<br />
 	07/11/03<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 23:20:38 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 04:20:38 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="349" title="Starmen.Net Posters:" author-id="45" timestamp="2005-01-03 21:39:04 +0600" type="norm" dbname="box25744" last-modified-by="45" %}
+{% include box-open.html box-id="349" title="Starmen.Net Posters" author-id="45" timestamp="2005-01-04 03:39:04 +0000" type="norm" dbname="box25744" last-modified-by="45" %}
 <table1 />
 	<a href="12p.php">1+2 Poster</a><br />
 	<a href="amc.php">A Monster of a Confrontation</a><br />
@@ -176,9 +176,9 @@ date: 2005-01-03 21:38:39 +0600
 	09/26/03<br />
 	07/09/04<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-27 00:03:24 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-27 05:03:24 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="350" title="Starmen.Net Stickers:" author-id="45" timestamp="2005-01-03 21:39:41 +0600" type="norm" dbname="box35792" last-modified-by="45" %}
+{% include box-open.html box-id="350" title="Starmen.Net Stickers" author-id="45" timestamp="2005-01-04 03:39:41 +0000" type="norm" dbname="box35792" last-modified-by="45" %}
 <table1 />
 	<a href="bapd.php">BOING: Aerophase Distortions</a><br />
 	<a href="burgersticker.php">Burger Sticker!</a><br />
@@ -231,9 +231,9 @@ date: 2005-01-03 21:38:39 +0600
 	09/26/03<br />
 	09/26/03<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 23:21:25 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 04:21:25 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="351" title="Starmen.Net Music and CDs:" author-id="45" timestamp="2005-01-03 21:40:08 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="351" title="Starmen.Net Music and CDs" author-id="45" timestamp="2005-01-04 03:40:08 +0000" type="norm" last-modified-by="45" %}
 <table1 />
 	<a href="psirockin.php">PSI-Rockin' Sountrack</a><br />
 	<a href="rockcandy1.php">Rock Candy Sountrack 1</a><br />
@@ -245,9 +245,9 @@ date: 2005-01-03 21:38:39 +0600
 	09/26/02<br />
 	01/16/04<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:40:29 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:40:29 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="352" title="Starmen.Net Office:" author-id="45" timestamp="2005-01-03 21:40:37 +0600" type="norm" dbname="box28232" last-modified-by="45" %}
+{% include box-open.html box-id="352" title="Starmen.Net Office" author-id="45" timestamp="2005-01-04 03:40:37 +0000" type="norm" dbname="box28232" last-modified-by="45" %}
 <table1 />
 	<a href="12wc.php">1+2 Wall Clock!</a><br />
 	<a href="admb.php">ART DEPT: Messenger BAORG</a><br />
@@ -281,9 +281,9 @@ date: 2005-01-03 21:38:39 +0600
 	05/13/01<br />
 	09/24/01<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-06 02:45:47 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-06 08:45:47 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="353" title="Starmen.Net Miscellaneous:" author-id="45" timestamp="2005-01-03 21:41:04 +0600" type="norm" dbname="box39163" last-modified-by="45" %}
+{% include box-open.html box-id="353" title="Starmen.Net Miscellaneous" author-id="45" timestamp="2005-01-04 03:41:04 +0000" type="norm" dbname="box39163" last-modified-by="45" %}
 <table1 />
 	<a href="cmmbox.php">Cabeza Mini Mania Box</a><br />
 	<a href="nsdisc.php">Nimbus Skimmer Disc</a><br />
@@ -295,4 +295,4 @@ date: 2005-01-03 21:38:39 +0600
 	11/24/03<br />
 	08/28/05<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-08-28 17:40:51 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-08-28 22:40:51 +0000" last-modified-by-name="ShadowX" %}

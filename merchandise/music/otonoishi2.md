@@ -2,9 +2,9 @@
 title: Oto no Ishi 2 - Hyper Clubmix Style Mother Arrange CD Album
 categories:
   - merchandise
-date: 2006-12-12 23:33:17 +0600
+date: 2006-12-13 05:33:17 +0000
 ---
-{% include box-open.html box-id="2748" title="Oto no Ishi 2 - Hyper Clubmix Style Mother Arrange CD Album:" author-id="45" timestamp="2006-12-12 23:33:17 +0600" type="norm" dbname="box23177" last-modified-by="127" %}
+{% include box-open.html box-id="2748" title="Oto no Ishi 2 - Hyper Clubmix Style Mother Arrange CD Album" author-id="45" timestamp="2006-12-13 05:33:17 +0000" type="norm" dbname="box23177" last-modified-by="127" %}
 	<center>
 	<imgalphapng src="/merchandise/images/otonoishi2_title.png" width="450" height="450" border="0" alt="Oto no Ishi 2 - Hyper Clubmix Style Mother Arrange CD Album" />
 	</center>
@@ -137,4 +137,4 @@ date: 2006-12-12 23:33:17 +0600
 	<a href="/merchandise/images/otonoishi2_button.jpg">Button</a> - <a href="/merchandise/images/otonoishi2_book_front.jpg">Book (Front)</a> - <a href="/merchandise/images/otonoishi2_book_back.jpg">Book (Back)</a> - 
 	<a href="/merchandise/images/otonoishi2_book_p1&2.jpg">Book (Page 1&2)</a> - <a href="/merchandise/images/otonoishi2_book_p3&4.jpg">Book (Page 3&4)</a> - <a href="/merchandise/images/otonoishi2_book_p5&6.jpg">Book (Page 5&6)</a> - 
 	<a href="/merchandise/images/otonoishi2_book_p7&8.jpg">Book (Page 7&8)</a> - <a href="/merchandise/images/otonoishi2_book_p9&10.jpg">Book (Page 9&10)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:45:45 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:45:45 +0000" last-modified-by-name="Tomato" %}

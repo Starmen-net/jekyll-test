@@ -2,9 +2,9 @@
 title: 'Game Credits: Akira Matsumoto'
 categories:
   - credits
-date: 2005-07-11 17:29:39 +0500
+date: 2005-07-11 22:29:39 +0000
 ---
-{% include box-open.html box-id="1014" title="Akira Matsumoto:" author-id="2262" timestamp="2005-07-11 17:29:39 +0500" type="norm" dbname="box9026" last-modified-by="127" %}
+{% include box-open.html box-id="1014" title="Akira Matsumoto" author-id="2262" timestamp="2005-07-11 22:29:39 +0000" type="norm" dbname="box9026" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 <LI><b>MOTHER 2/EarthBound(SNES 1994/1995)</b><BR />
@@ -38,4 +38,4 @@ Planning</LI>
 <LI><b>Mario Party 8(GCN 2007)</b><BR />
 Program</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 20:21:00 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-04 01:21:00 +0000" last-modified-by-name="KingDarian" %}

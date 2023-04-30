@@ -2,9 +2,9 @@
 title: 'Game Credits: Shigeki Yamashiro'
 categories:
   - credits
-date: 2005-10-20 11:53:40 +0500
+date: 2005-10-20 16:53:40 +0000
 ---
-{% include box-open.html box-id="1656" title="Shigeki Yamashiro:" author-id="2262" timestamp="2005-10-20 11:53:40 +0500" type="norm" dbname="box15549" last-modified-by="127" %}
+{% include box-open.html box-id="1656" title="Shigeki Yamashiro" author-id="2262" timestamp="2005-10-20 16:53:40 +0000" type="norm" dbname="box15549" last-modified-by="127" %}
 <img src="shigekiyamashiro.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -62,4 +62,4 @@ Special Thanks</LI>
 <LI><b>Ridge Racer DS (NDS 2004) USA ONLY</b><BR />
 Producer</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 18:08:36 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 23:08:36 +0000" last-modified-by-name="KingDarian" %}

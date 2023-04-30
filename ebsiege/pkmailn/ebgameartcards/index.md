@@ -2,9 +2,9 @@
 title: EarthBound - Game Art Cards
 categories:
   - ebsiege
-date: 2007-06-12 03:31:35 +0500
+date: 2007-06-12 08:31:35 +0000
 ---
-{% include box-open.html box-id="3012" title="EarthBound - Game Art Cards:" author-id="137" timestamp="2007-06-12 03:31:35 +0500" type="norm" dbname="box10629" last-modified-by="8" %}
+{% include box-open.html box-id="3012" title="EarthBound - Game Art Cards" author-id="137" timestamp="2007-06-12 08:31:35 +0000" type="norm" dbname="box10629" last-modified-by="8" %}
 <div style="text-align: center;">
 <ul class="thumbprevs">
 <li><a href="../pdfs/earthbound_01.pdf"><img src="../thumbs/earthbound_01.jpg" /></a><a rel="lightbox[mailn]" href="../resized/earthbound_01.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
@@ -20,4 +20,4 @@ date: 2007-06-12 03:31:35 +0500
 <li><a href="../pdfs/earthbound_11.pdf"><img src="../thumbs/earthbound_11.jpg" /></a><a rel="lightbox[mailn]" href="../resized/earthbound_11.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 <li><a href="../pdfs/earthbound_12.pdf"><img src="../thumbs/earthbound_12.jpg" /></a><a rel="lightbox[mailn]" href="../resized/earthbound_12.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 </ul></div>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 04:01:53 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 09:01:53 +0000" last-modified-by-name="reidman" %}

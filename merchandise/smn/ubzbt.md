@@ -2,9 +2,9 @@
 title: UrfBownd ZERO Baseball T
 categories:
   - merchandise
-date: 2005-01-03 22:56:12 +0600
+date: 2005-01-04 04:56:12 +0000
 ---
-{% include box-open.html box-id="355" title="UrfBownd ZERO Baseball T:" author-id="45" timestamp="2005-01-03 22:56:12 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="355" title="UrfBownd ZERO Baseball T" author-id="45" timestamp="2005-01-04 04:56:12 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ubzbt_title.png" border="0" alt="UrfBownd ZERO Baseball T" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-03 22:56:12 +0600
 	<br />
 	<a href="/merchandise/images/smn_ubzbt_front.jpg">Front</a> - <a href="/merchandise/images/smn_ubzbt_back.jpg">Back</a> - <a href="/merchandise/images/smn_ubzbt_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_ubzbt_bdesign.jpg">Back Design</a> - <a href="/merchandise/images/smn_btc.jpg">Colors</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 22:56:26 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 04:56:26 +0000" last-modified-by-name="ShadowX" %}

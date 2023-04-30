@@ -2,9 +2,9 @@
 title: Radio PSI - Archives
 categories:
   - radio
-date: 2012-10-16 18:53:29 +0500
+date: 2012-10-16 23:53:29 +0000
 ---
-{% include box-open.html box-id="4559" title="Radio PSI Archives:" author-id="5884" timestamp="2012-10-16 18:53:29 +0500" type="norm" dbname="box34924" last-modified-by="127" %}
+{% include box-open.html box-id="4559" title="Radio PSI Archives" author-id="5884" timestamp="2012-10-16 23:53:29 +0000" type="norm" dbname="box34924" last-modified-by="127" %}
 Downloads are available for a number of shows that the DJs have done for Radio PSI! (A large number of shows are, unfortunately, missing.) Click a link below to open a new page full of downloadable archives from your favorite DJ! Archives are added to these lists noon Eastern, the day after broadcast.
 
 <br />
@@ -72,12 +72,12 @@ DJ Carparama
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="cyan683" last-modified-on="2017-01-29 23:35:00 +0600" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2017-01-30 05:35:00 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4565" title="Radio PSI Podcast:" author-id="5884" timestamp="2012-10-31 14:48:20 +0500" type="norm" dbname="box2478" last-modified-by="127" %}
+{% include box-open.html box-id="4565" title="Radio PSI Podcast" author-id="5884" timestamp="2012-10-31 19:48:20 +0000" type="norm" dbname="box2478" last-modified-by="127" %}
 The radio PSI Podcast was a short lived project. These are the three episodes:
 
 <br /><a href="http://radio.starmen.net/dumps/archives/erikpodcast/001-RadioPSIPodcast.m4a">1st Edition - July 5th, 2006</a><br />
 <a href="http://radio.starmen.net/dumps/archives/erikpodcast/002-RadioPSIPodcast.m4a">2nd Edition - July 12th, 2006</a><br />
 <a href="http://radio.starmen.net/dumps/archives/erikpodcast/003-RadioPSIPodcast.mp3">3rd Edition - August 9th, 2006</a>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 14:49:55 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 19:49:55 +0000" last-modified-by-name="cyan683" %}

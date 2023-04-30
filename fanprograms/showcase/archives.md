@@ -2,9 +2,9 @@
 title: Fan Game Showcase - Archives
 categories:
   - fanprograms
-date: 2007-07-16 17:47:18 +0500
+date: 2007-07-16 22:47:18 +0000
 ---
-{% include box-open.html box-id="3180" title="Ego Orb in Space:" author-id="3404" timestamp="2007-07-16 17:47:18 +0500" type="norm" dbname="box44067" last-modified-by="127" %}
+{% include box-open.html box-id="3180" title="Ego Orb in Space" author-id="3404" timestamp="2007-07-16 22:47:18 +0000" type="norm" dbname="box44067" last-modified-by="127" %}
 Today we would like to present to you the first Fan-Game Showcase! And it's a dilly! "Wait... What's this you're talking about?" you ask. Fan-Game Showcase is when a fan-game currently being worked on by the community, one which shows much hard work and love, is selected to be shown off and talked about at length with the developer(s). And now, take a sneak peek at...
 <br />
 <br />
@@ -80,9 +80,9 @@ If you'd like to see more "EgoOrb in Space" action or want to download the game 
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2010-09-18 16:33:03 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2010-09-18 21:33:03 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3881" title="Saturn Valley Online:" author-id="3404" timestamp="2010-09-18 16:30:41 +0500" type="norm" dbname="box62823" last-modified-by="127" %}
+{% include box-open.html box-id="3881" title="Saturn Valley Online" author-id="3404" timestamp="2010-09-18 21:30:41 +0000" type="norm" dbname="box62823" last-modified-by="127" %}
 It's another Fan-Game Showcase comin' atchya! This time around there's an interview with an entire team of developers--with their own website no less. Yep, the MOTHER series is about to embark on a great adventure into the realms of online play. Introducing...
 <br />
 <br />
@@ -193,9 +193,9 @@ Achturn: Zoom!
 bgcolor="black">
 </table>
 
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2010-09-18 16:34:26 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2010-09-18 21:34:26 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3882" title="Cognitive Dissonance:" author-id="3404" timestamp="2010-09-18 16:34:47 +0500" type="norm" dbname="box25607" last-modified-by="127" %}
+{% include box-open.html box-id="3882" title="Cognitive Dissonance" author-id="3404" timestamp="2010-09-18 21:34:47 +0000" type="norm" dbname="box25607" last-modified-by="127" %}
 Time for another Fan-Game Showcase! If you're not familiar with it yet, the Showcase is where we take an in depth look at promising or completed, such as this (yes, you heard that right) fan-games which were developed right here by fellow Starmen.net denizens. Today we shall be taking a gander at an RPG set in the MOTHER universe. Introducing...
 <br />
 <br />
@@ -266,4 +266,4 @@ Suddenly, when you consider it next to the other games, having things like walki
 <br /><b>Q: Are there any new projects up your sleeves to look forward to?</b>
 <br />
 <b>A:</b> …Well, yes.. but the “MoP Project” is not Mother-related, although does take a bit of inspiration from the series. I don’t have a whole lot of details to show yet, though.
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2010-09-18 16:36:09 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2010-09-18 21:36:09 +0000" last-modified-by-name="Capn Muffin" %}

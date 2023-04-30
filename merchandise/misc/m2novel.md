@@ -2,9 +2,9 @@
 title: Mother 2 Novel
 categories:
   - merchandise
-date: 2005-04-03 20:41:09 +0500
+date: 2005-04-04 01:41:09 +0000
 ---
-{% include box-open.html box-id="888" title="Mother 2 Novel: Giygas Strikes Back:" author-id="45" timestamp="2005-04-03 20:41:09 +0500" type="norm" dbname="box17573" last-modified-by="127" %}
+{% include box-open.html box-id="888" title="Mother 2 Novel: Giygas Strikes Back" author-id="45" timestamp="2005-04-04 01:41:09 +0000" type="norm" dbname="box17573" last-modified-by="127" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m2_novel_title.png" width="200" height="250" alt="Mother 2 Novel: Giygas Strikes Back" />
 	</center>
@@ -46,4 +46,4 @@ date: 2005-04-03 20:41:09 +0500
 	<br />
 	<a href="/merchandise/images/m2_novel_front1.jpg">Front 1</a> - <a href="/merchandise/images/m2_novel_front2.jpg">Front 2</a> - <a href="/merchandise/images/m2_novel_front3.jpg">Front 3</a> - 
 	<a href="/merchandise/images/m2_novel_back.jpg">Back</a> - <a href="/merchandise/images/m2_novel_spine.jpg">Spine</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:40:18 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:40:18 +0000" last-modified-by-name="Tomato" %}

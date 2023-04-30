@@ -2,9 +2,9 @@
 title: Mother 3 Deluxe Box - Preorder Poster
 categories:
   - merchandise
-date: 2006-03-09 22:23:13 +0600
+date: 2006-03-10 04:23:13 +0000
 ---
-{% include box-open.html box-id="2067" title="Mother 3 Deluxe Box - Preorder Poster:" author-id="45" timestamp="2006-03-09 22:23:13 +0600" type="norm" dbname="box61628" last-modified-by="45" %}
+{% include box-open.html box-id="2067" title="Mother 3 Deluxe Box - Preorder Poster" author-id="45" timestamp="2006-03-10 04:23:13 +0000" type="norm" dbname="box61628" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3_dlxposter_title.jpg" border="0" alt="Mother 3 Deluxe Box - Preorder Poster" /><br />
 	</center>
@@ -32,4 +32,4 @@ date: 2006-03-09 22:23:13 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m3_dlxposter.jpg">Poster</a> - <a href="/merchandise/images/m3_dlxposter_eng.jpg">Poster (Tomato Translation)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-03-10 12:17:07 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-03-10 18:17:07 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: 'EB Sticker Collection 1: SMASH'
 categories:
   - merchandise
-date: 2005-01-04 00:50:53 +0600
+date: 2005-01-04 06:50:53 +0000
 ---
-{% include box-open.html box-id="417" title="EB Sticker Collection 1: SMASH:" author-id="45" timestamp="2005-01-04 00:50:53 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="417" title="EB Sticker Collection 1: SMASH" author-id="45" timestamp="2005-01-04 06:50:53 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ebsc1sa_title.jpg" border="0" alt="EB Sticker Collection 1: SMASH" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 00:50:53 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_ebsc1sa_sticker.jpg">Sticker</a> - <a href="/merchandise/images/smn_ebsc1sa_design.jpg">design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:51:03 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:51:03 +0000" last-modified-by-name="ShadowX" %}

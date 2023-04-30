@@ -2,9 +2,9 @@
 title: MOTHER - Localization Leftovers
 categories:
   - mother12
-date: 2010-02-21 15:30:15 +0600
+date: 2010-02-21 21:30:15 +0000
 ---
-{% include box-open.html box-id="3828" title="The Localization Process:" author-id="307" timestamp="2010-02-21 15:30:15 +0600" type="norm" dbname="box2812" last-modified-by="127" %}
+{% include box-open.html box-id="3828" title="The Localization Process" author-id="307" timestamp="2010-02-21 21:30:15 +0000" type="norm" dbname="box2812" last-modified-by="127" %}
 <p>In an interview with <a href="http://www.lostlevels.org/200407/200407-earthbound2.shtml">The Lost Levels</a> Phil Sandhop, EarthBound Zero's English script writer, described the process of turning MOTHER into the final build of Earth Bound:</p>
 <blockquote>
 As a general rule with games produced by NCL, the development teams continue to work and tweak their projects that they know will be localized and produced in other territories. Often they will address their own desires that were not completed due to time constraints or not completed to their satisfaction and they will also address issues raised by Japanese consumers as that release hits the street.<br /><br />
@@ -12,9 +12,9 @@ American consumers are often very vocal about the length of time this process ta
 In software development, each subsequent version is usually derivative of prior versions. Once the program was changed they would have continued to use the revised program and plugged in their old text modules.
 </blockquote>
 <p>The changes the development team continued to make after the Japanese release of MOTHER were rolled into the version of Earth Bound that was completed, but never released, in 1990. But they wouldn't be seen by Japanese audiences—wouldn't even be released officially—until 2004, when the definitive version of MOTHER was finally released on Game Boy Advance.</p>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-02-21 15:37:47 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-02-21 21:37:47 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3829" title="Localization Leftovers:" author-id="307" timestamp="2010-02-21 15:38:26 +0600" type="norm" dbname="box2846" last-modified-by="127" %}
+{% include box-open.html box-id="3829" title="Localization Leftovers" author-id="307" timestamp="2010-02-21 21:38:26 +0000" type="norm" dbname="box2846" last-modified-by="127" %}
 <ul class="spacey">
 <li><em>The screen animates when you learn a melody.</em> The original release of MOTHER lacked Earth Bound's brief light show.</li>
 <li><em>The order in which Ninten and Ana learn PSI is different</em></li> 
@@ -31,4 +31,4 @@ In software development, each subsequent version is usually derivative of prior 
 <li><em>The ending is completely different!</em> The epilogue, both the music and the text, was original to Earth Bound and appears in MOTHER for the first time here.</li>
 </ul>
 
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-02-21 16:32:09 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-02-21 22:32:09 +0000" last-modified-by-name="LiarXAgerate" %}

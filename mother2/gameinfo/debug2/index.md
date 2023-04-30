@@ -2,9 +2,9 @@
 title: 'EarthBound Debug Menu #2'
 categories:
   - mother2
-date: 2007-06-23 00:59:55 +0500
+date: 2007-06-23 05:59:55 +0000
 ---
-{% include box-open.html box-id="3085" title="EarthBound Debug Menu #2:" author-id="288" timestamp="2007-06-23 00:59:55 +0500" type="norm" dbname="box52917" last-modified-by="127" %}
+{% include box-open.html box-id="3085" title="EarthBound Debug Menu #2" author-id="288" timestamp="2007-06-23 05:59:55 +0000" type="norm" dbname="box52917" last-modified-by="127" %}
 <center><img src="debugmenu2.png" /></center>
 
 <br />
@@ -12,9 +12,9 @@ This second debug menu in EarthBound has actually been known about <a href="http
 
 <br /><br />
 This debug menu looks like it was used by a team at HAL (hence the Kirby sprite) that worked a lot on the map and walking around part of the programming. The other debug menu seems like it was meant for people testing the text, the text parsing system, events, and other things that are handled by the game's text.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 01:31:12 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 06:31:12 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3086" title="Accessing the Debug Menu:" author-id="288" timestamp="2007-06-23 01:22:26 +0500" type="norm" dbname="box52533" last-modified-by="127" %}
+{% include box-open.html box-id="3086" title="Accessing the Debug Menu" author-id="288" timestamp="2007-06-23 06:22:26 +0000" type="norm" dbname="box52533" last-modified-by="127" %}
 <font color="red"><b>Caution! This debug menu is (ironically) extremely buggy! Use caution!</b></font>
 
 <br /><br />
@@ -27,9 +27,9 @@ Or, if you're more technically inclined, use a hex editor, go to address BBB8, a
 
 <br /><br />
 Once you've done one of these two things, start up the game!
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 14:57:17 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 19:57:17 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3087" title="Controls:" author-id="288" timestamp="2007-06-23 01:39:54 +0500" type="norm" dbname="box2317" last-modified-by="127" %}
+{% include box-open.html box-id="3087" title="Controls" author-id="288" timestamp="2007-06-23 06:39:54 +0000" type="norm" dbname="box2317" last-modified-by="127" %}
 The different controls for various parts of the debug menu are:
 
 <ul>
@@ -50,13 +50,13 @@ The different controls for various parts of the debug menu are:
  <br /><br />
  <li><b>R</b> – Nothing</li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 01:47:01 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 06:47:01 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3088" title="GAME:" author-id="288" timestamp="2007-06-23 01:50:55 +0500" type="norm" dbname="box13161" last-modified-by="127" %}
+{% include box-open.html box-id="3088" title="GAME" author-id="288" timestamp="2007-06-23 06:50:55 +0000" type="norm" dbname="box13161" last-modified-by="127" %}
 Selecting the "Game" option on the debug menu will begin the game like normal. So this is sort of like the "exit the debug menu" option.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 01:52:13 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 06:52:13 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3089" title="VIEW MAP:" author-id="288" timestamp="2007-06-23 01:52:26 +0500" type="norm" dbname="box18825" last-modified-by="127" %}
+{% include box-open.html box-id="3089" title="VIEW MAP" author-id="288" timestamp="2007-06-23 06:52:26 +0000" type="norm" dbname="box18825" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft"><img src="debug2_page1.png" align="center" /></a>
@@ -109,9 +109,9 @@ Selecting the "Game" option on the debug menu will begin the game like normal. S
 </li>
 
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 02:40:30 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 07:40:30 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3090" title="VIEW CHARACTER:" author-id="288" timestamp="2007-06-23 02:43:45 +0500" type="norm" dbname="box23921" last-modified-by="127" %}
+{% include box-open.html box-id="3090" title="VIEW CHARACTER" author-id="288" timestamp="2007-06-23 07:43:45 +0000" type="norm" dbname="box23921" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft"><img src="coordinates.png" align="center" /></a>
@@ -121,9 +121,9 @@ Also, the keys are the exact same as in View Map, but this time the menu options
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 02:48:44 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 07:48:44 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3091" title="VIEW ATTRIBUTE:" author-id="288" timestamp="2007-06-23 02:49:46 +0500" type="norm" dbname="box51366" last-modified-by="127" %}
+{% include box-open.html box-id="3091" title="VIEW ATTRIBUTE" author-id="288" timestamp="2007-06-23 07:49:46 +0000" type="norm" dbname="box51366" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft"><img src="attribute.png" align="center" /></a>
@@ -131,13 +131,13 @@ Also, the keys are the exact same as in View Map, but this time the menu options
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 02:51:16 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 07:51:16 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3092" title="SHOW BATTLE:" author-id="288" timestamp="2007-06-23 02:51:45 +0500" type="norm" dbname="box369" last-modified-by="127" %}
+{% include box-open.html box-id="3092" title="SHOW BATTLE" author-id="288" timestamp="2007-06-23 07:51:45 +0000" type="norm" dbname="box369" last-modified-by="127" %}
 No info.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 02:51:54 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 07:51:54 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3093" title="SHOW POSITION:" author-id="288" timestamp="2007-06-23 02:51:58 +0500" type="norm" dbname="box20293" last-modified-by="127" %}
+{% include box-open.html box-id="3093" title="SHOW POSITION" author-id="288" timestamp="2007-06-23 07:51:58 +0000" type="norm" dbname="box20293" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft"><img src="position.png" align="center" /></a>
@@ -145,9 +145,9 @@ No info.
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 02:53:47 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 07:53:47 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3094" title="SOUND MODE:" author-id="288" timestamp="2007-06-23 02:58:02 +0500" type="norm" dbname="box65360" last-modified-by="127" %}
+{% include box-open.html box-id="3094" title="SOUND MODE" author-id="288" timestamp="2007-06-23 07:58:02 +0000" type="norm" dbname="box65360" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft"><img src="soundmode.png" align="center" /></a>
@@ -155,8 +155,8 @@ No info.
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 02:59:58 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 07:59:58 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3095" title="Thanks To:" author-id="288" timestamp="2007-06-23 03:00:45 +0500" type="norm" dbname="box59296" last-modified-by="127" %}
+{% include box-open.html box-id="3095" title="Thanks To" author-id="288" timestamp="2007-06-23 08:00:45 +0000" type="norm" dbname="box59296" last-modified-by="127" %}
 Thanks go to Cabbage for figuring out how to access this debug menu, NLA for compiling most of this information, and the PK Hack community for being cool and helpful.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 03:01:43 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-23 08:01:43 +0000" last-modified-by-name="Tomato" %}

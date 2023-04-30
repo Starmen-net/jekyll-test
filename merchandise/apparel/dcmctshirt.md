@@ -2,9 +2,9 @@
 title: D.C.M.C. T-Shirt
 categories:
   - merchandise
-date: 2005-01-03 00:57:12 +0600
+date: 2005-01-03 06:57:12 +0000
 ---
-{% include box-open.html box-id="259" title="D.C.M.C. T-Shirt:" author-id="45" timestamp="2005-01-03 00:57:12 +0600" type="norm" dbname="box1485" last-modified-by="127" %}
+{% include box-open.html box-id="259" title="D.C.M.C. T-Shirt" author-id="45" timestamp="2005-01-03 06:57:12 +0000" type="norm" dbname="box1485" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/dcmc_tshirt_title.jpg" border="0" alt="D.C.M.C. T-Shirt" />
 	</center>
@@ -41,4 +41,4 @@ date: 2005-01-03 00:57:12 +0600
 	<br />
 	<a href="/merchandise/images/dcmc_tshirt_front1.jpg">Front 1</a> - <a href="/merchandise/images/dcmc_tshirt_front2.jpg">Front 2</a> - <a href="/merchandise/images/dcmc_tshirt_front3.jpg">Front 3</a> - 
 	<a href="/merchandise/images/dcmc_tshirt_back1.jpg">Back 1</a> - <a href="/merchandise/images/dcmc_tshirt_back2.jpg">Back 2</a> - <a href="/merchandise/images/dcmc_tshirt_back3.jpg">Back 3</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-07-03 21:18:24 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-07-04 02:18:24 +0000" last-modified-by-name="Tomato" %}

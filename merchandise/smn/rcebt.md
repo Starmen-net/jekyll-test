@@ -2,9 +2,9 @@
 title: 'Rock Candy: EB Travelin'
 categories:
   - merchandise
-date: 2005-01-04 00:01:30 +0600
+date: 2005-01-04 06:01:30 +0000
 ---
-{% include box-open.html box-id="386" title="Rock Candy: EB Travelin:" author-id="45" timestamp="2005-01-04 00:01:30 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="386" title="Rock Candy: EB Travelin" author-id="45" timestamp="2005-01-04 06:01:30 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_rcebt_title.png" border="0" alt="Rock Candy: EB Travelin'" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-04 00:01:30 +0600
 	<br />
 	<a href="/merchandise/images/smn_rcebt_front.jpg">Front</a> - <a href="/merchandise/images/smn_rcebt_back.jpg">Back</a> - <a href="/merchandise/images/smn_rcebt_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_rcebt_bdesign.jpg">Back Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:01:40 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:01:40 +0000" last-modified-by-name="ShadowX" %}

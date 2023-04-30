@@ -2,9 +2,9 @@
 title: 'EB Sticker Collection 2: R5 Sticker 1'
 categories:
   - merchandise
-date: 2005-01-04 00:44:56 +0600
+date: 2005-01-04 06:44:56 +0000
 ---
-{% include box-open.html box-id="411" title="EB Sticker Collection 2: R5 Sticker 1:" author-id="45" timestamp="2005-01-04 00:44:56 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="411" title="EB Sticker Collection 2: R5 Sticker 1" author-id="45" timestamp="2005-01-04 06:44:56 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ebsc2r1_title.jpg" border="0" alt="EB Sticker Collection 2: R5 Sticker 1" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 00:44:56 +0600
 	<b>IMages:</b>
 	<br />
 	<a href="/merchandise/images/smn_ebsc2r1_sticker.jpg">Sticker</a> - <a href="/merchandise/images/smn_ebsc2r1_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:45:05 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:45:05 +0000" last-modified-by-name="ShadowX" %}

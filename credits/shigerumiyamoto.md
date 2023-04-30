@@ -2,9 +2,9 @@
 title: 'Game Credits: Shigeru Miyamoto'
 categories:
   - credits
-date: 2005-09-23 11:19:38 +0500
+date: 2005-09-23 16:19:38 +0000
 ---
-{% include box-open.html box-id="1468" title="Shigeru Miyamoto:" author-id="2262" timestamp="2005-09-23 11:19:38 +0500" type="norm" dbname="box1069" last-modified-by="127" %}
+{% include box-open.html box-id="1468" title="Shigeru Miyamoto" author-id="2262" timestamp="2005-09-23 16:19:38 +0000" type="norm" dbname="box1069" last-modified-by="127" %}
 <img src="shigerumiyamoto.JPG" align="right" />
 <b>Bio</b><BR />
 Shigeru Miyamoto was born on November 16, 1952 in Sonebe, Japan. In his youth, Miyamoto enjoyed art, which eventually led him to enroll in Kanazawa College of Art in 1970. A few years after graduating from college, Miyamoto's father introduced him to Hiroshi Yamauchi when he couldn't find a job that interested him. He was hired as an artist for Nintendo's toy line in 1977.<BR /><BR />
@@ -224,4 +224,4 @@ From there Miyamoto has created many more memorable game series and titles for N
    <LI><b>Geist(GCN 2005) USA Only</b><BR />
    Senior Producer</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 18:35:39 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 23:35:39 +0000" last-modified-by-name="KingDarian" %}

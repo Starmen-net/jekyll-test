@@ -2,13 +2,13 @@
 title: Recommendations
 categories:
   - recommendations
-date: 2007-06-02 22:23:41 +0500
+date: 2007-06-03 03:23:41 +0000
 ---
-{% include box-open.html box-id="3325" title="Work in progress:" author-id="5552" timestamp="2007-11-26 05:02:18 +0600" type="norm" dbname="box29431" last-modified-by="127" %}
+{% include box-open.html box-id="3325" title="Work in progress" author-id="5552" timestamp="2007-11-26 11:02:18 +0000" type="norm" dbname="box29431" last-modified-by="127" %}
 This page is a work in progress and is nowhere near being complete. Please be patient.
-{% include box-close.html author-name="lewahi" last-modified-on="2007-11-26 05:02:53 +0600" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="lewahi" last-modified-on="2007-11-26 11:02:53 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="2962" title="Recommended Games:" author-id="288" timestamp="2007-06-02 22:23:41 +0500" type="norm" dbname="box27839" last-modified-by="127" %}
+{% include box-open.html box-id="2962" title="Recommended Games" author-id="288" timestamp="2007-06-03 03:23:41 +0000" type="norm" dbname="box27839" last-modified-by="127" %}
 The MOTHER/EarthBound RPG series is full of many unique elements that define the series. There is, however, a great deal of inspiration from previous titles, as well as influence on upcoming games. Here are some games that you might want to check out if you can't get enough EarthBound-related goodness in your life!
 <br /><br /><br />
 
@@ -41,9 +41,9 @@ The MOTHER/EarthBound RPG series is full of many unique elements that define the
 	</li>
 </ul>
 <br />
-{% include box-close.html author-name="Tomato" last-modified-on="2008-03-17 10:51:04 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-03-17 15:51:04 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2995" title="Recommended Movies:" author-id="5552" timestamp="2007-06-05 16:41:35 +0500" type="norm" dbname="box44168" last-modified-by="127" %}
+{% include box-open.html box-id="2995" title="Recommended Movies" author-id="5552" timestamp="2007-06-05 21:41:35 +0000" type="norm" dbname="box44168" last-modified-by="127" %}
 EarthBound is not limited to just games, it gets inspiration from many classic movies, and it even inspires new movies. It is always great to see something in a movie and relate it to a game you love, so go ahead and check these films out!
 
 <ul class="pics">
@@ -58,4 +58,4 @@ EarthBound is not limited to just games, it gets inspiration from many classic m
 		<p>Shigesato Itoi played the voice of Prof. Kusakabe, the father of the two young girls, Mei and Satsuki. Itoi has done work with famed anime director Hayao Miyazaki on many occasions since.</p>	
 	</li>
 </ul>
-{% include box-close.html author-name="lewahi" last-modified-on="2007-09-16 20:28:09 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="lewahi" last-modified-on="2007-09-17 01:28:09 +0000" last-modified-by-name="lewahi" %}

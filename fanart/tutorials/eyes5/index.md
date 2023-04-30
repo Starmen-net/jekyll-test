@@ -2,9 +2,9 @@
 title: Fan Art - Tutorials - Cleaning Scanned Art by eyes5
 categories:
   - fanart
-date: 2008-11-23 21:19:46 +0600
+date: 2008-11-24 03:19:46 +0000
 ---
-{% include box-open.html box-id="3578" title="Cleaning Scanned Art - eyes5:" author-id="474" timestamp="2008-11-23 21:19:46 +0600" type="norm" dbname="box42258" last-modified-by="127" %}
+{% include box-open.html box-id="3578" title="Cleaning Scanned Art - eyes5" author-id="474" timestamp="2008-11-24 03:19:46 +0000" type="norm" dbname="box42258" last-modified-by="127" %}
 Welcome welcome, this is a quick ’n dirty tutorial for how to clean your scanned pencil/pen art in Photoshop to make it crisper and/or to prepare it for digital coloring. Nevermore shall you rely on the magic wand tool or manually erase white portions! I am using Photoshop CS3, but older and newer versions should have the same basic processes. There are many ways of cleaning scanned art, but here are four of my favorites.
 <br /><br />
 1) USING BRIGHTNESS/CONTRAST ADJUSTMENT
@@ -50,4 +50,4 @@ Original, sample 2 and sample 3.
 <img src="http://starmen.net/fanart/tutorials/eyes5/channel.jpg" />
 <br /><br />
 And that’s all I have to share. Have fun and go experiment!
-{% include box-close.html author-name="Artemis251" last-modified-on="2008-11-23 21:26:30 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2008-11-24 03:26:30 +0000" last-modified-by-name="Artemis251" %}

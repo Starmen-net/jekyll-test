@@ -2,9 +2,9 @@
 title: MOTHER 3 in Brawl
 categories:
   - ssbb
-date: 2007-10-15 13:15:54 +0500
+date: 2007-10-15 18:15:54 +0000
 ---
-{% include box-open.html box-id="3378" title="Pokey!:" author-id="198" timestamp="2008-01-29 13:38:28 +0600" type="norm" dbname="box8532" last-modified-by="127" %}
+{% include box-open.html box-id="3378" title="Pokey!" author-id="198" timestamp="2008-01-29 19:38:28 +0000" type="norm" dbname="box8532" last-modified-by="127" %}
 Pokey appears as a boss in the Subspace Emissary, in both his statue and robot forms! Check it out.<br/><br/>
 <center>
 <img src="/ssbb/spoilers/ok/screenshots/other/boss_porky.png" />
@@ -14,9 +14,9 @@ Pokey appears as a boss in the Subspace Emissary, in both his statue and robot f
 <a href="/ssbb/spoilers/ok/screenshots/other/pokey3.jpg"><img border="0" src="/ssbb/spoilers/ok/screenshots/other/pokey3_small.jpg" /></a>
 <a href="/ssbb/spoilers/ok/screenshots/other/pokey4.jpg"><img border="0" src="/ssbb/spoilers/ok/screenshots/other/pokey4_small.jpg" /></a>
 </center>
-{% include box-close.html author-name="JeffMan" last-modified-on="2008-03-18 16:09:39 +0500" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="JeffMan" last-modified-on="2008-03-18 21:09:39 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="3301" title="Stages:" author-id="198" timestamp="2007-10-15 13:15:54 +0500" type="norm" dbname="box63819" last-modified-by="127" %}
+{% include box-open.html box-id="3301" title="Stages" author-id="198" timestamp="2007-10-15 18:15:54 +0000" type="norm" dbname="box63819" last-modified-by="127" %}
 <b>New Pork City</b> has made it into Brawl! From the <a href="http://www.smashbros.com/en_us/stages/stage14.html">Dojo update</a>:<br/><br/>
 
 <blockquote>The scale of this stage is one of the grandest in the Smash Bros series. The scale is, say, about as same as that Temple stage—you know the one I’m talking about?<br/><br/>It’s New Pork City.<br/><br/>It is a city of chaos.</blockquote><br/><center><img src="/ssbb/spoilers/ok/screenshots/stages/npc1.jpg" /><br/><i>It’s too detailed to fully understand...</i></center><br/>
@@ -34,8 +34,8 @@ Some more screenshots of gameplay on the stage were shown in the Little Mac upda
 <a href="/ssbb/spoilers/ok/screenshots/stages/npc8.jpg"><img src="/ssbb/spoilers/ok/screenshots/stages/npcp8.jpg" border="0" /></a>
 <a href="/ssbb/spoilers/ok/screenshots/stages/npc9.jpg"><img src="/ssbb/spoilers/ok/screenshots/stages/npcp9.jpg" border="0" /></a>
 <a href="/ssbb/spoilers/ok/screenshots/stages/npc10.jpg"><img src="/ssbb/spoilers/ok/screenshots/stages/npcp10.jpg" border="0" /></a>
-{% include box-close.html author-name="JeffMan" last-modified-on="2007-10-18 07:48:40 +0500" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="JeffMan" last-modified-on="2007-10-18 12:48:40 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="3323" title="Screenshots:" author-id="198" timestamp="2007-11-02 07:22:47 +0500" type="norm" dbname="box53855" last-modified-by="127" %}
+{% include box-open.html box-id="3323" title="Screenshots" author-id="198" timestamp="2007-11-02 12:22:47 +0000" type="norm" dbname="box53855" last-modified-by="127" %}
 <a href="/ssbb/spoilers/ok/screenshots/other/intro.jpg"><img border="0" src="/ssbb/spoilers/ok/screenshots/other/intro_p.jpg" title="Lucas' character intro"/></a>
-{% include box-close.html author-name="JeffMan" last-modified-on="2008-01-29 13:38:22 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="JeffMan" last-modified-on="2008-01-29 19:38:22 +0000" last-modified-by-name="JeffMan" %}

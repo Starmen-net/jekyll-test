@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - mother2
-date: 2017-11-25 19:18:41 +0600
+date: 2017-11-26 01:18:41 +0000
 ---
-{% include box-open.html box-id="5099" title="Pop-Culture References:" author-id="28590" timestamp="2017-11-25 19:18:41 +0600" type="norm" dbname="box58414" last-modified-by="127" %}
+{% include box-open.html box-id="5099" title="Pop-Culture References" author-id="28590" timestamp="2017-11-26 01:18:41 +0000" type="norm" dbname="box58414" last-modified-by="127" %}
 List of references, easter eggs and in-jokes throughout Earthbound/Mother 2 
 
 <ul>
@@ -91,4 +91,4 @@ List of references, easter eggs and in-jokes throughout Earthbound/Mother 2
 </ul>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-16 19:52:54 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-17 01:52:54 +0000" last-modified-by-name="CerealQueen" %}

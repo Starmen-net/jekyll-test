@@ -2,9 +2,9 @@
 title: Just Smilin&#039;
 categories:
   - merchandise
-date: 2007-04-26 01:21:52 +0500
+date: 2007-04-26 06:21:52 +0000
 ---
-{% include box-open.html box-id="2879" title="Just Smilin':" author-id="45" timestamp="2007-04-26 01:21:52 +0500" type="norm" dbname="box35" last-modified-by="45" %}
+{% include box-open.html box-id="2879" title="Just Smilin'" author-id="45" timestamp="2007-04-26 06:21:52 +0000" type="norm" dbname="box35" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/smn_smilin_title.png" width="350" height="350" border="0" alt="Just Smilin'" />
 	</center>
@@ -25,4 +25,4 @@ date: 2007-04-26 01:21:52 +0500
 	<br />
 	<a href="/merchandise/images/smn_smilin_front.jpg">Front</a> - <a href="/merchandise/images/smn_smilin_back.jpg">Back</a> - <a href="/merchandise/images/smn_smilin_fdesign.jpg">Design (Front)</a> - 
 	<a href="/merchandise/images/smn_smilin_bdesign.jpg">Design (Back)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-26 01:22:02 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-26 06:22:02 +0000" last-modified-by-name="ShadowX" %}

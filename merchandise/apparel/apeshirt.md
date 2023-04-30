@@ -2,9 +2,9 @@
 title: APE Polo Shirt
 categories:
   - merchandise
-date: 2005-01-03 00:58:23 +0600
+date: 2005-01-03 06:58:23 +0000
 ---
-{% include box-open.html box-id="260" title="APE Polo Shirt:" author-id="45" timestamp="2005-01-03 00:58:23 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="260" title="APE Polo Shirt" author-id="45" timestamp="2005-01-03 06:58:23 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/apeshirt_title.png" border="0" alt="APE Polo Shirt" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 00:58:23 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/apeshirt_front.jpg">Front</a> - <a href="/merchandise/images/apeshirt_m2closeup.jpg">M2 Logo (Close Up)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 00:58:35 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 06:58:35 +0000" last-modified-by-name="ShadowX" %}

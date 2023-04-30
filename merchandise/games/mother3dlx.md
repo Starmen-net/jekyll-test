@@ -2,9 +2,9 @@
 title: MOTHER 3 Deluxe Box
 categories:
   - merchandise
-date: 2010-10-20 09:15:25 +0500
+date: 2010-10-20 14:15:25 +0000
 ---
-{% include box-open.html box-id="3901" title="MOTHER 3 Deluxe Box:" author-id="45" timestamp="2010-10-20 09:15:25 +0500" type="norm" dbname="box50897" last-modified-by="127" %}
+{% include box-open.html box-id="3901" title="MOTHER 3 Deluxe Box" author-id="45" timestamp="2010-10-20 14:15:25 +0000" type="norm" dbname="box50897" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -89,4 +89,4 @@ date: 2010-10-20 09:15:25 +0500
 <a href="/merchandise/images/m3dlx_fbpackage_front.jpg" ><img src="/merchandise/images/m3dlx_fbpackage_front.jpg" title="FB Package (Front)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m3dlx_fbpackage_back.jpg" ><img src="/merchandise/images/m3dlx_fbpackage_back.jpg" title="FB Package (Back)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m3dlx_complete.jpg" ><img src="/merchandise/images/m3dlx_complete.jpg" title="Complete" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:15:07 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:15:07 +0000" last-modified-by-name="Tomato" %}

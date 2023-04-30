@@ -2,9 +2,9 @@
 title: Apparel
 categories:
   - merchandise
-date: 2005-01-03 00:46:44 +0600
+date: 2005-01-03 06:46:44 +0000
 ---
-{% include box-open.html box-id="252" title="Apparel:" author-id="45" timestamp="2005-01-03 00:46:44 +0600" type="norm" dbname="box31019" last-modified-by="45" %}
+{% include box-open.html box-id="252" title="Apparel" author-id="45" timestamp="2005-01-03 06:46:44 +0000" type="norm" dbname="box31019" last-modified-by="45" %}
 <table1 />
 
 	<a href="apeshirt.php">APE Polo Shirt</a><br />
@@ -30,9 +30,9 @@ date: 2005-01-03 00:46:44 +0600
 	01/09/09<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-01-09 01:18:49 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-01-09 07:18:49 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="253" title="More Apparel:" author-id="45" timestamp="2005-01-03 00:48:31 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="253" title="More Apparel" author-id="45" timestamp="2005-01-03 06:48:31 +0000" type="norm" last-modified-by="45" %}
 	For more Apparel check out 
 	<a href="http://www.starmen.net/merchandise/smn/">Starmen.Net Stuffage</a>.
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 00:49:19 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 06:49:19 +0000" last-modified-by-name="ShadowX" %}

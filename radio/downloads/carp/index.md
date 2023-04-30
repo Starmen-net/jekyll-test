@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ CARP ARCHIVES
 categories:
   - radio
-date: 2006-02-16 05:36:34 +0600
+date: 2006-02-16 11:36:34 +0000
 ---
-{% include box-open.html box-id="1860" title="Downloadables!:" author-id="247" timestamp="2006-02-16 05:36:34 +0600" type="norm" dbname="box65242" last-modified-by="127" %}
+{% include box-open.html box-id="1860" title="Downloadables!" author-id="247" timestamp="2006-02-16 11:36:34 +0000" type="norm" dbname="box65242" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ Carp<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 15:00:47 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 20:00:47 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="1922" title="DJ Carp's Archive Downloads!:" author-id="247" timestamp="2006-02-20 15:36:38 +0600" type="norm" dbname="box59859" last-modified-by="127" %}
+{% include box-open.html box-id="1922" title="DJ Carp's Archive Downloads!" author-id="247" timestamp="2006-02-20 21:36:38 +0000" type="norm" dbname="box59859" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/carp/radiopsidumpdjcarpy20070907.ogg">September 7th, 2007</a>
 </p>
@@ -148,4 +148,4 @@ DJ Carp<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/carp/radiopsidumpdjcarpy20050102.ogg">January 2nd, 2005</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:55:48 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:55:48 +0000" last-modified-by-name="Mansion Maniac" %}

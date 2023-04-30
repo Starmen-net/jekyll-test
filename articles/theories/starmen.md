@@ -2,13 +2,13 @@
 title: Theories - Starmen
 categories:
   - articles
-date: 2011-12-14 22:19:37 +0600
+date: 2011-12-15 04:19:37 +0000
 ---
-{% include box-open.html box-id="4147" title="Theories topic for the week of December 7 - December 14, 2011:" author-id="1419" timestamp="2011-12-14 22:19:37 +0600" type="norm" dbname="box47987" last-modified-by="127" %}
+{% include box-open.html box-id="4147" title="Theories topic for the week of December 7 - December 14, 2011" author-id="1419" timestamp="2011-12-15 04:19:37 +0000" type="norm" dbname="box47987" last-modified-by="127" %}
 <center><img src="http://starmen.net/mother2/images/game/starmanjr.png" title="I WANT TO SAY HELLO, BUT I THINK I'D BLOW YOUR MIND *whirr*" /><p/>The Starmen seem to be Giygas's elite fighting force, making up the most powerful units in his(her?) military. But what ARE they? Where do they originally come from? Are they organic or robotic? That's what I asked you, the readers of Starmen.net, to answer.</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-14 22:22:57 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-15 04:22:57 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4148" title="Theory of the Week:" author-id="1419" timestamp="2011-12-14 22:23:04 +0600" type="norm" dbname="box32871" last-modified-by="127" %}
+{% include box-open.html box-id="4148" title="Theory of the Week" author-id="1419" timestamp="2011-12-15 04:23:04 +0000" type="norm" dbname="box32871" last-modified-by="127" %}
 The alien race responsible for the creation of the starmen had a major issue to resolve. Though they had reached a level of mental and psychic powers beyond anyone's imaginations, their physical strength was the equivalent of a snake: they could squeeze the life out of you, but they couldn't lift a stone even if their very life depended on it. In order to work around this problem, their researchers began to look for a solution. Their researches brought them to field of robotics.<p/>
 
 The first starmen were built in their creators' image save for a very obvious muscular buff. Made to be resistant and yet flexible, they were build with a very special alloy that made the metal moldable like clay, but resistant like titanium. Back then, the only trait distinguishing the variants were the color of the alloy used. Very few had seen the first starmen in action. However, records of such a sight had been left behind on Earth somewhere in the previous century. One of those records was then found by James Cameron who inspired him to create the T-1000 for the upcoming sequel of Terminator.<p/>
@@ -22,9 +22,9 @@ Later on, the alien race discovered something that they had not anticipated. Som
 With a robotic army of faithful soldiers at their disposal, the alien race had become a major force within the universe. At that time, they firmly believed that they were now invincible. Working hard to expand the starmen technology, they began working on a new model that required less brain power while keeping their effectiveness. Somewhere near the year 200X, the Juniors were finally in mass production.<p/>
 
 - Nightshade
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-14 22:29:15 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-15 04:29:15 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4149" title="2hot4smnet:" author-id="1419" timestamp="2011-12-14 22:23:13 +0600" type="norm" dbname="box20684" last-modified-by="127" %}
+{% include box-open.html box-id="4149" title="2hot4smnet" author-id="1419" timestamp="2011-12-15 04:23:13 +0000" type="norm" dbname="box20684" last-modified-by="127" %}
 Judging by the fact that BuzzBuzz is from ten years in the future as well as his arch nemesis, Starman Jr, I feel we can safely assume that all Starmen have traveled from the future to do the bidding of Giygas. Though I suppose it would be a safer assumption that it is the Pig King who commands them in a future where Giygas remains his pawn. It would seem there are many beings with robotic forms that have been sent back, but the only foes with a commanding presence or rank would be the Starmen. It seems they are sentient life forms who have nothing but complete loyalty to their cause.<p/>
 
 In this futuristic world the leader of this world would desire nothing but complete control and loyalty. Obviously this individual could not rely on a human to be completely loyal as emotions come into play. It seems these emotions, when combined with the power Giygas possesses causes all creatures, humans and animals to go completely insane. The only alternative would be to utilize technology to develop what I believe to be beings with bodies fabricated entirely out of nanotechnology.<p/>
@@ -39,9 +39,9 @@ It would seem, however, that these beings can bring living life forms with them 
 I will say, the Starman does bear a striking resemblance to the Wooly Shambler. If I were to consider a theory of the Starmen being an Alien in a suit, that would be my guess. Perhaps a sheet of wool covers those skinny legs. A special suit provides PSI Attacks and maybe, just maybe under that Starman suit is a Wild –N- Naked Shambler.<p/>
 
 - Faolan
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-14 22:26:02 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-15 04:26:02 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4150" title="Man of clay, man of stars:" author-id="1419" timestamp="2011-12-14 22:26:07 +0600" type="norm" dbname="box2318" last-modified-by="127" %}
+{% include box-open.html box-id="4150" title="Man of clay, man of stars" author-id="1419" timestamp="2011-12-15 04:26:07 +0000" type="norm" dbname="box2318" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, what are the Starmen? Heheh, let me tell ya, I kinda knew this one, even before I took on a career of theorizing, for it was what nearly inspired me. Let me start of by saying...we see more of them than you'd expect.<p/>
 Starmen, enemies of Eagleland, bent on stopping Ness and Co. from reaching Giygas. Though some would say they are robots, and others ailiens, I'm here to finally debunk that myth. Starmen, are actually made of clay and another powder like substance (I'd say dragonite...or maybe a failed version of the sort, either way it's something from another land) bringing the creations to life with a quick jolt. And everyone knows how much clay could be found under Stonehenge, so the Starman Elite (One of the first to be developed) dug into it, and created a laboratory of sorts to create a Starman Factory.<p/>
 So where do the Starmen get their smarts? Simply by their creators, yep, it's no more than an AI (Of course with Giygas's control, the AI was well kept in control, but still witheld power REMEMBER THIS FACT) Just with that AI, they learned how to communicate, fire lasers, and fight. And it was believed that certain intelects could help increase the knowledge of the AI's, so as to obtain info that was never thought of before.<p/>
@@ -53,4 +53,4 @@ Now, why did Starmen come to Eagleland in the first place, and from where? This 
 And thus, was the intentions,creations,and explanations for Starmen from my best content. Another question is left to burn in a moonlit fire, warming those willing to sit around it. So, this is Pheen-X saying, look to the stars, for they may just be watching back. <p/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-14 22:28:25 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-15 04:28:25 +0000" last-modified-by-name="Captain Bozo" %}

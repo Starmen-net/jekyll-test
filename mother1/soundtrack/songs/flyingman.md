@@ -2,9 +2,9 @@
 title: Flying Man &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-24 21:31:53 +0600
+date: 2010-11-25 03:31:53 +0000
 ---
-{% include box-open.html box-id="3925" title="Production Credits:" author-id="307" timestamp="2010-11-24 21:31:53 +0600" type="norm" dbname="box52889" last-modified-by="127" %}
+{% include box-open.html box-id="3925" title="Production Credits" author-id="307" timestamp="2010-11-25 03:31:53 +0000" type="norm" dbname="box52889" last-modified-by="127" %}
 FLYING MAN
 
 <table>
@@ -54,9 +54,9 @@ FLYING MAN
 TAKAZUMI KUNITOMO</td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:37:56 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:37:56 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3926" title="Lyrics:" author-id="307" timestamp="2010-11-24 21:34:31 +0600" type="norm" dbname="box9612" last-modified-by="127" %}
+{% include box-open.html box-id="3926" title="Lyrics" author-id="307" timestamp="2010-11-25 03:34:31 +0000" type="norm" dbname="box9612" last-modified-by="127" %}
 Life is but a moment<br />
 A single grain of sand<br />
 That slips right through the hourglass<br />
@@ -91,4 +91,4 @@ Give your love to me<br /><br />
 So shine for all the world tonight<br />
 And live for love<br />
 Give your love to me<br />
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:37:27 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:37:27 +0000" last-modified-by-name="LiarXAgerate" %}

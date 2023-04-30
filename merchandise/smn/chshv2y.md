@@ -2,9 +2,9 @@
 title: Caution Hippies! - Shirt V.2 Yellow Edition
 categories:
   - merchandise
-date: 2005-01-04 01:11:49 +0600
+date: 2005-01-04 07:11:49 +0000
 ---
-{% include box-open.html box-id="433" title="Caution Hippies! - Shirt V.2 Yellow Edition:" author-id="45" timestamp="2005-01-04 01:11:49 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="433" title="Caution Hippies! - Shirt V.2 Yellow Edition" author-id="45" timestamp="2005-01-04 07:11:49 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_chshv2y_title.png" border="0" alt="Caution Hippies! - Shirt V.2 Yellow Edition" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 01:11:49 +0600
 	<br />
 	<a href="/merchandise/images/smn_chshv2y_front.jpg">Front</a> - <a href="/merchandise/images/smn_chshv2y_back.jpg">Back</a> - <a href="/merchandise/images/smn_chshv2y_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_chshv2y_bdesign.jpg">Back Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:11:58 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:11:58 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Games
 categories:
   - merchandise
-date: 2010-10-20 09:07:42 +0500
+date: 2010-10-20 14:07:42 +0000
 ---
-{% include box-open.html box-id="3895" title="Games:" author-id="45" timestamp="2010-10-20 09:07:42 +0500" type="norm" dbname="box55097" last-modified-by="45" %}
+{% include box-open.html box-id="3895" title="Games" author-id="45" timestamp="2010-10-20 14:07:42 +0000" type="norm" dbname="box55097" last-modified-by="45" %}
 <table1 />
 	<a href="ebprototypenes.php">EarthBound NES Prototype</a><br />
 	<a href="earthbound.php">EarthBound</a><br />
@@ -30,4 +30,4 @@ date: 2010-10-20 09:07:42 +0500
 
 <table3 />
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-27 20:59:55 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-28 01:59:55 +0000" last-modified-by-name="ShadowX" %}

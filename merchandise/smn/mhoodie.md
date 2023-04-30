@@ -2,9 +2,9 @@
 title: Mashroomized Hoodie
 categories:
   - merchandise
-date: 2005-01-04 00:26:26 +0600
+date: 2005-01-04 06:26:26 +0000
 ---
-{% include box-open.html box-id="399" title="Mashroomized Hoodie:" author-id="45" timestamp="2005-01-04 00:26:26 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="399" title="Mashroomized Hoodie" author-id="45" timestamp="2005-01-04 06:26:26 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_mh_title.png" border="0" alt="Mashroomized Hoodie" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 00:26:26 +0600
 	<br />
 	<a href="/merchandise/images/smn_mh_front.jpg">Front</a> - <a href="/merchandise/images/smn_mh_back.jpg">Back</a> - <a href="/merchandise/images/smn_mh_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_mh_bdesign.jpg">Back Design</a> - <a href="/merchandise/images/smn_hoodie.jpg">Detail</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:26:37 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:26:37 +0000" last-modified-by-name="ShadowX" %}

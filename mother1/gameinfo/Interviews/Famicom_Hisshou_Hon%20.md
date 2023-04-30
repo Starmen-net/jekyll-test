@@ -2,17 +2,17 @@
 title: Famicom Hisshou Hon Interview
 categories:
   - mother1
-date: 2016-10-30 21:11:40 +0500
+date: 2016-10-31 02:11:40 +0000
 ---
-{% include box-open.html box-id="4834" title="Info:" author-id="28590" timestamp="2016-10-30 21:38:15 +0500" type="norm" dbname="box3221" last-modified-by="127" %}
+{% include box-open.html box-id="4834" title="Info" author-id="28590" timestamp="2016-10-31 02:38:15 +0000" type="norm" dbname="box3221" last-modified-by="127" %}
 <center><img src="fhh10cover.jpg" title="" /></center>
 <br />
 <a href="fhh10cover.jpg" title="Cover"><img src="fhh10cover.jpg" width="85" height="107" /></a>
 
 Interview in Famicom Hisshou Hon Vol. 10 – May 19, 1989, where Famicon Hisshou Hon sits down with Mother-series creator Shigesato Itoi three months prior to Mother's release in Japan.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-01 17:18:18 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-01 22:18:18 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4833" title="Interview:" author-id="28590" timestamp="2016-10-30 21:11:40 +0500" type="norm" dbname="box16788" last-modified-by="127" %}
+{% include box-open.html box-id="4833" title="Interview" author-id="28590" timestamp="2016-10-31 02:11:40 +0000" type="norm" dbname="box16788" last-modified-by="127" %}
 <p><font color="orange"><b>Famicom Hisshou Hon: First of all, this is the first time you’ve created a game, Itoi-san, is it not? And with Famicom’s mother company, Nintendo. Did you figure that if you were to make a game, you’d do it through Nintendo?</b></font></p>
 
 <p><i>Shigesato Itoi: No, it’s not like that. Plans for MOTHER first took shape two years ago, but at that time all I was thinking about was whether I’d be able to have someone make a game for me. I called up a friend and asked if what I had in mind would make a good game. And then later on someone at Nintendo just so happened to call me in regards to some other work. I knew that was my big chance, so I brought them my own proposal as well. So it turned out that my making a Nintendo game was entirely coincidental. (laughs)</i></p>
@@ -121,4 +121,4 @@ Interview in Famicom Hisshou Hon Vol. 10 – May 19, 1989, where Famicon Hisshou
 
 <p><i>Itoi: Right. Good gaming systems come to be a classic!</i></p>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-30 21:59:58 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-31 02:59:58 +0000" last-modified-by-name="CerealQueen" %}

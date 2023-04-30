@@ -2,9 +2,9 @@
 title: 'Game Credits: Atsuko Kawahara'
 categories:
   - credits
-date: 2008-06-08 23:37:41 +0500
+date: 2008-06-09 04:37:41 +0000
 ---
-{% include box-open.html box-id="3446" title="Atsuko Kawahara:" author-id="2262" timestamp="2008-06-08 23:37:41 +0500" type="norm" dbname="box10306" last-modified-by="127" %}
+{% include box-open.html box-id="3446" title="Atsuko Kawahara" author-id="2262" timestamp="2008-06-09 04:37:41 +0000" type="norm" dbname="box10306" last-modified-by="127" %}
 <img src="atsukokawahara.JPG" align="right" />
 <b>Game Credits</b>
 
@@ -17,4 +17,4 @@ Coordinator</LI>
 Manual Editor</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 23:39:19 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-09 04:39:19 +0000" last-modified-by-name="KingDarian" %}

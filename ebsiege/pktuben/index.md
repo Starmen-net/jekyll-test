@@ -2,20 +2,20 @@
 title: PK Tube&#039;N -- YouTube Video Contest!
 categories:
   - ebsiege
-date: 2008-04-25 16:02:56 +0500
+date: 2008-04-25 21:02:56 +0000
 ---
-{% include box-open.html box-id="3399" title="PK Tube'N Logo:" author-id="8" timestamp="2008-04-25 16:07:10 +0500" type="blank" dbname="box42258" last-modified-by="8" %}
+{% include box-open.html box-id="3399" title="PK Tube'N Logo" author-id="8" timestamp="2008-04-25 21:07:10 +0000" type="blank" dbname="box42258" last-modified-by="8" %}
 <div class="centered" style="position: relative; margin-bottom: -86px"><img style="position: relative; top: -86px;" class="subhead" alt="PK Tube'N Logo" title="EB Siege - PK Tube'N YouTube Contest!" src="../banners/ebsiege_pktuben_L.png" /></div>
-{% include box-close.html author-name="reidman" last-modified-on="2008-04-25 16:09:10 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-04-25 21:09:10 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3398" title="New Box, Edit me :(:" author-id="8" timestamp="2008-04-25 16:02:56 +0500" type="blank" dbname="box50890" last-modified-by="8" %}
+{% include box-open.html box-id="3398" title="New Box, Edit me :(" author-id="8" timestamp="2008-04-25 21:02:56 +0000" type="blank" dbname="box50890" last-modified-by="8" %}
 <div class="centered"><a href="http://starmen.net/forum/?t=msg&th=45866">PK Tube'N Contest Announcement!</a><br /><youtube src="Q7hCNq85afY" />
 <br /><br /><a href="http://starmen.net/forum/?t=msg&th=46666">Tube'N Contest Update, Deadline Extension!</a><br />
 <youtube src="9DWoGJZALGk" /><br /><br /><a href="http://starmen.net/forum/?t=msg&th=47180">Tube'N Contest Results and Prizes!</a><br /><youtube src="06R8sAo82n8" /></div>
 
-{% include box-close.html author-name="reidman" last-modified-on="2008-05-26 17:36:19 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-05-26 22:36:19 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3401" title="Info / Guidelines:" author-id="8" timestamp="2008-04-26 01:52:39 +0500" type="norm" dbname="box39556" last-modified-by="8" %}
+{% include box-open.html box-id="3401" title="Info / Guidelines" author-id="8" timestamp="2008-04-26 06:52:39 +0000" type="norm" dbname="box39556" last-modified-by="8" %}
 <h3>EarthBound...NOT on Virtual Console?</h3>
 <p>As mentioned in the video, things aren't looking good for EB on VC. Nintendo of America pulled the EarthBound demo from the Masterpiece section of Smash Bros Brawl. Why would they do that? Nobody knows for sure, but one thing is obvious: it's not good news. We've been expecting the VC release of EarthBound for nearly a year now, <s>but it doesn't look like it's going to happen.</s><ins>(Update: <a href="http://starmen.net/forum/?t=msg&th=46159">EB rated by the ESRB</a> a week after the Tube'N started! This isn't a guarantee that the game will be released on the VC, but it's a good sign!)</ins></p>
 
@@ -27,9 +27,9 @@ date: 2008-04-25 16:02:56 +0500
 <li>Get people to watch your video! The videos with the most awesomeness/views at 11:59 PM Eastern on May 23, 2008 will win prizes (listed below)!</li>
 <li>If any of the winning videos suck really bad but have more views than a much better video, we reserve the right to bump the better video up. So while views will be the major factor, the contest won't be <em>strictly</em> based on views. You should strive for a good mix of content and hype ;D</li>
 </ul>
-{% include box-close.html author-name="reidman" last-modified-on="2008-05-14 06:44:13 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-05-14 11:44:13 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3402" title="Prizes:" author-id="8" timestamp="2008-04-26 04:17:23 +0500" type="norm" dbname="box6442" last-modified-by="8" %}
+{% include box-open.html box-id="3402" title="Prizes" author-id="8" timestamp="2008-04-26 09:17:23 +0000" type="norm" dbname="box6442" last-modified-by="8" %}
 As stated in the video, 6 videos will be chosen at the end of the contest. The winners will choose from the following prizes (1st place gets first pick, etc):
 
 <ul class="thumblinks">
@@ -40,9 +40,9 @@ As stated in the video, 6 videos will be chosen at the end of the contest. The w
 <li> <a href="http://starmen.net/merchandise/misc/airfreshener.php"> <img src="prize-machpizza.png" alt="Mach Pizza Air Freshener" title="Mach Pizza Air Freshener ohhhhh raresauce" /><br /><span>Mach Pizza Air Freshener</span></a></li>
 <li><a href="http://www.the-king-of-games.com/english/shop/index.php?mode=catalog_list&type=series&series_id=24"><img src="prize-shirt.png" alt="KoG Red Emergency! Shirt" title="KoG Red Emergency! Shirt ohhhhh unglowy" /><br /><span>KoG Red Emergency! Shirt</span></a></li>
 </ul>
-{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 06:32:45 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 11:32:45 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3403" title="What do I doooooo?:" author-id="8" timestamp="2008-04-26 06:30:19 +0500" type="norm" dbname="box28172" last-modified-by="8" %}
+{% include box-open.html box-id="3403" title="What do I doooooo?" author-id="8" timestamp="2008-04-26 11:30:19 +0000" type="norm" dbname="box28172" last-modified-by="8" %}
 <h3>Video Suggestions</h3>
 <ul><li>Adopt an EarthBound theme for a non-EarthBound video! Remember, we want to reach people who haven't heard of EarthBound but might be interested. Some dorky examples:<ul><li>Channel a topical EB character. For example, submit a reply to <a href="http://www.youtube.com/watch?v=muMcWMKPEWQ">David Bowie's Starman</a> by wrapping yourself and several small children in tinfoil and dancing in a properly-cooled environment.</li>
 <li>Jump in on a video meme if you've got an EB-related answer. For example, <a href="http://youtube.com/watch?v=8OvI11mQFiI">this guy asks what fictional character you relate to</a>. Who can't relate to a boy named Poo? (If you caught that Johnny Cash reference, that would also be a hilarious video.)</li>
@@ -55,9 +55,9 @@ As stated in the video, 6 videos will be chosen at the end of the contest. The w
 </ul>
 
 
-{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 06:30:35 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 11:30:35 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3404" title="How do I fulfill my attention deficit?:" author-id="8" timestamp="2008-04-26 06:31:02 +0500" type="norm" dbname="box55006" last-modified-by="8" %}
+{% include box-open.html box-id="3404" title="How do I fulfill my attention deficit?" author-id="8" timestamp="2008-04-26 11:31:02 +0000" type="norm" dbname="box55006" last-modified-by="8" %}
 <h3>Suggestions for Getting Views</h3>
 <ul><li>First off, make something really awesome/unique/weird. If you don't do this then no one will care about your video enough to pass it on. Example of what NOT to make: a video of you playing the game. BORING.</li>
 <li>Get a good mix of quality and speed -- if you take too long to make your video, you won't stand a chance. But if you throw together something lame, you won't get very far (or even if you do, you might get bumped at the end).</li>
@@ -67,9 +67,9 @@ As stated in the video, 6 videos will be chosen at the end of the contest. The w
 <li>Make some friends on YouTube and send them your video.</li>
 <li>Make friends with a blogger (there are about <a href="http://www.destructoid.com/elephant/users.phtml">a million at Destructoid</a>)</li>
 <li>Check out <a href="http://www.youtube.com/browse?s=md&c=0&l=&b=0">the 'most discussed' videos</a> and find a video you can reply to with EB-related content. EarthBound and MOTHER 3 both cover politics, sociology, religion, war, gender, mind-altering substances, and music pretty thoroughly, so there's plenty of source material to work with ;D</li></ul>
-{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 07:28:58 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 12:28:58 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3400" title="Rules for Curious Georges:" author-id="8" timestamp="2008-04-25 22:38:11 +0500" type="norm" dbname="box21040" last-modified-by="8" %}
+{% include box-open.html box-id="3400" title="Rules for Curious Georges" author-id="8" timestamp="2008-04-26 03:38:11 +0000" type="norm" dbname="box21040" last-modified-by="8" %}
 The vast majority of EarthBound fans are awesome. But people will sometimes go crazy in order to win a prize, so I wrote up these 'extended' rules. Everything here is common sense, but just in case...
 
 <ul>
@@ -84,4 +84,4 @@ The vast majority of EarthBound fans are awesome. But people will sometimes go c
 </ul>
 
 One more time: <strong>the 'most views wins' thing is not a strict rule</strong>, so if you just recorded yourself playing MOTHER 3 for 10 minutes, don't cry when we give your prize to someone who put some thought into their entry ;)
-{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 18:12:16 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2008-04-26 23:12:16 +0000" last-modified-by-name="reidman" %}

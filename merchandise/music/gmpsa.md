@@ -2,9 +2,9 @@
 title: Game Music ~ Piano Solo Album
 categories:
   - merchandise
-date: 2005-04-03 23:44:19 +0500
+date: 2005-04-04 04:44:19 +0000
 ---
-{% include box-open.html box-id="894" title="Game Music Piano Solo Album:" author-id="45" timestamp="2005-04-03 23:44:19 +0500" type="norm" dbname="box23486" last-modified-by="45" %}
+{% include box-open.html box-id="894" title="Game Music Piano Solo Album" author-id="45" timestamp="2005-04-04 04:44:19 +0000" type="norm" dbname="box23486" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/gmpsa_title.jpg" border="0" alt="Game Music ~ Piano Solo Album" />
 	</center>
@@ -70,4 +70,4 @@ date: 2005-04-03 23:44:19 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/gmpsa_front.jpg">Front</a> - <a href="/merchandise/images/gmpsa_page.jpg">Page</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-07-01 21:55:58 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-07-02 02:55:58 +0000" last-modified-by-name="ShadowX" %}

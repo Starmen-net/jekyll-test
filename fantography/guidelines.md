@@ -2,9 +2,9 @@
 title: Guidelines
 categories:
   - fantography
-date: 2006-02-15 15:29:55 +0600
+date: 2006-02-15 21:29:55 +0000
 ---
-{% include box-open.html box-id="1848" title="Fantography Guidelines:" author-id="257" timestamp="2006-02-15 15:29:55 +0600" type="norm" dbname="box45647" last-modified-by="75" %}
+{% include box-open.html box-id="1848" title="Fantography Guidelines" author-id="257" timestamp="2006-02-15 21:29:55 +0000" type="norm" dbname="box45647" last-modified-by="75" %}
 Fantography is a <i>snap,</i> but here are some guidelines that you need to keep in mind when you're submitting something:
 <p />
 <ul>
@@ -28,9 +28,9 @@ Enjoy, and Fuzzy Pickles!
 <p />
 Follow this <a href="http://starmen.net/submit/">link to submit.</a>
  
-{% include box-close.html author-name="Erik" last-modified-on="2009-05-26 12:26:34 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="Erik" last-modified-on="2009-05-26 17:26:34 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="3299" title="Submit what now?:" author-id="474" timestamp="2007-10-10 13:24:48 +0500" type="norm" dbname="box53496" last-modified-by="127" %}
+{% include box-open.html box-id="3299" title="Submit what now?" author-id="474" timestamp="2007-10-10 18:24:48 +0000" type="norm" dbname="box53496" last-modified-by="127" %}
 You may be wondering what that fine line between Fan Art and Fantography is.  Here's a quick bulleted list to show you what's what!
 <br /><br />
 <u>Fantography</u>
@@ -45,8 +45,8 @@ You may be wondering what that fine line between Fan Art and Fantography is.  He
 </ul>
 
 If you have any questions about what section you should submit to, feel free to PM either <a href="http://forum.starmen.net/members/11098">Buck Fever</a> or <a href="http://forum.starmen.net/members/sithmaster96">Sith</a> -- We'd be glad to help out!
-{% include box-close.html author-name="Artemis251" last-modified-on="2013-03-29 12:14:21 +0500" last-modified-by-name="Sith" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2013-03-29 17:14:21 +0000" last-modified-by-name="Sith" %}
 
-{% include box-open.html box-id="4587" title=":" author-id="22707" timestamp="2013-03-29 12:18:18 +0500" type="blank" dbname="box51529" last-modified-by="127" %}
+{% include box-open.html box-id="4587" author-id="22707" timestamp="2013-03-29 17:18:18 +0000" type="blank" dbname="box51529" last-modified-by="127" %}
 <center>You've reached the end of this page. <a href="http://starmen.net/fantography/index.php">Go back to the Fantography homepage?</a></center>
-{% include box-close.html author-name="Sith" last-modified-on="2013-03-29 12:19:51 +0500" last-modified-by-name="Sith" %}
+{% include box-close.html author-name="Sith" last-modified-on="2013-03-29 17:19:51 +0000" last-modified-by-name="Sith" %}

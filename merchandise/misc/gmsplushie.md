@@ -2,9 +2,9 @@
 title: Giant Mr. Saturn  Plushie
 categories:
   - merchandise
-date: 2009-02-09 21:55:38 +0600
+date: 2009-02-10 03:55:38 +0000
 ---
-{% include box-open.html box-id="3604" title="Giant Mr. Saturn  Plushie:" author-id="45" timestamp="2009-02-09 21:55:38 +0600" type="norm" dbname="box21731" last-modified-by="127" %}
+{% include box-open.html box-id="3604" title="Giant Mr. Saturn  Plushie" author-id="45" timestamp="2009-02-10 03:55:38 +0000" type="norm" dbname="box21731" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ms_giantbanplushie_title.png" border="0" alt="Mr. Saturn Giant Banpresto Plushie" />
 	</center>
@@ -32,4 +32,4 @@ date: 2009-02-09 21:55:38 +0600
 	<a href="/merchandise/images/ms_giantbanplushie_size.jpg">Size</a> - <a href="/merchandise/images/ms_giantbanplushie_box.jpg">Box</a>
 	<br /><br />
 	All pictures provided by <a href="http://www.banpresto.co.jp/">Banpresto</a>.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:12:46 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:12:46 +0000" last-modified-by-name="Tomato" %}

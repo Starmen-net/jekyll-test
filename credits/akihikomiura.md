@@ -2,9 +2,9 @@
 title: 'Game Credits: Akihiko Miura'
 categories:
   - credits
-date: 2005-05-01 16:20:46 +0500
+date: 2005-05-01 21:20:46 +0000
 ---
-{% include box-open.html box-id="957" title="Akihiko Miura:" author-id="2262" timestamp="2005-05-01 16:20:46 +0500" type="norm" dbname="box48894" last-modified-by="127" %}
+{% include box-open.html box-id="957" title="Akihiko Miura" author-id="2262" timestamp="2005-05-01 21:20:46 +0000" type="norm" dbname="box48894" last-modified-by="127" %}
 <img src="akihikomiura.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -19,4 +19,4 @@ Game Design</LI>
 <LI><b>Pokémon XD: Gale of Darkness(GCN 2005)</b><BR />
 Based on a Concept By</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 19:54:49 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-04 00:54:49 +0000" last-modified-by-name="KingDarian" %}

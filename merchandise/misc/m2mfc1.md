@@ -2,9 +2,9 @@
 title: 'MOTHER 2 Mini Figure Collection 1: Ness, King, Mom, &amp; Tracy'
 categories:
   - merchandise
-date: 2011-02-18 18:46:13 +0600
+date: 2011-02-19 00:46:13 +0000
 ---
-{% include box-open.html box-id="3961" title="MOTHER 2 Mini Figure Collection 1: Ness, King, Mom, & Tracy :" author-id="45" timestamp="2011-02-18 18:46:13 +0600" type="norm" dbname="box21692" last-modified-by="45" %}
+{% include box-open.html box-id="3961" title="MOTHER 2 Mini Figure Collection 1: Ness, King, Mom, & Tracy " author-id="45" timestamp="2011-02-19 00:46:13 +0000" type="norm" dbname="box21692" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -68,4 +68,4 @@ In September of 2010 Banpresto started stocking UFO crane catching games with MO
 <a href="/merchandise/images/m2mfc1_box_side1.jpg" ><img src="/merchandise/images/m2mfc1_box_side1.jpg" title="MOTHER 2 Mini Figure Collection 1: Box (Side 1)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2mfc1_box_side2.jpg" ><img src="/merchandise/images/m2mfc1_box_side2.jpg" title="MOTHER 2 Mini Figure Collection 1: Box (Side 2)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2mfc1_box_preview.jpg" ><img src="/merchandise/images/m2mfc1_box_preview.jpg" title="MOTHER 2 Mini Figure Collection 1: Box (Preview)" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-02-19 00:45:34 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-02-19 06:45:34 +0000" last-modified-by-name="ShadowX" %}

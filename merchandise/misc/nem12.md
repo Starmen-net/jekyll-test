@@ -2,9 +2,9 @@
 title: Nintendo Erasers - Mother 1+2
 categories:
   - merchandise
-date: 2005-01-03 20:47:33 +0600
+date: 2005-01-04 02:47:33 +0000
 ---
-{% include box-open.html box-id="319" title="Nintendo Erasers - Mother 1+2:" author-id="45" timestamp="2005-01-03 20:47:33 +0600" type="norm" dbname="box59383" last-modified-by="75" %}
+{% include box-open.html box-id="319" title="Nintendo Erasers - Mother 1+2" author-id="45" timestamp="2005-01-04 02:47:33 +0000" type="norm" dbname="box59383" last-modified-by="75" %}
 	<center>
 	<img src="/merchandise/images/nem12_title.jpg" border="0" alt="Nintendo Erasers - Mother 1+2" />
 	</center>
@@ -31,4 +31,4 @@ date: 2005-01-03 20:47:33 +0600
 	<br />
 	<a href="/merchandise/images/nem12_front.jpg">M1+2 Eraser (Front)</a> - <a href="/merchandise/images/nem12_back.jpg">M1+2 Eraser (back)</a> - <a href="/merchandise/images/nem12_all1.jpg">All Erasers 1</a> - 
 	<a href="/merchandise/images/nem12_all2.jpg">All Erasers 2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-08-18 13:23:27 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-08-18 18:23:27 +0000" last-modified-by-name="PoeTrader" %}

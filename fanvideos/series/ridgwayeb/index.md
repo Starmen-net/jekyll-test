@@ -2,9 +2,9 @@
 title: Ridgway Film&#039;s Earthbound
 categories:
   - fanvideos
-date: 2010-06-08 22:37:32 +0500
+date: 2010-06-09 03:37:32 +0000
 ---
-{% include box-open.html box-id="3855" title="Ridgway Film's Earthbound:" author-id="266" timestamp="2010-06-08 22:37:32 +0500" type="norm" dbname="box34768" last-modified-by="127" %}
+{% include box-open.html box-id="3855" title="Ridgway Film's Earthbound" author-id="266" timestamp="2010-06-09 03:37:32 +0000" type="norm" dbname="box34768" last-modified-by="127" %}
 <ul class="pics">
 <li>
 		<div style="float: left; padding: 0px 10px 0px 0px;"><youtube src="OTQy7nwoFjk" height="132" width="160" /></div>
@@ -48,4 +48,4 @@ by <a href="http://www.youtube.com/user/Brushguy">Brushguy</a></h3>
 		<p>Episode one of an incredible live-action series reminiscent of EB Saga. It's divided into 4 parts:<br /><a href="http://www.youtube.com/watch?v=oWXggutyLrg">Part One</a> | <a href="http://www.youtube.com/watch?v=S1FETXK_ZWo">Part Two</a> | <a href="http://www.youtube.com/watch?v=PdWkCS7D_BE">Part Three</a> | <a href="http://www.youtube.com/watch?v=RPTf8bw83ww">Part Four</a></p>	
 	</li>
 </ul>
-{% include box-close.html author-name="xfisjmg1" last-modified-on="2013-06-29 20:22:01 +0500" last-modified-by-name="Absoltastic" %}
+{% include box-close.html author-name="xfisjmg1" last-modified-on="2013-06-30 01:22:01 +0000" last-modified-by-name="Absoltastic" %}

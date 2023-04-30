@@ -2,9 +2,9 @@
 title: EarthBound Poster
 categories:
   - merchandise
-date: 2005-01-03 21:17:06 +0600
+date: 2005-01-04 03:17:06 +0000
 ---
-{% include box-open.html box-id="341" title="EarthBound Poster:" author-id="45" timestamp="2005-01-03 21:17:06 +0600" type="norm" dbname="box18921" last-modified-by="127" %}
+{% include box-open.html box-id="341" title="EarthBound Poster" author-id="45" timestamp="2005-01-04 03:17:06 +0000" type="norm" dbname="box18921" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ebposter_title.jpg" border="0" alt="EarthBound Poster" />
 	</center>
@@ -40,4 +40,4 @@ date: 2005-01-03 21:17:06 +0600
 
 	<br /><br />
 	Thanks to <a href="mailto:GotARiverFenixEP@aol.com">GotARiverFenixEP</a> for the pictures.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:11:51 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:11:51 +0000" last-modified-by-name="Tomato" %}

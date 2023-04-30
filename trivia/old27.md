@@ -2,9 +2,9 @@
 title: Trivia Archive 27
 categories:
   - trivia
-date: 2012-03-28 22:43:04 +0500
+date: 2012-03-29 03:43:04 +0000
 ---
-{% include box-open.html box-id="4384" title="Week 280: Sampling of Ideas:" author-id="12306" timestamp="2012-03-28 22:43:04 +0500" type="norm" dbname="box46840" last-modified-by="127" %}
+{% include box-open.html box-id="4384" title="Week 280: Sampling of Ideas" author-id="12306" timestamp="2012-03-29 03:43:04 +0000" type="norm" dbname="box46840" last-modified-by="127" %}
 <p>Theme: "<b>A Sampling of Samples</b>"!  This week, take a moment to listen to these fairly short clips.  Your job is to identify either a sample used in the song if given a Mother theme, or identify the Mother theme if given a sample.  Due to the somewhat subjective nature of these questions, <b>you only need to answer 5 of the 6 answers correctly</b> in order to get credit this week.  Maybe you can find a novel connection between songs as well!  (These questions can and will draw from more than one of the games in the series!)</p>
 
 <p>To clarify, I expect your answer to either be the name of a song that contains a sample used in the Mother theme; or, the answer should either name the Mother theme or describe where the theme plays in-game in order to get credit for your answer.  For example, if given <a href="http://www.youtube.com/watch?v=VUImpeQG66U&t=0m4s">this</a> theme, my answer would be either the "<a href="http://starmen.net/mother2/music/115-%20Earthbound%20-%20Megaton%20Walk.mp3">Megaton Walk"</a> or the theme that plays when Dungeon Man is following the party.</p>
@@ -22,9 +22,9 @@ date: 2012-03-28 22:43:04 +0500
 <p><b>Answer 4:</b> The Cliff that Time Forgot (before heading to the past)</p>
 <p><b>Answer 5:</b> The Trumpeter in Onett with a haunting melody</p>
 <p><b>Answer 6:</b> Your Name Please (Naming screen music... 3 times in succession)</p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-03-28 22:43:30 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-03-29 03:43:30 +0000" last-modified-by-name="aurilliux" %}
 
-{% include box-open.html box-id="4397" title="Week 281: Danger Zone:" author-id="12306" timestamp="2012-04-04 22:06:58 +0500" type="norm" dbname="box48211" last-modified-by="127" %}
+{% include box-open.html box-id="4397" title="Week 281: Danger Zone" author-id="12306" timestamp="2012-04-05 03:06:58 +0000" type="norm" dbname="box48211" last-modified-by="127" %}
 <p>Theme: "<b>Danger Zone</b>"</p>
 
 <p><b>Question 1:</b> I don't have a lot to say about this... I guess some people think it's good.  It'll heal you as well.</p>
@@ -36,9 +36,9 @@ Using this information, what would be the best strategy for Paula to win the fig
 <p><b>Answer 1:</b> Plain Roll (it's the description nearly word-for-word)</p>
 <p><b>Answer 2:</b> Kraken Soup (fully restores your HP -- note that I did accept a few others such as Poo eating a Brain Food Lunch)</p>
 <p><b>Answer 3:</b> Paula is free to do just about anything because if Ness and Jeff were both killed by lightning-based attacks, it's safe to assume that Paula possesses the <b>Franklin Badge</b>.  (Praying could revive your party and the crocodile, which would probably still result in your victory but is not 100% assured, as bashing or just defending would be.)</p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-04 22:07:12 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-05 03:07:12 +0000" last-modified-by-name="aurilliux" %}
 
-{% include box-open.html box-id="4414" title="Week 282: Travelling:" author-id="12306" timestamp="2012-04-12 00:17:43 +0500" type="norm" dbname="box6347" last-modified-by="127" %}
+{% include box-open.html box-id="4414" title="Week 282: Travelling" author-id="12306" timestamp="2012-04-12 05:17:43 +0000" type="norm" dbname="box6347" last-modified-by="127" %}
 <p>Theme: "<b>Means of Conveyance</b>"!</p>
 
 <p><b>Question 1:</b> Hop on here and listen to some rockin' music!  Additionally, how much is the fare for the 4 of you to ride from Fourside to the last stop?</p>
@@ -48,9 +48,9 @@ Using this information, what would be the best strategy for Paula to win the fig
 <p><b>Answer 1:</b> <b>$8</b> to ride the <b>bus</b> from Fourside to Twoson.</p>
 <p><b>Answer 2:</b> The <b>helicopter</b> can be found in the swamp, but curiously it's missing its <b>engine</b>.</p>
 <p><b>Answer 3:</b> (Mad) <b>Taxis</b> are common in cities and seen in Dungeon Man's vehicle collection as well.</p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-12 00:17:57 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-12 05:17:57 +0000" last-modified-by-name="aurilliux" %}
 
-{% include box-open.html box-id="4430" title="Week 283: I really like roots:" author-id="12306" timestamp="2012-04-19 10:09:00 +0500" type="norm" dbname="box15751" last-modified-by="127" %}
+{% include box-open.html box-id="4430" title="Week 283: I really like roots" author-id="12306" timestamp="2012-04-19 15:09:00 +0000" type="norm" dbname="box15751" last-modified-by="127" %}
 <p>Theme: "<b>To the Roots</b>"!</p>
 
 <p><b>Question 1:</b> What is the formal name for the material needed for the Phase Distorter, so rare that it doesn't occur naturally on Earth?</p>
@@ -64,9 +64,9 @@ Using this information, what would be the best strategy for Paula to win the fig
 <p><b>Answer 2:</b> Yogurt Dispenser</p>
 <p><b>Answer 3:</b> "Overcoming Shyness"</p>
 <p><b>Bonus:</b> Why, it's the Over 80cm Bass!... of course the game isn't released in America :'(  </p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-19 10:09:34 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-19 15:09:34 +0000" last-modified-by-name="aurilliux" %}
 
-{% include box-open.html box-id="4442" title="Week 284: Tomboys & Thieves:" author-id="12306" timestamp="2012-05-05 14:09:31 +0500" type="norm" dbname="box16033" last-modified-by="127" %}
+{% include box-open.html box-id="4442" title="Week 284: Tomboys & Thieves" author-id="12306" timestamp="2012-05-05 19:09:31 +0000" type="norm" dbname="box16033" last-modified-by="127" %}
 
 <p>Theme: "<b>Of Tomboys and Thieves</b>"!</p>
 
@@ -77,4 +77,4 @@ Using this information, what would be the best strategy for Paula to win the fig
 <p><b>Answer 1</b>: Thunder Bombs</p>
 <p><b>Answer 2</b>: When she joins your party, Kumatora is missing the PP that she used for her PSI in the cutscene!</p>
 <p><b>Answer 3</b>: Anty anty ant ant! (or anything to this effect)</p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-05-05 14:09:50 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-05-05 19:09:50 +0000" last-modified-by-name="aurilliux" %}

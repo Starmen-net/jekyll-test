@@ -2,9 +2,9 @@
 title: Mini Mr. Saturn Plushie
 categories:
   - merchandise
-date: 2010-12-01 20:38:31 +0600
+date: 2010-12-02 02:38:31 +0000
 ---
-{% include box-open.html box-id="3936" title="Mini Mr. Saturn Plushie:" author-id="45" timestamp="2010-12-01 20:38:31 +0600" type="norm" dbname="box30697" last-modified-by="127" %}
+{% include box-open.html box-id="3936" title="Mini Mr. Saturn Plushie" author-id="45" timestamp="2010-12-02 02:38:31 +0000" type="norm" dbname="box30697" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -73,4 +73,4 @@ date: 2010-12-01 20:38:31 +0600
 <a href="/merchandise/images/mms_plusie_crane2.jpg" ><img src="/merchandise/images/mms_plushie_crane2.jpg" title="Crane Game" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/mms_plusie_website.jpg" ><img src="/merchandise/images/mms_plushie_website.jpg" title="Website" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:42:56 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:42:56 +0000" last-modified-by-name="Tomato" %}

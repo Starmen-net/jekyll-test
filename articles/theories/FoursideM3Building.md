@@ -2,17 +2,17 @@
 title: Theories - Fourside Mother 3/Earthbound 2 Building
 categories:
   - articles
-date: 2012-05-02 22:52:10 +0500
+date: 2012-05-03 03:52:10 +0000
 ---
-{% include box-open.html box-id="4437" title="Theories topic for the week of April 25 - May 2, 2012:" author-id="1419" timestamp="2012-05-02 22:52:10 +0500" type="norm" dbname="box57849" last-modified-by="127" %}
+{% include box-open.html box-id="4437" title="Theories topic for the week of April 25 - May 2, 2012" author-id="1419" timestamp="2012-05-03 03:52:10 +0000" type="norm" dbname="box57849" last-modified-by="127" %}
 <center><img src="http://starmen.net/articles/theories/FoursideM3Building.png" title="SUCH SECRETS AND WONDERS. WHEN WILL THIS GAME COME OUT :OOO" /><p/>
 
 Man, who doesn't know about this building? Back in the day, I played this game, and always visited this landmark, and wondered, "Man... what's going on behind those doors?"<p/>
 
 Well, apparently you guys all knew, and you spilled the beans. You dirty, dirty tattle-tails.</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-02 22:53:44 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-03 03:53:44 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4438" title="Theory of the Week:" author-id="1419" timestamp="2012-05-02 22:53:49 +0500" type="norm" dbname="box2332" last-modified-by="127" %}
+{% include box-open.html box-id="4438" title="Theory of the Week" author-id="1419" timestamp="2012-05-03 03:53:49 +0000" type="norm" dbname="box2332" last-modified-by="127" %}
 On the second floor of a small building in Fourside, a group of Japanese businessmen sat around a table in a poorly lit room, sweating profusely from the intense Summer heat. They were discussing plans of making Mother 3.<br/>
 After the success of Mother 2, Shigesato Itoi immediately began plans on creating a follow-up game in his series. He asked his best workers to collaborate as soon as possible so as to meet the demand of the hundreds of thousands of Mother fans. To keep their plans top-secret, they transported themselves into the world of Mother 2 via the Phase Distorter.<p/>
 
@@ -49,9 +49,9 @@ Years later, the same team of men had rekindled the Mother 3 project and eventua
 The mysterious Reginald, ironically, had climbed to the top of the Corporate ladder in the company he had plotted against years before. When he heard news of the release of Mother 3 in Japan, he vowed to himself that he will never allow the game to be localized in America......<p/>
 
 - NorthofOnett
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-02 22:55:47 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-03 03:55:47 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4439" title="MARRY ME HOTTIE BUNS:" author-id="1419" timestamp="2012-05-02 22:55:51 +0500" type="norm" dbname="box40685" last-modified-by="127" %}
+{% include box-open.html box-id="4439" title="MARRY ME HOTTIE BUNS" author-id="1419" timestamp="2012-05-03 03:55:51 +0000" type="norm" dbname="box40685" last-modified-by="127" %}
 A Memoir of My Bass Fishing Misadventures, Volume 2:<br/>
 Chapter 37:Life is Not Just a Cereal. My Modern-Day Life.<p/>
 
@@ -70,9 +70,9 @@ In a desperate plea for her love once more, I created the Nintendo 64 version of
 We strolled off into the distance, the meeting room in Fourside abandoned. Eventually, I may go back to the project, but from now on, my family comes first. I want to be with my love for many years to come. I want to relive those cherished memories of my youth. I want to always be my Hottie Buns' "SUUPAA ANGURAA!"<p/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-02 22:57:13 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-03 03:57:13 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4440" title="Ness's dreams of game development died that day:" author-id="1419" timestamp="2012-05-02 22:57:25 +0500" type="norm" dbname="box42021" last-modified-by="127" %}
+{% include box-open.html box-id="4440" title="Ness's dreams of game development died that day" author-id="1419" timestamp="2012-05-03 03:57:25 +0000" type="norm" dbname="box42021" last-modified-by="127" %}
 It was late in the afternoon. Three bored men were sitting about a lone table behind their computers in the Nintendo of America studio reserved for EarthBound. Their names were Marcus, Dan, and Mike, and they were among the few NOA personnel that are credited for the EarthBound localization. If you don’t know who they are, then go read the game’s credits.<p/>
 
 Anyways, for reasons that will be left unexplained (because NOA does that a lot), this Nintendo studio and the co-workers inside it were situated within the world of EarthBound, right in the metropolis of Fourside, to be exact. This is what was really going on in that building:<p/>
@@ -101,9 +101,9 @@ Mike quickly hurried over to the door and looked out the peephole. “It’s not
 
 The three workers sighed, and returned to their games of Minesweeper.<p/>
 - AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-02 22:58:28 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-03 03:58:28 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4441" title="The Silliest Theory:" author-id="1419" timestamp="2012-05-02 22:58:43 +0500" type="norm" dbname="box509" last-modified-by="127" %}
+{% include box-open.html box-id="4441" title="The Silliest Theory" author-id="1419" timestamp="2012-05-03 03:58:43 +0000" type="norm" dbname="box509" last-modified-by="127" %}
 When Ness first walked by that “Earthbound 2” office, he didn’t know what to think. Nearly everyone around had been talking about “Earthbound” on his journey. “I wonder when EARTHBOUND is coming out!” a full-grown woman had said to him in Onett. Others chanted about this game, and others complained.<p/>
 After the vanquishing of Giygas and Porky, Ness took the initiative to go to the general store, which was fully stocked of “Earthbound” copies. Ness put the cartridge in his SNES. “This better be good,” said Ness. And, much to Ness’s shock, the game was an EXACT REPLICA of his journey! Except now it had mumble-jumble like “Crashing Boom Bang Attack” and “Experience Points”.<p/>
 “What the…?” Ness exclaimed. Then he realized- that “Earthbound 2” office must have been responsible for this!<p/>
@@ -129,4 +129,4 @@ Ness grinned. “Then that also mean that I’m Chuck Norris, according to other
 All that we know that happened after this is that Ness walked home, and the office was destroyed. As for Earthbound 2, we don’t know what happened to that…<p/>
 
 - Ostricho
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-02 22:59:48 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-03 03:59:48 +0000" last-modified-by-name="Captain Bozo" %}

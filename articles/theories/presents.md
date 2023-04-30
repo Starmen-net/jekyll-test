@@ -2,13 +2,13 @@
 title: Theories - Enemy Presents
 categories:
   - articles
-date: 2012-09-13 00:17:11 +0500
+date: 2012-09-13 05:17:11 +0000
 ---
-{% include box-open.html box-id="4514" title="Theories Topic for the week of August 29 - September 12, 2012:" author-id="1419" timestamp="2012-09-13 00:17:11 +0500" type="norm" dbname="box44879" last-modified-by="127" %}
+{% include box-open.html box-id="4514" title="Theories Topic for the week of August 29 - September 12, 2012" author-id="1419" timestamp="2012-09-13 05:17:11 +0000" type="norm" dbname="box44879" last-modified-by="127" %}
 <center><img src="http://starmen.net/articles/theories/cookie.png" title="OH BOY A CROW COOKIE! I SURE HOPE THOSE ARE CHOCOLATE CHIPS!" /><p/>You ever wonder where the presents enemies leave behind come from? Well wonder no more, because you guys told me!</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 00:25:39 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:25:39 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4515" title="Theory of the Week:" author-id="1419" timestamp="2012-09-13 00:32:26 +0500" type="norm" dbname="box50984" last-modified-by="127" %}
+{% include box-open.html box-id="4515" title="Theory of the Week" author-id="1419" timestamp="2012-09-13 05:32:26 +0000" type="norm" dbname="box50984" last-modified-by="127" %}
 Manly Fish looked his brother in the eye, and they raced to the window.<br/>
 "What day is it!?" yelled Manly Fish. "Why, it's inoffensive-nonreligious-Nintendo-holiday-that-totally-isn't-Christmas Day!" yelled Manly Fish's Neighbor's Second Cousin. The two children scrambled downstairs, smiling brightly. Under the mucky swamp, a mountain of presents was waiting for them...! Manly Fish's Mother scolded the two boys for being so hasty to open their gifts, and sent them with two bag lunches on a journey they would never forget. You see, on inoffensive-nonreligious-Nintendo-holiday-that-totally-isn't-Christmas Day, Not-Santa Fish leaves gifts for all of the good little monsters in the center of the swamp, buried under leaves with each child's name written on them.<br/><br/>
 
@@ -25,9 +25,9 @@ Suddenly, dark clouds brewed in the air, and in an overly cliché manner, lightn
 And so, as a memorial of this grave day, random encounters carry gifts to offer to the Storm Not-God-Because-This-Is-A-1990's-Nintendo-Game.<br/><br/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 00:45:40 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:45:40 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4516" title="If you give a Starman Super a sword, he'll want to slice you up:" author-id="1419" timestamp="2012-09-13 00:46:31 +0500" type="norm" dbname="box65399" last-modified-by="127" %}
+{% include box-open.html box-id="4516" title="If you give a Starman Super a sword, he'll want to slice you up" author-id="1419" timestamp="2012-09-13 05:46:31 +0000" type="norm" dbname="box65399" last-modified-by="127" %}
 The creatures of Earthbound weren't always evil. Many a child in Eagleland feels like those in our own world about animals. Mice are cute and might be kept as pets. Snakes are a favorite of fearless children, and crows are looked up to by brooding kids dressed all in black who write poetry that contains lines like "I suffer through kindness and revel in despair." It is only through Giygas' influence that these creatures have come to be the antagonistic monsters that they are in Earthbound.<br/><br/>
 
 This being the case, it's no surprise that a number of heartwarming children's books about animals were published by a rather popular author of Eagleland. (If you ask at the front desk, I'm sure the Onett librarian would be happy to direct you to the children's section.) Each of these books regards the consequences of giving a particular species of animal a particular gift.<br/><br/>
@@ -45,9 +45,9 @@ It was only after Giygas influenced the minds of these creatures that they gaine
 It is for this reason that the creatures in Earthbound carry unusual gifts. It is also for this reason that exterminators in Eagleland are often called upon to join the Fourside Police Department's Bomb Squad.<br/><br/>
 
 - Emily
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 00:47:27 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:47:27 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4517" title="Pheen-X Emblem: Dawn of Radiance:" author-id="1419" timestamp="2012-09-13 00:47:31 +0500" type="norm" dbname="box55684" last-modified-by="127" %}
+{% include box-open.html box-id="4517" title="Pheen-X Emblem: Dawn of Radiance" author-id="1419" timestamp="2012-09-13 05:47:31 +0000" type="norm" dbname="box55684" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, Why do the various bad guys in the series have presents? Now, this troubled me myself due to the fact I'm one of those, "beat with a various variety of blunt objects" ask questions later kinda person, so...easy to see the complications. Luckily though, I have an ally from the enemy field able to help me out. .....Unfourtuantly he's on vacation in the Bahamas (thanks a lot Amp) so I'm gonna have to wing it, errr I mean, go upon my past research.<br/>
 It all started when I decided to take up an exterminator internship. We were doing our job before I grabbed a plank and beat down a rat. That rat dropped a bomb, so my questions started to arise (and my internship ended...it's a long story for another day). This question stuck with me for a long time (3 days).<br/>
 The question rerose after I crashed my bike into a crow and soon found a cookie in front of me (such a rip off.....darn oatmeal raisin). Even weirder was how it had the change to pay for my repair bill. It only got weirder from their the more I traveled (and this was just to go to the store for crying out loud).<br/>
@@ -57,9 +57,9 @@ So to sum up all matters, near every enemy you come across was a former explorer
 And so, another question can be left to ignite an explosive flame. This is Pheen-X saying....I gotta write a looooooot of apology letters now.<br/><br/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 00:49:13 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:49:13 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4518" title="Is it Frankenberry?:" author-id="1419" timestamp="2012-09-13 00:49:17 +0500" type="norm" dbname="box40695" last-modified-by="127" %}
+{% include box-open.html box-id="4518" title="Is it Frankenberry?" author-id="1419" timestamp="2012-09-13 05:49:17 +0000" type="norm" dbname="box40695" last-modified-by="127" %}
 People of the EarthBound world commonly wonder why enemies carry such odd items. Where did this bomb come from? How about this sword? Did you steal that pizza?<br/>
 The answer behind the mystery: Giygas. He easily collected all these items together and gave them to some of his minions.<br/>
 “Take good care of it,” he had said. “They will be useful when the time comes.”<br/>
@@ -75,10 +75,10 @@ Ness did exactly as Giygas wanted, even if he did not think so. He went after th
 Enemies died in the process, all because of these items, but who is the real monster? <br/>
 
 - CerealQueen
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 00:50:27 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:50:27 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4519" title="Aww, the most polite wall of text:" author-id="1419" timestamp="2012-09-13 00:50:30 +0500" type="norm" dbname="box55826" last-modified-by="127" %}
+{% include box-open.html box-id="4519" title="Aww, the most polite wall of text" author-id="1419" timestamp="2012-09-13 05:50:30 +0000" type="norm" dbname="box55826" last-modified-by="127" %}
 Well this may be an exceptionally short little tidbit, but I thought I'd share my thoughts. That's kind of a difficult one, where do these creatures get presents? I mean, I guess we can ignore the aliens having presents because, well, they're aliens they can basically get away with anything and we couldn't really question it, huh? The contents of the presents are also kind of strange. I do kind of get why a crow would have a cookie because I have seen crows and other birds picking up food off the ground (although I've never seen one pick up an entire cookie). Then there's the presents containing bombs and such. I've decided that since these games are usually quite silly in ways such as this, I will give a silly explanation. My explanation is that someone somewhere was having a birthday party and had many gifts that were filled with everything from cookies to lethal substances and all the games' enemies raided the party and stole the gifts. Some of these gifts also ended up scattered around the worlds. Well that may sound just completely stupid, but that's what I think anyway. Thank you for taking the time to read this.<br/><br/>
 
 - CaptnOctibbles
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 00:52:00 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:52:00 +0000" last-modified-by-name="Captain Bozo" %}

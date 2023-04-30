@@ -2,9 +2,9 @@
 title: Rock Candy Soundtrack 2
 categories:
   - merchandise
-date: 2005-01-03 23:55:03 +0600
+date: 2005-01-04 05:55:03 +0000
 ---
-{% include box-open.html box-id="384" title="Rock Candy Soundtrack 2:" author-id="45" timestamp="2005-01-03 23:55:03 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="384" title="Rock Candy Soundtrack 2" author-id="45" timestamp="2005-01-04 05:55:03 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/rc_cd2_title.gif" border="0" alt="Rock Candy Soundtrack 2" />
 	</center>
@@ -223,4 +223,4 @@ date: 2005-01-03 23:55:03 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/rc_all30flavors.jpg">All 30 Flavors</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:56:23 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:56:23 +0000" last-modified-by-name="ShadowX" %}

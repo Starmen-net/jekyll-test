@@ -2,19 +2,19 @@
 title: Fan Comics - Series - Mother
 categories:
   - comics
-date: 2006-10-01 21:31:16 +0500
+date: 2006-10-02 02:31:16 +0000
 ---
-{% include box-open.html box-id="2587" title="Banana-rama-banna:" author-id="474" timestamp="2006-10-01 21:31:16 +0500" type="blank" dbname="box55361" last-modified-by="127" %}
+{% include box-open.html box-id="2587" title="Banana-rama-banna" author-id="474" timestamp="2006-10-02 02:31:16 +0000" type="blank" dbname="box55361" last-modified-by="127" %}
 <center>
 <img src="/comics/series/mother/motherbanner.jpg" />
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2006-10-01 21:31:40 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2006-10-02 02:31:40 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="2588" title="Mother:" author-id="474" timestamp="2006-10-01 21:31:17 +0500" type="norm" dbname="box51926" last-modified-by="127" %}
+{% include box-open.html box-id="2588" title="Mother" author-id="474" timestamp="2006-10-02 02:31:17 +0000" type="norm" dbname="box51926" last-modified-by="127" %}
 <b><u>Mother</u></b> by <i>kenisu3000</i>-  With a brilliant style and a careful attention to detail, kenisu brings to you the story of Mother.  However, this is no ordinary retelling -- in it is many of the untold events of the plot left for the player to wonder or theorize about.  Join kenisu in his version of the story that started it all -- the story of Mother!
-{% include box-close.html author-name="Artemis251" last-modified-on="2006-10-01 21:35:25 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2006-10-02 02:35:25 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="2589" title="Comics:" author-id="474" timestamp="2006-10-01 21:31:18 +0500" type="blank" dbname="box32764" last-modified-by="127" %}
+{% include box-open.html box-id="2589" title="Comics" author-id="474" timestamp="2006-10-02 02:31:18 +0000" type="blank" dbname="box32764" last-modified-by="127" %}
 <center><font size="+1" color="green"><u>Prologue</u></font><br />
 <navigator search="`Content` LIKE 'kenisu%'" display="no" quantity="24" section="description" /><displaytor mode="twocolumnlist" /><br /><br/>
 <font size="+1" color="green"><u>Chapter 1</u></font><br />
@@ -23,9 +23,9 @@ date: 2006-10-01 21:31:16 +0500
 <font size="+1" color="green"><u>Chapter 2</u></font><br />
 <navigator search="`Content` LIKE 'kenisu%'" display="no" start="64" quantity="50" section="description" /><displaytor mode="twocolumnlist" />
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2010-04-25 18:13:55 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2010-04-25 23:13:55 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3388" title="Funfest Comics:" author-id="474" timestamp="2008-03-25 16:42:40 +0500" type="db" dbname="box30145" last-modified-by="127" %}
+{% include box-open.html box-id="3388" title="Funfest Comics" author-id="474" timestamp="2008-03-25 21:42:40 +0000" type="db" dbname="box30145" last-modified-by="127" %}
 <br /><br />
 <center><font size="+1" color="green"><u>Halloween 2007: The Girl in the Graveyard</u></font><br />
 <table cellspacing="5">
@@ -124,4 +124,4 @@ date: 2006-10-01 21:31:16 +0500
 </tr>
 </table>
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2009-06-21 19:39:58 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2009-06-22 00:39:58 +0000" last-modified-by-name="Artemis251" %}

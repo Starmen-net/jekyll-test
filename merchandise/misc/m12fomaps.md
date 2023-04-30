@@ -2,9 +2,9 @@
 title: Mother 1+2 Fold Out Maps
 categories:
   - merchandise
-date: 2005-01-03 21:03:57 +0600
+date: 2005-01-04 03:03:57 +0000
 ---
-{% include box-open.html box-id="333" title="Mother 1+2 Fold Out Maps:" author-id="45" timestamp="2005-01-03 21:03:57 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="333" title="Mother 1+2 Fold Out Maps" author-id="45" timestamp="2005-01-04 03:03:57 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m12_fomap_title.png" border="0" alt="Mother 1+2 Fold Out Maps" />
 	</center>
@@ -81,4 +81,4 @@ date: 2005-01-03 21:03:57 +0600
 	<a href="/merchandise/images/m12_fomap_m1s1l.jpg">Map #1 Mother 1 Side (Large)</a> - <a href="/merchandise/images/m12_fomap_m1s1s.jpg">Map #1 Mother 1 Side (Small)</a> - <a href="/merchandise/images/m12_fomap_m1s2l.jpg">Map #1 Mother 2 Side (Large)</a> - 
 	<a href="/merchandise/images/m12_fomap_m1s2s.jpg">Map #1 Mother 2 Side (Small)</a> - <a href="/merchandise/images/m12_fomap_m2s1l.jpg">Map #2 Mother 1 Side (Large)</a> - <a href="/merchandise/images/m12_fomap_m2s1s.jpg">Map #2 Mother 1 Side (Small)</a> - 
 	<a href="/merchandise/images/m12_fomap_m2s2l.jpg">Map #2 Mother 2 Side (Large)</a> - <a href="/merchandise/images/m12_fomap_m2s2s.jpg">Map #2 Mother 2 Side (Small)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:04:09 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:04:09 +0000" last-modified-by-name="ShadowX" %}

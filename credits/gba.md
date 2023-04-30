@@ -2,9 +2,9 @@
 title: Game Credits - Game Boy Advance Games
 categories:
   - credits
-date: 2008-06-03 13:39:31 +0500
+date: 2008-06-03 18:39:31 +0000
 ---
-{% include box-open.html box-id="3419" title="Game Boy Advance - MOTHER 3:" author-id="2262" timestamp="2008-06-03 13:39:31 +0500" type="norm" dbname="box1745" last-modified-by="127" %}
+{% include box-open.html box-id="3419" title="Game Boy Advance - MOTHER 3" author-id="2262" timestamp="2008-06-03 18:39:31 +0000" type="norm" dbname="box1745" last-modified-by="127" %}
 <table width="100%">
 <tr valign="top">
 <td width="50%">
@@ -127,4 +127,4 @@ Copyright of Program reserved by Nintendo.<BR />
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 14:16:53 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 19:16:53 +0000" last-modified-by-name="KingDarian" %}

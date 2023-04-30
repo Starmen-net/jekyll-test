@@ -2,9 +2,9 @@
 title: Mother 1+2 Original Soundtrack
 categories:
   - merchandise
-date: 2005-01-03 00:18:28 +0600
+date: 2005-01-03 06:18:28 +0000
 ---
-{% include box-open.html box-id="246" title="Mother 1+2 Original Soundtrack:" author-id="45" timestamp="2005-01-03 00:18:28 +0600" type="norm" dbname="box29201" last-modified-by="127" %}
+{% include box-open.html box-id="246" title="Mother 1+2 Original Soundtrack" author-id="45" timestamp="2005-01-03 06:18:28 +0000" type="norm" dbname="box29201" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -191,4 +191,4 @@ Tracks:<br />
 <a href="/merchandise/images/m12cd_open.jpg" ><img src="/merchandise/images/m12cd_open.jpg" title="Open" border="1" width="100" height="100" hspace="1" /></a>
 	<br /><br />
 	Special Thanks to <a href="mailto:Jonk@starmen.net">Jonk</a> for some of the scans.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:37:57 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:37:57 +0000" last-modified-by-name="Tomato" %}

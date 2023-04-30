@@ -2,9 +2,9 @@
 title: Chronicle - Life Goes On
 categories:
   - merchandise
-date: 2005-09-10 00:20:13 +0500
+date: 2005-09-10 05:20:13 +0000
 ---
-{% include box-open.html box-id="1412" title="Chronicle - Life Goes On:" author-id="45" timestamp="2005-09-10 00:20:13 +0500" type="norm" dbname="box39188" last-modified-by="45" %}
+{% include box-open.html box-id="1412" title="Chronicle - Life Goes On" author-id="45" timestamp="2005-09-10 05:20:13 +0000" type="norm" dbname="box39188" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/chronicle_title.jpg" border="0" alt="Chronicle -  Life Goes On" />
 	</center>
@@ -23,4 +23,4 @@ date: 2005-09-10 00:20:13 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/chronicle_front.jpg">Front</a> - <a href="/merchandise/images/chronicle_page.jpg">Page</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-09-10 00:54:16 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-09-10 05:54:16 +0000" last-modified-by-name="ShadowX" %}

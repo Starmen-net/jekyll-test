@@ -2,9 +2,9 @@
 title: Fan Art - Art Tutorials - 3D Art Using Cinema 4D
 categories:
   - fanart
-date: 2005-09-26 14:11:25 +0500
+date: 2005-09-26 19:11:25 +0000
 ---
-{% include box-open.html box-id="1507" title="3D Art Using Cinema 4D by cap'n crunch:" author-id="75" timestamp="2005-09-26 14:11:25 +0500" type="norm" dbname="box26970" last-modified-by="75" %}
+{% include box-open.html box-id="1507" title="3D Art Using Cinema 4D by cap'n crunch" author-id="75" timestamp="2005-09-26 19:11:25 +0000" type="norm" dbname="box26970" last-modified-by="75" %}
 This tutorial is about how to use Cinema 4D, and Basic 3D art.<br /><br />
 
 The first thing you need to know is that EVERYTHING is just made up of basic objects. Take a pop bottle for instance, the body of it is just a cylinder, then the bottom is a half of a sphere either modified, or booled (cut) out to look like how it does, and the top is just a cone with a cylinder covering the top, (if you take it step-by-step and want it to be transparent, boole (cut) out the top of the cone. This tutorial will take you from the beginning, to the very end of the basics of 3D art.<br /><br />
@@ -33,12 +33,12 @@ Arrays are quite easy to learn how to use. Make a cylinder. Now shrink the cylin
 
 Thats the end of this tutorial, but I would always love to here suggestions/questions/any response from the readers of this tutorial. If you want to email me you can reach me at 
 <a href="mailto:roberthackman@gmail.com">roberthackman@gmail.com</a>.  I would also love to see your work. If you make anything with the knowledge I've given you, I would love to see it, so just host it using http://imageshack.us or any other hosting site you want, and send me a link, or just send me the file via email.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 15:04:22 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 20:04:22 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="1508" title="Contact Info:" author-id="75" timestamp="2005-09-26 15:02:25 +0500" type="norm" dbname="box57043" last-modified-by="75" %}
+{% include box-open.html box-id="1508" title="Contact Info" author-id="75" timestamp="2005-09-26 20:02:25 +0000" type="norm" dbname="box57043" last-modified-by="75" %}
 <table1 />
 Author
 <table2 />
 <a href="http://forum.starmen.net/?t=usrinfo&id=2867">cap'n crunch</a>
 <table3 />
-{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 15:03:32 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 20:03:32 +0000" last-modified-by-name="PoeTrader" %}

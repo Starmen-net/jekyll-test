@@ -2,9 +2,9 @@
 title: The Definitive 1/128 Item List
 categories:
   - ebfgp
-date: 2005-07-11 15:05:31 +0500
+date: 2005-07-11 20:05:31 +0000
 ---
-{% include box-open.html box-id="1011" title="The Definitive 1/128 Item List:" author-id="13" timestamp="2005-07-11 15:05:31 +0500" type="norm" dbname="box39516" last-modified-by="13" %}
+{% include box-open.html box-id="1011" title="The Definitive 1/128 Item List" author-id="13" timestamp="2005-07-11 20:05:31 +0000" type="norm" dbname="box39516" last-modified-by="13" %}
 <ul>
      <li><a href="http://starmen.net/mother2/ebdb/enemies.php?enemy=0">Insane Cultist</a> - PSI Caramel</li>
      <li><a href="http://starmen.net/mother2/ebdb/enemies.php?enemy=10">Enraged Fire Plug</a> - Sudden Guts Pill</li>
@@ -33,4 +33,4 @@ date: 2005-07-11 15:05:31 +0500
      <li><a href="http://starmen.net/mother2/ebdb/enemies.php?enemy=153">Plain Crocodile</a> - Meteornium</li> 
 
 </ul>
-{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-07-28 21:55:29 +0500" last-modified-by-name="JamesPicard_007" %}
+{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-07-29 02:55:29 +0000" last-modified-by-name="JamesPicard_007" %}

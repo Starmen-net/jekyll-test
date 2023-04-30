@@ -2,9 +2,9 @@
 title: MOTHER Pronunciation Guide
 categories:
   - mother1
-date: 2016-11-14 05:46:44 +0600
+date: 2016-11-14 11:46:44 +0000
 ---
-{% include box-open.html box-id="4838" title="MOTHER Pronunciation Guide Intro:" author-id="28590" timestamp="2016-11-14 05:46:44 +0600" type="norm" dbname="box63641" last-modified-by="127" %}
+{% include box-open.html box-id="4838" title="MOTHER Pronunciation Guide Intro" author-id="28590" timestamp="2016-11-14 11:46:44 +0000" type="norm" dbname="box63641" last-modified-by="127" %}
 The MOTHER games have always introduced some strange words to our vocabulary and with it have come new difficulties with pronunciation. This is a guide on how to properly pronounce these difficult words.
 
 <br /><br />
@@ -30,9 +30,9 @@ like in 'chip', <a href="https://en.wikipedia.org/wiki/Voiceless_palato-alveolar
 <br /><br />  
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 07:11:52 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 13:11:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4839" title="Characters:" author-id="28590" timestamp="2016-11-14 07:06:58 +0600" type="norm" dbname="box36338" last-modified-by="127" %}
+{% include box-open.html box-id="4839" title="Characters" author-id="28590" timestamp="2016-11-14 13:06:58 +0000" type="norm" dbname="box36338" last-modified-by="127" %}
 Ninten:  |<b>neen</b>-ten|, |nin-<b>ten</b>|, or |<b>nin</b>-ten|<br /> 
 	From Nintendo: |<b>neen</b>-ten-doh| or |nin-<b>ten</b>-doh|. Etymology: 任 (nin) and 天 (ten); Japanese for 'duty' and 'heaven', respectfully.
 
@@ -170,9 +170,9 @@ Gyiyg: |geeg|<br />
 Giygas |<b>gee</b>-gəs|<br /> 
 	From Gyiyg. A renaming.
  
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 07:12:46 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 13:12:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4840" title="Locations:" author-id="28590" timestamp="2016-11-14 07:07:50 +0600" type="norm" dbname="box13402" last-modified-by="127" %}
+{% include box-open.html box-id="4840" title="Locations" author-id="28590" timestamp="2016-11-14 13:07:50 +0000" type="norm" dbname="box13402" last-modified-by="127" %}
 Mother's Day: |<b>muh</b>-ðərz dei|<br /> 
 	From Mother's Day: a holiday to honor your mother.
 
@@ -291,8 +291,8 @@ Mount Itoi: |maunt ee-toi|<br />
 	From Shigesato Itoi, creator of Mother.
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 07:09:34 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 13:09:34 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4855" title="Credit:" author-id="28590" timestamp="2016-11-23 20:12:35 +0600" type="norm" dbname="box9157" last-modified-by="127" %}
+{% include box-open.html box-id="4855" title="Credit" author-id="28590" timestamp="2016-11-24 02:12:35 +0000" type="norm" dbname="box9157" last-modified-by="127" %}
 Written by linkdude20002001
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-23 20:14:00 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-24 02:14:00 +0000" last-modified-by-name="CerealQueen" %}

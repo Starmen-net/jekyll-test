@@ -2,9 +2,9 @@
 title: A Monster of a Confrontation
 categories:
   - merchandise
-date: 2005-01-04 01:26:49 +0600
+date: 2005-01-04 07:26:49 +0000
 ---
-{% include box-open.html box-id="446" title="A Monster of a Confrontation:" author-id="45" timestamp="2005-01-04 01:26:49 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="446" title="A Monster of a Confrontation" author-id="45" timestamp="2005-01-04 07:26:49 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_amc_title.jpg" border="0" alt="A Monster of a Confrontation" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 01:26:49 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_amc_poster.jpg">Poster</a> - <a href="/merchandise/images/smn_amc_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:27:00 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:27:00 +0000" last-modified-by-name="ShadowX" %}

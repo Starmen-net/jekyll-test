@@ -2,9 +2,9 @@
 title: MOTHER 2 Soundtrack - Giygas Strikes Back
 categories:
   - merchandise
-date: 2005-01-03 00:03:28 +0600
+date: 2005-01-03 06:03:28 +0000
 ---
-{% include box-open.html box-id="244" title="MOTHER 2 Soundtrack - Giygas Strikes Back:" author-id="45" timestamp="2005-01-03 00:03:28 +0600" type="norm" dbname="box34156" last-modified-by="45" %}
+{% include box-open.html box-id="244" title="MOTHER 2 Soundtrack - Giygas Strikes Back" author-id="45" timestamp="2005-01-03 06:03:28 +0000" type="norm" dbname="box34156" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -159,4 +159,4 @@ Due to popular demand and fan interest in Japan following the release of MOTHER 
 <a href="/merchandise/images/m2cdtownchar3.jpg" ><img src="/merchandise/images/m2cdtownchar3.jpg" title="Char. Map 3" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2cdtownchar4.jpg" ><img src="/merchandise/images/m2cdtownchar4.jpg" title="Char. Map 4" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2cdfullmap.jpg" ><img src="/merchandise/images/m2cdfullmap.jpg" title="Full Character Map" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-23 15:58:41 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-23 21:58:41 +0000" last-modified-by-name="ShadowX" %}

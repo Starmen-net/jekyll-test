@@ -2,13 +2,13 @@
 title: Best of IRC 4 - Oh no, it&#039;s IRC!
 categories:
   - chat
-date: 2012-02-29 23:37:55 +0600
+date: 2012-03-01 05:37:55 +0000
 ---
-{% include box-open.html box-id="4320" title="New Box, Edit me :(:" author-id="1419" timestamp="2012-02-29 23:37:55 +0600" type="blank" dbname="box8779" last-modified-by="127" %}
+{% include box-open.html box-id="4320" title="New Box, Edit me :(" author-id="1419" timestamp="2012-03-01 05:37:55 +0000" type="blank" dbname="box8779" last-modified-by="127" %}
 <b><center><a href="http://starmen.net/chat/boirc4/page01.php">&lt&lt&lt Previous Page</a> | <a href="http://starmen.net/chat/boirc4/page02.php">Next Page &gt&gt&gt</a></center></b>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-29 23:38:06 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 05:38:06 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4387" title="LETS LEARN SEMANTICS IN #PKHAX:" author-id="1419" timestamp="2012-04-02 22:16:08 +0500" type="norm" dbname="box6507" last-modified-by="127" %}
+{% include box-open.html box-id="4387" title="LETS LEARN SEMANTICS IN #PKHAX" author-id="1419" timestamp="2012-04-03 03:16:08 +0000" type="norm" dbname="box6507" last-modified-by="127" %}
 [20:11:47] &lt+Captain_Bozo&gt I clicked export but it said I was missing something<br/>
 [20:11:50] &lt!MrTenda&gt no no<br/>
 [20:11:54] &lt!MrTenda&gt you want to Import first<br/>
@@ -26,9 +26,9 @@ date: 2012-02-29 23:37:55 +0600
 [20:12:44] &lt!MrTenda&gt SEE THIS IS WHY I'M GIVING YOU GUYS THIS SUPER SECRET PREVIEW<br/>
 [20:12:54] &lt!MrTenda&gt so I can know if I did anything horribly retarded<br/>
 [20:12:54] &lt+Captain_Bozo&gt to give you lessons in basic semantics?
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-02 22:16:47 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-03 03:16:47 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4450" title="The Chosen Quincy vs. Mr. Kong:" author-id="1419" timestamp="2012-05-15 02:08:51 +0500" type="norm" dbname="box57244" last-modified-by="127" %}
+{% include box-open.html box-id="4450" title="The Chosen Quincy vs. Mr. Kong" author-id="1419" timestamp="2012-05-15 07:08:51 +0000" type="norm" dbname="box57244" last-modified-by="127" %}
     HockeyKong saunters vaugely inward<br/>
     HockeyKong sits down<br/>
     HockeyKong begins smoking a cigar and leering at the girls<br/>
@@ -59,17 +59,17 @@ date: 2012-02-29 23:37:55 +0600
     HockeyKong is now known as HockeyGod<br/>
 
 
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-15 02:09:16 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-05-15 07:09:16 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4458" title="Unsolicited help:" author-id="1419" timestamp="2012-06-03 13:01:00 +0500" type="norm" dbname="box31976" last-modified-by="127" %}
+{% include box-open.html box-id="4458" title="Unsolicited help" author-id="1419" timestamp="2012-06-03 18:01:00 +0000" type="norm" dbname="box31976" last-modified-by="127" %}
 &ltbroody&gt Where's the karet key on this thing <br/>
 &ltHockeyKong&gt karet key?<br/>
 &ltHockeyKong&gt its behind the Monotoli Building, at Magnet hill <br/>
 &ltHockeyKong&gt you need to go through the sewers to get it<br/>
 &ltbroody&gt ^ <br/>
 &ltbroody&gt ^ is the karet<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-06-03 13:04:23 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-06-03 18:04:23 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4321" title="New Box, Edit me :(:" author-id="1419" timestamp="2012-02-29 23:37:57 +0600" type="blank" dbname="box38203" last-modified-by="127" %}
+{% include box-open.html box-id="4321" title="New Box, Edit me :(" author-id="1419" timestamp="2012-03-01 05:37:57 +0000" type="blank" dbname="box38203" last-modified-by="127" %}
 <b><center><a href="http://starmen.net/chat/boirc4/page01.php">&lt&lt&lt Previous Page</a> | <a href="http://starmen.net/chat/boirc4/page02.php">Next Page &gt&gt&gt</a></center></b>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-29 23:38:10 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 05:38:10 +0000" last-modified-by-name="Captain Bozo" %}

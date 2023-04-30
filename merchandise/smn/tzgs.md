@@ -2,9 +2,9 @@
 title: The Zombies Group Sticker
 categories:
   - merchandise
-date: 2005-01-03 23:01:13 +0600
+date: 2005-01-04 05:01:13 +0000
 ---
-{% include box-open.html box-id="360" title="The Zombies Group Sticker:" author-id="45" timestamp="2005-01-03 23:01:13 +0600" type="norm" dbname="box1664" last-modified-by="45" %}
+{% include box-open.html box-id="360" title="The Zombies Group Sticker" author-id="45" timestamp="2005-01-04 05:01:13 +0000" type="norm" dbname="box1664" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_tzgs_title.jpg" border="0" alt="The Zombies Group Sticker" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 23:01:13 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_tzgs_sticker.jpg">Sticker</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 01:09:38 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 06:09:38 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: 'Fan Videos: Series - /EarthBound'
 categories:
   - fanvideos
-date: 2007-06-04 23:24:14 +0500
+date: 2007-06-05 04:24:14 +0000
 ---
-{% include box-open.html box-id="2987" title="/EarthBound: Season 1:" author-id="137" timestamp="2007-06-04 23:24:14 +0500" type="norm" dbname="box43639" last-modified-by="127" %}
+{% include box-open.html box-id="2987" title="/EarthBound: Season 1" author-id="137" timestamp="2007-06-05 04:24:14 +0000" type="norm" dbname="box43639" last-modified-by="127" %}
 <center><img src="http://starmen.net/fanvideos/thumbs/slasheblogo.png" /></center><br />
 /earthbound is a live-action public stunt series that puts EarthBound into the real world, whether the real world wants it there or not.
 <br /><br />
@@ -72,9 +72,9 @@ by <a href="http://starmen.net/forum/?t=usrinfo&id=266">xfisjmg1</a></h3>
 	</li>
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="Jonk" last-modified-on="2007-07-12 20:09:39 +0500" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-07-13 01:09:39 +0000" last-modified-by-name="xfisjmg1" %}
 
-{% include box-open.html box-id="2988" title="/EarthBound: Season 2:" author-id="137" timestamp="2007-06-04 23:26:41 +0500" type="norm" dbname="box27222" last-modified-by="127" %}
+{% include box-open.html box-id="2988" title="/EarthBound: Season 2" author-id="137" timestamp="2007-06-05 04:26:41 +0000" type="norm" dbname="box27222" last-modified-by="127" %}
 <h3><u>Season Two</u></h3><ul class="pics">
 
 <li>
@@ -91,9 +91,9 @@ by <a href="http://starmen.net/forum/?t=usrinfo&id=266">xfisjmg1</a></h3>
 	</li>
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="Jonk" last-modified-on="2008-09-23 21:19:18 +0500" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2008-09-24 02:19:18 +0000" last-modified-by-name="xfisjmg1" %}
 
-{% include box-open.html box-id="3502" title="/earthbound - Other:" author-id="266" timestamp="2008-09-23 21:18:28 +0500" type="norm" dbname="box31416" last-modified-by="127" %}
+{% include box-open.html box-id="3502" title="/earthbound - Other" author-id="266" timestamp="2008-09-24 02:18:28 +0000" type="norm" dbname="box31416" last-modified-by="127" %}
 <h3><u>Other EarthBound Stunts</u></h3><ul class="pics">
 
 <li>
@@ -104,4 +104,4 @@ by <a href="http://starmen.net/forum/?t=usrinfo&id=266">xfisjmg1</a></h3>
 	</li>
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="xfisjmg1" last-modified-on="2008-09-23 21:24:20 +0500" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="xfisjmg1" last-modified-on="2008-09-24 02:24:20 +0000" last-modified-by-name="xfisjmg1" %}

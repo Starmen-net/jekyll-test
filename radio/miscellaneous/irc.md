@@ -2,9 +2,9 @@
 title: 'RADIO - MISCELLANEOUS - #RADIOPSI ON IRC'
 categories:
   - radio
-date: 2006-03-24 07:35:53 +0600
+date: 2006-03-24 13:35:53 +0000
 ---
-{% include box-open.html box-id="2134" title="Join the fun on IRC!:" author-id="247" timestamp="2006-03-24 07:35:53 +0600" type="norm" dbname="box50949" last-modified-by="127" %}
+{% include box-open.html box-id="2134" title="Join the fun on IRC!" author-id="247" timestamp="2006-03-24 13:35:53 +0000" type="norm" dbname="box50949" last-modified-by="127" %}
 <p>
 Listening to the radio, but alone?  There's no need to feel down, you've got a whole playground of friends in #RadioPSI on the Thinstack IRC (Internet Relay Chat) network.  We're sometimes unpopulated when a show isn't airing (though there are regulars to be found in #radiopsi 24/7), but you can stop by during our shows, and have some fun with your fellow starmen!  Not to mention, it's the place to be if you want to take a firsthand look at the zaniness during a game of WHO ARTED?! or the anticipation of naming the thing that the ring is from... thing!
 </p>
@@ -23,4 +23,4 @@ For more on IRC, check out Starmen.net's <a href="http://starmen.net/chat" targe
 
 <br />
 <br /><span id="javaIRC"></span>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2013-04-12 19:51:54 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2013-04-13 00:51:54 +0000" last-modified-by-name="cyan683" %}

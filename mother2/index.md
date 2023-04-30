@@ -2,9 +2,9 @@
 title: Music from Mother
 categories:
   - mother2
-date: 2017-02-03 16:26:41 +0600
+date: 2017-02-03 22:26:41 +0000
 ---
-{% include box-open.html box-id="4990" title="Remixes and Similarities: :" author-id="28590" timestamp="2017-02-03 16:26:41 +0600" type="norm" dbname="box7581" last-modified-by="127" %}
+{% include box-open.html box-id="4990" title="Remixes and Similarities: " author-id="28590" timestamp="2017-02-03 22:26:41 +0000" type="norm" dbname="box7581" last-modified-by="127" %}
 <ul class="pics">
 	<li>
 EarthBound/MOTHER 2: Sanctuary Guardian<br />
@@ -305,4 +305,4 @@ EarthBound Beginnings/MOTHER: Flying Man
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-02-03 17:25:13 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-02-03 23:25:13 +0000" last-modified-by-name="CerealQueen" %}

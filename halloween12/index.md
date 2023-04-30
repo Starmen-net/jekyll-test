@@ -2,25 +2,25 @@
 title: Halloween Funfest 2012!
 categories:
   - halloween12
-date: 2012-09-28 18:19:23 +0500
+date: 2012-09-28 23:19:23 +0000
 ---
-{% include box-open.html box-id="4523" title="New Box, Edit me :(:" author-id="49" timestamp="2012-09-28 18:19:23 +0500" type="blank" dbname="box30682" last-modified-by="127" %}
+{% include box-open.html box-id="4523" title="New Box, Edit me :(" author-id="49" timestamp="2012-09-28 23:19:23 +0000" type="blank" dbname="box30682" last-modified-by="127" %}
 <center><img src="http://starmen.net/misc/KISSOFDEATH.png" title="DON'T GET SPOOKED" /></center>
-{% include box-close.html author-name="ROFISH" last-modified-on="2012-10-01 18:45:19 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2012-10-01 23:45:19 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4524" title="Halloween Funfest 2012:" author-id="1419" timestamp="2012-10-01 18:44:53 +0500" type="norm" dbname="box15762" last-modified-by="127" %}
+{% include box-open.html box-id="4524" title="Halloween Funfest 2012" author-id="1419" timestamp="2012-10-01 23:44:53 +0000" type="norm" dbname="box15762" last-modified-by="127" %}
     Turn off all the lights, grab some popcorn, and peek through your fingers because the Starmen.net Halloween Funfest 2012 is about to begin! Don’t be embarassed if you scream. Nobody will know it was you. And if you aren’t interested in simply settling into your seat to watch the parade of spooky, scary fun, then you can always be a director. Create a piece of <a href="http://starmen.net/halloween12/handart.php">handart</a>, <a href="http://starmen.net/halloween12/compart.php">compart</a>, <a href="http://starmen.net/halloween12/writing.php">writing</a>, or <a href="http://starmen.net/halloween12/audioviz.php">audiovisual</a> work and submit it to be in the running for great prizes. Scare the pants off of your friends! Make Emily wet herself! Watch Stevesesy run from the room screaming like a girl!<p/>
 
     Create as many Mother-themed submissions related to Halloween as you like, but The Academy will only award one prize per person. When the movie is over (or is it?) will you be the last character standing, or are you fated to be the first to stumble and thrash in an over-acted cinematic death?<p/>
 
 EVENT ENDS ON NOVEMBER 5th. GET YOUR SUBMISSIONS IN BY THEN.
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-21 16:23:39 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-21 21:23:39 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4537" title="Submit to the Funfest:" author-id="1419" timestamp="2012-10-01 19:15:49 +0500" type="norm" dbname="box8751" last-modified-by="127" %}
+{% include box-open.html box-id="4537" title="Submit to the Funfest" author-id="1419" timestamp="2012-10-02 00:15:49 +0000" type="norm" dbname="box8751" last-modified-by="127" %}
 <a href="http://starmen.net/submit/?ForceSection=Halloween%20Funfest%202012">You can submit using this handy link!</a>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-01 19:17:33 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 00:17:33 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4535" title="Prizes!:" author-id="1419" timestamp="2012-10-01 19:08:41 +0500" type="norm" dbname="box31418" last-modified-by="127" %}
+{% include box-open.html box-id="4535" title="Prizes!" author-id="1419" timestamp="2012-10-02 00:08:41 +0000" type="norm" dbname="box31418" last-modified-by="127" %}
 <b>CATEGORY WINNER BADGES!</b><p/>
 
 <table>
@@ -40,9 +40,9 @@ EVENT ENDS ON NOVEMBER 5th. GET YOUR SUBMISSIONS IN BY THEN.
 1st Place Spookiest: ???<br/>
 2nd Place Spookiest: ???<br/>
 3rd Place Spookiest: ???
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 01:28:20 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 06:28:20 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4536" title="Section Judges:" author-id="1419" timestamp="2012-10-01 19:08:52 +0500" type="norm" dbname="box54055" last-modified-by="127" %}
+{% include box-open.html box-id="4536" title="Section Judges" author-id="1419" timestamp="2012-10-02 00:08:52 +0000" type="norm" dbname="box54055" last-modified-by="127" %}
 <a href="http://starmen.net/halloween12/handart.php">Handart</a>: <b>HockeyMonkey</b><br/><br/>
 
 <b>Favorite Horror Baddie:</b> Ghosts. Unless you mean some particularly classic baddie, to which I say: Ghosts.<br/>
@@ -100,4 +100,4 @@ Spookiest: <b>Stevesesy</b><br/><br/>
 You ever hear about that kid that hated scary stories? Yeah, no one ever heard from him again. HE WAS MY FATHER.<br/><br/>
 
 Overall: <b>Everybody Listed above</b>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 13:22:39 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 18:22:39 +0000" last-modified-by-name="Captain Bozo" %}

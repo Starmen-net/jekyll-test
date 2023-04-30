@@ -2,9 +2,9 @@
 title: Awesome old-school tutorial
 categories:
   - pkhack
-date: 2006-09-30 21:29:32 +0500
+date: 2006-10-01 02:29:32 +0000
 ---
-{% include box-open.html box-id="2585" title="How to actually do stuff:" author-id="473" timestamp="2006-09-30 21:29:32 +0500" type="norm" dbname="box58858" last-modified-by="127" %}
+{% include box-open.html box-id="2585" title="How to actually do stuff" author-id="473" timestamp="2006-10-01 02:29:32 +0000" type="norm" dbname="box58858" last-modified-by="127" %}
 <b>Video Game Storywriting 101</b><br />
 <i>by Blue Antoid</i><br />
 <p />
@@ -102,4 +102,4 @@ Events:<br />
 14) Jump into the hole and go to the Lost Underworld.
 <p /><hr /><p />
 See?  Nothing to it.  Just take the plot you've created and begin filling in the blanks with ideas.  At this point it's all very easy and freeform - don't be afraid to write stuff down, as it's only a brainstorming period at this point.  Once you've laid out these major events, you can start filling in the spaces between them...  For that, you'll need technical knowledge.  That's all for now...  try to absorb this stuff, and keep reading the tutorials to come.  Happy hacking!
-{% include box-close.html author-name="Radiation" last-modified-on="2006-09-30 21:32:47 +0500" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2006-10-01 02:32:47 +0000" last-modified-by-name="Radiation" %}

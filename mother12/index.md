@@ -2,9 +2,9 @@
 title: Mother 1+2
 categories:
   - mother12
-date: 2004-12-21 18:24:07 +0600
+date: 2004-12-22 00:24:07 +0000
 ---
-{% include box-open.html box-id="104" title="MOTHER 1+2:" author-id="288" timestamp="2004-12-21 18:24:07 +0600" type="norm" dbname="box4740" last-modified-by="127" %}
+{% include box-open.html box-id="104" title="MOTHER 1+2" author-id="288" timestamp="2004-12-22 00:24:07 +0000" type="norm" dbname="box4740" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="MOTHER 1+2" />
 	<table>
@@ -58,28 +58,28 @@ For further information about the two games, check the games' individual section
 
 	<li><a href="/mother2">MOTHER 2 / EarthBound Section</a></li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2010-02-21 20:04:38 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2010-02-22 02:04:38 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="1709" title="Recommended Links:" author-id="2262" timestamp="2005-11-08 10:46:04 +0600" type="norm" dbname="box26659" last-modified-by="127" %}
+{% include box-open.html box-id="1709" title="Recommended Links" author-id="2262" timestamp="2005-11-08 16:46:04 +0000" type="norm" dbname="box26659" last-modified-by="127" %}
 <UL>
 <LI><A HREF="http://www.nintendo.co.jp/n08/a2uj/index.html">MOTHER 1+2 Official Webpage</A></LI>
 <LI><A HREF="http://www.1101.com/MOTHER/MOTHER.html">Shigesato Itoi's Mother Webpage</A></LI>
 <LI><A HREF="http://starmen.net/merchandise">MOTHER 1+2 merchandise</A></LI> - Lots of cool stuff!
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2007-07-01 00:44:46 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2007-07-01 05:44:46 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="105" title="Recent Updates:" author-id="288" timestamp="2004-12-21 18:37:52 +0600" type="norm" dbname="box18425" last-modified-by="127" %}
+{% include box-open.html box-id="105" title="Recent Updates" author-id="288" timestamp="2004-12-22 00:37:52 +0000" type="norm" dbname="box18425" last-modified-by="127" %}
  <B>Updated June 2007:</B>
  <UL>
     <LI>Tons of new videos! Check them out <a href="videos">here</a>!</LI>
  </UL>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2007-07-01 00:45:46 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-07-01 05:45:46 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="106" title="Contact Info:" author-id="288" timestamp="2004-12-21 18:42:06 +0600" type="norm" dbname="box2862" last-modified-by="127" %}
+{% include box-open.html box-id="106" title="Contact Info" author-id="288" timestamp="2004-12-22 00:42:06 +0000" type="norm" dbname="box2862" last-modified-by="127" %}
 <table1 />
 Section maintainer:
 <table2 />
 <a href="http://forum.starmen.net/members/NorthofOnett">NorthofOnett</a>
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2013-04-16 03:14:15 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2013-04-16 08:14:15 +0000" last-modified-by-name="NorthofOnett" %}

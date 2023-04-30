@@ -2,9 +2,9 @@
 title: 'Events: Starmen.Net Conventions'
 categories:
   - events
-date: 2007-06-20 02:27:23 +0500
+date: 2007-06-20 07:27:23 +0000
 ---
-{% include box-open.html box-id="3073" title="Starmen.Net Conventions:" author-id="288" timestamp="2007-06-20 02:27:23 +0500" type="norm" dbname="box20808" last-modified-by="127" %}
+{% include box-open.html box-id="3073" title="Starmen.Net Conventions" author-id="288" timestamp="2007-06-20 07:27:23 +0000" type="norm" dbname="box20808" last-modified-by="127" %}
 Starmen.Net has been having site conventions since probably about 2000 or 2001. Because of logistical reasons, only so many people can come, and usually the details of each one are decided last-minute by site staffers, moderators, and other such people.
 
 <br /><br />
@@ -15,4 +15,4 @@ The conventions are full of sweaty video game fans. You don't wanna go to one. T
 
 <br /><br />
 <center><a href="accident.gif"><img src="accident.jpg" /></a></center>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-08-19 17:19:13 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-08-19 22:19:13 +0000" last-modified-by-name="Tomato" %}

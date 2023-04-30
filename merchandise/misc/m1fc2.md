@@ -2,9 +2,9 @@
 title: 'MOTHER Figure Collection 2: Ninten, Lloyd, &amp; Pippi'
 categories:
   - merchandise
-date: 2011-02-10 16:37:43 +0600
+date: 2011-02-10 22:37:43 +0000
 ---
-{% include box-open.html box-id="3959" title="MOTHER Figure Collection 2: Ninten, Lloyd, & Pippi:" author-id="45" timestamp="2011-02-10 16:37:43 +0600" type="norm" dbname="box31817" last-modified-by="127" %}
+{% include box-open.html box-id="3959" title="MOTHER Figure Collection 2: Ninten, Lloyd, & Pippi" author-id="45" timestamp="2011-02-10 22:37:43 +0000" type="norm" dbname="box31817" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -69,4 +69,4 @@ In August of 2010 Banpresto started stocking UFO crane catching games with MOTHE
 <a href="/merchandise/images/m1fc2_box_side1.jpg" ><img src="/merchandise/images/m1fc2_box_side1.jpg" title="MOTHER Figure Collection 2: Box (Side 1)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m1fc2_box_side2.jpg" ><img src="/merchandise/images/m1fc2_box_side2.jpg" title="MOTHER Figure Collection 2: Box (Side 2)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m1fc2_box_preview.jpg" ><img src="/merchandise/images/m1fc2_box_preview.jpg" title="MOTHER Figure Collection 2: Box (Preview)" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:07:44 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:07:44 +0000" last-modified-by-name="Tomato" %}

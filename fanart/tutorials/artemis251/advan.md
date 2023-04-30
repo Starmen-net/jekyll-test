@@ -2,9 +2,9 @@
 title: 'Fan Art - Art Tutorials - Colored Pencils: Advanced Tactics: Final Fantasy'
 categories:
   - fanart
-date: 2005-10-04 18:50:28 +0500
+date: 2005-10-04 23:50:28 +0000
 ---
-{% include box-open.html box-id="1580" title="Mastery of the Pencils:" author-id="474" timestamp="2005-10-04 18:50:28 +0500" type="norm" dbname="box11695" last-modified-by="8" %}
+{% include box-open.html box-id="1580" title="Mastery of the Pencils" author-id="474" timestamp="2005-10-04 23:50:28 +0000" type="norm" dbname="box11695" last-modified-by="8" %}
 Ah, so you've the skills and practice to get this far?  Good, good - This is the final school of Arty's skills collected thus far.  As always, you won't instantly gain the control over these different mathods.  Practice brings them to their full potential.  I myself am constantly learning and applying new means of color myself, so the limits are infinite!  However, I should get to the more advanced stuff before I bore you with all this.  ;D<br /><br /><br /><br />
 
 <img src="acolorsynth.gif" border="0" hspace="13" align="left" alt="Mr.Do-it-yourself-BBQ" target="_blank">
@@ -39,17 +39,17 @@ I'm sure there are many more tips in books, but
 
 
  
-{% include box-close.html author-name="Artemis251" last-modified-on="2007-06-03 03:55:37 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2007-06-03 08:55:37 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="1584" title="After all the work hue put into it...:" author-id="474" timestamp="2005-10-05 19:03:24 +0500" type="norm" dbname="box28175" last-modified-by="127" %}
+{% include box-open.html box-id="1584" title="After all the work hue put into it..." author-id="474" timestamp="2005-10-06 00:03:24 +0000" type="norm" dbname="box28175" last-modified-by="127" %}
 So have you gotten a good grasp of some of the awesomeness that is colored pencils?  My hope was to open up a new medium for you through my own devices to create a new flow of colored pencil works.  I don't know everything about them, obviously, so for extended use, try getting an art book or something.  Personal experimentation gets you far as well; try looking at things in a different light and develop a method out of it.  I'm also learning new techniques as I go, so check now and then to see if something new has been added!<br /><br />
 Anyway, it was a blast writing this, and the thing that would make it more rewarding is seeing people set aside Photoshop and Paint Shop Pro and to give the fun medium that is colored pencils a try!
-{% include box-close.html author-name="Artemis251" last-modified-on="2005-10-05 19:26:38 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2005-10-06 00:26:38 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="1587" title="Sky Runner Transport:" author-id="474" timestamp="2005-10-06 23:01:31 +0500" type="blank" dbname="box59145" last-modified-by="8" %}
+{% include box-open.html box-id="1587" title="Sky Runner Transport" author-id="474" timestamp="2005-10-07 04:01:31 +0000" type="blank" dbname="box59145" last-modified-by="8" %}
 <ul>
 <li><a href="http://starmen.net/fanart/tutorials/artemis251/begin.php">Woah, woah! Maybe I meant the Beginner section! </a></li>
 <li><a href="http://starmen.net/fanart/tutorials/artemis251/inter.php">Alright, I think I'll backtrack to the Intermediate section</a></li>
 <li><a href="http://starmen.net/fanart/tutorials/artemis251/">Go back home</a></li>
 </ul>
-{% include box-close.html author-name="Artemis251" last-modified-on="2007-06-03 03:54:52 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2007-06-03 08:54:52 +0000" last-modified-by-name="reidman" %}

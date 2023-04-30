@@ -2,9 +2,9 @@
 title: EarthBound 64 - Rumors
 categories:
   - eb64
-date: 2019-12-16 04:09:06 +0600
+date: 2019-12-16 10:09:06 +0000
 ---
-{% include box-open.html box-id="5534" title="Ness Returns:" author-id="28590" timestamp="2019-12-16 04:09:06 +0600" type="norm" dbname="box40072" last-modified-by="127" %}
+{% include box-open.html box-id="5534" title="Ness Returns" author-id="28590" timestamp="2019-12-16 10:09:06 +0000" type="norm" dbname="box40072" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="http://staff.starmen.net/eb64/images/1996/n_Early_Claus_2.jpg"><img src="http://staff.starmen.net/eb64/images/1996/n_Early_Claus_2.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
@@ -22,9 +22,9 @@ In an early trailer of the game, a character bearing a resemblance to Ness was s
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 04:19:04 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 10:19:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5535" title="Just a Demo:" author-id="28590" timestamp="2019-12-16 04:23:51 +0600" type="norm" dbname="box62139" last-modified-by="127" %}
+{% include box-open.html box-id="5535" title="Just a Demo" author-id="28590" timestamp="2019-12-16 10:23:51 +0000" type="norm" dbname="box62139" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="http://staff.starmen.net/eb64/images/1998/Hiroki-Chan.jpg"><img src="http://staff.starmen.net/eb64/images/1998/Hiroki-Chan.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
@@ -42,9 +42,9 @@ Surprisingly, there was actually a rumor that stated EB64 was nothing but a demo
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 04:51:14 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 10:51:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5536" title="Porky Finished the Job:" author-id="28590" timestamp="2019-12-16 04:52:40 +0600" type="norm" dbname="box51997" last-modified-by="127" %}
+{% include box-open.html box-id="5536" title="Porky Finished the Job" author-id="28590" timestamp="2019-12-16 10:52:40 +0000" type="norm" dbname="box51997" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="http://staff.starmen.net/eb64/images/2000/n_World_Doomed_2.JPG"><img src="http://staff.starmen.net/eb64/images/2000/n_World_Doomed_2.JPG" border="1" height="150" align="center" /></a>
 <br /><br />
@@ -62,9 +62,9 @@ There are many rumors that spark from simple lies and this if in fact one of tho
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 08:07:04 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 14:07:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5537" title="Giygas Returns:" author-id="28590" timestamp="2019-12-16 05:01:05 +0600" type="norm" dbname="box37630" last-modified-by="127" %}
+{% include box-open.html box-id="5537" title="Giygas Returns" author-id="28590" timestamp="2019-12-16 11:01:05 +0000" type="norm" dbname="box37630" last-modified-by="127" %}
 <ul class="pics"><li>
 <center>
 
@@ -81,9 +81,9 @@ There are many rumors that spark from simple lies and this if in fact one of tho
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 06:13:05 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 12:13:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5538" title="Mother 3.5:" author-id="28590" timestamp="2019-12-16 06:15:56 +0600" type="norm" dbname="box38182" last-modified-by="127" %}
+{% include box-open.html box-id="5538" title="Mother 3.5" author-id="28590" timestamp="2019-12-16 12:15:56 +0000" type="norm" dbname="box38182" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="mother35-ign.png"><img src="mother35-ign.png" border="1" height="150" align="center" /></a>
 <br /><br />
@@ -101,4 +101,4 @@ In 1999, after the 64DD was a commercial flop, Mother 3 moved development to the
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 08:06:08 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 14:06:08 +0000" last-modified-by-name="CerealQueen" %}

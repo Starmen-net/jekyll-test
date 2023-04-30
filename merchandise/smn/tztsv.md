@@ -2,9 +2,9 @@
 title: The Zombies - The Sea Voyage
 categories:
   - merchandise
-date: 2005-01-03 23:00:00 +0600
+date: 2005-01-04 05:00:00 +0000
 ---
-{% include box-open.html box-id="359" title="The Zombies - The Sea Voyage:" author-id="45" timestamp="2005-01-03 23:00:00 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="359" title="The Zombies - The Sea Voyage" author-id="45" timestamp="2005-01-04 05:00:00 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_tztsv_title.jpg" border="0" alt="The Zombies - The Sea Voyage" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-03 23:00:00 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_tztsv_poster.jpg">Poster</a> - <a href="/merchandise/images/smn_tztsv_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:00:33 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:00:33 +0000" last-modified-by-name="ShadowX" %}

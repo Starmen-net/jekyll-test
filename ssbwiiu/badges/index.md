@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - ssbwiiu
-date: 2018-09-09 16:22:59 +0500
+date: 2018-09-09 21:22:59 +0000
 ---
-{% include box-open.html box-id="5304" title="New Box, Edit me :(:" author-id="28590" timestamp="2018-09-09 16:22:59 +0500" type="norm" dbname="box65047" last-modified-by="127" %}
+{% include box-open.html box-id="5304" title="New Box, Edit me :(" author-id="28590" timestamp="2018-09-09 21:22:59 +0000" type="norm" dbname="box65047" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="400px" />
@@ -25,4 +25,4 @@ date: 2018-09-09 16:22:59 +0500
 </center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-09-09 16:28:06 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-09-09 21:28:06 +0000" last-modified-by-name="CerealQueen" %}

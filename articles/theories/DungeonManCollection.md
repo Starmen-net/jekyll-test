@@ -2,13 +2,13 @@
 title: Starmen.net - Theories - Dungeon Man&#039;s Collection
 categories:
   - articles
-date: 2013-06-27 21:33:18 +0500
+date: 2013-06-28 02:33:18 +0000
 ---
-{% include box-open.html box-id="4611" title="Theories topic for the week of June 25 - July 1, 2013:" author-id="24629" timestamp="2013-06-27 21:33:18 +0500" type="norm" dbname="box11628" last-modified-by="127" %}
+{% include box-open.html box-id="4611" title="Theories topic for the week of June 25 - July 1, 2013" author-id="24629" timestamp="2013-06-28 02:33:18 +0000" type="norm" dbname="box11628" last-modified-by="127" %}
 <center><b>How did Brick Road/Dungeon Man come across the items and vehicles in his collection?</b></center>
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-27 21:34:51 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-28 02:34:51 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4612" title="Theory of the Week:" author-id="24629" timestamp="2013-06-27 21:34:53 +0500" type="norm" dbname="box2763" last-modified-by="127" %}
+{% include box-open.html box-id="4612" title="Theory of the Week" author-id="24629" timestamp="2013-06-28 02:34:53 +0000" type="norm" dbname="box2763" last-modified-by="127" %}
 <p>Dungeon-making is not an easy task. It's exhausting, time-consuming, and largely thankless. One of the perks of being a really good dungeon designer, though, is the all-expenses-paid vacations that you get while designing a dungeon in some exotic locale. Naturally, as one of the premier dungeon designers in the world, Brick Road travelled far and wide and got paid a lot of money for it.</p>
 
 <p>One day, Carpainter called up Brick Road with a somewhat nonstandard request: he wanted Brick Road to design him a dungeon made of humans, an impenetrable maze of cultists to stop any and all bat-wielding children that might for some reason come to defeat him. Brick Road thought that this was a bit of a strange request, but he knew that Carpainter saved money from the Happy-Happyists' "donation" fund, so he thought this would be a very lucrative job opportunity. Brick Road started to think about the logistics of designing a dungeon out of people, and wondered what it would take to turn someone completely INTO a dungeon.</p>
@@ -32,9 +32,9 @@ date: 2013-06-27 21:33:18 +0500
 <p>Brick Road, feeling rather down about the failure of his human dungeon, decided to talk to Dr. Andonuts about his idea from oh-so-long ago: turning someone completely into a dungeon. The project was code-named "Project Dungeon Man," and made excellent progress. Brick Road knew this would be his ultimate dungeon project, so he decided to situate himself in the furthest locale that he knew of -- the desert of Scaraba. He also knew that he would be abandoning his old life entirely, so he decided to bring a few especially significant things from his past to remind him of the old days -- the bicycle, the taxi, the Instant Revitalizing Machine, and the submarine.</p>
 
 -- broomweed
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-27 21:37:16 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-28 02:37:16 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4613" title="His name is Brickroad:" author-id="24629" timestamp="2013-06-27 21:37:43 +0500" type="norm" dbname="box45345" last-modified-by="127" %}
+{% include box-open.html box-id="4613" title="His name is Brickroad" author-id="24629" timestamp="2013-06-28 02:37:43 +0000" type="norm" dbname="box45345" last-modified-by="127" %}
 <p>My name is Brickroad. A simple, yet quality name, no? My goal - no, my dream - is to create the ultimate dungeon. But, what is a dungeon, truly? Is it a labyrinth, a tower, a pyramid maze, an underground base, or a cave? No. A dungeon is none of these things. The world is my dungeon. I am Dungeon Man. Let me ask you: are you sure of my dungeon-making focus? What I am striving for? No, I have already given my answer. I create dungeons to create the ultimate dungeon, and thus, I create the world.</p>
 
 <p>The world's dungeon is full of bricks. You cannot ask, "What should I build this next dungeon out of?" No, the answer is in front of you all the time. Build from the world, and the world will continue to build.</p>
@@ -46,9 +46,9 @@ date: 2013-06-27 21:33:18 +0500
 <p>My name is Brickroad.</p>
 
 -- BB Gang Zombie
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-27 21:39:46 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-28 02:39:46 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4614" title="Becoming the Man:" author-id="24629" timestamp="2013-06-27 21:39:58 +0500" type="norm" dbname="box58978" last-modified-by="127" %}
+{% include box-open.html box-id="4614" title="Becoming the Man" author-id="24629" timestamp="2013-06-28 02:39:58 +0000" type="norm" dbname="box58978" last-modified-by="127" %}
 <p>Do you remember Brick Road, also known as Dungeon Man? He was seemingly obsessed with building dungeons. We don’t know much about him, but we can still assume things about him…</p>
 
 <p>He is first encountered by the player in Winters while controlling Jeff. If Winters is assumed to be his home then why isn't he found there again? Well that may be because the dungeon he made there was a failure. As good as he is at making dungeons, he didn't take into account that someone might come with a pencil eraser and erase the giant iron pencil statue. Upon realizing that once the statue was gone, people had no need to go into his dungeon again; he never wanted to see his failure again.</p>
@@ -65,12 +65,12 @@ Now, even though he is stuck in between some palm trees, he is still content sin
 <p>But that leaves one last question? Why did Brick Road lend Ness and his friends a submarine? Well that is because Ness reminded Brick Road of himself, a young adventurer exploring the whole world. How could he say, “No” to someone like Ness?</p>
 
 -- The Lonechallenger
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-27 21:42:45 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-28 02:42:45 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4615" title="A man and his dream:" author-id="24629" timestamp="2013-06-27 21:43:12 +0500" type="norm" dbname="box7410" last-modified-by="127" %}
+{% include box-open.html box-id="4615" title="A man and his dream" author-id="24629" timestamp="2013-06-28 02:43:12 +0000" type="norm" dbname="box7410" last-modified-by="127" %}
 <p>Ah yes, Brick Road soon-to-be Dungeon Man. Brick Road was a relatively simple man who dreamed of making great dungeons, to the point of becoming one, while Dungeon Man is Brick Road's realization of his dream and is the result of Dr. Andonauts Chimera making prowess (a prowess he may soon regret possessing).</p>
 
 <p>On the now realized Dungeon Man's quest to become the best dungeon known to man, he scoured Eagleland, searching for objects to showcase and enhance his dungeon, coming across helpful benches and cheeky "unintentional" homages to popular culture he could add to his personal collection. Whether the objects came from Dr. Andonauts, the locals, or were just lying around, Dungeon Man added them to his ever-growing collection, his apparent pride and joy, which he will stick with until he reaches his end at his "eternal resting place."</p>
 
 -- Lena Bena
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-27 21:44:05 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-28 02:44:05 +0000" last-modified-by-name="J_Spade" %}

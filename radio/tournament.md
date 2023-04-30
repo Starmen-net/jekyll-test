@@ -2,9 +2,9 @@
 title: RADIO - MISCELLANEOUS - RADIO PSI RUMBLE TOURNAMENT 2007
 categories:
   - radio
-date: 2006-06-02 16:04:01 +0500
+date: 2006-06-02 21:04:01 +0000
 ---
-{% include box-open.html box-id="2375" title="The Radio PSI Rumble Tournament 2007:" author-id="247" timestamp="2006-06-02 16:04:01 +0500" type="norm" dbname="box24667" last-modified-by="127" %}
+{% include box-open.html box-id="2375" title="The Radio PSI Rumble Tournament 2007" author-id="247" timestamp="2006-06-02 21:04:01 +0000" type="norm" dbname="box24667" last-modified-by="127" %}
 <p><div align="center"><img src="http://starmen.net/radio/images/radioPSI_logo_tourney2.png" /></div></p>
 
 <p>
@@ -18,4 +18,4 @@ Though the tournament spans four decades of music, between 1958-1967, 1968-1977,
 <p>
 The tournament will began on May 5th, and, barring any absences, ends on September 1st.
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-05-26 12:32:49 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-05-26 17:32:49 +0000" last-modified-by-name="Mansion Maniac" %}

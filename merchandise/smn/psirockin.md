@@ -2,9 +2,9 @@
 title: PSI Rockin&#039; Soundtrack
 categories:
   - merchandise
-date: 2005-01-04 00:02:31 +0600
+date: 2005-01-04 06:02:31 +0000
 ---
-{% include box-open.html box-id="387" title="PSI Rockin&#039; Soundtrack:" author-id="45" timestamp="2005-01-04 00:02:31 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="387" title="PSI Rockin&#039; Soundtrack" author-id="45" timestamp="2005-01-04 06:02:31 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/psir_cd_title.gif" border="0" alt="PSI Rockin' Soundtrack" />
 	</center>
@@ -386,4 +386,4 @@ date: 2005-01-04 00:02:31 +0600
 	<br />
 	<a href="/merchandise/images/psir_disc1_old.jpg">Disc 1 (Old)</a> - <a href="/merchandise/images/psir_disc2_old.jpg">Disc 2 (Old)</a> - <a href="/merchandise/images/psir_disc1_new.jpg">Disc 1 (New)</a> - 
 	<a href="/merchandise/images/psir_disc2_new.jpg">Disc 2 (New)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:10:47 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:10:47 +0000" last-modified-by-name="ShadowX" %}

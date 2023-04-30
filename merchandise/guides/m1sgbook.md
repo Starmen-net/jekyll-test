@@ -2,9 +2,9 @@
 title: Mother Strategy Guidebook
 categories:
   - merchandise
-date: 2005-01-03 20:15:24 +0600
+date: 2005-01-04 02:15:24 +0000
 ---
-{% include box-open.html box-id="300" title="Mother Strategy Guidebook:" author-id="45" timestamp="2005-01-03 20:15:24 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="300" title="Mother Strategy Guidebook" author-id="45" timestamp="2005-01-04 02:15:24 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m1sgbook_title.jpg" border="0" alt="Mother Strategy Guidebook" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 20:15:24 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m1sgbook1.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:15:37 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:15:37 +0000" last-modified-by-name="ShadowX" %}

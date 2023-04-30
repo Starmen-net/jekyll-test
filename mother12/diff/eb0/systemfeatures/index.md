@@ -2,9 +2,9 @@
 title: MOTHER 1+2 - Differences - System Features
 categories:
   - mother12
-date: 2010-02-21 16:34:40 +0600
+date: 2010-02-21 22:34:40 +0000
 ---
-{% include box-open.html box-id="3830" title="System Features and New Additions:" author-id="307" timestamp="2010-02-21 16:34:40 +0600" type="norm" dbname="box3549" last-modified-by="127" %}
+{% include box-open.html box-id="3830" title="System Features and New Additions" author-id="307" timestamp="2010-02-21 22:34:40 +0000" type="norm" dbname="box3549" last-modified-by="127" %}
 <p>The developers of MOTHER 1+2 had fourteen years and, in the marketing speak of the time, four times as many bits with which to work when it came time to port MOTHER. This is what they did with the time.</p>
 
 <ul class="spacey">
@@ -21,4 +21,4 @@ date: 2010-02-21 16:34:40 +0600
 <li><em>After you get EVE's melody you're given the memory chip, which will warp you back to her.</em> Anyone worried about the "dumbing down" of the English version will be pleased to know that they've continued doing it in the Japanese rerelease.</li>
 <li><em>The Flea Bag doesn't work on enemies like R7038.</em> Bug fixes can be such buzzkills.</li>
 </ul>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-02-21 16:54:51 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-02-21 22:54:51 +0000" last-modified-by-name="LiarXAgerate" %}

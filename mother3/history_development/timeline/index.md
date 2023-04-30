@@ -2,9 +2,9 @@
 title: MOTHER 3 - Timeline
 categories:
   - mother3
-date: 2009-03-18 10:17:30 +0500
+date: 2009-03-18 15:17:30 +0000
 ---
-{% include box-open.html box-id="3644" title="History of Mother 3's Development:" author-id="2262" timestamp="2009-03-18 10:17:30 +0500" type="norm" dbname="box59306" last-modified-by="127" %}
+{% include box-open.html box-id="3644" title="History of Mother 3's Development" author-id="2262" timestamp="2009-03-18 15:17:30 +0000" type="norm" dbname="box59306" last-modified-by="127" %}
 <table cellspacing="0" cellpadding="5">
   <tr><td align="right" valign="top" width="150">1994</td><td valign="top">Development as a Super Famicom game begins</td></tr>
   <tr><td align="right" valign="top">1995 (maybe 1994)</td><td valign="top">Mother 3's development is announced</td></tr>
@@ -62,4 +62,4 @@ date: 2009-03-18 10:17:30 +0500
 </table>
 <br/>
 Info courtesy of <A HREF="http://mother-jp.net">MOTHER Party</A>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 13:53:01 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 18:53:01 +0000" last-modified-by-name="KingDarian" %}

@@ -2,9 +2,9 @@
 title: M2 BINARY
 categories:
   - merchandise
-date: 2009-05-10 21:41:07 +0500
+date: 2009-05-11 02:41:07 +0000
 ---
-{% include box-open.html box-id="3741" title="M2 BINARY:" author-id="45" timestamp="2009-05-10 21:41:07 +0500" type="norm" dbname="box32304" last-modified-by="45" %}
+{% include box-open.html box-id="3741" title="M2 BINARY" author-id="45" timestamp="2009-05-11 02:41:07 +0000" type="norm" dbname="box32304" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_m2binary_title.png" border="0" alt="M2 BINARY" />
 	</center>
@@ -25,4 +25,4 @@ date: 2009-05-10 21:41:07 +0500
 	<br />
 	<a href="/merchandise/images/smn_m2binary_black.jpg">Black</a> - <a href="/merchandise/images/smn_m2binary_navy.jpg">Navy</a> - <a href="/merchandise/images/smn_m2binary_mgreen.jpg">Military Green</a> - 
 	<a href="/merchandise/images/smn_m2binary_brown.jpg">Brown</a> - <a href="/merchandise/images/smn_m2binary_charcoal.jpg">Charcoal</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:17:49 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:17:49 +0000" last-modified-by-name="ShadowX" %}

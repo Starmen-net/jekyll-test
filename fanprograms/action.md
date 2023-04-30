@@ -2,9 +2,9 @@
 title: Fan Programs - Action
 categories:
   - fanprograms
-date: 2007-07-17 16:27:10 +0500
+date: 2007-07-17 21:27:10 +0000
 ---
-{% include box-open.html box-id="3233" title="Navigator:" author-id="3404" timestamp="2007-07-18 18:11:58 +0500" type="blank" dbname="box45748" last-modified-by="127" %}
+{% include box-open.html box-id="3233" title="Navigator" author-id="3404" timestamp="2007-07-18 23:11:58 +0000" type="blank" dbname="box45748" last-modified-by="127" %}
 <table border="0" align="center">
 <tr>
 <td>
@@ -24,9 +24,9 @@ date: 2007-07-17 16:27:10 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 18:53:24 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 23:53:24 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3217" title="EarthBound Tag Online:" author-id="3404" timestamp="2007-07-17 16:27:10 +0500" type="norm" dbname="box33087" last-modified-by="127" %}
+{% include box-open.html box-id="3217" title="EarthBound Tag Online" author-id="3404" timestamp="2007-07-17 21:27:10 +0000" type="norm" dbname="box33087" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/2941/ebtag.zip"><u>EarthBound Tag Online</u></a></h1>
 <br />
 <br />
@@ -37,9 +37,9 @@ date: 2007-07-17 16:27:10 +0500
 <b>Content -</b> Install and then connect to a running server with friends to start the fun.<br />
 <br />
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_tag_1.png" title="Online tag with Earthbound heroes!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_tag_1t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:51:59 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:51:59 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3218" title="EBLite:" author-id="3404" timestamp="2007-07-17 16:29:24 +0500" type="norm" dbname="box41038" last-modified-by="127" %}
+{% include box-open.html box-id="3218" title="EBLite" author-id="3404" timestamp="2007-07-17 21:29:24 +0000" type="norm" dbname="box41038" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/07fd/Fan Game - 605 - EBLite.zip"><u>EBLite</u></a></h1>
 <br />
 <br />
@@ -52,9 +52,9 @@ date: 2007-07-17 16:27:10 +0500
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eblite_1.png" title="Character select screen." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eblite_1t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eblite_2.png" title="Paula using PSI Freeze!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eblite_2t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eblite_3.png" title="Ness exploring the caves." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eblite_3t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:53:02 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:53:02 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3219" title="Eventide Assault:" author-id="3404" timestamp="2007-07-17 16:29:26 +0500" type="norm" dbname="box58857" last-modified-by="127" %}
+{% include box-open.html box-id="3219" title="Eventide Assault" author-id="3404" timestamp="2007-07-17 21:29:26 +0000" type="norm" dbname="box58857" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/0803/Fan Game - Mooo - Eventide Assault.zip"><u>Eventide Assault</u></a></h1>
 <br />
 <br />
@@ -67,9 +67,9 @@ date: 2007-07-17 16:27:10 +0500
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eventide_assault_1.png" title="The title and stage select screen." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eventide_assault_1t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eventide_assault_2.png" title="Uh oh! Let's get outa here!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eventide_assault_2t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eventide_assault_3.png" title="An arsenal of exploding pumpkins." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eventide_assault_3t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:53:34 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:53:34 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3221" title="Mommy!:" author-id="3404" timestamp="2007-07-17 16:29:30 +0500" type="norm" dbname="box10261" last-modified-by="127" %}
+{% include box-open.html box-id="3221" title="Mommy!" author-id="3404" timestamp="2007-07-17 21:29:30 +0000" type="norm" dbname="box10261" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/07f9/Fan Game - 117 - Mommy!.zip"><u>Mommy!</u></a></h1>
 <br />
 <br />
@@ -86,9 +86,9 @@ Rescue the Runaway Five and help them save Venus before she is turned into a min
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_2.png" title="Night of the living dead!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_2t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_3.png" title="Attack with your melee weapon, or..." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_3t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_4.png" title="Attack with a ranged weapon." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_4t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:54:27 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:54:27 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3222" title="MOTHER 2 EB Racers:" author-id="3404" timestamp="2007-07-17 16:34:22 +0500" type="norm" dbname="box36662" last-modified-by="127" %}
+{% include box-open.html box-id="3222" title="MOTHER 2 EB Racers" author-id="3404" timestamp="2007-07-17 21:34:22 +0000" type="norm" dbname="box36662" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/2d26/m2netebracers.zip"><u>MOTHER 2 EB Racers</u></a></h1>
 <br />
 <br />
@@ -100,9 +100,9 @@ Rescue the Runaway Five and help them save Venus before she is turned into a min
 <br />
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_races_1.png" title="Choose your racer." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_races_1t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_races_2.png" title="Cruisin' through Onett." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_races_2t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:54:51 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:54:51 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3223" title="Seek and Tag:" author-id="3404" timestamp="2007-07-17 16:35:45 +0500" type="norm" dbname="box27318" last-modified-by="127" %}
+{% include box-open.html box-id="3223" title="Seek and Tag" author-id="3404" timestamp="2007-07-17 21:35:45 +0000" type="norm" dbname="box27318" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/07fe/Fan Game - 605 - Seek and Tag.zip"><u>Seek and Tag</u></a></h1>
 <br />
 <br />
@@ -113,4 +113,4 @@ Rescue the Runaway Five and help them save Venus before she is turned into a min
 <b>Content -</b> Another online tag game.<br />
 <br />
 (no screen shots available)
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:55:11 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:55:11 +0000" last-modified-by-name="Capn Muffin" %}

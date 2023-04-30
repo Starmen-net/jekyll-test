@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ SIMON ROBERTS ARCHIVES
 categories:
   - radio
-date: 2006-03-24 04:18:15 +0600
+date: 2006-03-24 10:18:15 +0000
 ---
-{% include box-open.html box-id="2125" title="Downloadables!:" author-id="247" timestamp="2006-03-24 04:18:15 +0600" type="norm" dbname="box23131" last-modified-by="127" %}
+{% include box-open.html box-id="2125" title="Downloadables!" author-id="247" timestamp="2006-03-24 10:18:15 +0000" type="norm" dbname="box23131" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ Downloads are available for every DJ that's done a show for Radio PSI!  Click a 
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 DJ Simon Roberts<BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 15:09:16 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 20:09:16 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2126" title="DJ Simon Roberts Archive Downloads!:" author-id="247" timestamp="2006-03-24 04:18:16 +0600" type="norm" dbname="box60001" last-modified-by="127" %}
+{% include box-open.html box-id="2126" title="DJ Simon Roberts Archive Downloads!" author-id="247" timestamp="2006-03-24 10:18:16 +0000" type="norm" dbname="box60001" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/simonroberts/radiopsidumpdjbob20070708.ogg">July 8th, 2007</a> (Series Finale)
 </p>
@@ -196,4 +196,4 @@ DJ Simon Roberts<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/simonroberts/radiopsidumpdjbob20060326.ogg">March 26th, 2006</a> (Series Premier)
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 15:09:25 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 20:09:25 +0000" last-modified-by-name="Mansion Maniac" %}

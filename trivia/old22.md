@@ -2,9 +2,9 @@
 title: Starmen.net Trivia - Archive 22
 categories:
   - trivia
-date: 2006-11-19 23:54:12 +0600
+date: 2006-11-20 05:54:12 +0000
 ---
-{% include box-open.html box-id="2722" title="Weekset 227: Money Money:" author-id="9" timestamp="2006-11-19 23:54:12 +0600" type="norm" dbname="box45838" last-modified-by="9" %}
+{% include box-open.html box-id="2722" title="Weekset 227: Money Money" author-id="9" timestamp="2006-11-20 05:54:12 +0000" type="norm" dbname="box45838" last-modified-by="9" %}
 <p>Hey hey hey, it's another money week!</p>
 
 <p>	<b>What two groups (group meaning more than one person) have accumulated significant debts at one point or another before the end of the game?</b>  The Runaway Five and Ness' family.<br />
@@ -14,9 +14,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>Ignoring the Fresh Egg, what's the common bond between the items that you can do the Fresh egg/Chicken trick with?  (The Fresh Egg/Chicken trick is: you buy some item, wait for it to become a new item and then sell the new item for more money than you bought the original item for.  If you ignore the Fresh Egg, what do all the items you can buy have in common?)</b>  They're all Broken items.</p>
 
 <p>And everyone went bankrupt.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-11-19 23:56:02 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-11-20 05:56:02 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2737" title="Weekset 228: Odd Man Out:" author-id="9" timestamp="2006-11-27 00:03:49 +0600" type="norm" dbname="box18960" last-modified-by="9" %}
+{% include box-open.html box-id="2737" title="Weekset 228: Odd Man Out" author-id="9" timestamp="2006-11-27 06:03:49 +0000" type="norm" dbname="box18960" last-modified-by="9" %}
 <p>One of these questions does not belong*.  Can you find it?</p>
 
 <p>	<b>What's the only human town/city in Eagleland where not even one (human) resident is ever identified by name?</b>  Threed.  In Onett, you have Frank, Ness and Tracy, the Minches, Pirkle, and Captain Strong; Twoson has the inventors, Everdred, and Paula.  Happy Happy Village has Carpainter, and Fourside has Monotoli.  Anywhere else is either entirely not human (Saturn Valley, Tenda Villages), or not in Eagleland (anything else, and also the Tenda Villages).<br />
@@ -28,9 +28,9 @@ date: 2006-11-19 23:54:12 +0600
 <p>BarryLocke, bstring, BWTadpole, Carparama, christopher, CodPor, Culix, duefiglio, EBMaster, Erniewan, Fishsticks, GiyganMage, Goggles, JeffMan, Kahran042, kota12, Lord Bob Bree, Lord Jimmy, The Losar, MArtek, matilda_caboose, MegaHarv, nekoaitsu, newhippie60, Ninten1, Phinos, PSI Clark, Ranger, SageLink, shivndragon, SimonBob, Spooky Mook, Strawberry Tofu, Super Starman Deluxe, Thunder Thighs, Treasure, toomanypenguins, Zach and Zasheir all won.</p>
 
 <p><font size="-2">* Such a question might not actually exist.</font></p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-11-27 00:09:24 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-11-27 06:09:24 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2739" title="Weekset 229: Wiiiiiiiii:" author-id="9" timestamp="2006-12-04 03:50:12 +0600" type="norm" dbname="box39459" last-modified-by="9" %}
+{% include box-open.html box-id="2739" title="Weekset 229: Wiiiiiiiii" author-id="9" timestamp="2006-12-04 09:50:12 +0000" type="norm" dbname="box39459" last-modified-by="9" %}
 <p>Oh look, it's Theme Wiik.</p>
 
 <p>	<b>We are each a part of a plant.  The two of us once had feelings for each other, even though we shouldn't even be able to communicate this to you (let alone express any sort of emotions).  Who are we?</b>  We are the white and black sesame seeds.<br />
@@ -40,9 +40,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>We deliver.  Over the course of the game, we can deliver anywhere from one to three different items (note: two Cookies only counts as one item) to you.  What three items can we deliver?</b>  We are Mach Pizza, but you were not asked who we were.  You were asked what the three items we can deliver are.  Those items are the Zombie paper, the Pizza, and the Large pizza.  Remember, we're out of the Medium pizza.</p>
 
 <p>We won.  Who are we?  We are billybobfred, CodPor, LordBobBree, MasterSaturn, SimonBob, and Strawberry Tofu.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-04 03:51:05 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-04 09:51:05 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2745" title="Weekset 230 - The Counting Crows:" author-id="9" timestamp="2006-12-11 02:10:31 +0600" type="norm" dbname="box17601" last-modified-by="9" %}
+{% include box-open.html box-id="2745" title="Weekset 230 - The Counting Crows" author-id="9" timestamp="2006-12-11 08:10:31 +0000" type="norm" dbname="box17601" last-modified-by="9" %}
 <p>The drama is escalating!  Who wins?</p>
 
 <p>	<b>What's the one PSI attack Paula learns that will never, ever, ever be able to strike more than one enemy in a single use, no matter how many enemies you're fighting?</b>  PSI Freeze.  Magnet Omega targets all enemies, Fire targets a line at all levels, and Thunder strikes from 0 to 4 enemies depending on your luck and what level you're using.<br />
@@ -52,9 +52,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>What's the fifth Shining Spot/Your Sanctuary that becomes accessible to you?</b>  Magnet Hill.</p>
 
 <p>These people won: BlackMageOfPain, bluegoo26, Culix, DDR Paladin, Foursider, Henry Midfields, Hlavco, JeffMan, Kahran042, kota12, Libra, Lord Bob Bree, LordJimmy, Matt, Naeroon, ness'_nightmare, Ranger, SimonBob, Spooky Mook, Thunder Thighs, Silent Wind of Doom, Steam, Waitohooru, ZBApoc.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-11 02:11:38 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-11 08:11:38 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2771" title="Weekset 231 - Eternophobia:" author-id="9" timestamp="2006-12-18 02:10:53 +0600" type="norm" dbname="box53702" last-modified-by="9" %}
+{% include box-open.html box-id="2771" title="Weekset 231 - Eternophobia" author-id="9" timestamp="2006-12-18 08:10:53 +0000" type="norm" dbname="box53702" last-modified-by="9" %}
 <p>This week, it's Everdred's time to shine.</p>
 
 <p>	<b>Everdred requests / that you do what whenever / you're on your way out?  (Side note: was this the most creative way I've presented a question?)</b>  He requests that you / be sure that you say goodbye / then lock the door tight.  You also got marked wrong if you answered no to the side note question.  (Just kidding!)<br />
@@ -64,9 +64,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>When Everdred first speaks to you, which of the "market trends" animals (bull/bear) is he more likely to be referencing?  (Note: I mean bulls or bears in terms of the actual animals.)</b>  Surprisingly, a bunch of people flubbed this one, mainly by answering an animal that wasn't a bull or a bear.  That aside, the correct answer is bull, because he's talking about locking horns.  (And absent something from the demented mind of Doctor Moreau, bears don't have horns.)</p>
 
 <p>Aeon, billybobfred, The Blue Avenger, CodPor, Culix, Cyan683, Dragonfire, duefiglio, Fishsticks, Foursider, Giegue, Godeg, Incoherent Moron, Lise Valentine, Lord Bob Bree, MadWilliamVane, shadowhexblade, ShivnDragon, SimonBob, Thunder Thighs.  These people conquered their fears.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-18 02:36:29 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-18 08:36:29 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2775" title="Weekset 232 - Bound Eye:" author-id="9" timestamp="2006-12-25 00:54:54 +0600" type="norm" dbname="box32086" last-modified-by="9" %}
+{% include box-open.html box-id="2775" title="Weekset 232 - Bound Eye" author-id="9" timestamp="2006-12-25 06:54:54 +0000" type="norm" dbname="box32086" last-modified-by="9" %}
 <p>This week we had a bunch of questions on fashion.</p>
 
 <p>	<b>What's the most common style of eyewear worn by enemies?  (Note: I'm not looking for answers that are equivalent to "no eyewear".)</b>  Sunglasses.<br />
@@ -76,9 +76,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>If you could salvage equippable items from the flying-saucer enemies that don't otherwise drop items, who would probably be the only one able to equip said items?  (Hint: what differentiates the flying-saucer enemies that drop items from those that don't?)</b>  The answer to the hint is "They wear ribbons."  The conclusion is left to the reader.</p>
 
 <p>Calistophles, CodPor, Gauntlet, Goggles, Kahran042 and BladesOfEB won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-25 00:55:45 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-12-25 06:55:45 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2776" title="Weekset 233 - <font color=\"red\">RU?</font>:" author-id="9" timestamp="2007-01-01 01:00:32 +0600" type="norm" dbname="box2656" last-modified-by="9" %}
+{% include box-open.html box-id="2776" title="Weekset 233 - <font color=\"red\">RU?</font>" author-id="9" timestamp="2007-01-01 07:00:32 +0000" type="norm" dbname="box2656" last-modified-by="9" %}
 <p>A set of reading questions.  I hope you've kept up with the assignments.</p>
 
 <p>	<b>In what two Onett buildings are the only published literary materials that aren't daily newspapers mentioned?  (Literary materials can be books or magazines or newspapers.  But not games titled EarthBound.)</b>  The old house by the sea (sounds like a Hemingway novel), and the Library.<br />
@@ -88,9 +88,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>Why can't you read what's written on the blackboard in Maxwell Labs' room?</b>  There's nothing written there.</p>
 
 <p>Well, only Hlavco and WolFox shot for the cycle.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-01 01:01:42 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-01 07:01:42 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2784" title="Weekset 234 - Plants:" author-id="9" timestamp="2007-01-08 00:01:46 +0600" type="norm" dbname="box65206" last-modified-by="9" %}
+{% include box-open.html box-id="2784" title="Weekset 234 - Plants" author-id="9" timestamp="2007-01-08 06:01:46 +0000" type="norm" dbname="box65206" last-modified-by="9" %}
 <p>A theme on plants.</p>
 
 <p>	<b>What is the two-word, plant-related phrase that appears in the name of two enemies?  (Mushrooms aren't plants, so even though "Evil Mushroom" is a two-word phrase, it's not an answer.)</b>  "Mobile Sprout."<br />
@@ -100,9 +100,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>With the possible exception of the otherwise nonsense-named Ranboob, what's the only plant enemy designed after <i>a flower</i>?</b>  The Demonic Petunia.</p>
 
 <p>AmbivalentIowa, GiyganMage, DDRPaladin, WolFox, Barrylocke, BlackEagle, bluegoo26, bstring, calistophles, Captain Bozo, collater333, Culix, Cyril, David Shelton, Spoony, Strawberry Tofu, Fritz, Goggles, Fourside Resident, Brandon, SageLink, Kahran042, EBsessor, BladesOfEB, MegaHarv, Godeg, Seifer, Zach, Presputnik, Ranger, ShivnDragon, SkyCroc, TheLosar, zztman, Giegue, Triple10X, Henry Midfields, Giygas_and_Pokey and yuki all won (unexpectedly).</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-08 00:02:59 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-08 06:02:59 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2792" title="Weekset 235 - New Year:" author-id="9" timestamp="2007-01-15 01:46:37 +0600" type="norm" dbname="box3751" last-modified-by="9" %}
+{% include box-open.html box-id="2792" title="Weekset 235 - New Year" author-id="9" timestamp="2007-01-15 07:46:37 +0000" type="norm" dbname="box3751" last-modified-by="9" %}
 <p>A New Years theme.</p>
 
 <p>	<b>Which Onett-area enemy has the ability to find something <i>incredibly</i> hilarious when you fight him?  (Well, that enemy could be female, as you really don't see said enemy's face...)</b>  The Yes Man Junior - he laughs hysterically.<br />
@@ -112,9 +112,9 @@ date: 2006-11-19 23:54:12 +0600
 	<b>Happy New Year, everybody.  A "new" question: of the three PSI users, whose PSI attacks listed in the "Attack" section (as opposed to "Assist" or "Other") were <i>all</i> new in Mother 2?  (For simplicity, just consider the names.)</b>  Ness.  Fire, Thunder and Freeze are returning Attack-list PSI, while Rockin', Flash and Starstorm are new.</p>
 
 <p>bluegoo26, Dragonfire, and no one else won this week.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-15 01:47:17 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-15 07:47:17 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2806" title="Week 236 - Boom!:" author-id="9" timestamp="2007-01-22 03:21:43 +0600" type="norm" dbname="box32326" last-modified-by="9" %}
+{% include box-open.html box-id="2806" title="Week 236 - Boom!" author-id="9" timestamp="2007-01-22 09:21:43 +0000" type="norm" dbname="box32326" last-modified-by="9" %}
 <p>Things blew up this week.</p>
 
 <p>	<b>What's the only item that, when used <i>properly</i>, will blow something up -- without an explosion?  (Which reminds me.  I have to ask Willis what he's talkin' about.)</b>  The Pak of bubble gum.  Use it properly, and the Bubble Monkey will blow a bubble up.<br />
@@ -124,4 +124,4 @@ date: 2006-11-19 23:54:12 +0600
 	<b>What seemingly alien foodstuff could cause the most allergic reactions to blow up?  (Hint: there's two reactions.)</b>  The Peanut (peanut allergy) cheese (lactose intolerance) bar.</p>
 
 <p>CodPor, Spoony, Tknight, and Toomanypenguins were the only ones to win this week.  Whoops.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-22 03:22:22 +0600" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-01-22 09:22:22 +0000" last-modified-by-name="Anthadd" %}

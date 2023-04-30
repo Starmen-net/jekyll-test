@@ -2,9 +2,9 @@
 title: The Beast of Eden
 categories:
   - merchandise
-date: 2005-01-03 23:07:49 +0600
+date: 2005-01-04 05:07:49 +0000
 ---
-{% include box-open.html box-id="363" title="The Beast of Eden:" author-id="45" timestamp="2005-01-03 23:07:49 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="363" title="The Beast of Eden" author-id="45" timestamp="2005-01-04 05:07:49 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_tboe_title.jpg" border="0" alt="The Beast of Eden" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-03 23:07:49 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_tboe_poster.jpg">Poster</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:07:59 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:07:59 +0000" last-modified-by-name="ShadowX" %}

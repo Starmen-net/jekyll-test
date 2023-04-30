@@ -2,9 +2,9 @@
 title: Pollyana (I Believe In You) &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-24 19:33:43 +0600
+date: 2010-11-25 01:33:43 +0000
 ---
-{% include box-open.html box-id="3917" title="Production Credits:" author-id="307" timestamp="2010-11-24 20:47:22 +0600" type="norm" dbname="box2810" last-modified-by="127" %}
+{% include box-open.html box-id="3917" title="Production Credits" author-id="307" timestamp="2010-11-25 02:47:22 +0000" type="norm" dbname="box2810" last-modified-by="127" %}
 <table align="center">
 <tr>
 <td>MUSIC -</td>
@@ -53,9 +53,9 @@ YUKIO DOKI<br />
 TAKAZUMI KUNITOMO</td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 20:47:35 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 02:47:35 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3916" title="Lyrics:" author-id="307" timestamp="2010-11-24 19:33:43 +0600" type="norm" dbname="box36892" last-modified-by="127" %}
+{% include box-open.html box-id="3916" title="Lyrics" author-id="307" timestamp="2010-11-25 01:33:43 +0000" type="norm" dbname="box36892" last-modified-by="127" %}
 <p>
 I believe the morning sun <br />
 Always gonna shine again and<br />
@@ -103,4 +103,4 @@ When you can see my point of view<br />
 I believe in second chances<br />
 And that's why I believe in you<br />
 </p>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 20:47:12 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 02:47:12 +0000" last-modified-by-name="LiarXAgerate" %}

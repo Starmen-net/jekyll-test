@@ -2,9 +2,9 @@
 title: Hard Trivia Hall of Fame
 categories:
   - hardtrivia
-date: 2012-04-26 21:59:09 +0500
+date: 2012-04-27 02:59:09 +0000
 ---
-{% include box-open.html box-id="4436" title="Hall of Fame:" author-id="49" timestamp="2012-04-26 21:59:09 +0500" type="norm" dbname="box45275" last-modified-by="56" %}
+{% include box-open.html box-id="4436" title="Hall of Fame" author-id="49" timestamp="2012-04-27 02:59:09 +0000" type="norm" dbname="box45275" last-modified-by="56" %}
 <table>
 <tr><td>3minutes</td><td><img src='http://starmen.net/hardtrivia/1.gif'/> <img src='http://starmen.net/hardtrivia/1.gif'/> <img src='http://starmen.net/hardtrivia/1.gif'/> </td></tr>
 <tr><td>3rdStrongestMole</td><td><img src='http://starmen.net/hardtrivia/1.gif'/> </td></tr>
@@ -790,4 +790,4 @@ date: 2012-04-26 21:59:09 +0500
 <tr><td>ZZ_5</td><td><img src='http://starmen.net/hardtrivia/1.gif'/> </td></tr>
 <tr><td>{EB}Giygas</td><td><img src='http://starmen.net/hardtrivia/1.gif'/> </td></tr>
 </table>
-{% include box-close.html author-name="ROFISH" last-modified-on="2012-06-19 20:11:57 +0500" last-modified-by-name="Ploqazxswm" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2012-06-20 01:11:57 +0000" last-modified-by-name="Ploqazxswm" %}

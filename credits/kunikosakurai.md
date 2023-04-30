@@ -2,9 +2,9 @@
 title: 'Game Credits: Kuniko Sakurai'
 categories:
   - credits
-date: 2005-09-21 13:54:12 +0500
+date: 2005-09-21 18:54:12 +0000
 ---
-{% include box-open.html box-id="1449" title="Kuniko Sakurai:" author-id="2262" timestamp="2005-09-21 13:54:12 +0500" type="norm" dbname="box28285" last-modified-by="127" %}
+{% include box-open.html box-id="1449" title="Kuniko Sakurai" author-id="2262" timestamp="2005-09-21 18:54:12 +0000" type="norm" dbname="box28285" last-modified-by="127" %}
 <img src="kunikosakurai.JPG" align="right" />
 <b>Game Credits</b>
  <UL>
@@ -21,4 +21,4 @@ date: 2005-09-21 13:54:12 +0500
     <LI><b>Mole Mania(GB 1996) USA Only</b><BR />
     Special Thanks</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 16:32:26 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 21:32:26 +0000" last-modified-by-name="KingDarian" %}

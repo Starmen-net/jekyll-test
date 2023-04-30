@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Anti-Piracy Measures
 categories:
   - mother2
-date: 2007-06-22 20:58:11 +0500
+date: 2007-06-23 01:58:11 +0000
 ---
-{% include box-open.html box-id="3083" title="MOTHER 2 / EarthBound Anti-Piracy Measures:" author-id="288" timestamp="2007-06-22 20:58:11 +0500" type="norm" dbname="box54491" last-modified-by="127" %}
+{% include box-open.html box-id="3083" title="MOTHER 2 / EarthBound Anti-Piracy Measures" author-id="288" timestamp="2007-06-23 01:58:11 +0000" type="norm" dbname="box54491" last-modified-by="127" %}
 <b>Update: For a more thorough description in layman's terms, see this article on EarthBound Central: <a href="http://earthboundcentral.com/2011/05/earthbounds-copy-protection/">EarthBound's Copy Protection</a></b>
 
 <br /><br />
@@ -52,4 +52,4 @@ Or if you have a Game Genie, the code is:<br /><br />
 
 <br />
 <b><font color="red">CAUTION!</font></b> If you decide to try out these codes, make a backup of your .srm file! That's the file that has your save games!
-{% include box-close.html author-name="Tomato" last-modified-on="2011-05-14 14:25:34 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2011-05-14 19:25:34 +0000" last-modified-by-name="Tomato" %}

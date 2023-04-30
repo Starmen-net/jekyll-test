@@ -2,9 +2,9 @@
 title: EarthBound
 categories:
   - merchandise
-date: 2010-10-20 08:58:06 +0500
+date: 2010-10-20 13:58:06 +0000
 ---
-{% include box-open.html box-id="3893" title="EarthBound:" author-id="45" timestamp="2010-10-20 08:58:06 +0500" type="norm" dbname="box4334" last-modified-by="127" %}
+{% include box-open.html box-id="3893" title="EarthBound" author-id="45" timestamp="2010-10-20 13:58:06 +0000" type="norm" dbname="box4334" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -73,4 +73,4 @@ Be sure to check out the separate sections for the <a href="http://starmen.net/m
 <a href="/merchandise/images/earthbound_guide_front.jpg" ><img src="/merchandise/images/earthbound_guide_front.jpg" title="EarthBound Player's Guide" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/earthbound_complete.jpg" ><img src="/merchandise/images/earthbound_complete.jpg" title="EarthBound Complete" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:22:42 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:22:42 +0000" last-modified-by-name="Tomato" %}

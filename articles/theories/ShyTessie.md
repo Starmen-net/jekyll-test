@@ -2,13 +2,13 @@
 title: Starmen.net - Theories - Shy Tessie
 categories:
   - articles
-date: 2014-02-24 16:34:54 +0600
+date: 2014-02-24 22:34:54 +0000
 ---
-{% include box-open.html box-id="4676" title="Theories Topic for February 10, 2014:" author-id="24629" timestamp="2014-02-24 16:34:54 +0600" type="norm" dbname="box47645" last-modified-by="127" %}
+{% include box-open.html box-id="4676" title="Theories Topic for February 10, 2014" author-id="24629" timestamp="2014-02-24 22:34:54 +0000" type="norm" dbname="box47645" last-modified-by="127" %}
 <b>Tessie seems friendly; why doesn't she show up when the researchers are watching?</b>
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-03-10 13:38:45 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-03-10 18:38:45 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4677" title="Theory of the Week:" author-id="24629" timestamp="2014-02-24 16:38:26 +0600" type="norm" dbname="box58202" last-modified-by="127" %}
+{% include box-open.html box-id="4677" title="Theory of the Week" author-id="24629" timestamp="2014-02-24 22:38:26 +0000" type="norm" dbname="box58202" last-modified-by="127" %}
 <p>No respect, Tessie thought to herself. Those darn peeping toms. Can't an aquatic reptilian lady get her peace around here?
 From the under the water, Tessie swam, going to and fro, swooping delicately against the bottom of the lake, sending waves of disturbed sand particles floating upwards. A salmon swam by undisturbed; Tessie snatched it and swallowed it whole. On any other day, Tessie would've eaten grass from the lake shore. She was actually a kindhearted creature to her underwater neighbors. But she couldn't- no, wouldn't dare reveal herself to those detestable scientists.</p>
 
@@ -31,17 +31,17 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>Tessie's smile was genuine rather than stifled as she descended into the water again. She hoped to meet glasses boy- er, Jeff- again in the future.</p>
 
 -- Ostricho
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:40:40 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:40:40 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4678" title="Science Kills:" author-id="24629" timestamp="2014-02-24 16:42:08 +0600" type="norm" dbname="box40155" last-modified-by="127" %}
+{% include box-open.html box-id="4678" title="Science Kills" author-id="24629" timestamp="2014-02-24 22:42:08 +0000" type="norm" dbname="box40155" last-modified-by="127" %}
 <p>I believe Tessie didn't show itself to the researchers because of the way Tessie's cousin Nessie (Loch Ness Monster) was treated. Tessie saw that when Nessie was discovered it attracted people from around the world trying to study and possibly capture Nessie for profit. The humans, must've captured Nessie and studied it intently. However, in the process of studying Nessie and taking samples, they must've destroyed the bones. This can possibly be supported by the fact that in Fourside, all of the bones in the museum are replicas Tessie, being an intelligent animal understood that humans were the cause of this and vowed not to get close to humans seeing the danger they posed to her. Also, it also can be proven because of the hotel employee who bought the wrong newspaper in Twoson, the headline was about Tessie and Nessie being cousins. Also, you don't ever see any of Tessie's other relatives assuming they didn't die off from natural causes which could mean they were also captured by scientists.</p>
 
 <p>However, when Jeff came along, she saw how Jeff treated Bubble Monkey by giving him a piece of gum. So when Bubble Monkey called her, she trusted Jeff enough to allow him to ride her across the waters.</p>
 
 -- JoseD1397
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:43:39 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:43:39 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4679" title="Oh no, evil? D:" author-id="24629" timestamp="2014-02-24 16:43:46 +0600" type="norm" dbname="box48312" last-modified-by="127" %}
+{% include box-open.html box-id="4679" title="Oh no, evil? D" author-id="24629" timestamp="2014-02-24 22:43:46 +0000" type="norm" dbname="box48312" last-modified-by="127" %}
 <p>I think the reason that Tessie didn't come up is for one of two reasons.</p>
 
 <p>The first option is that she simply didn't want to be seen, but the Bubble Monkey made her surface somehow. Maybe they were friends before? Who knows.</p>
@@ -51,17 +51,17 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>Well, there's my first theory!</p>
 
 -- gooieooie
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:45:25 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:45:25 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4680" title="That flash is scary, you know:" author-id="24629" timestamp="2014-02-24 16:45:34 +0600" type="norm" dbname="box24856" last-modified-by="127" %}
+{% include box-open.html box-id="4680" title="That flash is scary, you know" author-id="24629" timestamp="2014-02-24 22:45:34 +0000" type="norm" dbname="box24856" last-modified-by="127" %}
 <p>Tessie is really, truly, and simply, camera shy. This is evident, because she only appears after the photo man shows up, takes a picture, and leaves.</p>
 
 <p>I mean, all she wanted to do was hang out and talk with people, but they just insisted on taking her picture. Perhaps it's the flash? Maybe it's the thought of being immortalized on a sheet of paper forever? No one knows...</p>
 
 -- Mystical_Chocolate
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:46:41 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:46:41 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4681" title="Paparazzi:" author-id="24629" timestamp="2014-02-24 16:46:44 +0600" type="norm" dbname="box26938" last-modified-by="127" %}
+{% include box-open.html box-id="4681" title="Paparazzi" author-id="24629" timestamp="2014-02-24 22:46:44 +0000" type="norm" dbname="box26938" last-modified-by="127" %}
 <p>From what we have seen of her, Tessie only revealed herself to the Bubble Monkey and Jeff. Tessie seems friendly enough so why won't she let herself be seen by the researchers? How would you feel knowing that if you show yourself around a certain group of people, they would photograph your every move and attempt to research you? Tessie is most likely scared of the research group.</p>
 
 <p>The Tessie watching club is composed of scientists attempting to research the sightings of Tessie. Though they never actually see her (somehow) they are vigilantly watching and waiting for her to show herself. Tessie is shy and quite possibly scared of these people. They are trying to capture her every movement on film and expose her existence to the world.</p>
@@ -69,17 +69,17 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>The lady is just afraid of her whole life bing exposed and honestly, who can blame her? Who wouldn't try to avoid paparazzi trying to capture you in every waking moment of the day? Wouldn't that make you a bit nervous to leave home? It doesn't matter how friendly or nice you are when someone has made it their lives goal to study you. So keep on hiding Tessie! Though you have appeared a few times for Ness and the crew, they somehow sill haven't noticed you.</p>
 
 -- Drew Diesel
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:48:59 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:48:59 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4682" title="Such sympathy:" author-id="24629" timestamp="2014-02-24 16:49:03 +0600" type="norm" dbname="box22451" last-modified-by="127" %}
+{% include box-open.html box-id="4682" title="Such sympathy" author-id="24629" timestamp="2014-02-24 22:49:03 +0000" type="norm" dbname="box22451" last-modified-by="127" %}
 <p>Animals are very prone to sensing emotions – so I wouldn’t be surprised if Tessie is affected by that sort of thing, and, considering that she is an animal, she would probably have the instincts of one, too. It’s obvious that she’s made people aware of her presence, or otherwise the researches wouldn’t be there in the first place! She probably picked up on the researchers’ sense of anticipation – and so began to anticipate herself, keeping hidden for fear that the unusual strength of the emotion meant that there might be a large predatory creature nearby. She only revealed herself to Jeff because she picked up on his desperation, and came to his aid as a result.</p>
 
 <p>Bubble Monkey had nothing to do with Tessie’s summoning – he just wanted more gum and believed that he could fly!</p>
 
 -- Laevateinn
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:50:32 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:50:32 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4683" title="The internet is vicious:" author-id="24629" timestamp="2014-02-24 16:50:56 +0600" type="norm" dbname="box12303" last-modified-by="127" %}
+{% include box-open.html box-id="4683" title="The internet is vicious" author-id="24629" timestamp="2014-02-24 22:50:56 +0000" type="norm" dbname="box12303" last-modified-by="127" %}
 <p>Early in the lifespan of Youtube, amidst the videos of cats playing various percussion instruments and obese children waving broomsticks around while humming the theme from Skyrim, a little-known video went viral.</p>
 
 <p>Originally, it was only of a blurry video of a lake off the southern coast of Winters. A hulking behemoth rising its long and graceful neck out of the water and looking down on the recorder with watery eyes. This caught the imagination of the public by storm and soon people began to flock to the coast. Of course, this creature was Tessie, (or Humidum Colopidae as she's now known in more scholarly circles) and she was incredibly vain.</p>
@@ -93,9 +93,9 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>And so, while hundreds flock to the shore every year to see the grand Tessie in her pre-mammilian beauty, she refuses to leave her sub-aquatic home, save for the company of a lone gum-obsessed monkey who's antics which first appeared on StupidVideos.com are best left for another day.</p>
 
 -- Rabid Dog
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:52:31 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:52:31 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4684" title="Long lost friends:" author-id="24629" timestamp="2014-02-24 16:52:36 +0600" type="norm" dbname="box34422" last-modified-by="127" %}
+{% include box-open.html box-id="4684" title="Long lost friends" author-id="24629" timestamp="2014-02-24 22:52:36 +0000" type="norm" dbname="box34422" last-modified-by="127" %}
 <p>This week's theory was based around Tessie and how she won't show up when the Tessie Watchers are watching. We know that when Jeff sleeps at the Tessie Watching Club in Winters, Tessie appears the next morning with the winds blowing to carry Jeff and Bubble Monkey to the Brickroad dungeon. So why did she choose to show up at that time instead of throughout the day, when the watchers are watching?</p>
 
 <p>The only explanation I can think of is that Tessie and Bubble Monkey have a strong bond with each other. The first encounter with Tessie is when Jeff goes to Lake Tess with Bubble Monkey to get to the other side of the lake. Jeff gave Bubble Monkey a piece of gum which he used to float over to where Tessie was. And Tessie calmly floated up from the water, allowing the monkey and Jeff to progress the game.</p>
@@ -114,9 +114,9 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>There's my Tessie theory :)</p>
 
 -- SwiftWaffles
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:55:09 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:55:09 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4685" title="The handsomest scientist:" author-id="24629" timestamp="2014-02-24 16:55:16 +0600" type="norm" dbname="box28022" last-modified-by="127" %}
+{% include box-open.html box-id="4685" title="The handsomest scientist" author-id="24629" timestamp="2014-02-24 22:55:16 +0000" type="norm" dbname="box28022" last-modified-by="127" %}
 <p>Tessie, a report by Dr. Andonuts</p>
 
 <p>"This is it."</p>
@@ -153,9 +153,9 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>Thus, it leads to the only explanation I, in my worldly wisdom, have for the creature's irrational behavior in destroying the machine that sent the cherubic sound of my voice. Tessie hides under the lake, awaiting the day where she will once again hear my beautiful radiant vocal chords; forever longing for me to return this emotion we call "love."</p>
 
 -- BB Gang Zombie
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 16:58:18 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 22:58:18 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4686" title="All a-twitter:" author-id="24629" timestamp="2014-02-24 16:58:57 +0600" type="norm" dbname="box11597" last-modified-by="127" %}
+{% include box-open.html box-id="4686" title="All a-twitter" author-id="24629" timestamp="2014-02-24 22:58:57 +0000" type="norm" dbname="box11597" last-modified-by="127" %}
 <p>Many ask why Tessie hides from the eyes of mankind, but rest assured, there is a reason behind this. A year before Jeff requested the ferry service of this glorious creature, a group of researchers came to Winters, in hope to finally find the discovery of a lifetime. Apparently, there was a large lake in the middle of town that inhabited the famous Tessie, a lavender aquatic beast. However, the general public made it out to be mere folklore. So, these researchers, all with the utmost confidence in the monster’s existence, left behind their lives in hopes to prove it.</p>
 
 <p>Before they had set up their camp, Tessie hid in the thick morning fog that rested on top of the gentle waters, curious about the commotion from the northern shore. She spotted a group of men talking amongst themselves as they set up tents on the white ground. She edged slightly closer, fascinated by these strange creatures; of course, she knew what a human was, but never before had she seen one up close. The humans were too focused on setting up camp, none noticed the long purple neck that hung from the deep mist.</p>
@@ -169,9 +169,9 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>Tessie’s nerves got the better of her and deep into Lake Tess she remained for a long time. Every now and then, she peeked from the water’s surface when it was buried deep in fog, but there he was. The man who made her heart flutter had not budged a single inch and continued to search the waters. So, each time, Tessie would return to the near bottom of the lake, her heart pounding. Around him, she felt as shy as a Tenda. Would she ever have the nerve to directly approach this man or would she forever be in hiding? After all, love is a strange and wondrous thing.</p>
 
 -- CerealQueen
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 17:00:28 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 23:00:28 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4687" title="True facts by an infallible researcher:" author-id="24629" timestamp="2014-02-24 17:00:54 +0600" type="norm" dbname="box39930" last-modified-by="127" %}
+{% include box-open.html box-id="4687" title="True facts by an infallible researcher" author-id="24629" timestamp="2014-02-24 23:00:54 +0000" type="norm" dbname="box39930" last-modified-by="127" %}
 <p>What? Why has no one ever seen Tessie who's tried to look for her? THAT'S your "big-ticket" question?</p>
 
 <p>Well. I thought everyone knew the answer to this one, but I guess I was wrong.</p>
@@ -251,4 +251,4 @@ From the under the water, Tessie swam, going to and fro, swooping delicately aga
 <p>Some people -- the same people who talk about the 199X alien invasion -- claim that a young boy from Winters was able to make friends with the beast. But I wouldn't trust a thing they say.</p>
 
 -- broomweed
-{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 17:05:43 +0600" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2014-02-24 23:05:43 +0000" last-modified-by-name="J_Spade" %}

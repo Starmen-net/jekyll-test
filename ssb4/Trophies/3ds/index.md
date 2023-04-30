@@ -2,17 +2,17 @@
 title: I AM A NEW PAGE
 categories:
   - ssb4
-date: 2017-07-05 23:22:52 +0500
+date: 2017-07-06 04:22:52 +0000
 ---
-{% include box-open.html box-id="5089" title="Overview:" author-id="28590" timestamp="2017-11-25 14:34:23 +0600" type="norm" dbname="box25591" last-modified-by="127" %}
+{% include box-open.html box-id="5089" title="Overview" author-id="28590" timestamp="2017-11-25 20:34:23 +0000" type="norm" dbname="box25591" last-modified-by="127" %}
 <center>Listed below are all the trophies on the 3DS version of the 4th installment of Super Smash Bros. 
 <br /><br />
 The trophies' names and descriptions are taken from the North American release of the game. <br />To view the PAL version's page, <a href="http://staff.starmen.net/ssb4/Trophies/index2.php"><b>click here.</b></a></center><br /><br />
 
 <center><a href="#animalcrossing">Animal Crossing</a> / <a href="#bayonetta">Bayonetta</a> / <a href="#donkeykong">Donkey Kong</a> / <a href="#duckhunt">Duck Hunt</a> / <a href="#finalfantasy">Final Fantasy</a> / <a href="#fzero">F-Zero</a> / <a href="#kidicarus">Kid Icarus</a> / <a href="#kirby">Kirby</a> / <a href="#megaman">Mega Man</a> / <a href="#metroid">Metroid</a> / <a href="#mother">Mother</a> / <a href="#pacman">PAC-MAN</a> / <a href="#pikmin">Pikmin</a> / <a href="#pokemon">Pokemon</a> / <a href="#punchout">Punch-Out</a> / <a href="#sonicthehedgehog">Sonic the Hedgehog</a> / <a href="#starfox">Star Fox</a> / <a href="#supermario">Super Mario</a> / <a href="#supersmashbros">Super Smash Bros.</a> / <a href="#wario">Wario</a> / <a href="#wiifit">Wii Fit</a> / <a href="#xenobladechronicles">Xenoblade Chronicles</a> / <a href="#yoshisisland">Yoshi's Island</a> / <a href="#other">Other</a></center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 14:36:05 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 20:36:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5074" title="Animal Crossing:" author-id="28590" timestamp="2017-07-05 23:22:52 +0500" type="norm" dbname="box4836" last-modified-by="127" %}
+{% include box-open.html box-id="5074" title="Animal Crossing" author-id="28590" timestamp="2017-07-06 04:22:52 +0000" type="norm" dbname="box4836" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -211,9 +211,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
  
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:35:51 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:35:51 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5108" title="Bayonetta:" author-id="28590" timestamp="2017-11-29 15:48:33 +0600" type="norm" dbname="box59869" last-modified-by="127" %}
+{% include box-open.html box-id="5108" title="Bayonetta" author-id="28590" timestamp="2017-11-29 21:48:33 +0000" type="norm" dbname="box59869" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -250,9 +250,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>This shady figure owns the Gates of Hell bar and runs a side business in mysterious objects and powerful weaponry made from the souls of demons. He's known for being a talented gunsmith and counts Bayonetta as a loyal customer, but it's said that if any human uses his wares, they'll suffer a terrible fate...</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:56:16 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:56:16 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5083" title="Donkey Kong:" author-id="28590" timestamp="2017-11-25 11:46:23 +0600" type="norm" dbname="box49889" last-modified-by="127" %}
+{% include box-open.html box-id="5083" title="Donkey Kong" author-id="28590" timestamp="2017-11-25 17:46:23 +0000" type="norm" dbname="box49889" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -389,9 +389,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:40:50 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:40:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5084" title="Duck Hunt:" author-id="28590" timestamp="2017-11-25 12:10:29 +0600" type="norm" dbname="box7775" last-modified-by="127" %}
+{% include box-open.html box-id="5084" title="Duck Hunt" author-id="28590" timestamp="2017-11-25 18:10:29 +0000" type="norm" dbname="box7775" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -412,9 +412,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>A gang of five outlaws from the Wild West, these fellows are quick to brandish their pistols. In fact, the moment they hear "Fire!" they start shooting. A member of the gang will show up whenever Duck Hunt does a down special move. Watch out for the gang's leader—he's quick!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:41:54 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:41:54 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5112" title="Final Fantasy VII:" author-id="28590" timestamp="2017-11-29 15:52:15 +0600" type="norm" dbname="box42590" last-modified-by="127" %}
+{% include box-open.html box-id="5112" title="Final Fantasy VII" author-id="28590" timestamp="2017-11-29 21:52:15 +0000" type="norm" dbname="box42590" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -431,9 +431,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>Filling the Limit Gauge allows Cloud to perform a Limit Break, supercharging his next special move. His down special becomes Finishing Touch. With a huge swing of his sword, Cloud summons a whirlwind that inflicts only 1% damage, but boasts brutal launch power. Go for a KO while foes' damage is still low!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 16:09:03 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 22:09:03 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5107" title="Fire Emblem:" author-id="28590" timestamp="2017-11-29 15:30:43 +0600" type="norm" dbname="box55067" last-modified-by="127" %}
+{% include box-open.html box-id="5107" title="Fire Emblem" author-id="28590" timestamp="2017-11-29 21:30:43 +0000" type="norm" dbname="box55067" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -565,9 +565,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:48:23 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:48:23 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5085" title="F_Zero:" author-id="28590" timestamp="2017-11-25 12:39:28 +0600" type="norm" dbname="box16101" last-modified-by="127" %}
+{% include box-open.html box-id="5085" title="F_Zero" author-id="28590" timestamp="2017-11-25 18:39:28 +0000" type="norm" dbname="box16101" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -628,9 +628,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>Pico was given this machine when his commanding officer retired from the military. The Wild Goose trades handling and acceleration for durability— fortunate, since Pico isn't afraid to swap paint with his rivals. Speaking of paint, does it look kinda...duck-like?</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:42:20 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:42:20 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5109" title="Game & Watch:" author-id="28590" timestamp="2017-11-29 15:50:15 +0600" type="norm" dbname="box31942" last-modified-by="127" %}
+{% include box-open.html box-id="5109" title="Game & Watch" author-id="28590" timestamp="2017-11-29 21:50:15 +0000" type="norm" dbname="box31942" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -667,9 +667,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>The Game & Watch Multi Screen series is the big, big brother of the Nintendo DS. One classic title was Oil Panic, which puts you in charge of a petrol station that's sprung a leak. As oil drips down on the upper screen, you've got to catch it in buckets on the lower screen or risk an angry customer with a face full of oil!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:58:45 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:58:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5086" title="Kid Icarus:" author-id="28590" timestamp="2017-11-25 12:50:45 +0600" type="norm" dbname="box53266" last-modified-by="127" %}
+{% include box-open.html box-id="5086" title="Kid Icarus" author-id="28590" timestamp="2017-11-25 18:50:45 +0000" type="norm" dbname="box53266" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -965,9 +965,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>The Zuree usually live in the Underworld, but in Kid Icarus, Medusa set them to work guarding the Palace in the Sky. In Smash Bros., they appear as a silvery mist, waiting until they've floated close enough to a fighter before showing themselves and attacking with their sharp claws. That's your cue to fight back!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:44:07 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:44:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5087" title="Kirby:" author-id="28590" timestamp="2017-11-25 14:07:02 +0600" type="norm" dbname="box37653" last-modified-by="127" %}
+{% include box-open.html box-id="5087" title="Kirby" author-id="28590" timestamp="2017-11-25 20:07:02 +0000" type="norm" dbname="box37653" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1108,9 +1108,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>Pop quiz! What do cars have four of, bikes have two of, and this enemy would blend right in with? That's right! Tires! Your prize is...more info! Wheelie likes to charge ahead, and Kirby can ride on top when he's a helper. If Kirby inhales him, he can even turn into a tire!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 14:31:44 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 20:31:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5101" title="Legend of Zelda:" author-id="28590" timestamp="2017-11-29 12:13:55 +0600" type="norm" dbname="box1932" last-modified-by="127" %}
+{% include box-open.html box-id="5101" title="Legend of Zelda" author-id="28590" timestamp="2017-11-29 18:13:55 +0000" type="norm" dbname="box1932" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1408,9 +1408,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:18:11 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:18:11 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5088" title="Mega Man:" author-id="28590" timestamp="2017-11-25 14:31:55 +0600" type="norm" dbname="box25541" last-modified-by="127" %}
+{% include box-open.html box-id="5088" title="Mega Man" author-id="28590" timestamp="2017-11-25 20:31:55 +0000" type="norm" dbname="box25541" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1481,9 +1481,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>This massive baddy splits itself into small pieces and flies across the battlefield, striking anyone in the way. Deal damage to it by attacking the eye, or hide behind its body to avoid your foes. Be careful— whoever deals the final blow triggers an enemy-launching explosion!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 15:21:32 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 21:21:32 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5090" title="Metroid:" author-id="28590" timestamp="2017-11-25 15:21:42 +0600" type="norm" dbname="box43778" last-modified-by="127" %}
+{% include box-open.html box-id="5090" title="Metroid" author-id="28590" timestamp="2017-11-25 21:21:42 +0000" type="norm" dbname="box43778" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1554,9 +1554,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>Zero Suit Samus's up special Boost Kick involves a series of fast kicks that end with a swift, sideways-launching one. A perfectly executed attack will hit eight times! Her down special Flip Jump can bury a grounded fighter in the dirt. She can kick midflip by pressing the special button.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 15:33:21 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 21:33:21 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5091" title="Mother:" author-id="28590" timestamp="2017-11-25 15:33:27 +0600" type="norm" dbname="box38686" last-modified-by="127" %}
+{% include box-open.html box-id="5091" title="Mother" author-id="28590" timestamp="2017-11-25 21:33:27 +0000" type="norm" dbname="box38686" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1637,9 +1637,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>These alien henchmen serve Giygas, the chief villain of EarthBound. In Smash Bros., the assist trophy Starman will teleport around and fire off PSI moves like PK Beam γ or PK Beam Ω. You can defeat one summoned by an opponent, but they won't go down without a fight.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:48:49 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:48:49 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5092" title="PAC-MAN:" author-id="28590" timestamp="2017-11-25 15:44:39 +0600" type="norm" dbname="box17313" last-modified-by="127" %}
+{% include box-open.html box-id="5092" title="PAC-MAN" author-id="28590" timestamp="2017-11-25 21:44:39 +0000" type="norm" dbname="box17313" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1705,9 +1705,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr> 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 15:53:10 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 21:53:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5093" title="Pikmin:" author-id="28590" timestamp="2017-11-25 15:53:17 +0600" type="norm" dbname="box58196" last-modified-by="127" %}
+{% include box-open.html box-id="5093" title="Pikmin" author-id="28590" timestamp="2017-11-25 21:53:17 +0000" type="norm" dbname="box58196" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -1789,9 +1789,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 16:04:36 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-25 22:04:36 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5094" title="Pokémon:" author-id="28590" timestamp="2017-11-25 16:04:43 +0600" type="norm" dbname="box49521" last-modified-by="127" %}
+{% include box-open.html box-id="5094" title="Pokémon" author-id="28590" timestamp="2017-11-25 22:04:43 +0000" type="norm" dbname="box49521" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -2222,9 +2222,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>This Dark-type Pokémon will protect its home and anyone it cherishes by creating illusions to fluster opponents. When it uses Fury Swipes, it will vanish from view and then suddenly appear next to its targets, launching them upward. It will then finish them off by sending them crashing back down.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:48:10 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:48:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5095" title="Punch-Out:" author-id="28590" timestamp="2017-11-25 17:29:09 +0600" type="norm" dbname="box63245" last-modified-by="127" %}
+{% include box-open.html box-id="5095" title="Punch-Out" author-id="28590" timestamp="2017-11-25 23:29:09 +0000" type="norm" dbname="box63245" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -2262,9 +2262,9 @@ The trophies' names and descriptions are taken from the North American release o
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:49:32 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:49:32 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5110" title="R.O.B.:" author-id="28590" timestamp="2017-11-29 15:51:11 +0600" type="norm" dbname="box57214" last-modified-by="127" %}
+{% include box-open.html box-id="5110" title="R.O.B." author-id="28590" timestamp="2017-11-29 21:51:11 +0000" type="norm" dbname="box57214" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -2281,9 +2281,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>R.O.B.'s side smash, S3, fires a laser beam that does more damage up close. You can also aim it slightly up or down before firing. His down special Gyro sends a spinning top hurtling forward and can be charged for more damage. You can even dodge while charging!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:59:41 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:59:41 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5096" title="Sonic the Hedgehog:" author-id="28590" timestamp="2017-11-25 17:33:44 +0600" type="norm" dbname="box14808" last-modified-by="127" %}
+{% include box-open.html box-id="5096" title="Sonic the Hedgehog" author-id="28590" timestamp="2017-11-25 23:33:44 +0000" type="norm" dbname="box14808" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -2390,9 +2390,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:52:00 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:52:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5097" title="Star Fox:" author-id="28590" timestamp="2017-11-25 17:54:52 +0600" type="norm" dbname="box15948" last-modified-by="127" %}
+{% include box-open.html box-id="5097" title="Star Fox" author-id="28590" timestamp="2017-11-25 23:54:52 +0000" type="norm" dbname="box15948" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -2504,9 +2504,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 14:53:17 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 20:53:17 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5111" title="Street Fighter:" author-id="28590" timestamp="2017-11-29 15:51:40 +0600" type="norm" dbname="box56229" last-modified-by="127" %}
+{% include box-open.html box-id="5111" title="Street Fighter" author-id="28590" timestamp="2017-11-29 21:51:40 +0000" type="norm" dbname="box56229" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -2528,9 +2528,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>Ryu’s Focus Attack move lets him withstand a blow and then counterattack.The longer you hold it, the longer your enemies will be stunned if you hit them. If it hits a standing enemy, the enemy will become defenseless. When that happens, cancel your Focus Attack and unleash a sick combo!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 16:01:04 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 22:01:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5098" title="Super Mario:" author-id="28590" timestamp="2017-11-25 18:22:21 +0600" type="norm" dbname="box10695" last-modified-by="127" %}
+{% include box-open.html box-id="5098" title="Super Mario" author-id="28590" timestamp="2017-11-26 00:22:21 +0000" type="norm" dbname="box10695" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3087,9 +3087,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:12:41 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:12:41 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5100" title="Super Smash Bros.:" author-id="28590" timestamp="2017-11-28 16:59:49 +0600" type="norm" dbname="box15236" last-modified-by="127" %}
+{% include box-open.html box-id="5100" title="Super Smash Bros." author-id="28590" timestamp="2017-11-28 22:59:49 +0000" type="norm" dbname="box15236" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3316,9 +3316,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:16:46 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:16:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5102" title="WarioWare:" author-id="28590" timestamp="2017-11-29 13:26:22 +0600" type="norm" dbname="box49569" last-modified-by="127" %}
+{% include box-open.html box-id="5102" title="WarioWare" author-id="28590" timestamp="2017-11-29 19:26:22 +0000" type="norm" dbname="box49569" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3351,9 +3351,9 @@ The trophies' names and descriptions are taken from the North American release o
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:18:49 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:18:49 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5103" title="Wii Fit:" author-id="28590" timestamp="2017-11-29 13:30:12 +0600" type="norm" dbname="box40241" last-modified-by="127" %}
+{% include box-open.html box-id="5103" title="Wii Fit" author-id="28590" timestamp="2017-11-29 19:30:12 +0000" type="norm" dbname="box40241" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3409,9 +3409,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>The male trainer from the Wii Fit series, his neutral special Sun Salutation charges up a ball of light that, when launched, will heal him a bit. His Jackknife pose is excellent for toning the abdominal muscles, but in Smash Bros. the Wii Fit Trainer uses it as an air attack. Timed right, the attack can hit twice!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 13:38:00 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 19:38:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5104" title="Xenoblade Chronicles:" author-id="28590" timestamp="2017-11-29 13:31:06 +0600" type="norm" dbname="box15258" last-modified-by="127" %}
+{% include box-open.html box-id="5104" title="Xenoblade Chronicles" author-id="28590" timestamp="2017-11-29 19:31:06 +0000" type="norm" dbname="box15258" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3438,9 +3438,9 @@ The trophies' names and descriptions are taken from the North American release o
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:19:15 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:19:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5105" title="Yoshi's Island:" author-id="28590" timestamp="2017-11-29 13:31:32 +0600" type="norm" dbname="box37271" last-modified-by="127" %}
+{% include box-open.html box-id="5105" title="Yoshi's Island" author-id="28590" timestamp="2017-11-29 19:31:32 +0000" type="norm" dbname="box37271" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3466,9 +3466,9 @@ The trophies' names and descriptions are taken from the North American release o
     <th>One day, Baby Mario came floating down from the sky, dropped by the stork carrying him. But what happened to Baby Luigi? Does this whole affair sound familiar? Looks like it's up to the Yoshi clan to help Baby Mario out! It won't be easy, though—not with Baby Bowser involved.	</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 13:42:13 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 19:42:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5106" title="Other:" author-id="28590" timestamp="2017-11-29 13:31:55 +0600" type="norm" dbname="box21085" last-modified-by="127" %}
+{% include box-open.html box-id="5106" title="Other" author-id="28590" timestamp="2017-11-29 19:31:55 +0000" type="norm" dbname="box21085" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="100px" />
     <col width="100px" />
@@ -3799,4 +3799,4 @@ The trophies' names and descriptions are taken from the North American release o
     <th>This kind butler to the monarch of a remote kingdom has a single dream: to see his monarch become ruler of the whole world! He'll give advice as best he can, but it's up to you, the previously mentioned monarch, to assemble an army of a hundred...no, a thousand...no, several hundred thousand!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 15:21:35 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-11-29 21:21:35 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: Nintendo Dream Vol. 165
 categories:
   - merchandise
-date: 2008-01-10 22:01:51 +0600
+date: 2008-01-11 04:01:51 +0000
 ---
-{% include box-open.html box-id="3355" title="Nintendo Dream Vol. 165:" author-id="45" timestamp="2008-01-10 22:01:51 +0600" type="norm" dbname="box12564" last-modified-by="45" %}
+{% include box-open.html box-id="3355" title="Nintendo Dream Vol. 165" author-id="45" timestamp="2008-01-11 04:01:51 +0000" type="norm" dbname="box12564" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/nd_vol165_title.jpg" border="0" alt="Nintendo Dream Vol. 165" />
 	</center>
@@ -50,4 +50,4 @@ date: 2008-01-10 22:01:51 +0600
 	<br />
 	<a href="/merchandise/images/nd_vol165_article.jpg">Article</a> - <a href="/merchandise/images/nd_vol165_front.jpg">Front</a> - <a href="/merchandise/images/nd_vol165_back.jpg">Back</a> - 
 	<a href="/merchandise/images/nd_vol165_smgfront.jpg">SMG Mini-Guide (Front)</a> - <a href="/merchandise/images/nd_vol165_smgback.jpg">SMG Mini-Guide (Back)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2008-01-10 22:06:40 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2008-01-11 04:06:40 +0000" last-modified-by-name="ShadowX" %}

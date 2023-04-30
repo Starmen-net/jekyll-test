@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Videos
 categories:
   - mother2
-date: 2005-11-10 14:25:17 +0600
+date: 2005-11-10 20:25:17 +0000
 ---
-{% include box-open.html box-id="1721" title="MOTHER 2 / EarthBound Videos:" author-id="2262" timestamp="2005-11-10 14:25:17 +0600" type="norm" dbname="box25867" last-modified-by="127" %}
+{% include box-open.html box-id="1721" title="MOTHER 2 / EarthBound Videos" author-id="2262" timestamp="2005-11-10 20:25:17 +0000" type="norm" dbname="box25867" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft" href="http://www.youtube.com/watch?v=ogDi1o2xleU"><img src="thumb_m2com1.jpg" align="center" /></a>
@@ -87,4 +87,4 @@ date: 2005-11-10 14:25:17 +0600
 </li>
 
 </ul>
-{% include box-close.html author-name="KingDarian" last-modified-on="2019-09-25 07:29:20 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2019-09-25 12:29:20 +0000" last-modified-by-name="CerealQueen" %}

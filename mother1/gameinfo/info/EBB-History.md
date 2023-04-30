@@ -2,9 +2,9 @@
 title: EBB-History
 categories:
   - mother1
-date: 2016-10-22 23:53:56 +0500
+date: 2016-10-23 04:53:56 +0000
 ---
-{% include box-open.html box-id="4794" title="Localization:" author-id="28590" timestamp="2016-10-22 23:53:56 +0500" type="norm" dbname="box41387" last-modified-by="127" %}
+{% include box-open.html box-id="4794" title="Localization" author-id="28590" timestamp="2016-10-23 04:53:56 +0000" type="norm" dbname="box41387" last-modified-by="127" %}
 Make no mistake about it -- Shigesato Itoi’s debut project in the video game industry, MOTHER, was hugely popular in his home country. After all, in Japan, Itoi was already a popular celebrity with plenty of public exposure. Additionally, RPGs were bustling in Japan, with many titles in the turn-based genre being released on the Famicom for people of all ages to enjoy.<br /><br />
 <img class="picleft" src="phil.png" width="275" height="173" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -14,9 +14,9 @@ To adhere to Nintendo of America’s rules and for other reasons, changes were m
 <br /><br />
 	Despite all the work poured into this hopeful project, the already doubtful circumstances that existed in the overseas markets were quickly doubled up upon. The newest Nintendo console, the Super Nintendo Entertainment System, was already released in the United States before the localization project was complete. Combined with the expensive cartridge that would be needed to store the massive game, Earth Bound was deemed unprofitable. The game was doomed to the shadows of locked Nintendo vaults for many years afterwards.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 16:11:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 21:11:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5080" title="Demiforce:" author-id="28590" timestamp="2017-07-11 16:08:37 +0500" type="norm" dbname="box10530" last-modified-by="127" %}
+{% include box-open.html box-id="5080" title="Demiforce" author-id="28590" timestamp="2017-07-11 21:08:37 +0000" type="norm" dbname="box10530" last-modified-by="127" %}
 With the release of the localized MOTHER cancelled, it seemed overseas audiences would not get an opportunity to play the game. Even when EarthBound eventually released for the SNES in North America, many gamers were completely clueless to the fact that the game was a sequel. The only remains of Phil Sandhop’s work on MOTHER existed in the form of a small number of prototype cartridges. Some of these cartridges had escaped the hands of Nintendo, only existing as legendary relics, seemingly thrust into the obscurity of forgotten cardboard boxes abandoned in attics and basements. For many years, there was no sign of any of these prototypes. A hacking group known as Demiforce had resigned themselves to making a fan translation of MOTHER on their own instead.
 <br /><br />
 <img class="picright" src="proto.png" />
@@ -30,9 +30,9 @@ The hacking group, Demiforce, got in touch with Kenny Brooks shortly after the p
 <br /><br />
 	There were doubts at first. Some accused Demiforce of merely trying to pass off a fan translation as a long-forgotten official localization. But as time passed on, the EarthBound Zero ROM was accepted as the Nintendo of America’s abandoned translation of the game. Even now, this ROM is the one widely circulated throughout the Internet, and EarthBound Zero has stuck as a largely accepted title for the game. In this way, Demiforce has attached itself to the game itself, making it an important part of its history.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 16:15:04 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 21:15:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5081" title="Official Release:" author-id="28590" timestamp="2017-07-11 16:15:08 +0500" type="norm" dbname="box31231" last-modified-by="127" %}
+{% include box-open.html box-id="5081" title="Official Release" author-id="28590" timestamp="2017-07-11 21:15:08 +0000" type="norm" dbname="box31231" last-modified-by="127" %}
 After the previous success of EarthBound’s release on North American and European Virtual Console, most of the series’s following had already resigned themselves to a victorious rest. It seemed that having one MOTHER game available in the West was already worth celebrating. But on June 16, 2015, a surprise announcement was made that took the MOTHER fans attending and watching the Nintendo World Championships by storm. On the big screen in a dark conference room, the visage of Shigesato Itoi appeared on screen, announcing that the first MOTHER game was finally receiving an official release outside of Japan.
 <br /><br />
 <img class="picleft" src="nostrils.png" title="His nostrils look even grander on the big screen…" width="295" height="152" />
@@ -43,4 +43,4 @@ This recorded message from Itoi included some heartfelt words on what the game m
 <br /><br />
 	The Virtual Console version of the game is identical to the abandoned prototype left behind by Phil Sandhop and his team. Despite the game’s rebranding, the title screen still says Earth Bound in all capital letters. Fortunately, no confusion seemed to arise from this detail. It seemed that everyone was busy celebrating the final release of this game to really care too much about it. Twenty-six years after MOTHER was released in Japan, it was finally reborn as EarthBound Beginnings -- perhaps one of the longest running journeys to foreign markets in all of video gaming history.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 16:20:17 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 21:20:17 +0000" last-modified-by-name="CerealQueen" %}

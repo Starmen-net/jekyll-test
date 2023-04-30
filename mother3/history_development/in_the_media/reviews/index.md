@@ -2,9 +2,9 @@
 title: MOTHER 3 - Reviews
 categories:
   - mother3
-date: 2009-03-18 12:36:46 +0500
+date: 2009-03-18 17:36:46 +0000
 ---
-{% include box-open.html box-id="3682" title="Weekly Famitsu Cross-Reviews of MOTHER 3:" author-id="2262" timestamp="2009-03-18 12:36:46 +0500" type="norm" dbname="box874" last-modified-by="127" %}
+{% include box-open.html box-id="3682" title="Weekly Famitsu Cross-Reviews of MOTHER 3" author-id="2262" timestamp="2009-03-18 17:36:46 +0000" type="norm" dbname="box874" last-modified-by="127" %}
 <u>フランソワ林氏のコメント(抜粋)</u><br />
 序盤でグッと引き込まれ、中盤まで一気の展開。
 戦闘の難易度上昇も絶妙、後半もダレない。
@@ -30,4 +30,4 @@ You can feel the amount of attention paid to the tiny details in the text, the w
 Just as the slogan says, the strange and sad story immerses the player until the very end. The music in the Sound Battles has charm that reinforces the phrase, "Sound is fun!" (9 points)
 <br /><br />
 <font color="yellow"><b>TOTAL SCORE: 35 / 40</b></font>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:37:32 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:37:32 +0000" last-modified-by-name="KingDarian" %}

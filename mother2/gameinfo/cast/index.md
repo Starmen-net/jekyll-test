@@ -2,9 +2,9 @@
 title: Cast
 categories:
   - mother2
-date: 2007-06-06 23:20:27 +0500
+date: 2007-06-07 04:20:27 +0000
 ---
-{% include box-open.html box-id="2996" title="The Chosen Four:" author-id="3287" timestamp="2007-06-06 23:20:27 +0500" type="norm" dbname="box10401" last-modified-by="127" %}
+{% include box-open.html box-id="2996" title="The Chosen Four" author-id="3287" timestamp="2007-06-07 04:20:27 +0000" type="norm" dbname="box10401" last-modified-by="127" %}
 <b><u>Ness:</u></b>
 
 <p>
@@ -137,4 +137,4 @@ Poo has a number of interesting attributes that are exclusive to his character w
 <br />
 Unlike the other party members, Poo cannot utilize weapons and armor in the same fashion.  There are only four pieces of equipment scattered throughout world that Poo can benefit from: the Bracer, Cloak Diadem, and sword of Kings.  Collecting all of these items is a challenge in itself but don’t worry if you’re having trouble, Poo’s remarkable psychic skill is enough to compensate for any missing pieces.  During their quest Poo will demonstrate no less than 27 psychic abilities.  Although he shares some of the same skills as Ness and Paula, he does have a number of attacks that are distinctive such as Brain Shock and a power shield that can reflect physical attacks.  PSI Starstorm is Poo’s ultimate attack however.  The Starstorm is unique in that it is not realized by leveling up like other psychic powers, instead, an elderly man known only as the Star Master will visit the party every so often to pass along this power to Prince Poo.  The final form of this attack is arguably the most powerful in the game rivaled only by Ness’s PSI Rockin’ omega.</p><br />
 
-{% include box-close.html author-name="Libra" last-modified-on="2007-07-20 10:42:15 +0500" last-modified-by-name="Libra" %}
+{% include box-close.html author-name="Libra" last-modified-on="2007-07-20 15:42:15 +0000" last-modified-by-name="Libra" %}

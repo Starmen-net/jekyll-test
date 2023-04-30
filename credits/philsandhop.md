@@ -2,9 +2,9 @@
 title: 'Game Credits: Phil Sandhop'
 categories:
   - credits
-date: 2005-09-21 18:57:55 +0500
+date: 2005-09-21 23:57:55 +0000
 ---
-{% include box-open.html box-id="1456" title="Phil Sandhop:" author-id="2262" timestamp="2005-09-21 18:57:55 +0500" type="norm" dbname="box47560" last-modified-by="127" %}
+{% include box-open.html box-id="1456" title="Phil Sandhop" author-id="2262" timestamp="2005-09-21 23:57:55 +0000" type="norm" dbname="box47560" last-modified-by="127" %}
 <img src="philsandhop.JPG" align="right" />
 <b>Game Credits</b>
  <UL>
@@ -43,4 +43,4 @@ date: 2005-09-21 18:57:55 +0500
     <LI><b>Game Boy Camera(GB 1998)</b><BR />
     Advisor</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:29:50 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:29:50 +0000" last-modified-by-name="KingDarian" %}

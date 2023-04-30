@@ -2,9 +2,9 @@
 title: Fan Art - Update Info
 categories:
   - fanart
-date: 2009-06-10 10:44:52 +0500
+date: 2009-06-10 15:44:52 +0000
 ---
-{% include box-open.html box-id="3759" title="Fan Art Update Info:" author-id="75" timestamp="2009-06-10 10:44:52 +0500" type="norm" dbname="box64290" last-modified-by="127" %}
+{% include box-open.html box-id="3759" title="Fan Art Update Info" author-id="75" timestamp="2009-06-10 15:44:52 +0000" type="norm" dbname="box64290" last-modified-by="127" %}
 Fan Art is Starmen.Net's most active section, so the updating schedule is a little hard to follow. Hopefully the information below will help you understand what's going on if you've been trying to figure it out.<br />
 
 <ul>
@@ -14,4 +14,4 @@ Fan Art is Starmen.Net's most active section, so the updating schedule is a litt
 
 <li>Monday is the scheduled day for Fan Art updates, and that's when the new <a href="http://starmen.net/fanart/fotw/">Fan Art of the Week</a> is revealed. We often have to do several updates a week because of the volume of the submissions we receive, and those updates come at random. The <a href="http://starmen.net/fanart/artistspotlight/">Artist Spotlight</a> is changed on the 15th and last day of every month.</li>
 </ul>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2009-11-15 10:02:35 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2009-11-15 16:02:35 +0000" last-modified-by-name="Artemis251" %}

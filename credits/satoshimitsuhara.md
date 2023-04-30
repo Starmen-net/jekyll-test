@@ -2,9 +2,9 @@
 title: 'Game Credits: Satoshi Mitsuhara'
 categories:
   - credits
-date: 2005-05-02 17:08:37 +0500
+date: 2005-05-02 22:08:37 +0000
 ---
-{% include box-open.html box-id="963" title="Satoshi Mitsuhara:" author-id="2262" timestamp="2005-05-02 17:08:37 +0500" type="norm" dbname="box54951" last-modified-by="127" %}
+{% include box-open.html box-id="963" title="Satoshi Mitsuhara" author-id="2262" timestamp="2005-05-02 22:08:37 +0000" type="norm" dbname="box54951" last-modified-by="127" %}
 <img src="satoshimitsuhara.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -17,4 +17,4 @@ Chief Programmer</LI>
 <LI><b>Pokémon Colosseum(GCN 2003/2004)</b><BR />
 GBA Connectivity Program</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:53:29 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:53:29 +0000" last-modified-by-name="KingDarian" %}

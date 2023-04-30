@@ -2,9 +2,9 @@
 title: 'Super Smash Bros: Brawl'
 categories:
   - ssbb
-date: 2006-11-18 12:42:16 +0600
+date: 2006-11-18 18:42:16 +0000
 ---
-{% include box-open.html box-id="2721" title="Super Smash Bros. Brawl:" author-id="8" timestamp="2006-11-18 12:42:16 +0600" type="norm" dbname="box21149" last-modified-by="127" %}
+{% include box-open.html box-id="2721" title="Super Smash Bros. Brawl" author-id="8" timestamp="2006-11-18 18:42:16 +0000" type="norm" dbname="box21149" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="Super Smash Bros. Brawl" />
 	<table valign="top">
@@ -53,9 +53,9 @@ date: 2006-11-18 12:42:16 +0600
 
 For more information, be sure to check out <a href="http://www.smashbros.com/">the official Smash. Bros. website</a>, which was updated slowly until the game was released, for complete details on the game.</p>
 <br  class="cleary" />
-{% include box-close.html author-name="reidman" last-modified-on="2014-12-20 10:56:49 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="reidman" last-modified-on="2014-12-20 16:56:49 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="2889" title="MOTHER in Brawl:" author-id="137" timestamp="2007-05-20 11:52:27 +0500" type="norm" dbname="box56831" last-modified-by="127" %}
+{% include box-open.html box-id="2889" title="MOTHER in Brawl" author-id="137" timestamp="2007-05-20 16:52:27 +0000" type="norm" dbname="box56831" last-modified-by="127" %}
 <p>
 <table1><ul>
 <li>On Friday, August 10th, the <a href="http://www.smashbros.com/en_uk/items/item08.html">smashbros.com</a> update revealed that the <a href="http://starmen.net/merchandise/misc/fbadge.php">Franklin Badge</a> will be an item in SSB:B. When a character picks this item up, they will temporarily have a "reflector" that reflects projectiles.</li>
@@ -71,19 +71,19 @@ For more information, be sure to check out <a href="http://www.smashbros.com/">t
 
 <table3></table3>
 </p>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-12-11 17:28:47 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-12-11 23:28:47 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="2890" title="SSB:B Control Style:" author-id="137" timestamp="2007-05-20 11:54:39 +0500" type="norm" dbname="box65119" last-modified-by="127" %}
+{% include box-open.html box-id="2890" title="SSB:B Control Style" author-id="137" timestamp="2007-05-20 16:54:39 +0000" type="norm" dbname="box65119" last-modified-by="127" %}
 <p>With the innovative new controller that comes with the Wii, a question is raised: how will Smash Bros. Brawl be played? Well, Sakurai has confirmed that there will be <b>four</b> different playing styles -- including support for the Gamecube controller!<br />
 <br />
 <center><img src="/ssbb/controllers.png" alt="Four kinds of control!" /></center></p>
 <br  class="cleary" />
-{% include box-close.html author-name="Jonk" last-modified-on="2007-10-01 13:15:07 +0500" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-10-01 18:15:07 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="4988" title="Contact Info:" author-id="28590" timestamp="2017-01-22 13:15:21 +0600" type="norm" dbname="box12999" last-modified-by="127" %}
+{% include box-open.html box-id="4988" title="Contact Info" author-id="28590" timestamp="2017-01-22 19:15:21 +0000" type="norm" dbname="box12999" last-modified-by="127" %}
 <table1 />
 Section maintainer:<br />
 <table2 />
 <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-01-22 13:15:32 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-01-22 19:15:32 +0000" last-modified-by-name="CerealQueen" %}

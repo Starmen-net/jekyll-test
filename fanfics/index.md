@@ -2,9 +2,9 @@
 title: Fanfics
 categories:
   - fanfics
-date: 2005-04-03 16:06:01 +0500
+date: 2005-04-03 21:06:01 +0000
 ---
-{% include box-open.html box-id="3023" title="Fanfics:" author-id="13" timestamp="2007-06-14 03:10:16 +0500" type="norm" dbname="box19126" last-modified-by="127" %}
+{% include box-open.html box-id="3023" title="Fanfics" author-id="13" timestamp="2007-06-14 08:10:16 +0000" type="norm" dbname="box19126" last-modified-by="127" %}
 Welcome to the Fanfiction Section! This is where we store all of the stories written by fans based on the EarthBound/MOTHER Universe. Ranging from re-writes to original stories, we have practically every take on the series. Of course if we don't happen to have something you like, feel free to pick up your pen and contribute!<br /><br />
 
 If you have a new fanfic contribution to make, be sure it adheres to the <a href="/fanfics/guidelines.php">guidelines</a> first. We can't guarantee that your fic will make it into our archives if you don't pay attention to the guidelines! Please use <a href="/submit/">this form</a> to submit your works, and make sure you send it to "Fanfiction".<br /><br />
@@ -12,9 +12,9 @@ If you have a new fanfic contribution to make, be sure it adheres to the <a href
 <b>Note: We accept submissions in .html, .rtf, .txt, or .doc format. Please save your story as one of these format types, including converting .docx (Word 2007) files to .doc (Word 2003), before submitting</b><br /><br />
 
 If you'd like to get a little feedback on your work, feel free to post it in the <a href="http://forum.starmen.net/forum/Fan/Writing">Writing Forum</a>.
-{% include box-close.html author-name="JamesPicard_007" last-modified-on="2013-05-27 22:55:27 +0500" last-modified-by-name="ohboy" %}
+{% include box-close.html author-name="JamesPicard_007" last-modified-on="2013-05-28 03:55:27 +0000" last-modified-by-name="ohboy" %}
 
-{% include box-open.html box-id="3029" title="Fanfic Archives (sorted by author):" author-id="288" timestamp="2007-06-16 02:23:20 +0500" type="norm" dbname="box30724" last-modified-by="75" %}
+{% include box-open.html box-id="3029" title="Fanfic Archives (sorted by author)" author-id="288" timestamp="2007-06-16 07:23:20 +0000" type="norm" dbname="box30724" last-modified-by="75" %}
 <center>&lt;&nbsp;
 <a href="/fanfics/archives/index.php?ret=nothing&box44103FirstLetter=A&box20318FirstLetter=A">A</a>&nbsp;
 <a href="/fanfics/archives/index.php?ret=nothing&box44103FirstLetter=A&box20318FirstLetter=B">B</a>&nbsp;
@@ -47,17 +47,17 @@ If you'd like to get a little feedback on your work, feel free to post it in the
 <a href="/fanfics/archives/group.php">Group Fics</a><br /><br />
 
 To search archives by game, please use the links in the topbar.</center>
-{% include box-close.html author-name="Tomato" last-modified-on="2008-11-22 01:51:18 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-11-22 07:51:18 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="3559" title="Recent Submissions:" author-id="75" timestamp="2008-11-05 19:19:50 +0600" type="norm" dbname="box10564" last-modified-by="127" %}
+{% include box-open.html box-id="3559" title="Recent Submissions" author-id="75" timestamp="2008-11-06 01:19:50 +0000" type="norm" dbname="box10564" last-modified-by="127" %}
 <navigator section="date" display="no" group="Fanfics" quantity="6" /><displaytor mode="list" />
-{% include box-close.html author-name="PoeTrader" last-modified-on="2011-10-29 17:39:33 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2011-10-29 22:39:33 +0000" last-modified-by-name="Emily" %}
 
-{% include box-open.html box-id="867" title="Contact Info:" author-id="288" timestamp="2005-04-03 16:06:01 +0500" type="norm" dbname="box44281" last-modified-by="127" %}
+{% include box-open.html box-id="867" title="Contact Info" author-id="288" timestamp="2005-04-03 21:06:01 +0000" type="norm" dbname="box44281" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
 <a href="http://forum.starmen.net/members/Emily"> Emily</a><br/>
 <a href="http://forum.starmen.net/members/ohboy"> ohboy</a>
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2011-10-29 17:54:01 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2011-10-29 22:54:01 +0000" last-modified-by-name="Emily" %}

@@ -2,9 +2,9 @@
 title: HyperBound&#039;s Advanced Map Editing Tutorial
 categories:
   - pkhack
-date: 2012-01-29 10:45:13 +0600
+date: 2012-01-29 16:45:13 +0000
 ---
-{% include box-open.html box-id="4192" title="A Full Tutorial:" author-id="7412" timestamp="2012-01-29 10:45:13 +0600" type="norm" dbname="box64582" last-modified-by="127" %}
+{% include box-open.html box-id="4192" title="A Full Tutorial" author-id="7412" timestamp="2012-01-29 16:45:13 +0000" type="norm" dbname="box64582" last-modified-by="127" %}
 <font size="3"><b>Advanced Map Editing In The EarthBound ROM</b></font><br />
 <i>By HyperBound</i><br /><br />
 
@@ -99,9 +99,9 @@ Anyways, I hope that this tutorial was useful for everyone out there. Map editin
 <br /><br />
 <a href="http://www.theworldissquare.com">Tutorial by HyperBound</a>
 
-{% include box-close.html author-name="HyperBound" last-modified-on="2012-01-29 11:25:16 +0600" last-modified-by-name="HyperBound" %}
+{% include box-close.html author-name="HyperBound" last-modified-on="2012-01-29 17:25:16 +0000" last-modified-by-name="HyperBound" %}
 
-{% include box-open.html box-id="4193" title="Attachments:" author-id="7412" timestamp="2012-01-29 10:45:17 +0600" type="norm" dbname="box33251" last-modified-by="127" %}
+{% include box-open.html box-id="4193" title="Attachments" author-id="7412" timestamp="2012-01-29 16:45:17 +0000" type="norm" dbname="box33251" last-modified-by="127" %}
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/rawdecompressed.zip" target="_blank">rawdecompressed.zip</a>
 <br />
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/OnettDayPAL.act" target="_blank">OnettDayPAL.act</a>
@@ -109,4 +109,4 @@ Anyways, I hope that this tutorial was useful for everyone out there. Map editin
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/OnettDAYGFX.jpg" target="_blank">OnettDAYGFX.jpg</a>
 <br />
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/Map%20Info.txt" target="_blank">Map Info.txt</a>
-{% include box-close.html author-name="HyperBound" last-modified-on="2012-01-29 11:24:10 +0600" last-modified-by-name="HyperBound" %}
+{% include box-close.html author-name="HyperBound" last-modified-on="2012-01-29 17:24:10 +0000" last-modified-by-name="HyperBound" %}

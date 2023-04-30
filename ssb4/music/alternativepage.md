@@ -2,9 +2,9 @@
 title: Music
 categories:
   - ssb4
-date: 2016-12-15 05:12:02 +0600
+date: 2016-12-15 11:12:02 +0000
 ---
-{% include box-open.html box-id="4898" title="Animal Crossing:" author-id="28590" timestamp="2016-12-15 05:12:02 +0600" type="norm" dbname="box20891" last-modified-by="127" %}
+{% include box-open.html box-id="4898" title="Animal Crossing" author-id="28590" timestamp="2016-12-15 11:12:02 +0000" type="norm" dbname="box20891" last-modified-by="127" %}
 <table1 />
 <a href="2-00 a.m. (Animal Crossing).mp3">2-00 a.m. (Animal Crossing)</a><br />
 <a href="Bubblegum K.K. (Animal Crossing).mp3">Bubblegum K.K. (Animal Crossing)</a><br />
@@ -25,9 +25,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Tour Remix (Animal Crossing).mp3">Tour Remix (Animal Crossing)</a><br />
 <a href="Town Hall and Tom Nook's Store (AC Wild World).mp3">Town Hall and Tom Nook's Store (AC Wild World)</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:12:10 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:12:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4899" title="Bayonetta:" author-id="28590" timestamp="2016-12-15 05:12:12 +0600" type="norm" dbname="box34260" last-modified-by="127" %}
+{% include box-open.html box-id="4899" title="Bayonetta" author-id="28590" timestamp="2016-12-15 11:12:12 +0000" type="norm" dbname="box34260" last-modified-by="127" %}
 <a href="After Burner ( Climax Mix) (Bayonetta).mp3">After Burner ( Climax Mix) (Bayonetta)</a><br />
 <a href="Friendship (Bayonetta).mp3">Friendship (Bayonetta)</a><br />
 <a href="Let's Dance, Boys (Bayonetta).mp3">Let's Dance, Boys (Bayonetta)</a><br />
@@ -40,9 +40,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Time for the Climax! (Bayonetta 2).mp3">Time for the Climax! (Bayonetta 2)</a><br />
 <a href="Tomorrow is Mine (Bayonetta 2 Theme) (Instrumental).mp3">Tomorrow is Mine (Bayonetta 2 Theme) (Instrumental)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:12:30 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:12:30 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4900" title="Donkey Kong:" author-id="28590" timestamp="2016-12-15 05:12:44 +0600" type="norm" dbname="box60627" last-modified-by="127" %}
+{% include box-open.html box-id="4900" title="Donkey Kong" author-id="28590" timestamp="2016-12-15 11:12:44 +0000" type="norm" dbname="box60627" last-modified-by="127" %}
 <table1 />
 <a href="25m Theme (Donkey Kong).mp3">25m Theme (Donkey Kong)</a><br />
 <a href="Battle for Storm Hill (DK Jungle Beat).mp3">Battle for Storm Hill (Donkey Kong Jungle Beat)</a><br />
@@ -64,9 +64,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Stickerbush Symphony (Donkey Kong Country 2).mp3">Stickerbush Symphony (Donkey Kong Country 2)</a><br />
 <a href="Swinger Flinger (Donkey Kong Tropical Freeze).mp3">Swinger Flinger (Donkey Kong Tropical Freeze)</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:13:01 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:13:01 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4901" title="Fire Emblem:" author-id="28590" timestamp="2016-12-15 05:13:04 +0600" type="norm" dbname="box42013" last-modified-by="127" %}
+{% include box-open.html box-id="4901" title="Fire Emblem" author-id="28590" timestamp="2016-12-15 11:13:04 +0000" type="norm" dbname="box42013" last-modified-by="127" %}
 <a href="Against the Dark Knight (FE Path of Radiance).mp3">Against the Dark Knight (FE Path of Radiance)</a><br />
 <a href="Attack (Fire Emblem).mp3">Attack (Fire Emblem)</a><br />
 <a href="Coliseum Series Medley (Fire Emblem).mp3">Coliseum Series Medley (Fire Emblem)</a><br />
@@ -91,9 +91,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Winning Road Roy's Hope (FE The Binding Blade).mp3">Winning Road Roy's Hope (FE The Binding Blade)</a><br />
 <a href="With Mila's Divine Protection (Fire Emblem Gaiden).mp3">With Mila's Divine Protection (Fire Emblem Gaiden)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:13:24 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:13:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4902" title="F-Zero:" author-id="28590" timestamp="2016-12-15 05:13:29 +0600" type="norm" dbname="box55814" last-modified-by="127" %}
+{% include box-open.html box-id="4902" title="F-Zero" author-id="28590" timestamp="2016-12-15 11:13:29 +0000" type="norm" dbname="box55814" last-modified-by="127" %}
 <a href="Big Blue (F-Zero).mp3">Big Blue (F-Zero)</a><br />
 <a href="Brain Cleaner (F-Zero GX).mp3">Brain Cleaner (F-Zero GX)</a><br />
 <a href="Car Select (F-Zero X).mp3">Car Select (F-Zero X)</a><br />
@@ -110,9 +110,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Shotgun Kiss (F-Zero GX).mp3">Shotgun Kiss (F-Zero GX)</a><br />
 <a href="White Land (F-Zero).mp3">White Land (F-Zero)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:13:59 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:13:59 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4903" title="Kid Icarus:" author-id="28590" timestamp="2016-12-15 05:14:12 +0600" type="norm" dbname="box57793" last-modified-by="127" %}
+{% include box-open.html box-id="4903" title="Kid Icarus" author-id="28590" timestamp="2016-12-15 11:14:12 +0000" type="norm" dbname="box57793" last-modified-by="127" %}
 <a href="Boss Fight 1 (Kid Icarus Uprising).mp3">Boss Fight 1 (Kid Icarus Uprising)</a><br />
 <a href="Dark Pit's Theme (Kid Icarus Uprising).mp3">Dark Pit's Theme (Kid Icarus Uprising)</a><br />
 <a href="Destroyed Skyworld Remix (Kid Icarus Uprising).mp3">Destroyed Skyworld Remix (Kid Icarus Uprising)</a><br />
@@ -127,9 +127,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Underworld (Kid Icarus).mp3">Underworld (Kid Icarus)</a><br />
 <a href="Wrath of the Reset Bomb (Kid Icarus Uprising).mp3">Wrath of the Reset Bomb (Kid Icarus Uprising)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:14:27 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:14:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4904" title="Kirby:" author-id="28590" timestamp="2016-12-15 05:14:33 +0600" type="norm" dbname="box49371" last-modified-by="127" %}
+{% include box-open.html box-id="4904" title="Kirby" author-id="28590" timestamp="2016-12-15 11:14:33 +0000" type="norm" dbname="box49371" last-modified-by="127" %}
 <a href="02 Battle (Kirby 64).mp3">02 Battle (Kirby 64)</a><br />
 <a href="Boss Medley.mp3">Boss Medley</a><br />
 <a href="Butter Building Ver. 2 (Kirby's Adventure).mp3">Butter Building Ver. 2 (Kirby's Adventure)</a><br />
@@ -154,9 +154,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="The World to Win (Kirby Triple Deluxe).mp3">The World to Win (Kirby Triple Deluxe)</a><br />
 <a href="Through the Forest (Kirby's Return to Dream Land).mp3">Through the Forest (Kirby's Return to Dream Land)</a><br />
 <a href="Vs. Marx (Kirby Super Star).mp3">Vs. Marx (Kirby Super Star)</a><br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:15:01 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:15:01 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4905" title="Legend of Zelda:" author-id="28590" timestamp="2016-12-15 05:15:15 +0600" type="norm" dbname="box56012" last-modified-by="127" %}
+{% include box-open.html box-id="4905" title="Legend of Zelda" author-id="28590" timestamp="2016-12-15 11:15:15 +0000" type="norm" dbname="box56012" last-modified-by="127" %}
 <a href="Ballad of the Goddess & Ghirahim's Theme (Skyward Sword).mp3">Ballad of the Goddess & Ghirahim's Theme (Skyward Sword)</a><br />
 <a href="Ballad of the Goddess (Skyward Sword).mp3">Ballad of the Goddess (Skyward Sword)</a><br />
 <a href="Dark World & Dungeon Remix (A Link to the Past).mp3">Dark World & Dungeon Remix (A Link to the Past)</a><br />
@@ -191,9 +191,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Title (The Legend of Zelda).mp3">Title (The Legend of Zelda)</a><br />
 <a href="Village of the Blue Maiden (Four Swords Adventures).mp3">Village of the Blue Maiden (Four Swords Adventures)</a><br />
 <a href="Yuga Battle Hyrule Castle (A Link Between Worlds).mp3">Yuga Battle Hyrule Castle (A Link Between Worlds)</a><br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:15:25 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:15:25 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4906" title="Mega Man:" author-id="28590" timestamp="2016-12-15 05:15:30 +0600" type="norm" dbname="box65305" last-modified-by="127" %}
+{% include box-open.html box-id="4906" title="Mega Man" author-id="28590" timestamp="2016-12-15 11:15:30 +0000" type="norm" dbname="box65305" last-modified-by="127" %}
 <table1 />
 <a href="Air Man Stage (Mega Man 2).mp3">Air Man Stage (Mega Man 2)</a><br />
 <a href="Cut Man Remix (Mega Man).mp3">Cut Man Remix (Mega Man)</a><br />
@@ -207,9 +207,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Shadow Man Stage (Mega Man 3).mp3">Shadow Man Stage (Mega Man 3)</a><br />
 <a href="Spark Man Stage (Mega Man 3).mp3">Spark Man Stage (Mega Man 3)</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:15:53 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:15:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4907" title="Metroid:" author-id="28590" timestamp="2016-12-15 05:16:10 +0600" type="norm" dbname="box15858" last-modified-by="127" %}
+{% include box-open.html box-id="4907" title="Metroid" author-id="28590" timestamp="2016-12-15 11:16:10 +0000" type="norm" dbname="box15858" last-modified-by="127" %}
 <a href="Brinstar (Metroid).mp3">Brinstar (Metroid)</a><br />
 <a href="Brinstar Depth (Metroid).mp3">Brinstar Depth (Metroid)</a><br />
 <a href="Ending (Metroid).mp3">Ending (Metroid)</a><br />
@@ -228,9 +228,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Vs. Parasite Queen (Metroid Prime).mp3">Vs. Parasite Queen (Metroid Prime)</a><br />
 <a href="Vs. Ridley (Super Metroid).mp3">Vs. Ridley (Super Metroid)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:16:23 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:16:23 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4908" title="Mother:" author-id="28590" timestamp="2016-12-15 05:16:35 +0600" type="norm" dbname="box34098" last-modified-by="127" %}
+{% include box-open.html box-id="4908" title="Mother" author-id="28590" timestamp="2016-12-15 11:16:35 +0000" type="norm" dbname="box34098" last-modified-by="127" %}
 <a href="MagicantEight Melodies (Mother).mp3">Magicant/Eight Melodies (Mother)</a><br />
 <a href="Mother 3 Love Theme.mp3">Mother 3 Love Theme</a><br />
 <a href="Onett (Mother).mp3">Onett (Mother)</a><br />
@@ -240,9 +240,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Smiles and Tears (Earthbound).mp3">Smiles and Tears (Earthbound)</a><br />
 <a href="Snowman (Mother).mp3">Snowman (Mother)</a><br />
 <a href="Unfounded Revenge (Mother 3).mp3">Unfounded Revenge (Mother 3)</a><br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:17:03 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:17:03 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4909" title="Pac-Man:" author-id="28590" timestamp="2016-12-15 05:17:07 +0600" type="norm" dbname="box43925" last-modified-by="127" %}
+{% include box-open.html box-id="4909" title="Pac-Man" author-id="28590" timestamp="2016-12-15 11:17:07 +0000" type="norm" dbname="box43925" last-modified-by="127" %}
 <a href="Bravoman Retro Medley.mp3">Bravoman Retro Medley</a><br />
 <a href="Libble Rabbie Retro Medley.mp3">Libble Rabbie Retro Medley</a><br />
 <a href="Metro-Cross Retro Medley.mp3">Metro-Cross Retro Medley</a><br />
@@ -253,9 +253,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Sky Kid Retro Medley.mp3">Sky Kid Retro Medley</a><br />
 <a href="Yokai Dochuki Retro Medley.mp3">Yokai Dochuki Retro Medley</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:17:38 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:17:38 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4910" title="Pikmin:" author-id="28590" timestamp="2016-12-15 05:17:44 +0600" type="norm" dbname="box2865" last-modified-by="127" %}
+{% include box-open.html box-id="4910" title="Pikmin" author-id="28590" timestamp="2016-12-15 11:17:44 +0000" type="norm" dbname="box2865" last-modified-by="127" %}
 <a href="Environmental Noises (Pikmin).mp3">Environmental Noises (Pikmin)</a><br />
 <a href="Forest of Hope (Pikmin).mp3">Forest of Hope (Pikmin)</a><br />
 <a href="Garden of Hope (Pikmin 3).mp3">Garden of Hope (Pikmin 3)</a><br />
@@ -265,9 +265,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Stage Select (Pikmin 2).mp3">Stage Select (Pikmin 2)</a><br />
 <a href="World Map (Pikmin 2).mp3">World Map (Pikmin 2)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:18:05 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:18:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4911" title="Pokemon:" author-id="28590" timestamp="2016-12-15 05:18:19 +0600" type="norm" dbname="box34896" last-modified-by="127" %}
+{% include box-open.html box-id="4911" title="Pokemon" author-id="28590" timestamp="2016-12-15 11:18:19 +0000" type="norm" dbname="box34896" last-modified-by="127" %}
 <a href="Battle! Champion (XY).mp3">Battle! Champion (X/Y)</a><br />
 <a href="Battle! Champion Cynthia Remix.mp3">Battle! Champion Cynthia Remix</a><br />
 <a href="Battle! Dialga Palkia (Diamond & Pearl).mp3">Battle! Dialga/Palkia (Diamond/Pearl)</a><br />
@@ -291,18 +291,18 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Trainer Battle! (X & Y).mp3">Trainer Battle! (X/Y)</a><br />
 <a href="Victory Road (Ruby & Sapphire).mp3">Victory Road (Ruby/Sapphire)</a><br />
 <a href="Victory Road (X & Y).mp3">Victory Road (X/Y)</a><br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:18:31 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:18:31 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4912" title="Punch-Out:" author-id="28590" timestamp="2016-12-15 05:18:35 +0600" type="norm" dbname="box12853" last-modified-by="127" %}
+{% include box-open.html box-id="4912" title="Punch-Out" author-id="28590" timestamp="2016-12-15 11:18:35 +0000" type="norm" dbname="box12853" last-modified-by="127" %}
 <a href="Jogging & Countdown (Punch-Out!).mp3">Jogging & Countdown (Punch-Out!)</a><br />
 <a href="Minor Circuit (Punch-Out! Wii).mp3">Minor Circuit (Punch-Out! Wii)</a><br />
 <a href="Minor Circuit Remix (Punch-Out!).mp3">Minor Circuit Remix (Punch-Out!)</a><br />
 <a href="Title (Punch-Out! Wii).mp3">Title (Punch-Out! Wii)</a><br />
 <a href="World Circuit Theme (Punch-Out! Wii).mp3">World Circuit Theme (Punch-Out! Wii)</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:19:01 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:19:01 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4913" title="Sonic the Hedgehog:" author-id="28590" timestamp="2016-12-15 05:19:06 +0600" type="norm" dbname="box44334" last-modified-by="127" %}
+{% include box-open.html box-id="4913" title="Sonic the Hedgehog" author-id="28590" timestamp="2016-12-15 11:19:06 +0000" type="norm" dbname="box44334" last-modified-by="127" %}
 <table1 />
 <a href="Angel Island Zone (Sonic 3).mp3">Angel Island Zone (Sonic 3)</a><br />
 <a href="Escape from the City (Sonic Adventure 2).mp3">Escape from the City (Sonic Adventure 2)</a><br />
@@ -320,9 +320,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Windy Hill - Zone 1 (Sonic Lost World).mp3">Windy Hill - Zone 1 (Sonic Lost World)</a><br />
 <a href="Wonder World (Sonic Lost World).mp3">Wonder World (Sonic Lost World)</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:19:33 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:19:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4914" title="Star Fox:" author-id="28590" timestamp="2016-12-15 05:19:37 +0600" type="norm" dbname="box64837" last-modified-by="127" %}
+{% include box-open.html box-id="4914" title="Star Fox" author-id="28590" timestamp="2016-12-15 11:19:37 +0000" type="norm" dbname="box64837" last-modified-by="127" %}
 <a href="Area 6 & Missile Slipstream Remix (Starfox 64 & Command).mp3">Area 6 & Missile Slipstream Remix (Starfox 64 & Command)</a><br />
 <a href="Area 6 (Star Fox 64).mp3">Area 6 (Star Fox 64)</a><br />
 <a href="Area 6 Ver. 2 (Starfox 64).mp3">Area 6 Ver. 2 (Starfox 64)</a><br />
@@ -337,9 +337,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Star Wolf's Theme - Sector Z (Star Fox 64).mp3">Star Wolf's Theme - Sector Z (Star Fox 64)</a><br />
 <a href="Star Wolf's Theme - Sector Z (Star Fox 64).mp3">Star Wolf's Theme - Sector Z (Star Fox 64)</a><br />
 <a href="Venom (Star Fox 64).mp3">Venom (Star Fox 64)</a><br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:20:02 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:20:02 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4915" title="Super Mario:" author-id="28590" timestamp="2016-12-15 05:20:18 +0600" type="norm" dbname="box18239" last-modified-by="127" %}
+{% include box-open.html box-id="4915" title="Super Mario" author-id="28590" timestamp="2016-12-15 11:20:18 +0000" type="norm" dbname="box18239" last-modified-by="127" %}
 <table1 />
 <a href="Airship Theme (Super Mario Bros. 3).mp3">Airship Theme (Super Mario Bros. 3)</a><br />
 <a href="Athletic & Ground Theme (New Super Mario Bros. 2).mp3">Athletic & Ground Theme (New Super Mario Bros. 2)</a><br />
@@ -414,9 +414,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Waluigi Pinball (Mario Kart DS).mp3">Waluigi Pinball (Mario Kart DS)</a><br />
 <a href="Yoshi Island (Melee).mp3">Yoshi Island (Melee)</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:20:34 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:20:34 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4916" title="Smash Bros.:" author-id="28590" timestamp="2016-12-15 05:20:45 +0600" type="norm" dbname="box46159" last-modified-by="127" %}
+{% include box-open.html box-id="4916" title="Smash Bros." author-id="28590" timestamp="2016-12-15 11:20:45 +0000" type="norm" dbname="box46159" last-modified-by="127" %}
 <a href="Battlefield.mp3">Battlefield</a><br />
 <a href="Battlefield (Brawl).mp3">Battlefield (Brawl)</a><br />
 <a href="Battlefield Ver. 2 (Brawl).mp3">Battlefield Ver. 2 (Brawl)</a><br />
@@ -460,9 +460,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Trophy Gallery (Brawl).mp3">Trophy Gallery (Brawl)</a><br />
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:21:12 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:21:12 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4917" title="Wario:" author-id="28590" timestamp="2016-12-15 05:21:27 +0600" type="norm" dbname="box18689" last-modified-by="127" %}
+{% include box-open.html box-id="4917" title="Wario" author-id="28590" timestamp="2016-12-15 11:21:27 +0000" type="norm" dbname="box18689" last-modified-by="127" %}
 <a href="Ashley's Song (EN).mp3">Ashley's Song (EN)</a><br />
 <a href="Ashley's Song (JP).mp3">Ashley's Song (JP)</a><br />
 <a href="Ashley's Song (JP) Ver.2.mp3">Ashley's Song (JP) Ver.2</a><br />
@@ -470,9 +470,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="WarioWare, Inc. Medley.mp3">WarioWare, Inc. Medley</a><br />
 <a href="WarioWare, Inc. Theme.mp3">WarioWare, Inc. Theme</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:21:36 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:21:36 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4918" title="Wii Fit:" author-id="28590" timestamp="2016-12-15 05:21:49 +0600" type="norm" dbname="box29967" last-modified-by="127" %}
+{% include box-open.html box-id="4918" title="Wii Fit" author-id="28590" timestamp="2016-12-15 11:21:49 +0000" type="norm" dbname="box29967" last-modified-by="127" %}
 <a href="Core Luge (Wii Fit).mp3">Core Luge (Wii Fit)</a><br />
 <a href="Mischievous Mole-Way (Wii Fit Plus).mp3">Mischievous Mole-Way (Wii Fit Plus)</a><br />
 <a href="Rhythm Boxing (Wii Fit).mp3">Rhythm Boxing (Wii Fit)</a><br />
@@ -480,9 +480,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Super Hoop (Wii Fit).mp3">Super Hoop (Wii Fit)</a><br />
 <a href="Wii Fit Plus Medley.mp3">Wii Fit Plus Medley</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:22:00 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:22:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4919" title="Yoshi:" author-id="28590" timestamp="2016-12-15 05:22:03 +0600" type="norm" dbname="box6174" last-modified-by="127" %}
+{% include box-open.html box-id="4919" title="Yoshi" author-id="28590" timestamp="2016-12-15 11:22:03 +0000" type="norm" dbname="box6174" last-modified-by="127" %}
 <a href="Bandit Valley (Yoshi's New Island).mp3">Bandit Valley (Yoshi's New Island)</a><br />
 <a href="Ending (Yoshi's Story).mp3">Ending (Yoshi's Story)</a><br />
 <a href="Flower Field (Yoshi Touch & Go).mp3">Flower Field (Yoshi Touch & Go)</a><br />
@@ -495,9 +495,9 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Yoshi's Story Ver. 2.mp3">Yoshi's Story Ver. 2</a><br />
 <a href="Yoshi's Woolly World Original.mp3">Yoshi's Woolly World Original</a><br />
 <a href="Yoshi's Woolly World Remix.mp3">Yoshi's Woolly World Remix</a><br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:22:24 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:22:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4920" title="Miscellaneous:" author-id="28590" timestamp="2016-12-15 05:22:30 +0600" type="norm" dbname="box5350" last-modified-by="127" %}
+{% include box-open.html box-id="4920" title="Miscellaneous" author-id="28590" timestamp="2016-12-15 11:22:30 +0000" type="norm" dbname="box5350" last-modified-by="127" %}
 <a href="Attack (Soma Bringer).mp3">Attack (Soma Bringer)</a><br />
 <a href="Balloon Fight Medley.mp3">Balloon Fight Medley</a><br />
 <a href="Balloon Trip.mp3">Balloon Trip</a><br />
@@ -573,4 +573,4 @@ date: 2016-12-15 05:12:02 +0600
 <a href="Wrecking Crew Medley.mp3">Wrecking Crew Medley</a><br />
 <a href="Wrecking Crew Retro Medley.mp3">Wrecking Crew Retro Medley</a><br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 05:22:52 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-15 11:22:52 +0000" last-modified-by-name="CerealQueen" %}

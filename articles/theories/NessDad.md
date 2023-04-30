@@ -2,14 +2,14 @@
 title: Theories - Ness&#039;s Dad
 categories:
   - articles
-date: 2011-11-16 00:39:47 +0600
+date: 2011-11-16 06:39:47 +0000
 ---
-{% include box-open.html box-id="4123" title="Theories topic for the week of November 8 - 15, 2011:" author-id="1419" timestamp="2011-11-16 00:39:47 +0600" type="norm" dbname="box31791" last-modified-by="127" %}
+{% include box-open.html box-id="4123" title="Theories topic for the week of November 8 - 15, 2011" author-id="1419" timestamp="2011-11-16 06:39:47 +0000" type="norm" dbname="box31791" last-modified-by="127" %}
 <center><img src="http://starmen.net/mother2/images/game/Telephone.png" title="HELLO? THIS IS DOG." /><p/>
 Ness's dad is a bit of a mystery. You never see him, only receive calls from him and call him yourself to save and find out what your bank balance is. I asked you, the readers, what his profession is, and how he can afford to give you that much money to begin with, and you delivered.</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 00:42:52 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 06:42:52 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4124" title="Theory of the Week:" author-id="1419" timestamp="2011-11-16 00:43:15 +0600" type="norm" dbname="box45105" last-modified-by="127" %}
+{% include box-open.html box-id="4124" title="Theory of the Week" author-id="1419" timestamp="2011-11-16 06:43:15 +0000" type="norm" dbname="box45105" last-modified-by="127" %}
 Ness's dad's persona has always been an enigma. When asked the question "who is Ness's dad", I've taken into account not only his absence and his obvious wealth, but also his mannerisms, personality, and that one image that we see of him at the end of Mother. Let's get one thing settled before we continue - Ninten is not Ness's father, but his step-brother. This would make all the sisters step-sisters and so forth, and thus explain why "dad" acts the same in both games, at both times (late 1980s - 199X). So just who is Ness's dad, and why is he so rich, yet never home?<p/>
 
 Ness's dad is deceased Canadian comedic actor, John Candy (of Cool Runnings fame).<p/>
@@ -27,9 +27,9 @@ And so, while after the events of EarthBound, Candy did have a fatal heart attac
 His sudden death could also explain how there was never a third Candy family in Mother 3.<p/>
 
 -PKJovis
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 00:58:29 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 06:58:29 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4125" title="Woah...:" author-id="1419" timestamp="2011-11-16 00:45:36 +0600" type="norm" dbname="box59520" last-modified-by="127" %}
+{% include box-open.html box-id="4125" title="Woah..." author-id="1419" timestamp="2011-11-16 06:45:36 +0000" type="norm" dbname="box59520" last-modified-by="127" %}
 With a figure such as Ness's father, we see him with a carefree attitude towards his son most of the time, and never limiting the amount of money he's willing to give him as long as he keeps adventuring.<p/>
 
 It cannot simply be that Ness's dad has an infinite or absurdly large pile of money, because if he does we can assume he is a business man of great power and have better wisdom than to give his son hundreds of thousands of dollars. It would make more sense if Ness's dad had figured out how to have some of that money loop back to him in the grande scheme of things.<p/>
@@ -37,18 +37,18 @@ It cannot simply be that Ness's dad has an infinite or absurdly large pile of mo
 This leads to my conclusion that Ness's dad must own many business's which provided the very goods and services that Ness and Co. end up using through a large portion of the game. <p/>
 
 - Ants
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 00:50:02 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 06:50:02 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4126" title="The Goddad:" author-id="1419" timestamp="2011-11-16 00:48:36 +0600" type="norm" dbname="box61963" last-modified-by="127" %}
+{% include box-open.html box-id="4126" title="The Goddad" author-id="1419" timestamp="2011-11-16 06:48:36 +0000" type="norm" dbname="box61963" last-modified-by="127" %}
 Everyone knows Ness's Dad is a mafia leader. The question would be better worded as "How did he get such a job?" Here's how:<p/>
 The story begins as "Don" Phillipe Partlobeh, the head of a Fourside Mafia "family", was overseeing his daughter's wedding. His beloved son Mitch (Ness's Dad) had just come home from the war, but did not intend to become part of his father's business. Through Mitch's life the nature of the family business becomes clear. The business of the family was just like the head of the family, kind and benevolent to those who give respect, but given to ruthless violence whenever anything stood against the good of the family. Don Phillipe lived his life in the way of the old country, but times were changing, and some didn't want to follow the old ways and look out for community and "family". An up and coming rival of the Partlobeh family wanted to start selling drugs in Fourside, and needs the Don's influence to further his plan. The clash of the Don's fading old world values and the new ways demanded a terrible price, especially from Michael, all for the sake of the family.<p/>
 
 After lots of action spanning three movie parodies, Mitch took his father's position as head of the mafia. That's why he has so much money to send to Ness.<p/>
 
 -sithmaster96
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 00:53:26 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 06:53:26 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4127" title="Huh what happened? Who's Ness?:" author-id="1419" timestamp="2011-11-16 00:48:38 +0600" type="norm" dbname="box41386" last-modified-by="127" %}
+{% include box-open.html box-id="4127" title="Huh what happened? Who's Ness?" author-id="1419" timestamp="2011-11-16 06:48:38 +0000" type="norm" dbname="box41386" last-modified-by="127" %}
 Ness' dad is Itoi himself. Yep, hard to believe, but true. Earthbound is his way of retelling his son's adventure when he was a transfer student in America. It happened IN REAL LIFE!!! You're playing a non-fiction historical piece of art. You just don't know it. Until now. Itoi exists in the game, although you can't access him without PKHack. He's in that one building in Fourside where they are developing Earthbound 2. He comes out at night and goes to the 24-hour ATM to deposit money into Ness' account. He's a workaholic, so he's never home. Well, he came home, eventually. After EB64 was cancelled. Why did no one know about this? It was covered up by the government, duh. Ever seen Men in Black? I'm a rogue agent, here to tell you this before... OH JESUS MY BACKPORCH JUST DISENTEGRATED THEY FOUND ME AHHHHHH ajksfkjsghgae kldg dlvkd sflvk xcvm<p/><p/><p/>
 
 
@@ -56,9 +56,9 @@ Ness' dad is Itoi himself. Yep, hard to believe, but true. Earthbound is his way
 Hello, this is a non-rogue agent here to tell you that everything written here is a lie. Ness' dad doesn't exist. The phone calls were garbled radio data reflected off of Venus through a solar flare. The money is counterfeit, and the Secret Service is on their way to confiscate it. Now, if you could just look right here at this device...<p/>
 
 -fed306
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 00:54:53 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 06:54:53 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4128" title="My phone only takes pictures. Also it calls people:" author-id="1419" timestamp="2011-11-16 00:48:39 +0600" type="norm" dbname="box48171" last-modified-by="127" %}
+{% include box-open.html box-id="4128" title="My phone only takes pictures. Also it calls people" author-id="1419" timestamp="2011-11-16 06:48:39 +0000" type="norm" dbname="box48171" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, where does Mr.Ness's dad work. *Warning* This answer may just send you over to your daily classifieds*<p/>
 Parents, we love them, we get emberassed by them, and they usually have some of the boring, emberassing jobs you hate to go into while they're working. Ness's father, used to be of no exception. Before Giygas's attack in Eagleland, Ness's dad (We'll just call him Bob) used to work in a nearby department store, selling perfume and makeup (What can we say, it's a living). After realizing his jobs success, and Ness's decent grades, his father gave Ness an ATM card, saying with every good thing I hear you do, I'll reward you.<p/>
 About a week before the meteor crash, an incident happened at the department store in the perfume section (don't ask) resulting in the dismissal of Bob. Before he left though, he cleaned up the "Incident" upon his own request, and made it spotless within a couple minutes, so fast it could've been considered a record. Of course...the manager didn't want to see his face in his store, so Bob was lucky enough to be done within a short amount of time, because the manager tossed him out of the highest window.<p/>
@@ -72,9 +72,9 @@ Bob, seeing his son be so brave, realized he had to do something to help his boy
 Another ashed question, now a bright flame. Til next week, this is Pheen-X saying, get a job kids!<p/>
 
 -Firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 01:04:58 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 07:04:58 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4129" title="Truly, it was the greatest Mexican stereotype costume:" author-id="1419" timestamp="2011-11-16 00:48:43 +0600" type="norm" dbname="box52392" last-modified-by="127" %}
+{% include box-open.html box-id="4129" title="Truly, it was the greatest Mexican stereotype costume" author-id="1419" timestamp="2011-11-16 06:48:43 +0000" type="norm" dbname="box52392" last-modified-by="127" %}
 The Fourside Casino used to be one of the most lucrative sources of tax revenue for the city. When you stepped in the door, the sounds of roulette wheels spinning and craps dice would fill your ears and sound like they were coming from the lyre of Apollo himself. Gorgeous, big-hipped young women would come to freshen your ice coffee. The slot machines constantly cycled hypnotically under the heavy usage by the patrons; one of them, a then new-fangled computer-based machine, broke after continual usage as a result of patrons thinking that it gave them the best payoff. All was well until Enrich Flavor lost his position as owner of the casino and was replaced by Monotoli, who cleared the place out and replaced it with a department store. That weird junk behind the department store used to be placed in Mr. Flavor's office as a source of good luck to the superstitious CEO; both the weird magnet rock and the carrot key were found in an expedition he made in the Far East, where he also happened to make it big with a restaurant chain selling "brain food".<p/>
 
 Ness's dad had never worked at an honest job, and he deceived his wife and children into thinking he had a position as as CEO of some upstart steakburger chain. He spent all of his time at that casino spending Mr. Minch's money at the poker table, which had increased more than tenfold since the money was first borrowed. When dear ol' dad heard his son was going on a journey across the Earth, he had plenty to give unto his son, and he deposited more into his son's bank account as he heard more success about the journey to save the world. The casino shut down as soon as Ness set foot into Threed; it didn't take long for Monotoli to rise to power after getting his hands on the Mani Mani statue. The father's wealth hadn't been lost as a result of the loss of the casino, but he was still greedy for that cash flow that came from such a workless venture...<p/>
@@ -84,4 +84,4 @@ Ness's dad stole the broken slot machine from the casino as it was being cleared
 Ness didn't realize that his father was one of the famous Slot Brothers until years after the Chosen Four returned to their human shells from the Cave of the Past. He wrote a bestselling novel about the elaborate lies his father constructed, and his parents ended up getting a divorce when his mother read her son's book. This novel killed the success of the Slot Brothers venture; Ness's dad ended up setting up a hotdog street vendor in Fourside, which wasn't anywhere near as successful as his career as a gambler or human slot machine. One day, he mysteriously vanished, stand and all; a strange smell of bacon lingered in the the site of where the stand once stood. Similar disappearances had happened and kept happening, the most famous of which happening to be the disappearance of Dr. Jeff Andonuts three decades later. The true horrors of the mystery were revealed long after the end of civilization as we know it, when the Pigmasks came to Nowhere Islands...<p/>
 
 -EnnuiKing
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 01:03:16 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 07:03:16 +0000" last-modified-by-name="Captain Bozo" %}

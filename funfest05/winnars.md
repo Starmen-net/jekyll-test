@@ -2,13 +2,13 @@
 title: Funfest 2005 Weiners
 categories:
   - funfest05
-date: 2006-02-10 11:16:36 +0600
+date: 2006-02-10 17:16:36 +0000
 ---
-{% include box-open.html box-id="1834" title="The Weiner Annoucement:" author-id="13" timestamp="2006-02-10 11:16:36 +0600" type="norm" dbname="box54732" last-modified-by="127" %}
+{% include box-open.html box-id="1834" title="The Weiner Annoucement" author-id="13" timestamp="2006-02-10 17:16:36 +0000" type="norm" dbname="box54732" last-modified-by="127" %}
 Yup, it's finally over. The last golden ticket has been...<br /> <br />I mean the Funfest Winners have finally been discovered. Congratulations to them all. They're probably deserving of your praise. 
-{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-08-09 00:15:40 +0500" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-08-09 05:15:40 +0000" last-modified-by-name="sarsie" %}
 
-{% include box-open.html box-id="1835" title="The Winners!:" author-id="13" timestamp="2006-02-10 11:18:38 +0600" type="norm" dbname="box4548" last-modified-by="13" %}
+{% include box-open.html box-id="1835" title="The Winners!" author-id="13" timestamp="2006-02-10 17:18:38 +0000" type="norm" dbname="box4548" last-modified-by="13" %}
 <i>Animation</i><br /><br />
 1st - <SUBMISSION id="11791" /><br />
 2nd - <a href="http://mestephen.com/Videos/pages/ebnomatsuri.html">EB no Matsuri video by xfisjmg1</a><br />
@@ -30,4 +30,4 @@ Yup, it's finally over. The last golden ticket has been...<br /> <br />I mean th
 1st - <SUBMISSION id="11556" /><br />
 2nd - <SUBMISSION id="11678" /><br />
 3rd - <SUBMISSION id="11779" /><br />
-{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-02-10 11:34:28 +0600" last-modified-by-name="JamesPicard_007" %}
+{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-02-10 17:34:28 +0000" last-modified-by-name="JamesPicard_007" %}

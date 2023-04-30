@@ -2,9 +2,9 @@
 title: URFBOWND TEE!
 categories:
   - merchandise
-date: 2005-01-03 22:57:08 +0600
+date: 2005-01-04 04:57:08 +0000
 ---
-{% include box-open.html box-id="356" title="URFBOWND TEE!:" author-id="45" timestamp="2005-01-03 22:57:08 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="356" title="URFBOWND TEE!" author-id="45" timestamp="2005-01-04 04:57:08 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ubt_title.png" border="0" alt="URFBOWND TEE!" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 22:57:08 +0600
 	<br />
 	<a href="/merchandise/images/smn_ubt_front.jpg">Front</a> - <a href="/merchandise/images/smn_ubt_back.jpg">Back</a> - <a href="/merchandise/images/smn_ubt_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_ubt_bdesign.jpg">Back Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 22:57:21 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 04:57:21 +0000" last-modified-by-name="ShadowX" %}

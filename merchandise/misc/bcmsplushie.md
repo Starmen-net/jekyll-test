@@ -2,9 +2,9 @@
 title: Ball &amp; Chain Mr. Saturn
 categories:
   - merchandise
-date: 2010-11-03 16:28:29 +0500
+date: 2010-11-03 21:28:29 +0000
 ---
-{% include box-open.html box-id="3907" title="Ball & Chain Mr. Saturn:" author-id="45" timestamp="2010-11-03 16:28:29 +0500" type="norm" dbname="box53410" last-modified-by="127" %}
+{% include box-open.html box-id="3907" title="Ball & Chain Mr. Saturn" author-id="45" timestamp="2010-11-03 21:28:29 +0000" type="norm" dbname="box53410" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -72,4 +72,4 @@ date: 2010-11-03 16:28:29 +0500
 <a href="/merchandise/images/crangegame1.jpg" ><img src="/merchandise/images/cranegame1.jpg" title="Crane Game" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/crangegame2.jpg" ><img src="/merchandise/images/cranegame2.jpg" title="Crane Game" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:31:29 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:31:29 +0000" last-modified-by-name="Tomato" %}

@@ -2,13 +2,13 @@
 title: PK Hacker&#039;s Gallery
 categories:
   - pkhack
-date: 2005-02-21 21:01:08 +0600
+date: 2005-02-22 03:01:08 +0000
 ---
-{% include box-open.html box-id="484" title="The Hacker&#039;s Gallery:" author-id="191" timestamp="2005-02-21 21:01:08 +0600" type="norm" dbname="box38657" last-modified-by="127" %}
+{% include box-open.html box-id="484" title="The Hacker&#039;s Gallery" author-id="191" timestamp="2005-02-22 03:01:08 +0000" type="norm" dbname="box38657" last-modified-by="127" %}
 This is the <b>Hacker's Gallery</b>, a showcase of the capabilities and mystical ninja powers that PK Hack and CoilSnake are host to.  We offer our solemn guarantee that these are legitimate screenshots and not something stolen from the old Flukes section.  :D  Given enough creativity and familiarity with the tools available, any PK Hacker is capable of making changes like this to the EarthBound engine.
-{% include box-close.html author-name="Blue Antoid" last-modified-on="2012-08-14 10:14:06 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="Blue Antoid" last-modified-on="2012-08-14 15:14:06 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="485" title="Abandon Hope, Ye Who Enter Here:" author-id="191" timestamp="2005-02-21 21:01:09 +0600" type="norm" dbname="box26753" last-modified-by="127" %}
+{% include box-open.html box-id="485" title="Abandon Hope, Ye Who Enter Here" author-id="191" timestamp="2005-02-22 03:01:09 +0000" type="norm" dbname="box26753" last-modified-by="127" %}
 <center>
 <table>
 	<tr valign="top">
@@ -380,9 +380,9 @@ This is the <b>Hacker's Gallery</b>, a showcase of the capabilities and mystical
 	</tr>
 </table>
 </center>
-{% include box-close.html author-name="Blue Antoid" last-modified-on="2005-04-04 23:41:34 +0500" last-modified-by-name="Blue Antoid" %}
+{% include box-close.html author-name="Blue Antoid" last-modified-on="2005-04-05 04:41:34 +0000" last-modified-by-name="Blue Antoid" %}
 
-{% include box-open.html box-id="912" title="Yeah, we know, we rock.  But you can too.  :D:" author-id="191" timestamp="2005-04-04 12:26:20 +0500" type="norm" dbname="box54029" last-modified-by="127" %}
+{% include box-open.html box-id="912" title="Yeah, we know, we rock.  But you can too.  :D" author-id="191" timestamp="2005-04-04 17:26:20 +0000" type="norm" dbname="box54029" last-modified-by="127" %}
 Are you interested in submitting a screenshot to the Gallery?  Send it to us using the Starmen.Net submissions page, and the PK Hack Staff will review it.  If we deem it front-page-worthy material, your picture will be added to the Gallery along with a credit in your name!<br /><br />
 <b>PK Hack Gallery Contributors:</b><ul>
 <li>Blue Antoid</li>
@@ -391,4 +391,4 @@ Are you interested in submitting a screenshot to the Gallery?  Send it to us usi
 <li>AnyoneEB</li>
 <li>Gau</li>
 <li>JeffMan</li></ul>
-{% include box-close.html author-name="Blue Antoid" last-modified-on="2005-04-06 20:21:12 +0500" last-modified-by-name="Blue Antoid" %}
+{% include box-close.html author-name="Blue Antoid" last-modified-on="2005-04-07 01:21:12 +0000" last-modified-by-name="Blue Antoid" %}

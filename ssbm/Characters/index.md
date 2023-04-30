@@ -2,15 +2,15 @@
 title: Characters
 categories:
   - ssbm
-date: 2017-03-06 01:32:01 +0600
+date: 2017-03-06 07:32:01 +0000
 ---
-{% include box-open.html box-id="4993" title="Characters:" author-id="28590" timestamp="2017-03-06 18:52:52 +0600" type="norm" dbname="box13508" last-modified-by="127" %}
+{% include box-open.html box-id="4993" title="Characters" author-id="28590" timestamp="2017-03-07 00:52:52 +0000" type="norm" dbname="box13508" last-modified-by="127" %}
 <a href="#bowser">Bowser</a> <a href="#drmario">Dr. Mario</a> <a href="#luigi">Luigi</a> <a href="#mario">Mario</a> <a href="#peach">Peach</a> <a href="#pichu">Pichu</a> <a href="#yoshi">Yoshi</a>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-08 18:24:47 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-09 00:24:47 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4997" title="Bowser:" author-id="28590" timestamp="2017-03-08 05:18:46 +0600" type="norm" dbname="box35489" last-modified-by="127" %}
+{% include box-open.html box-id="4997" title="Bowser" author-id="28590" timestamp="2017-03-08 11:18:46 +0000" type="norm" dbname="box35489" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -26,9 +26,9 @@ Works:
 <br /><br />
 <center><img src="Bowser_1.png" />&nbsp; &nbsp;<img src="Bowser_2.png" />&nbsp; &nbsp;<img src="Bowser_3.png" />&nbsp; &nbsp;<img src="Bowser_4.png" />&nbsp; &nbsp;<img src="Bowser_5.png" />&nbsp; &nbsp;<img src="Bowser_6.png" /></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-09 13:49:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-09 18:49:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4995" title="Luigi:" author-id="28590" timestamp="2017-03-08 03:29:12 +0600" type="norm" dbname="box26557" last-modified-by="127" %}
+{% include box-open.html box-id="4995" title="Luigi" author-id="28590" timestamp="2017-03-08 09:29:12 +0000" type="norm" dbname="box26557" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -45,9 +45,9 @@ Works:
 <br /><br />
 <center><img src="Luigi_1.png" />&nbsp; &nbsp;<img src="Luigi_2.png" />&nbsp; &nbsp;<img src="Luigi_3.png" />&nbsp; &nbsp;<img src="Luigi_4.png" />&nbsp; &nbsp;<img src="Luigi_5.png" />&nbsp; &nbsp;<img src="Luigi_6.png" /></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 22:58:48 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 03:58:48 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4994" title="Mario:" author-id="28590" timestamp="2017-03-08 00:25:07 +0600" type="norm" dbname="box41121" last-modified-by="127" %}
+{% include box-open.html box-id="4994" title="Mario" author-id="28590" timestamp="2017-03-08 06:25:07 +0000" type="norm" dbname="box41121" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -64,9 +64,9 @@ Works:
 <center><img src="Mario_1.png" />&nbsp; &nbsp;<img src="Mario_2.png" />&nbsp; &nbsp;<img src="Mario_3.png" />&nbsp; &nbsp;<img src="Mario_4.png" />&nbsp; &nbsp;<img src="Mario_5.png" />&nbsp; &nbsp;<img src="Mario_6.png" /></center>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 22:58:58 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 03:58:58 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4992" title="Peach:" author-id="28590" timestamp="2017-03-06 01:32:01 +0600" type="norm" dbname="box56175" last-modified-by="127" %}
+{% include box-open.html box-id="4992" title="Peach" author-id="28590" timestamp="2017-03-06 07:32:01 +0000" type="norm" dbname="box56175" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -82,9 +82,9 @@ Works:
 <br /><br />
 <center><img src="Peach_1.png" />&nbsp; &nbsp;<img src="Peach_2.png" />&nbsp; &nbsp;<img src="Peach_3.png" />&nbsp; &nbsp;<img src="Peach_4.png" />&nbsp; &nbsp;<img src="Peach_5.png" />&nbsp; &nbsp;<img src="Peach_6.png" /></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 22:59:26 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 03:59:26 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4996" title="Yoshi:" author-id="28590" timestamp="2017-03-08 04:11:40 +0600" type="norm" dbname="box42975" last-modified-by="127" %}
+{% include box-open.html box-id="4996" title="Yoshi" author-id="28590" timestamp="2017-03-08 10:11:40 +0000" type="norm" dbname="box42975" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -101,9 +101,9 @@ Works:
 <br /><br />
 <center><img src="Yoshi_1.png" />&nbsp; &nbsp; <img src="Yoshi_2.png" />&nbsp; &nbsp; <img src="Yoshi_3.png" />&nbsp; &nbsp; <img src="Yoshi_4.png" />&nbsp; &nbsp; <img src="Yoshi_5.png" /> &nbsp; &nbsp;<img src="Yoshi_6.png" /></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 22:59:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 03:59:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4998" title="Dr. Mario:" author-id="28590" timestamp="2017-03-08 13:37:36 +0600" type="norm" dbname="box38385" last-modified-by="127" %}
+{% include box-open.html box-id="4998" title="Dr. Mario" author-id="28590" timestamp="2017-03-08 19:37:36 +0000" type="norm" dbname="box38385" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -120,9 +120,9 @@ Works:
 <center><img src="Mario_1.png" />&nbsp; &nbsp;<img src="Mario_2.png" />&nbsp; &nbsp;<img src="Mario_3.png" />&nbsp; &nbsp;<img src="Mario_4.png" />&nbsp; &nbsp;<img src="Mario_5.png" />&nbsp; &nbsp;<img src="Mario_6.png" /></center>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 22:59:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 03:59:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4999" title="Pichu:" author-id="28590" timestamp="2017-03-08 17:00:49 +0600" type="norm" dbname="box3292" last-modified-by="127" %}
+{% include box-open.html box-id="4999" title="Pichu" author-id="28590" timestamp="2017-03-08 23:00:49 +0000" type="norm" dbname="box3292" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -141,9 +141,9 @@ Works:
 <br /><br />
 <center><img src="Luigi_1.png" />&nbsp; &nbsp;<img src="Luigi_2.png" />&nbsp; &nbsp;<img src="Luigi_3.png" />&nbsp; &nbsp;<img src="Luigi_4.png" />&nbsp; &nbsp;<img src="Luigi_5.png" />&nbsp; &nbsp;<img src="Luigi_6.png" /></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 23:00:02 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 04:00:02 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5160" title="Link:" author-id="28590" timestamp="2018-04-23 15:31:08 +0500" type="norm" dbname="box2612" last-modified-by="127" %}
+{% include box-open.html box-id="5160" title="Link" author-id="28590" timestamp="2018-04-23 20:31:08 +0000" type="norm" dbname="box2612" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -166,9 +166,9 @@ Works:
 <br /><br />
 <center><img src="Luigi_1.png" />&nbsp; &nbsp;<img src="Luigi_2.png" />&nbsp; &nbsp;<img src="Luigi_3.png" />&nbsp; &nbsp;<img src="Luigi_4.png" />&nbsp; &nbsp;<img src="Luigi_5.png" />&nbsp; &nbsp;<img src="Luigi_6.png" /></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-24 23:00:33 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 04:00:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5161" title="Captain Falcon:" author-id="28590" timestamp="2018-04-23 15:32:07 +0500" type="norm" dbname="box27442" last-modified-by="127" %}
+{% include box-open.html box-id="5161" title="Captain Falcon" author-id="28590" timestamp="2018-04-23 20:32:07 +0000" type="norm" dbname="box27442" last-modified-by="127" %}
 <table class="fixed" >
     <col width="275px" />
     <col width="700px" />
@@ -193,9 +193,9 @@ Works:
 &nbsp; &nbsp;
 <a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:53:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:53:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5162" title="Donkey Kong:" author-id="28590" timestamp="2018-04-23 15:32:34 +0500" type="norm" dbname="box63264" last-modified-by="127" %}
+{% include box-open.html box-id="5162" title="Donkey Kong" author-id="28590" timestamp="2018-04-23 20:32:34 +0000" type="norm" dbname="box63264" last-modified-by="127" %}
 <table class="fixed" >
     <col width="275px" />
     <col width="700px" />
@@ -220,21 +220,21 @@ Works:
 &nbsp; &nbsp;
 <a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:52:46 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:52:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5163" title="Falco:" author-id="28590" timestamp="2018-04-23 15:33:10 +0500" type="norm" dbname="box36750" last-modified-by="127" %}
+{% include box-open.html box-id="5163" title="Falco" author-id="28590" timestamp="2018-04-23 20:33:10 +0000" type="norm" dbname="box36750" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:33:19 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:33:19 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5164" title="Fox:" author-id="28590" timestamp="2018-04-23 15:33:23 +0500" type="norm" dbname="box34751" last-modified-by="127" %}
+{% include box-open.html box-id="5164" title="Fox" author-id="28590" timestamp="2018-04-23 20:33:23 +0000" type="norm" dbname="box34751" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:33:31 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:33:31 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5165" title="Ganondorf:" author-id="28590" timestamp="2018-04-23 15:33:43 +0500" type="norm" dbname="box30936" last-modified-by="127" %}
+{% include box-open.html box-id="5165" title="Ganondorf" author-id="28590" timestamp="2018-04-23 20:33:43 +0000" type="norm" dbname="box30936" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:33:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:33:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5166" title="Ice Climbers:" author-id="28590" timestamp="2018-04-23 15:34:02 +0500" type="norm" dbname="box19802" last-modified-by="127" %}
+{% include box-open.html box-id="5166" title="Ice Climbers" author-id="28590" timestamp="2018-04-23 20:34:02 +0000" type="norm" dbname="box19802" last-modified-by="127" %}
 <table class="fixed" >
     <col width="200px" />
     <col width="1000px" />
@@ -252,9 +252,9 @@ Works:
 <br /><br />
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-09 13:47:01 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-09 18:47:01 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5284" title="Kirby:" author-id="28590" timestamp="2018-06-16 07:54:23 +0500" type="norm" dbname="box28556" last-modified-by="127" %}
+{% include box-open.html box-id="5284" title="Kirby" author-id="28590" timestamp="2018-06-16 12:54:23 +0000" type="norm" dbname="box28556" last-modified-by="127" %}
 <table class="fixed" >
     <col width="275px" />
     <col width="700px" />
@@ -279,4 +279,4 @@ Works:
 &nbsp; &nbsp;
 <a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:55:35 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:55:35 +0000" last-modified-by-name="CerealQueen" %}

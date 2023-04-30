@@ -2,9 +2,9 @@
 title: Smash Bros. Brawl - Fan Shots
 categories:
   - ssbb
-date: 2008-11-15 21:44:22 +0600
+date: 2008-11-16 03:44:22 +0000
 ---
-{% include box-open.html box-id="3577" title="How to do it!:" author-id="474" timestamp="2008-11-22 08:21:26 +0600" type="norm" dbname="box53726" last-modified-by="127" %}
+{% include box-open.html box-id="3577" title="How to do it!" author-id="474" timestamp="2008-11-22 14:21:26 +0000" type="norm" dbname="box53726" last-modified-by="127" %}
 Have you ever wondered how on earth these screenshots are being gathered? Rest easy, because there's a nice solution to convert all of your images to be computer-friendly!
 <br />
 <br />
@@ -16,9 +16,9 @@ Have you ever wondered how on earth these screenshots are being gathered? Rest e
 <li><b>STEP THREE:</b> Save your pics onto your SD Card, insert it into a reader, and open its folder to view its contents.</li>
 <li><b>STEP FOUR:</b> Open the folders: private/wii/app/RSBE/al. Inside, you should find .bin files with big names like al_123456_1234.bin. Copy these over into your new folder containing the program.</li>
 <li><b>STEP FIVE</b> Run the file 'bin2jpgall.bat' and take a look at your pics!</li></ul>
-{% include box-close.html author-name="Artemis251" last-modified-on="2008-11-22 08:27:04 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2008-11-22 14:27:04 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3566" title="Shots: Alphabetical:" author-id="474" timestamp="2008-11-15 21:44:22 +0600" type="db" dbname="box39660" last-modified-by="127" %}
+{% include box-open.html box-id="3566" title="Shots: Alphabetical" author-id="474" timestamp="2008-11-16 03:44:22 +0000" type="db" dbname="box39660" last-modified-by="127" %}
 <navigator group="SuperSmashBrosBrawl|BrawlShots" quantity="1000" /><displaytor mode="thumbnail" />
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2008-11-15 22:13:35 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2008-11-16 04:13:35 +0000" last-modified-by-name="Artemis251" %}

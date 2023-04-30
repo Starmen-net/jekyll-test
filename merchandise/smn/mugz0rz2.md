@@ -2,9 +2,9 @@
 title: Starmen.Net Mugz0rz 2nd Edition
 categories:
   - merchandise
-date: 2005-01-04 00:18:13 +0600
+date: 2005-01-04 06:18:13 +0000
 ---
-{% include box-open.html box-id="393" title="Starmen.Net Mugz0rz 2nd Edition:" author-id="45" timestamp="2005-01-04 00:18:13 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="393" title="Starmen.Net Mugz0rz 2nd Edition" author-id="45" timestamp="2005-01-04 06:18:13 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/mugz0rz2_title.jpg" border="0" alt="Starmen.Net Mugz0rz 2nd Edition" />
 	</center>
@@ -34,4 +34,4 @@ date: 2005-01-04 00:18:13 +0600
 	<b>Starmen.Net 2nd Edition Mugz0r Pictures:</b>
 	<br />
 	<a href="http://www.starmen.net/merchandise/images/truemugz0rz.jpg">1</a> <font color="red">*very detailed*</font> - <a href="/merchandise/images/mugz0rz2-1.png">2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:19:12 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:19:12 +0000" last-modified-by-name="ShadowX" %}

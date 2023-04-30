@@ -2,9 +2,9 @@
 title: Official Art
 categories:
   - smashbros
-date: 2018-06-15 04:23:56 +0500
+date: 2018-06-15 09:23:56 +0000
 ---
-{% include box-open.html box-id="5234" title="Character Art:" author-id="28590" timestamp="2018-06-15 04:23:56 +0500" type="norm" dbname="box6277" last-modified-by="127" %}
+{% include box-open.html box-id="5234" title="Character Art" author-id="28590" timestamp="2018-06-15 09:23:56 +0000" type="norm" dbname="box6277" last-modified-by="127" %}
 <center><a href="http://starmen.net/smashbros/images/captain_falcon.png"><img src="http://starmen.net/smashbros/images/Captain_Falcon_t.png"  border="1" /></a> 
 
 <a href="http://starmen.net/smashbros/images/donkey_kong.png"><img src="http://starmen.net/smashbros/images/Donkey_Kong_t.png"  border="1" /></a> 
@@ -31,4 +31,4 @@ date: 2018-06-15 04:23:56 +0500
 <a href="http://starmen.net/smashbros/images/yoshi.png"><img src="http://starmen.net/smashbros/images/Yoshi_t.png"  border="1" /></a> 
 
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 04:38:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 09:38:24 +0000" last-modified-by-name="CerealQueen" %}

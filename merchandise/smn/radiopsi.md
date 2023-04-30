@@ -2,9 +2,9 @@
 title: Radio PSI Shirt
 categories:
   - merchandise
-date: 2007-04-26 01:19:47 +0500
+date: 2007-04-26 06:19:47 +0000
 ---
-{% include box-open.html box-id="2877" title="Radio PSI Shirt:" author-id="45" timestamp="2007-04-26 01:19:47 +0500" type="norm" dbname="box14993" last-modified-by="45" %}
+{% include box-open.html box-id="2877" title="Radio PSI Shirt" author-id="45" timestamp="2007-04-26 06:19:47 +0000" type="norm" dbname="box14993" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/smn_radiopsi_title.png" width="350" height="350" border="0" alt="Radio PSI Shirt" />
 	</center>
@@ -24,4 +24,4 @@ date: 2007-04-26 01:19:47 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_radiopsi_front.jpg">Front</a> - <a href="/merchandise/images/smn_radiopsi_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-26 01:19:54 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-26 06:19:54 +0000" last-modified-by-name="ShadowX" %}

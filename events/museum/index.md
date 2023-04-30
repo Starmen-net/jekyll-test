@@ -2,9 +2,9 @@
 title: 'Events: Nintendo Museum'
 categories:
   - events
-date: 2007-06-20 02:14:33 +0500
+date: 2007-06-20 07:14:33 +0000
 ---
-{% include box-open.html box-id="3071" title="Nintendo Museum:" author-id="288" timestamp="2007-06-20 02:14:33 +0500" type="norm" dbname="box7088" last-modified-by="127" %}
+{% include box-open.html box-id="3071" title="Nintendo Museum" author-id="288" timestamp="2007-06-20 07:14:33 +0000" type="norm" dbname="box7088" last-modified-by="127" %}
 Not too much info yet, but here are videos and pics of the new Nintendo Museum in Osaka, Japan.
 
 <br /><br />
@@ -15,4 +15,4 @@ Not too much info yet, but here are videos and pics of the new Nintendo Museum i
  <li><a href="http://www.youtube.com/watch?v=sTWSjE4fLaY">Nintendo Museum Feature, Part 2</a></li>
 </ul>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 02:21:42 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 07:21:42 +0000" last-modified-by-name="Tomato" %}

@@ -2,9 +2,9 @@
 title: Mr. Saturn Phone Strap
 categories:
   - merchandise
-date: 2005-01-03 20:48:42 +0600
+date: 2005-01-04 02:48:42 +0000
 ---
-{% include box-open.html box-id="320" title="Mr. Saturn Phone Strap:" author-id="45" timestamp="2005-01-03 20:48:42 +0600" type="norm" dbname="box46342" last-modified-by="127" %}
+{% include box-open.html box-id="320" title="Mr. Saturn Phone Strap" author-id="45" timestamp="2005-01-04 02:48:42 +0000" type="norm" dbname="box46342" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ms_strap_title.jpg" border="0" alt="Mr. Saturn Phone Strap" />
 	</center>
@@ -31,4 +31,4 @@ date: 2005-01-03 20:48:42 +0600
 	<a href="/merchandise/images/ms_strap_front.jpg">Front</a> - <a href="/merchandise/images/ms_strap_back.jpg">Back</a> - <a href="/merchandise/images/ms_strap_open.jpg">open</a> - 
 	<a href="/merchandise/images/ms_strap_focus.jpg">Focus</a> - <a href="/merchandise/images/ms_strap_many.jpg">Many</a> - <a href="/merchandise/images/ms_strap_ad.jpg">Ad</a> - 
 	<a href="/merchandise/images/m12_posters2-2.jpg">Poster</a> - <a href="/merchandise/images/ms_strap_ani.gif">Strap (Animated)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:32:09 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:32:09 +0000" last-modified-by-name="Tomato" %}

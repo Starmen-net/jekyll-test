@@ -2,9 +2,9 @@
 title: Burger Sticker!
 categories:
   - merchandise
-date: 2009-05-10 21:16:25 +0500
+date: 2009-05-11 02:16:25 +0000
 ---
-{% include box-open.html box-id="3735" title="Burger Sticker!:" author-id="45" timestamp="2009-05-10 21:16:25 +0500" type="norm" dbname="box31122" last-modified-by="45" %}
+{% include box-open.html box-id="3735" title="Burger Sticker!" author-id="45" timestamp="2009-05-11 02:16:25 +0000" type="norm" dbname="box31122" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_burger_title.png" border="0" alt="Burger Sticker!" />
 	</center>
@@ -25,4 +25,4 @@ date: 2009-05-10 21:16:25 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_burger_sticker.jpg">Sticker</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:19:32 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:19:32 +0000" last-modified-by-name="ShadowX" %}

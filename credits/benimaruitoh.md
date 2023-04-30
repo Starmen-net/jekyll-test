@@ -2,9 +2,9 @@
 title: 'Game Credits: Benimaru Itoh'
 categories:
   - credits
-date: 2008-06-10 16:06:29 +0500
+date: 2008-06-10 21:06:29 +0000
 ---
-{% include box-open.html box-id="3464" title="Benimaru Itoh:" author-id="2262" timestamp="2008-06-10 16:06:29 +0500" type="norm" dbname="box4878" last-modified-by="127" %}
+{% include box-open.html box-id="3464" title="Benimaru Itoh" author-id="2262" timestamp="2008-06-10 21:06:29 +0000" type="norm" dbname="box4878" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 
@@ -32,4 +32,4 @@ Supervisor</LI>
 Graphic Design</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 16:06:35 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 21:06:35 +0000" last-modified-by-name="KingDarian" %}

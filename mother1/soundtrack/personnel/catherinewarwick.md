@@ -2,9 +2,9 @@
 title: Catherine Warwick &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-25 00:50:11 +0600
+date: 2010-11-25 06:50:11 +0000
 ---
-{% include box-open.html box-id="3934" title="Catherine Warwick: A Brief and Unsatisfying Biography:" author-id="307" timestamp="2010-11-25 00:50:11 +0600" type="norm" dbname="box3199" last-modified-by="49" %}
+{% include box-open.html box-id="3934" title="Catherine Warwick: A Brief and Unsatisfying Biography" author-id="307" timestamp="2010-11-25 06:50:11 +0000" type="norm" dbname="box3199" last-modified-by="49" %}
 <p>The star of the <em>MOTHER Original Soundtrack</em> is really the songs, or the game. If you insist on a human star, it's probably composer Keiichi Suzuki, lead singer of Moonriders, which has to be worth something.</p>
 <p>But after the game and the composer there's Catherine Warwick, an aspiring 14-year-old singer from London who sang three songs on the orchestrated soundtrack. Warwick was, relatively speaking, all over the place. Not only does she appear on the back of the liner notes—thanks to which we know, weirdly, that she was born in Westminster Hospital—she also shows up in this flier advertising the soundtrack that was included with every copy of MOTHER (translation courtesy kenisu3000.)</p>
 <p>The soundtrack was her first professional singing gig, and so far as two generations of EarthBound fans can tell it was her second-to-last. Soon after the MOTHER soundtrack was released in Japan, in September, 1989, a 7" single was released out of a tiny label in London called "Runway 1." (If you have any questions about the long-term viability of this label, this single was FLITE 001. There was no FLITE 002.)</p>
@@ -28,4 +28,4 @@ date: 2010-11-25 00:50:11 +0600
 </div>
 
 <br clear="all" />
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 02:19:57 +0600" last-modified-by-name="ROFISH" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 08:19:57 +0000" last-modified-by-name="ROFISH" %}

@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Game Reviews
 categories:
   - mother2
-date: 2005-04-03 14:47:43 +0500
+date: 2005-04-03 19:47:43 +0000
 ---
-{% include box-open.html box-id="848" title="MOTHER 2 / EarthBound Game Reviews:" author-id="926" timestamp="2005-04-03 14:47:43 +0500" type="norm" dbname="box63439" last-modified-by="127" %}
+{% include box-open.html box-id="848" title="MOTHER 2 / EarthBound Game Reviews" author-id="926" timestamp="2005-04-03 19:47:43 +0000" type="norm" dbname="box63439" last-modified-by="127" %}
 <table1 />
 <a href="egmbound.txt">EGM</a><br />
 <a href="EBGP.txt">GamePro</a><br />
@@ -14,9 +14,9 @@ date: 2005-04-03 14:47:43 +0500
 <a href="EBVC.txt">The Youngstown Vindicator</a><br />
 <a href="http://www.clanofthegraywolf.com/16-bit-gems/11">Clan of the Gray Wolf</a> <a href="http://www.clanofthegraywolf.com/16-bit-gems/10">(History of the Series)</a>
 <table3 />
-{% include box-close.html author-name="Wheelchairboy" last-modified-on="2012-04-05 20:18:32 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2012-04-06 01:18:32 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="2153" title="MOTHER 2 / EarthBound Magazine Scans:" author-id="75" timestamp="2006-03-30 16:15:52 +0600" type="norm" dbname="box28882" last-modified-by="127" %}
+{% include box-open.html box-id="2153" title="MOTHER 2 / EarthBound Magazine Scans" author-id="75" timestamp="2006-03-30 22:15:52 +0000" type="norm" dbname="box28882" last-modified-by="127" %}
 <a href="images/m2preview.jpg" title="Mother 2 preview in EGM"><img src="images/m2preview2t.jpg" width="150" height="150" /></a>
 <a href="images/egmreview.jpg" title="EarthBound review in EGM"><img src="images/egmreviewt.jpg" width="150" height="150" /></a>
 <a href="images/pakwatch.jpeg" title="Translation of EarthBound in Pak Watch - Issue 69"><img src="images/pakwatcht.jpg" width="150" height="150" /></a>
@@ -44,4 +44,4 @@ date: 2005-04-03 14:47:43 +0500
 <a href="images/gameinformer03.jpg" title="Game Informer - Issue 158"><img src="images/gameinformer03t.jpg" width="150" height="150" /></a>
 <a href="images/gameinformer01.jpg" title="Game Informer - Issue 167"><img src="images/gameinformer01t.jpg" width="150" height="150" /></a>
 <a href="images/gameinformer02.jpg" title="Game Informer - Issue 167"><img src="images/gameinformer02t.jpg" width="150" height="150" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 15:52:59 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 20:52:59 +0000" last-modified-by-name="Tomato" %}

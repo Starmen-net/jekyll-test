@@ -2,9 +2,9 @@
 title: PSI Tables
 categories:
   - mother3
-date: 2020-12-17 17:16:00 +0600
+date: 2020-12-17 23:16:00 +0000
 ---
-{% include box-open.html box-id="5546" title="Lucas:" author-id="28590" timestamp="2020-12-17 17:16:00 +0600" type="norm" dbname="box29564" last-modified-by="127" %}
+{% include box-open.html box-id="5546" title="Lucas" author-id="28590" timestamp="2020-12-17 23:16:00 +0000" type="norm" dbname="box29564" last-modified-by="127" %}
 <table border="3">
   <tr>
     <th>Acquistion</th>
@@ -209,9 +209,9 @@ HP to one ally.</td>
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 17:17:15 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 23:17:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5547" title="Kumatora:" author-id="28590" timestamp="2020-12-17 17:17:18 +0600" type="norm" dbname="box35538" last-modified-by="127" %}
+{% include box-open.html box-id="5547" title="Kumatora" author-id="28590" timestamp="2020-12-17 23:17:18 +0000" type="norm" dbname="box35538" last-modified-by="127" %}
 <table border="3">
   <tr>
     <th>Acquistion</th>
@@ -430,4 +430,4 @@ HP to one ally.</th>
     <th>Costs 43 PP. Deals five hits, each dealing damage equal to approximately 2% to 13% of the enemy’s HP (about 10% to 65% total), varying depending on the enemy. Ignores PSI Shields and PSI Counters. Deals damage of the neutral element, but is unaffected by  neutral resistance unless the enemy is immune to neutral damage, in which case PK Ground will fail. PK Ground’s fives hits are randomly divided in the case of multiple enemies. PK Ground cannot hit airborne foes. All hits have a chance to make the target trip and fall, missing one or more turns.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 17:18:16 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 23:18:16 +0000" last-modified-by-name="CerealQueen" %}

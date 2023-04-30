@@ -2,15 +2,15 @@
 title: I AM A NEW PAGE
 categories:
   - ssb4
-date: 2016-10-22 02:39:49 +0500
+date: 2016-10-22 07:39:49 +0000
 ---
-{% include box-open.html box-id="4789" title="New Box, Edit me :(:" author-id="28590" timestamp="2016-10-22 02:39:49 +0500" type="norm" dbname="box36487" last-modified-by="127" %}
+{% include box-open.html box-id="4789" title="New Box, Edit me :(" author-id="28590" timestamp="2016-10-22 07:39:49 +0000" type="norm" dbname="box36487" last-modified-by="127" %}
 <img src="Ness.png" />
 
 <img src="Lucas.png" />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-22 02:41:22 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-22 07:41:22 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4849" title="Sound Effects:" author-id="28590" timestamp="2016-11-22 15:22:11 +0600" type="norm" dbname="box37253" last-modified-by="127" %}
+{% include box-open.html box-id="4849" title="Sound Effects" author-id="28590" timestamp="2016-11-22 21:22:11 +0000" type="norm" dbname="box37253" last-modified-by="127" %}
 Battle Sounds:<br /><br />
 <table1 />
 <a href="Lucas_Appeal_01.wav">Appeal 1-1</a><br />
@@ -144,9 +144,9 @@ Voice:<br /><br />
 <a href="Lucas_Voice_Win_01.wav">Win 01</a><br />
 <a href="Lucas_Voice_Win_02.wav">Win 02</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-22 15:23:40 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-22 21:23:40 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5008" title="Trophies:" author-id="28590" timestamp="2017-03-23 07:45:24 +0500" type="norm" dbname="box2310" last-modified-by="127" %}
+{% include box-open.html box-id="5008" title="Trophies" author-id="28590" timestamp="2017-03-23 12:45:24 +0000" type="norm" dbname="box2310" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -160,4 +160,4 @@ Voice:<br /><br />
     <th><a href="Lucas Original.png" ><img src="Lucas_T.png" /></a></th>
     <th>Lucas</th>
     <th>Before adventuring, Lucas was a timid, cautious boy. His journey has made him a stronger person. Maybe he met someone to spend his life with... Hang on—we're moving way too fast! For now, remember that Lucas and Ness are favorites in the hearts of EarthBound fans.</th></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-23 08:19:49 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-23 13:19:49 +0000" last-modified-by-name="CerealQueen" %}

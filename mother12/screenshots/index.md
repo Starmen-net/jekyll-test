@@ -2,9 +2,9 @@
 title: Mother 1+2 Screenshots
 categories:
   - mother12
-date: 2004-12-21 20:39:39 +0600
+date: 2004-12-22 02:39:39 +0000
 ---
-{% include box-open.html box-id="108" title="Mother 1 Screenshots:" author-id="288" timestamp="2004-12-21 20:39:39 +0600" type="norm" dbname="box" last-modified-by="127" %}
+{% include box-open.html box-id="108" title="Mother 1 Screenshots" author-id="288" timestamp="2004-12-22 02:39:39 +0000" type="norm" dbname="box" last-modified-by="127" %}
 <A HREF="m1_001.png"><img src="m1_001t.png" height="50" width="50" /></A>
 <A HREF="m1_002.png"><img src="m1_002t.png" height="50" width="50"  /></A>
 <A HREF="m1_003.png"><img src="m1_003t.png" height="50" width="50"  /></A>
@@ -20,9 +20,9 @@ date: 2004-12-21 20:39:39 +0600
 <A HREF="m1_013.png"><img src="m1_013t.png" height="50" width="50"  /></A>
 <A HREF="m1_014.png"><img src="m1_014t.png" height="50" width="50"  /></A>
 <A HREF="m1_015.png"><img src="m1_015t.png" height="50" width="50"  /></A>
-{% include box-close.html author-name="Tomato" last-modified-on="2005-11-08 00:16:14 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2005-11-08 06:16:14 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="109" title="Mother 2 Screenshots:" author-id="288" timestamp="2004-12-24 22:08:01 +0600" type="norm" dbname="box1438" last-modified-by="127" %}
+{% include box-open.html box-id="109" title="Mother 2 Screenshots" author-id="288" timestamp="2004-12-25 04:08:01 +0000" type="norm" dbname="box1438" last-modified-by="127" %}
 <A HREF="m2_001.png"><img src="m2_001t.png" height="50" width="50"  /></A>
 <A HREF="m2_002.png"><img src="m2_002t.png" height="50" width="50"  /></A>
 <A HREF="m2_003.png"><img src="m2_003t.png" height="50" width="50"  /></A>
@@ -70,4 +70,4 @@ date: 2004-12-21 20:39:39 +0600
 <A HREF="m2_045.png"><img src="m2_045t.png" height="50" width="50"  /></A>
 <A HREF="m2_046.png"><img src="m2_046t.png" height="50" width="50"  /></A>
 <A HREF="m2_047.png"><img src="m2_047t.png" height="50" width="50"  /></A>
-{% include box-close.html author-name="Tomato" last-modified-on="2005-11-08 00:16:56 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2005-11-08 06:16:56 +0000" last-modified-by-name="KingDarian" %}

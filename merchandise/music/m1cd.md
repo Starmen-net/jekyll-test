@@ -2,9 +2,9 @@
 title: MOTHER Soundtrack
 categories:
   - merchandise
-date: 2005-01-03 00:15:04 +0600
+date: 2005-01-03 06:15:04 +0000
 ---
-{% include box-open.html box-id="245" title="MOTHER Soundtrack:" author-id="45" timestamp="2005-01-03 00:15:04 +0600" type="norm" dbname="box40118" last-modified-by="127" %}
+{% include box-open.html box-id="245" title="MOTHER Soundtrack" author-id="45" timestamp="2005-01-03 06:15:04 +0000" type="norm" dbname="box40118" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -132,4 +132,4 @@ date: 2005-01-03 00:15:04 +0600
 <a href="/merchandise/images/m1cdbook.jpg" ><img src="/merchandise/images/m1cdbook.jpg" title="MOTHER Soundtrack Book" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/itoi.jpg" ><img src="/merchandise/images/itoi.jpg" title="Shigesato Itoi & Keiichi Suzuki" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/cw.jpg" ><img src="/merchandise/images/cw.jpg" title="Catherine Warwick" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:40:53 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:40:53 +0000" last-modified-by-name="Tomato" %}

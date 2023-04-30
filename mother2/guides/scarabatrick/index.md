@@ -2,9 +2,9 @@
 title: Tricks - Scaraba EXP Trick
 categories:
   - mother2
-date: 2006-04-02 00:12:04 +0600
+date: 2006-04-02 06:12:04 +0000
 ---
-{% include box-open.html box-id="2160" title="Scaraba EXP Trick:" author-id="75" timestamp="2006-04-02 00:12:04 +0600" type="norm" dbname="box4346" last-modified-by="75" %}
+{% include box-open.html box-id="2160" title="Scaraba EXP Trick" author-id="75" timestamp="2006-04-02 06:12:04 +0000" type="norm" dbname="box4346" last-modified-by="75" %}
 <i>Following is a method similar to the Dusty Dunes Trick, a trick to get tons of EXP. with very little effort.<br /><br />
 
 My thanks go to MegaFoppo, whose method I (Tomato) refined. There might be even an easier way to get Master Criminal Worms to appear, so if you do, make sure to let us know!</i><br /><br />
@@ -26,4 +26,4 @@ Oh, here are some pics if you're interested in this trick. Thanks, sKaNkPiT! <br
 <a href="scaraba7.gif"><img src="scaraba7.gif" width="128" height="112" border="0" /></a><br /><br />
 
 - Tomato
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 00:14:09 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 06:14:09 +0000" last-modified-by-name="PoeTrader" %}

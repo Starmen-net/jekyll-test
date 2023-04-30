@@ -2,18 +2,18 @@
 title: MOTHER 3 - Most Wanted Ranking
 categories:
   - mother3
-date: 2009-03-18 12:33:56 +0500
+date: 2009-03-18 17:33:56 +0000
 ---
-{% include box-open.html box-id="3677" title="Mother 3's Ranking in Weekly Famitsu's Most Wanted Chart:" author-id="2262" timestamp="2009-03-18 12:33:56 +0500" type="norm" dbname="box59230" last-modified-by="127" %}
+{% include box-open.html box-id="3677" title="Mother 3's Ranking in Weekly Famitsu's Most Wanted Chart" author-id="2262" timestamp="2009-03-18 17:33:56 +0000" type="norm" dbname="box59230" last-modified-by="127" %}
 <img src="FamitsuMother3.png" align="right" border="0" />In each issue of the Japanese magazine, <A HREF="http://www.famitsu.com/">Weekly Famitsu</A>, there is a list of the currently most-wanted games in Japan, as voted by the readers. Mother 3 was regularly in the top 10 of that list before the Nintendo 64 version was cancelled in 2000. After it was reannounced for the GameBoy Advance in 2003, it quickly reappeared and has pretty much stayed there since. Below is a list of its weekly rank since the GBA announcement. Its final rank was given from the results of the polls that ended April 6, 2006.
 
 <BR /><BR /><HR WIDTH="50%" /><BR />
 
 <FONT SIZE="4">Final Ranking: <FONT COLOR="red">#1 Most Wanted</FONT> (04-06-06)</FONT><BR /><BR />
 <FONT SIZE="4">Highest Ranking: <FONT COLOR="gold">#1 Most Wanted</FONT></FONT><BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:36:00 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:36:00 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3678" title="2003:" author-id="2262" timestamp="2009-03-18 12:34:39 +0500" type="norm" dbname="box40977" last-modified-by="127" %}
+{% include box-open.html box-id="3678" title="2003" author-id="2262" timestamp="2009-03-18 17:34:39 +0000" type="norm" dbname="box40977" last-modified-by="127" %}
 <table width="100%">
 <tr>
 <td width="40%">
@@ -213,9 +213,9 @@ date: 2009-03-18 12:33:56 +0500
 </tr>
 
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:34:45 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:34:45 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3679" title="2004:" author-id="2262" timestamp="2009-03-18 12:34:47 +0500" type="norm" dbname="box17399" last-modified-by="127" %}
+{% include box-open.html box-id="3679" title="2004" author-id="2262" timestamp="2009-03-18 17:34:47 +0000" type="norm" dbname="box17399" last-modified-by="127" %}
 <table width="100%">
 <tr>
 <td width="40%">
@@ -529,9 +529,9 @@ date: 2009-03-18 12:33:56 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:35:01 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:35:01 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3680" title="2005:" author-id="2262" timestamp="2009-03-18 12:35:12 +0500" type="norm" dbname="box19572" last-modified-by="127" %}
+{% include box-open.html box-id="3680" title="2005" author-id="2262" timestamp="2009-03-18 17:35:12 +0000" type="norm" dbname="box19572" last-modified-by="127" %}
 <table width="100%">
 <tr>
 <td width="40%">
@@ -872,9 +872,9 @@ date: 2009-03-18 12:33:56 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:35:19 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:35:19 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3681" title="2006:" author-id="2262" timestamp="2009-03-18 12:35:29 +0500" type="norm" dbname="box20458" last-modified-by="127" %}
+{% include box-open.html box-id="3681" title="2006" author-id="2262" timestamp="2009-03-18 17:35:29 +0000" type="norm" dbname="box20458" last-modified-by="127" %}
 <table width="100%">
 <tr>
 <td width="40%">
@@ -1001,4 +1001,4 @@ date: 2009-03-18 12:33:56 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:35:37 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:35:37 +0000" last-modified-by-name="KingDarian" %}

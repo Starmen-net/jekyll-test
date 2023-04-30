@@ -2,9 +2,9 @@
 title: A Look at Mother 2&#039;s Artists and Musicians
 categories:
   - mother2
-date: 2017-06-16 19:34:00 +0500
+date: 2017-06-17 00:34:00 +0000
 ---
-{% include box-open.html box-id="5055" title="Introduction:" author-id="28590" timestamp="2017-06-16 19:34:00 +0500" type="norm" dbname="box51937" last-modified-by="127" %}
+{% include box-open.html box-id="5055" title="Introduction" author-id="28590" timestamp="2017-06-17 00:34:00 +0000" type="norm" dbname="box51937" last-modified-by="127" %}
 <a name="vinyl"></a><p>
 <img class="picright" src="image5.png" width="182.5" height="182.5" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -17,9 +17,9 @@ Ask a regular player of EarthBound, or MOTHER 2, what their favorite quality of 
 Like all the works found within MOTHER 2, there was a team of dedicated, hard-working individuals behind the creation of the game’s music. Perhaps their names are not as widely recognized as other famed figures from the game’s development, such as Shigesato Itoi and Satoru Iwata. Here, you will be introduced to the musicians of MOTHER 2.
 
 </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-17 20:02:04 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-18 01:02:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5056" title="Keiichi Suzuki:" author-id="28590" timestamp="2017-06-16 19:39:17 +0500" type="norm" dbname="box30264" last-modified-by="127" %}
+{% include box-open.html box-id="5056" title="Keiichi Suzuki" author-id="28590" timestamp="2017-06-17 00:39:17 +0000" type="norm" dbname="box30264" last-modified-by="127" %}
 <a name="Keiichi Suzuki"></a><p>
 <img class="picleft" src="image2.png" width="192.5" height="142.5" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -31,9 +31,9 @@ Keiichi Suzuki, born on August 28, 1951 in Tokyo, Japan, is certainly no strange
 	Fun fact: Suzuki is responsible for some of the voice clips within MOTHER 2 as well! He created the recordings used for Giygas’ breathing during the final battle. Additionally, Suzuki is responsible for the impactful “I miss you” line from the song that plays during the credits sequence, Smiles and Tears.
  </p>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-16 19:54:52 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-17 00:54:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5057" title="Hirokazu “Hip” Tanaka:" author-id="28590" timestamp="2017-06-16 19:43:50 +0500" type="norm" dbname="box39541" last-modified-by="127" %}
+{% include box-open.html box-id="5057" title="Hirokazu “Hip” Tanaka" author-id="28590" timestamp="2017-06-17 00:43:50 +0000" type="norm" dbname="box39541" last-modified-by="127" %}
 <a name="Hirokazu “Hip” Tanaka"></a><p>
 <img class="picleft" src="image1.png" width="180" height="180" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -46,9 +46,9 @@ Hirokazu Tanaka, popularly recognized by his nickname “Hip”, is perhaps one 
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-16 19:53:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-17 00:53:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5058" title="Hiroshi Kanazu:" author-id="28590" timestamp="2017-06-16 19:45:37 +0500" type="norm" dbname="box54630" last-modified-by="127" %}
+{% include box-open.html box-id="5058" title="Hiroshi Kanazu" author-id="28590" timestamp="2017-06-17 00:45:37 +0000" type="norm" dbname="box54630" last-modified-by="127" %}
 <a name="Hiroshi Kanazu"></a><p>
 <img class="picleft" src="image4.png" width="180" height="180" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -59,9 +59,9 @@ Kanazu was born on January 27, 1960, in Kamakura, Japan. First graduating from Y
 	Suzuki and Kanazu’s paths would cross again with the development of MOTHER 2. Kanazu was tasked by Nintendo to assist the two composers from the previously acclaimed MOTHER in created the music for the game’s sequel. Despite his work, Suzuki and Tanaka seemed to have taken the lion’s share of the recognition for the game’s music. Kanazu, along with fellow assistant composer Ueno, both appear on a separate listing within the credits from the main musicians.
  </p>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-16 19:54:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-17 00:54:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5059" title="Toshiyuki Ueno:" author-id="28590" timestamp="2017-06-16 19:47:26 +0500" type="norm" dbname="box43134" last-modified-by="127" %}
+{% include box-open.html box-id="5059" title="Toshiyuki Ueno" author-id="28590" timestamp="2017-06-17 00:47:26 +0000" type="norm" dbname="box43134" last-modified-by="127" %}
 <a name="Toshiyuki Ueno"></a><p>
 <img class="picleft" src="image3.png" width="170" height="179" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -72,4 +72,4 @@ Ueno, who still lives in his hometown of Nerima, Tokyo, continues to have a larg
 	Kanazu and Tanaka were brought in to work on MOTHER 2 along with returning composers Suzuki and Tanaka. However, none of these four returned for MOTHER 3. That game was composed exclusively by Shogo Sakai. Nevertheless, despite the eventual replacement of the four musicians of MOTHER 2, their legacy lives on in the hearts of gamers, not only in Japan, but all around the globe.
 </p>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-16 19:54:42 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-17 00:54:42 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: The Sharks T-Shirt
 categories:
   - merchandise
-date: 2009-01-08 22:34:34 +0600
+date: 2009-01-09 04:34:34 +0000
 ---
-{% include box-open.html box-id="3593" title="The Sharks T-Shirt:" author-id="45" timestamp="2009-01-08 22:34:34 +0600" type="norm" dbname="box24216" last-modified-by="127" %}
+{% include box-open.html box-id="3593" title="The Sharks T-Shirt" author-id="45" timestamp="2009-01-09 04:34:34 +0000" type="norm" dbname="box24216" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/sharks_title.png" border="0" alt="The Sharks T-Shirt" />
 	</center>
@@ -35,4 +35,4 @@ date: 2009-01-08 22:34:34 +0600
 	<a href="/merchandise/images/kog_insert1.jpg">Insert (English)</a> - <a href="/merchandise/images/kog_insert2.jpg">Insert (Japanese)</a> - <a href="/merchandise/images/kog_gamead.jpg">Game Insert & Sticker</a>
 	<br /><br />
 	Some images are from <a href="http://www.the-king-of-games.com">The-King-Of-Games.com</a>.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:29:19 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:29:19 +0000" last-modified-by-name="Tomato" %}

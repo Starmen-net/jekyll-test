@@ -2,9 +2,9 @@
 title: Fan Art - Art Tutorials - Working with Layers
 categories:
   - fanart
-date: 2005-09-26 13:50:04 +0500
+date: 2005-09-26 18:50:04 +0000
 ---
-{% include box-open.html box-id="1502" title="-WORKING WITH LAYERS- A Visually-Aided Step-by-Step Tutorial by ozwalled:" author-id="75" timestamp="2005-09-26 13:50:04 +0500" type="norm" dbname="box34004" last-modified-by="75" %}
+{% include box-open.html box-id="1502" title="-WORKING WITH LAYERS- A Visually-Aided Step-by-Step Tutorial by ozwalled" author-id="75" timestamp="2005-09-26 18:50:04 +0000" type="norm" dbname="box34004" last-modified-by="75" %}
 A general tutorial for any art program with layers (note that when I "add a layer" it is added ON TOP of the last layer being worked on unless otherwise indicated):<br /><br />
 
 This tutorial includes guiding images.  Click on the thumbnails of the images to open their full size in a new window.<br /><br />
@@ -35,9 +35,9 @@ This tutorial includes guiding images.  Click on the thumbnails of the images to
 
 So provided you have the tools now YOU TOO can work with layers!
 (Note that The Gimp is a free graphics program that has layer capabilities. Though I've never used it personally, it does seem to be quite good).
-{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 15:09:07 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 20:09:07 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="1503" title="Shading in Action:" author-id="75" timestamp="2005-09-26 13:59:14 +0500" type="norm" dbname="box15390" last-modified-by="75" %}
+{% include box-open.html box-id="1503" title="Shading in Action" author-id="75" timestamp="2005-09-26 18:59:14 +0000" type="norm" dbname="box15390" last-modified-by="75" %}
 There's a site called art.com that has this artpad thing built in where you can paint little pictures and show them off to your friends. ozwalled drew a bunch of things on the artpad a while ago and it's a good way to see his shading in action (though he says that these drawings may seem a bit primitive due mostly to the program's clunkiness on his computer). Check 'em out for even deeper insight into his techniques.<br />
 
 <ul>
@@ -49,12 +49,12 @@ There's a site called art.com that has this artpad thing built in where you can 
 <li /><a href="http://artpad.art.com/gallery/?igpwsgzs1d8" target="_new">Sponge Bob</a>
 <li /><a href="http://artpad.art.com/gallery/?ihbyw618kdeo" target="_new">Jack Skellington</a>
 </ul>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 15:09:44 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 20:09:44 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="1504" title="Contact Info:" author-id="75" timestamp="2005-09-26 14:01:58 +0500" type="norm" dbname="box28698" last-modified-by="75" %}
+{% include box-open.html box-id="1504" title="Contact Info" author-id="75" timestamp="2005-09-26 19:01:58 +0000" type="norm" dbname="box28698" last-modified-by="75" %}
 <table1 />
 Author
 <table2 />
 <a href="http://forum.starmen.net/?t=usrinfo&id=1959">ozwalled</a>
 <table3 />
-{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 14:03:02 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2005-09-26 19:03:02 +0000" last-modified-by-name="PoeTrader" %}

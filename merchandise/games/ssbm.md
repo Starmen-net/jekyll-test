@@ -2,9 +2,9 @@
 title: Super Smash Bros. Melee
 categories:
   - merchandise
-date: 2010-10-20 09:16:38 +0500
+date: 2010-10-20 14:16:38 +0000
 ---
-{% include box-open.html box-id="3903" title="Super Smash Bros. Melee:" author-id="45" timestamp="2010-10-20 09:16:38 +0500" type="norm" dbname="box47508" last-modified-by="45" %}
+{% include box-open.html box-id="3903" title="Super Smash Bros. Melee" author-id="45" timestamp="2010-10-20 14:16:38 +0000" type="norm" dbname="box47508" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -69,4 +69,4 @@ date: 2010-10-20 09:16:38 +0500
 <a href="/merchandise/images/ssbm_boxb.jpg" ><img src="/merchandise/images/ssbm_boxb.jpg" title="Box (Back)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/ssbm_open.jpg" ><img src="/merchandise/images/ssbm_open.jpg" title="Box (Open)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/ssbm_ins.jpg" ><img src="/merchandise/images/ssbm_ins.jpg" title="Instruction Book" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 09:30:08 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 14:30:08 +0000" last-modified-by-name="ShadowX" %}

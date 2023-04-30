@@ -2,9 +2,9 @@
 title: UrFboWoOWnD Hoodie
 categories:
   - merchandise
-date: 2005-01-03 22:59:01 +0600
+date: 2005-01-04 04:59:01 +0000
 ---
-{% include box-open.html box-id="358" title="UrFboWoOWnD Hoodie:" author-id="45" timestamp="2005-01-03 22:59:01 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="358" title="UrFboWoOWnD Hoodie" author-id="45" timestamp="2005-01-04 04:59:01 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/ubhoodie_title.png" border="0" alt="UrFboWoOWnD Hoodie" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 22:59:01 +0600
 	<br />
 	<a href="/merchandise/images/ubhoodie_back1.jpg">Front 1</a> - <a href="/merchandise/images/ubhoodie_front2.jpg">Front 2</a> - <a href="/merchandise/images/ubhoodie_back1.jpg">Back 1</a> - 
 	<a href="/merchandise/images/ubhoodie_back2.jpg">Back 2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 22:59:12 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 04:59:12 +0000" last-modified-by-name="ShadowX" %}

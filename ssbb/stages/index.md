@@ -2,9 +2,9 @@
 title: Stages
 categories:
   - ssbb
-date: 2007-05-20 17:37:45 +0500
+date: 2007-05-20 22:37:45 +0000
 ---
-{% include box-open.html box-id="2898" title="SSB:B Stages:" author-id="137" timestamp="2007-05-20 17:37:45 +0500" type="norm" dbname="box23312" last-modified-by="127" %}
+{% include box-open.html box-id="2898" title="SSB:B Stages" author-id="137" timestamp="2007-05-20 22:37:45 +0000" type="norm" dbname="box23312" last-modified-by="127" %}
 <p>
 <b><u>Known Stages</u></b><br/>
 <br/>
@@ -97,9 +97,9 @@ Frigate Orpheon<br />
 <br />
 </td></tr></table>
 </p>
-{% include box-close.html author-name="Jonk" last-modified-on="2008-01-16 07:07:32 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2008-01-16 13:07:32 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="3160" title="Stage Effects:" author-id="198" timestamp="2007-07-06 19:49:07 +0500" type="norm" dbname="box5302" last-modified-by="127" %}
+{% include box-open.html box-id="3160" title="Stage Effects" author-id="198" timestamp="2007-07-07 00:49:07 +0000" type="norm" dbname="box5302" last-modified-by="127" %}
 <p>The stages in Brawl are going to have some new features. One such feature is the transition between night and day!<br />
 <br />
 <center><img src="/ssbb/stages/screenshots/battlefield.jpg" />
@@ -115,4 +115,4 @@ Additionally, the crate and barrel items can change appearance depending on what
 <center><img src="/ssbb/stages/screenshots/cratesmetal.jpg" />
 <img src="/ssbb/stages/screenshots/cratesgifts.jpg" /></center>
 </p>
-{% include box-close.html author-name="JeffMan" last-modified-on="2008-01-07 17:43:13 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="JeffMan" last-modified-on="2008-01-07 23:43:13 +0000" last-modified-by-name="JeffMan" %}

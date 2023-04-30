@@ -2,9 +2,9 @@
 title: Factoids and Trivia
 categories:
   - mother1
-date: 2017-06-21 21:23:53 +0500
+date: 2017-06-22 02:23:53 +0000
 ---
-{% include box-open.html box-id="5060" title="A Title Defense:" author-id="28590" timestamp="2017-06-21 21:23:53 +0500" type="norm" dbname="box31001" last-modified-by="127" %}
+{% include box-open.html box-id="5060" title="A Title Defense" author-id="28590" timestamp="2017-06-22 02:23:53 +0000" type="norm" dbname="box31001" last-modified-by="127" %}
 <center><img src="Mother title.png" />
 <br />
 <i>Mglobether?</i></center>
@@ -34,9 +34,9 @@ One might think that this would be the end for alternate titles to this game, bu
 <i>I guess everyone begins at zero, so really, the titles are synonymous. Also, European release!</i></center>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:48:49 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:48:49 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5061" title="Ninten's Name:" author-id="28590" timestamp="2017-06-21 22:11:06 +0500" type="norm" dbname="box64527" last-modified-by="127" %}
+{% include box-open.html box-id="5061" title="Ninten's Name" author-id="28590" timestamp="2017-06-22 03:11:06 +0000" type="norm" dbname="box64527" last-modified-by="127" %}
 Have you ever wondered how exactly Ninten wound up with him name? It doesn’t seem like a hard question -- it’s clearly a shortened version of Nintendo. However, it’s not quite as simple as that. After all, in the original game, there was no “Don’t Care” option and no default name. You had to name him yourself! That’s why many guides at the time simply referred to him as “Boku”, the Japanese for “Me”. The idea was that you named this young man after yourself. 
 <br /><br /> 
 During the height of the game’s popularity, a novel based on the events of the book was written and released in Japan. Ninten hadn’t received an official name yet, so the author dubbed him as “Ken”. If you ever see someone refer to him as Ken, you’ll now know where that name is derived from.
@@ -48,9 +48,9 @@ However, some Nintendo guidebooks often used “Ninten” as a name for any name
 <i>Just what exactly is the name of this young lad? Whatever you like, really!</i></center>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:58:18 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:58:18 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5062" title="A Reason to Celebrate:" author-id="28590" timestamp="2017-06-21 22:14:13 +0500" type="norm" dbname="box32025" last-modified-by="127" %}
+{% include box-open.html box-id="5062" title="A Reason to Celebrate" author-id="28590" timestamp="2017-06-22 03:14:13 +0000" type="norm" dbname="box32025" last-modified-by="127" %}
 Many of the town’s locations had different names in the original Japanese release of MOTHER. In fact, Itoi had named most towns after holidays. However, the localization team did not seem to find the charm in them. According to Phil Sandhop, the localization director:
  <br /><br />
 	<i>"Itoi originally wrote them to sound friendly. I don't believe that towns named after holidays was friendly. Matter of fact I thought it sounded stupid and thought older players would really be turned off. I wanted it to be enjoyable for all ages."</i>
@@ -97,18 +97,18 @@ Many of the town’s locations had different names in the original Japanese rele
     <th>Mount Itoi</th>
   </tr>
 </table></center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:18:41 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:18:41 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5063" title="Outrageously Long Battles:" author-id="28590" timestamp="2017-06-21 22:25:58 +0500" type="norm" dbname="box20883" last-modified-by="127" %}
+{% include box-open.html box-id="5063" title="Outrageously Long Battles" author-id="28590" timestamp="2017-06-22 03:25:58 +0000" type="norm" dbname="box20883" last-modified-by="127" %}
 Sometimes, you’re in a battle that just seems to drag on and on. You might think it’s going to last forever. But don’t worry. That’s actually impossible thanks to the game’s coding. If you somehow remain in a battle for two hundred and fifty-five turns, the battle will come to a close. You’ll receive a message that states “The battle lingers on.” Afterwards, you’re returned to the game’s overworld.
 <br /><br />
 <center><img src="255.png" />
 <br />
 <i>Someone help me, he’s been staring at me for 255 turns now.</i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:18:51 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:18:51 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5064" title="Grand Hints:" author-id="28590" timestamp="2017-06-21 22:32:30 +0500" type="norm" dbname="box56517" last-modified-by="127" %}
+{% include box-open.html box-id="5064" title="Grand Hints" author-id="28590" timestamp="2017-06-22 03:32:30 +0000" type="norm" dbname="box56517" last-modified-by="127" %}
 Here’s a character that’s not talked about often. Particularly out of the way in Spookane is a woman who claims to be your assistant. She will offer to sell you a hint for a thousand dollars. Three of these hints are available for sale. However, you buy all three of her hints -- or decline her services even once -- she will vanish forever. 
 
 <br /><br />
@@ -116,9 +116,9 @@ Here’s a character that’s not talked about often. Particularly out of the wa
 <br />
 <i>She disappears if you say no. Maybe she’s a ghost… Spookane is filled with many ghosts, after all.</i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:19:00 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:19:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5065" title="Ana Before Lloyd:" author-id="28590" timestamp="2017-06-21 22:35:44 +0500" type="norm" dbname="box61731" last-modified-by="127" %}
+{% include box-open.html box-id="5065" title="Ana Before Lloyd" author-id="28590" timestamp="2017-06-22 03:35:44 +0000" type="norm" dbname="box61731" last-modified-by="127" %}
 While it’s generally recommended to traverse Duncan’s Factory with Lloyd and then taking the train to Snowman to recruit Ana, it turns out that this isn’t an enforced strategy. In fact, a dedicated player can trudge through the enemy-ridden train tunnels and arrive to Snowman on foot. That means you can recruit Ana before even meeting Lloyd!
 <br /><br />
 <center><img src="Ana.png" />
@@ -126,9 +126,9 @@ While it’s generally recommended to traverse Duncan’s Factory with Lloyd and
 <i>Just be sure to remember to get Ana’s hat from Reindeer’s train station!
 </i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:19:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:19:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5066" title="Itoi’s Secret Mine:" author-id="28590" timestamp="2017-06-21 22:37:52 +0500" type="norm" dbname="box10974" last-modified-by="127" %}
+{% include box-open.html box-id="5066" title="Itoi’s Secret Mine" author-id="28590" timestamp="2017-06-22 03:37:52 +0000" type="norm" dbname="box10974" last-modified-by="127" %}
 Hidden within the northeast regions of the Yucca Desert is a secret land mine. It only occupies a single tile, and can be quite difficult to find while dodging various random encounters. However, if someone triggers the land mine, it will explode in Ninten’s face. Shockingly, it doesn’t damage you. Shortly afterwards, the player will receive a congratulations signed from the game’s creator himself, Shigesato Itoi!
 
 <br /><br />
@@ -137,9 +137,9 @@ Hidden within the northeast regions of the Yucca Desert is a secret land mine. I
 <i>Whoops...<br />A signed letter sure beats getting blown to pieces, that’s for sure.
 </i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 00:12:47 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 05:12:47 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5067" title="Robot Ladies:" author-id="28590" timestamp="2017-06-21 22:44:22 +0500" type="norm" dbname="box14503" last-modified-by="127" %}
+{% include box-open.html box-id="5067" title="Robot Ladies" author-id="28590" timestamp="2017-06-22 03:44:22 +0000" type="norm" dbname="box14503" last-modified-by="127" %}
 There’s a series of feminine robots within the game. In the English version of the game, their names are Nancy, Kelly, and Juana. However, their names are completely different in the Japanese game: Jane, Caroline, and Susie! What could possibly be the reason for these changes? Well, as it turns out, the three robots were renamed in honor of female staff members at Nintendo of America. 
 
 <br /><br />
@@ -148,9 +148,9 @@ There’s a series of feminine robots within the game. In the English version of
 <i>From left to right: Nancy, Kelly, and Juana. <br />Talk about a technological trifecta!
 </i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 00:13:26 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 05:13:26 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5068" title="Teleport Music Glitch:" author-id="28590" timestamp="2017-06-21 22:51:28 +0500" type="norm" dbname="box5287" last-modified-by="127" %}
+{% include box-open.html box-id="5068" title="Teleport Music Glitch" author-id="28590" timestamp="2017-06-22 03:51:28 +0000" type="norm" dbname="box5287" last-modified-by="127" %}
 Do you wish you could bring a specific music track with you wherever you go while playing MOTHER? You might have an opportunity to do so with a certain glitch. When the music is supposed to change based on your location in the overworld, you’ll pass a “border” of sorts. By activating teleport, running through this border, and then failing to teleport, you can retain the music from the previous area!
 <br /><br />
 <center><img src="Teleport.png" />
@@ -159,9 +159,9 @@ Do you wish you could bring a specific music track with you wherever you go whil
 </i></center>
 <br /><br />
 That’s not the only music glitch in this game, however. At the beginning of the game, while the poltergeist is ravaging Ninten’s home, save the game using the phone downstairs. After defeating the doll, head outside and have an enemy beat Ninten unconscious. After the game over screen, Ninten will spawn back into his house. Although there’s no attack going on, the poltergeist music will be playing!
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 22:53:48 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 03:53:48 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5069" title="Map Modifications:" author-id="28590" timestamp="2017-06-21 22:53:59 +0500" type="norm" dbname="box40191" last-modified-by="127" %}
+{% include box-open.html box-id="5069" title="Map Modifications" author-id="28590" timestamp="2017-06-22 03:53:59 +0000" type="norm" dbname="box40191" last-modified-by="127" %}
 A number of map modifications were made during the localization of MOTHER. Most of these changes survived into the MOTHER 1+2 port as well. First off, these Magicant caverns were modified, eventually shifting their design into something much less labyrinthine.
 <br /><br />
 <center><img src="Maze.png" /> <img src="Maze Simplified.png" />
@@ -196,9 +196,9 @@ Some interesting modifications were made to the room placements of Mount Itoi. I
 <i>I guess you could say it’s an open and shut case? Haha!
 </i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 00:04:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 05:04:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5070" title="Maria’s Extended Family:" author-id="28590" timestamp="2017-06-21 23:01:24 +0500" type="norm" dbname="box61049" last-modified-by="127" %}
+{% include box-open.html box-id="5070" title="Maria’s Extended Family" author-id="28590" timestamp="2017-06-22 04:01:24 +0000" type="norm" dbname="box61049" last-modified-by="127" %}
 Fun fact: Maria is actually the great-grandmother of all the party members! Well, that’s not true. But thanks to an oversight in the script, the XX Stone will always address the party member first in line. That means if Ninten is incapacitated, the XX Stone will welcome either Lloyd, Ana, or Teddy… and then proceed to tell them about their great-grandmother Maria. Oops! 
 
 <br /><br />
@@ -207,9 +207,9 @@ Fun fact: Maria is actually the great-grandmother of all the party members! Well
 <i>So Ninten is a distant cousin to both an inventor prodigy and a street thug? This newfound family connection might also be trouble for Ninten and Ana’s love endeavors...
 </i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 00:06:42 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 05:06:42 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5071" title="The Eighth Melody:" author-id="28590" timestamp="2017-06-21 23:04:24 +0500" type="norm" dbname="box61967" last-modified-by="127" %}
+{% include box-open.html box-id="5071" title="The Eighth Melody" author-id="28590" timestamp="2017-06-22 04:04:24 +0000" type="norm" dbname="box61967" last-modified-by="127" %}
 Did you know that the location of the eighth melody is different in the original MOTHER and within subsequent releases? In the original MOTHER, Ninten and his friends were instantly warped to Maria upon collecting the first seven melodies. After singing them to the queen, she would remember the final melody on her own. After the game’s localization, it was changed: the eighth melody is now collected after checking the XX Stone, and the party must travel to Maria on their own.
 
 <br /><br />
@@ -217,9 +217,9 @@ Did you know that the location of the eighth melody is different in the original
 <br />
 <i>Seven out of eight was close enough for Itoi the first time around, huh?</i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:20:25 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:20:25 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5072" title="Alternate Endings:" author-id="28590" timestamp="2017-06-21 23:07:24 +0500" type="norm" dbname="box41087" last-modified-by="127" %}
+{% include box-open.html box-id="5072" title="Alternate Endings" author-id="28590" timestamp="2017-06-22 04:07:24 +0000" type="norm" dbname="box41087" last-modified-by="127" %}
 Here’s a tidbit of uncommon knowledge: there’s a variety of different party combinations you can face off against the final boss as! With careful management and the occasional sequence breaking, you can square off against Giygas with nonstandard party members.
 
 <br /><br />
@@ -248,9 +248,9 @@ Here’s a tidbit of uncommon knowledge: there’s a variety of different party 
 <br />
 <i>Ninten and Lloyd. This is, by far, the most difficult ending to achieve. One must never recruit Ana to the party in the first place for this setup. That means it will also be impossible to join with Teddy for the entirety of the game. Unfortunately, there is no reward for this challenge.</i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:20:42 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:20:42 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5073" title="Endgame:" author-id="28590" timestamp="2017-06-21 23:11:25 +0500" type="norm" dbname="box10040" last-modified-by="127" %}
+{% include box-open.html box-id="5073" title="Endgame" author-id="28590" timestamp="2017-06-22 04:11:25 +0000" type="norm" dbname="box10040" last-modified-by="127" %}
 In the original Japanese release, after Giygas’s defeat, the game just ends right there. Your party members turn to face you, and the credits begin to roll behind them. That’s it. 
 <br /><br />
 <center><img src="Ending.png" />
@@ -264,4 +264,4 @@ Apparently, during the localization process, someone agreed with the sentiment t
 <br />
 <i>Who said that no news is good news? We’d like an unambiguous ending!</i></center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-21 23:23:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 04:23:45 +0000" last-modified-by-name="CerealQueen" %}

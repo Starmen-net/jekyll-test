@@ -2,9 +2,9 @@
 title: Starmen.Net Mugz0rz
 categories:
   - merchandise
-date: 2005-01-04 00:19:56 +0600
+date: 2005-01-04 06:19:56 +0000
 ---
-{% include box-open.html box-id="394" title="Starmen.Net Mugz0rz:" author-id="45" timestamp="2005-01-04 00:19:56 +0600" type="norm" dbname="box62813" last-modified-by="45" %}
+{% include box-open.html box-id="394" title="Starmen.Net Mugz0rz" author-id="45" timestamp="2005-01-04 06:19:56 +0000" type="norm" dbname="box62813" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/mugz0rz1_title.jpg" border="0" alt="Starmen.Net Mugz0rz" />
 	</center>
@@ -29,4 +29,4 @@ date: 2005-01-04 00:19:56 +0600
 	<br />
 	<a href="/merchandise/images/mugz0r.jpg">1</a> - <a href="/merchandise/images/mugz0r2.jpg">2</a> - <a href="/merchandise/images/mugz0r3.jpg">3</a> - 
 	<a href="/merchandise/images/mugz0rzd.jpg">Mug design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-11-01 18:57:52 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-11-02 00:57:52 +0000" last-modified-by-name="ShadowX" %}

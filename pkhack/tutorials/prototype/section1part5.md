@@ -2,17 +2,17 @@
 title: Prototype&#039;s PK Hack Tutorial
 categories:
   - pkhack
-date: 2012-02-11 21:11:54 +0600
+date: 2012-02-12 03:11:54 +0000
 ---
-{% include box-open.html box-id="4259" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-02-11 21:11:54 +0600" type="blank" dbname="box6088" last-modified-by="127" %}
+{% include box-open.html box-id="4259" title="New Box, Edit me :(" author-id="6189" timestamp="2012-02-12 03:11:54 +0000" type="blank" dbname="box6088" last-modified-by="127" %}
 <center><font size="5">1.5 PK Hack's Tools</font></center><br />This is a general run down of the tools, explaining what they let you do. A full explaination of how
 to use the tools are in sections 2.0.0, 3.0.0, and 4.0.0. This is just a brief bit so you know what you can do with
 JHack.
 <br /><br />
 <hr />
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:20:40 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:20:40 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4260" title="1. IPS Tools and General Tools:" author-id="6189" timestamp="2012-02-11 21:12:51 +0600" type="norm" dbname="box15614" last-modified-by="127" %}
+{% include box-open.html box-id="4260" title="1. IPS Tools and General Tools" author-id="6189" timestamp="2012-02-12 03:12:51 +0000" type="norm" dbname="box15614" last-modified-by="127" %}
 The IPS section of JHack contains three tools to help you apply patches, create patches from your hacked ROM to
 share with others, and keep track of the patches you have. The first tool will make a patch from the currently loaded
 ROM. This is what you share with people on the forums, NOT the ROM itself. DO NOT UPLOAD ROMS! IPS files are smaller,
@@ -35,9 +35,9 @@ and the only way to access some parts of the game for editing.
 Misc. Crap Editor is just that, it edits a number of variables. From what music plays at some parts of the game,
 to starting location, text pointers, Dad’s call timer, and a few other things. It’s fairly easy to use, and should not
 be difficult to figure out.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:13:24 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:13:24 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4261" title="2. Items, Item Transformations, Condiments, Stores, Stats, and Teleporting:" author-id="6189" timestamp="2012-02-11 21:13:50 +0600" type="norm" dbname="box19501" last-modified-by="127" %}
+{% include box-open.html box-id="4261" title="2. Items, Item Transformations, Condiments, Stores, Stats, and Teleporting" author-id="6189" timestamp="2012-02-12 03:13:50 +0000" type="norm" dbname="box19501" last-modified-by="127" %}
 The Item editor lets you make most changes to items, from stats to who can use, to how many times it can be used,
 to if it’s equipable or not, sellable or not, and the name. Items all have an Effect, called an Action. Enemies and
 Items all use ASM Actions to do things. More on Actions in 1.5.5. You can also edit the pointer for the “Help Text”,
@@ -75,9 +75,9 @@ If the random number is 0, or 1, the system will instead give you a 1, 2, or 3 f
 <br /><br />
 Simple right? Changing the numbers in the Stats Editor changes the N in the equation. Don’t feel bad about
 not changing this stuff…
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:21:41 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:21:41 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4262" title="3. “Don’t Care” Names, Random Text, Phone List, and Flyover Editing:" author-id="6189" timestamp="2012-02-11 21:21:43 +0600" type="norm" dbname="box36794" last-modified-by="127" %}
+{% include box-open.html box-id="4262" title="3. “Don’t Care” Names, Random Text, Phone List, and Flyover Editing" author-id="6189" timestamp="2012-02-12 03:21:43 +0000" type="norm" dbname="box36794" last-modified-by="127" %}
 When using the “Don’t Care” name editor, JHack may ask you if you want to use the 6 character name hack, <b>always
 say NO</b>. This is very straightforward, you just change the names someone would get if they hit the Don’t Care selection
 during a new game. Just be sure to apply before closing.
@@ -99,9 +99,9 @@ few seconds, followed by the screen blacking out and some text being displayed. 
 stops at a second point, followed by the screen blacking out and some text being displayed. With this editor you can
 change what parts of the map are displayed, the direction of the movement, and the pointer to the text(important if you
 are changing the text) and the text itself.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:22:33 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:22:33 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4263" title="4. Text Editor and TPT:" author-id="6189" timestamp="2012-02-11 21:22:42 +0600" type="norm" dbname="box17540" last-modified-by="127" %}
+{% include box-open.html box-id="4263" title="4. Text Editor and TPT" author-id="6189" timestamp="2012-02-12 03:22:42 +0000" type="norm" dbname="box17540" last-modified-by="127" %}
 The Text editor is the old way of editing Text in EarthBound before CCScript was made. These days, the only real
 use for this is to see how the game does things, or to analyse some control codes. It gives you a number of ways of
 looking at the text, including how the text is listed by the TPT, the text as it is stored in the blocks, a direct look
@@ -113,9 +113,9 @@ Just use CCScript, it’s much easier.
 The Text Pointer Table has 1,583 entries. This is how the game keeps track of all the text blocks in the game,
 and any text you plan on editing will most likely require you make use of this editor to link the text to various parts
 of the game. More detail in how to use this tool is in sections 5.1.4 and 6.8.0.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:23:12 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:23:12 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4264" title="5. Enemy, Action, PSI, PSI Damage, and Battle Entry Editing:" author-id="6189" timestamp="2012-02-11 21:23:26 +0600" type="norm" dbname="box39322" last-modified-by="127" %}
+{% include box-open.html box-id="4264" title="5. Enemy, Action, PSI, PSI Damage, and Battle Entry Editing" author-id="6189" timestamp="2012-02-12 03:23:26 +0000" type="norm" dbname="box39322" last-modified-by="127" %}
 The Enemy editor lets you modify almost everything about enemies, from their stats including how much Exp you get
 for beating them, what items they drop when beaten, what actions they take in battle, what sprites they use in and out of
 battle, what sound is used if you are only fighting them, what weaknesses they have, and a few unknown variables.
@@ -135,9 +135,9 @@ There are 483 battle entries. The editor allows you to edit the associated flag 
 away from the player(After the boss of the area is defeated), if this behavior should happen if the flag is set or unset,
 the number of enemies initially in the group, and Battle Letterbox size. If you are not sure what that is, look at the
 other battle entries and which size they use. You’ll be able to figure it out no problem.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:24:01 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:24:01 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4265" title="6. Sprite, SPT, Playable Sprite Table, and Battle Sprite Editing:" author-id="6189" timestamp="2012-02-11 21:24:22 +0600" type="norm" dbname="box34057" last-modified-by="127" %}
+{% include box-open.html box-id="4265" title="6. Sprite, SPT, Playable Sprite Table, and Battle Sprite Editing" author-id="6189" timestamp="2012-02-12 03:24:22 +0000" type="norm" dbname="box34057" last-modified-by="127" %}
 Though the list says 4021, you really have fewer sprites to work with. These sprites are all visible as you walk
 around the world. The NPC’s, the enemies, the different vehicles, even a few visual effects(Tessie’s water rings, a
 flower in Magicant, Star Master’s teleport thingie, ect). The sprites are of different sizes, and it IS possible to edit
@@ -170,9 +170,9 @@ somewhat understood: <br /><br />
 This is the list of
 values, and how they relate to sprite sizes. The other unknown values….well, good luck. PM me if you know what any
 other Unknown Value does.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:26:35 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:26:35 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4266" title="7. Font, Credits Font, Window Border, Window Position, Town Map, and Battle Swirl Editing:" author-id="6189" timestamp="2012-02-11 21:27:11 +0600" type="norm" dbname="box41746" last-modified-by="127" %}
+{% include box-open.html box-id="4266" title="7. Font, Credits Font, Window Border, Window Position, Town Map, and Battle Swirl Editing" author-id="6189" timestamp="2012-02-12 03:27:11 +0000" type="norm" dbname="box41746" last-modified-by="127" %}
 Opening the Font editor gives you the option to use a hack that allows for a wider battle font. The editor itself
 is very simple and straightforward. You have a number of font’s in the game you can edit, as long as the letter or symbol
 is the size allowed. The small line above the drawing area will tell you the border. You have only two options for color,
@@ -194,9 +194,9 @@ change what areas have a map by editing the map sector properties, more info on 
 checkered background, it is up to you if your maps will have the background.
 <br /><br />
 If anyone has any experience in using the Battle Swirl editor, PM NESluver or Hyperbound. 
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:27:54 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:27:54 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4267" title="8. Logo Screen, Gas Station Screen, and Title Screen Editing:" author-id="6189" timestamp="2012-02-11 21:28:59 +0600" type="norm" dbname="box45830" last-modified-by="127" %}
+{% include box-open.html box-id="4267" title="8. Logo Screen, Gas Station Screen, and Title Screen Editing" author-id="6189" timestamp="2012-02-12 03:28:59 +0000" type="norm" dbname="box45830" last-modified-by="127" %}
 When editing ANY of the opening graphics, logo, gas station, or title screen, there is a chance of glitching the ROM.
 What happens is the ROM will freeze if a button is pressed before the title screen finishes loading. Some people edit the
 opening screens with no problems, but it is an issue that exists, so be warned. When importing an image, if it spits up an
@@ -225,9 +225,9 @@ text is the foreground of the title screen. Anything you make here will be in fr
 people who made EarthBound didn’t do much with it, only doing the flash effect for the letters that they could have done on
 just the background. You can put your title screen on the background, then use the foreground for a 34 frame animation.
 Granted, the animation is limited to 16 colors, but still nifty.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:30:14 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:30:14 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4268" title="9. Tile, Map, Map Sector Properties, Hotspot, and Door Editing:" author-id="6189" timestamp="2012-02-11 21:31:01 +0600" type="norm" dbname="box945" last-modified-by="127" %}
+{% include box-open.html box-id="4268" title="9. Tile, Map, Map Sector Properties, Hotspot, and Door Editing" author-id="6189" timestamp="2012-02-12 03:31:01 +0000" type="norm" dbname="box945" last-modified-by="127" %}
 Welcome to the Tileset editor! This is the heart of map editing, and one of the hardest things to do well.
 Hyperbound has written a tutorial for his method of putting graphics into a tileset without doing it pixel by pixel as you
 have to in this editor, <a href="http://forum.starmen.net/forum/Community/PKHack/46391/page/1">here</a> is the location of it. This will be
@@ -288,9 +288,9 @@ the same.
 Types MUST match! You can’t link Doors to anything besides Doors, Switches to anything besides Switches, and
 Objects or People to anything besides Objects. The editor will warn you if you attempt to create a door that has non-
 matching types.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:33:09 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:33:09 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4269" title="10. Photo, Music/Flags Correlations, Enemy Placement Groups, and Event-Based Map Changes:" author-id="6189" timestamp="2012-02-11 21:33:42 +0600" type="norm" dbname="box48745" last-modified-by="127" %}
+{% include box-open.html box-id="4269" title="10. Photo, Music/Flags Correlations, Enemy Placement Groups, and Event-Based Map Changes" author-id="6189" timestamp="2012-02-12 03:33:42 +0000" type="norm" dbname="box48745" last-modified-by="127" %}
 There are 32 different photos that can be taken in EarthBound, and with the editor you can edit nearly everything
 about all of them. What the center of the picture is, where the Photoman lands, what party members and additional sprites
 are allowed to appear in the photo, and what event flag will be tripped when the photo is taken(preventing the photo from
@@ -318,8 +318,8 @@ the player is in the area, the change won’t take place until the player leaves
 to a single flag. Tileset Indoors 4 has 84 changes linked to one flag(the Happy Happyist Cultists in the large room). You
 can completely rewrite areas of the map using this tool, hiding areas from the player until a certain point, then revealing
 them.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:36:38 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:36:38 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4270" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-02-11 21:34:44 +0600" type="blank" dbname="box31110" last-modified-by="127" %}
+{% include box-open.html box-id="4270" title="New Box, Edit me :(" author-id="6189" timestamp="2012-02-12 03:34:44 +0000" type="blank" dbname="box31110" last-modified-by="127" %}
 <center><font size="4"><a href="section1part4.php">&larr; 1.4 Technical Details</a> | <b>1.5 PK Hack's Tools</b> | <a href="section1part6.php">1.6 Frequently Asked Questions &rarr;</a></font></center>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:47:27 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:47:27 +0000" last-modified-by-name="NESluver" %}

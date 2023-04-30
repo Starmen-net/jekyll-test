@@ -2,9 +2,9 @@
 title: Radio PSI - DJs - The Radio PSI DJs
 categories:
   - radio
-date: 2006-02-25 07:42:30 +0600
+date: 2006-02-25 13:42:30 +0000
 ---
-{% include box-open.html box-id="1957" title="Starmen.Net Radio - Meet the DJs:" author-id="247" timestamp="2006-02-25 07:42:30 +0600" type="norm" dbname="box28450" last-modified-by="127" %}
+{% include box-open.html box-id="1957" title="Starmen.Net Radio - Meet the DJs" author-id="247" timestamp="2006-02-25 13:42:30 +0000" type="norm" dbname="box28450" last-modified-by="127" %}
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
 <img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/dj_mon.png" />
@@ -137,4 +137,4 @@ DJ Umbra broadcasts from 9:00 PM - 11:00 PM Eastern time, every Sunday Night.
 </tr>
 </p>
 </table>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-26 02:29:03 +0600" last-modified-by-name="nightshade" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-26 08:29:03 +0000" last-modified-by-name="nightshade" %}

@@ -2,13 +2,13 @@
 title: MOTHER 3 Maps
 categories:
   - mother3
-date: 2008-11-03 14:08:22 +0600
+date: 2008-11-03 20:08:22 +0000
 ---
-{% include box-open.html box-id="4739" title="Nowhere Islands Map:" author-id="27298" timestamp="2015-06-23 01:07:24 +0500" type="norm" dbname="box33741" last-modified-by="127" %}
+{% include box-open.html box-id="4739" title="Nowhere Islands Map" author-id="27298" timestamp="2015-06-23 06:07:24 +0000" type="norm" dbname="box33741" last-modified-by="127" %}
 <img src="WorldMap.png" />
-{% include box-close.html author-name="NorthofOnett" last-modified-on="2015-06-23 01:09:44 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="NorthofOnett" last-modified-on="2015-06-23 06:09:44 +0000" last-modified-by-name="NorthofOnett" %}
 
-{% include box-open.html box-id="4398" title="Prologue/Chapter 1 Maps:" author-id="17505" timestamp="2012-04-05 08:50:51 +0500" type="norm" dbname="box44619" last-modified-by="127" %}
+{% include box-open.html box-id="4398" title="Prologue/Chapter 1 Maps" author-id="17505" timestamp="2012-04-05 13:50:51 +0000" type="norm" dbname="box44619" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Oriander%20Plateau%20and%20Stomping%20Grounds.png">Oriander Plateau and Stomping Grounds</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Tazmily%20Square%20and%20South%20Shore.png">Tazmily Square and South Shore</a></li>
@@ -30,9 +30,9 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Cave%20Passage.png">Cave Passage</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Oriander%20Canyon%20and%20Drago%20Plateau.png">Drago Plateau</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2013-04-03 22:39:01 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="METC" last-modified-on="2013-04-04 03:39:01 +0000" last-modified-by-name="NorthofOnett" %}
 
-{% include box-open.html box-id="4399" title="Chapter 2 Maps:" author-id="17505" timestamp="2012-04-05 09:08:37 +0500" type="norm" dbname="box6931" last-modified-by="127" %}
+{% include box-open.html box-id="4399" title="Chapter 2 Maps" author-id="17505" timestamp="2012-04-05 14:08:37 +0000" type="norm" dbname="box6931" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%202%20Maps/Sunset%20Cemetary%20and%20Osohe%20Castle2.png">Sunset Cemetery and Osohe Castle (before Pigmasks)</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%202%20Maps/Osohe%20Tunnel.png">Osohe Tunnel</a></li>
@@ -49,9 +49,9 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%202%20Maps/Eighth--Ninth%20Floor.png">8th and 9th floors</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%202%20Maps/Falling_extra.png">Map used in the falling scene</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-15 12:24:43 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-15 17:24:43 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4415" title="Chapter 3 Maps:" author-id="17505" timestamp="2012-04-12 21:24:11 +0500" type="norm" dbname="box16688" last-modified-by="127" %}
+{% include box-open.html box-id="4415" title="Chapter 3 Maps" author-id="17505" timestamp="2012-04-13 02:24:11 +0000" type="norm" dbname="box16688" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%203%20Maps/Death%20Desert_complete.png">Death Desert</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%203%20Maps/Underground%20Passage.png">Underground Passage</a></li>
@@ -59,9 +59,9 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%203%20Maps/Osohe%20Crypt_before%20lever.png">Osohe Crypt (before pulling lever)</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%203%20Maps/Osohe%20Crypt_lever%20pulled.png">Osohe Crypt (after pulling lever)</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-15 12:27:26 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-15 17:27:26 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4416" title="Chapter 4 Maps:" author-id="17505" timestamp="2012-04-12 21:24:16 +0500" type="norm" dbname="box53556" last-modified-by="127" %}
+{% include box-open.html box-id="4416" title="Chapter 4 Maps" author-id="17505" timestamp="2012-04-13 02:24:16 +0000" type="norm" dbname="box53556" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%204%20Maps/Tazmily%20Village%20and%20South%20Shore_modern.png">Tazmily Village and South Shore (modern)</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%204%20Maps/Tazmily%20Village_modern_interiors.png">Tazmily Village (modern) (interiors)</a></li>
@@ -90,9 +90,9 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%204%20Maps/Club%20Titiboo_backstage.png">Club Titiboo Backstage</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%204%20Maps/Club%20Titiboo_attic.png">Club Titiboo Attic</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-16 16:07:18 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-16 21:07:18 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4417" title="Chapter 5 Maps:" author-id="17505" timestamp="2012-04-12 21:24:18 +0500" type="norm" dbname="box26830" last-modified-by="127" %}
+{% include box-open.html box-id="4417" title="Chapter 5 Maps" author-id="17505" timestamp="2012-04-13 02:24:18 +0000" type="norm" dbname="box26830" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%205%20Maps/Forest%20Waterfall.png">Forest Waterfall</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%205%20Maps/Unknown%20Valley.png">Unknown Valley</a></li>
@@ -108,15 +108,15 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%205%20Maps/Electric%20Platforms%20and%20Generator%20Room.png">Electric Platforms and Generator Room</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%205%20Maps/Tower%20Apex.png">Tower Apex</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-16 15:51:57 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-16 20:51:57 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4418" title="Chapter 6 Maps:" author-id="17505" timestamp="2012-04-12 21:24:19 +0500" type="norm" dbname="box17075" last-modified-by="127" %}
+{% include box-open.html box-id="4418" title="Chapter 6 Maps" author-id="17505" timestamp="2012-04-13 02:24:19 +0000" type="norm" dbname="box17075" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%206%20Maps/Chapter%206%20Sunflower%20Fields.png">Sunflower Fields</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-15 12:31:44 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-15 17:31:44 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4419" title="Chapter 7 Maps:" author-id="17505" timestamp="2012-04-12 21:24:21 +0500" type="norm" dbname="box59584" last-modified-by="127" %}
+{% include box-open.html box-id="4419" title="Chapter 7 Maps" author-id="17505" timestamp="2012-04-13 02:24:21 +0000" type="norm" dbname="box59584" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%207%20Maps/Retirement%20Home.png">Retirement Home</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%207%20Maps/Osohe%20Catacombs.png">Osohe Catacombs</a></li>
@@ -154,9 +154,9 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%207%20Maps/Ionia's%20House_interior.png">Ionia's House (interior)</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%207%20Maps/Chupichupyoi%20Temple_interior.png">Chupichupyoi Temple (interior)</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-06-06 19:57:13 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-06-07 00:57:13 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4420" title="Chapter 8 Maps:" author-id="17505" timestamp="2012-04-12 21:24:22 +0500" type="norm" dbname="box1589" last-modified-by="127" %}
+{% include box-open.html box-id="4420" title="Chapter 8 Maps" author-id="17505" timestamp="2012-04-13 02:24:22 +0000" type="norm" dbname="box1589" last-modified-by="127" %}
 <ul>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%208%20Maps/Chupichupyoi%20Temple%20and%20King%20P%20Limo.png">Chupichupyoi Temple and  King P. Limo</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%208%20Maps/New%20Pork%20City.png">New Pork City</a></li>
@@ -184,8 +184,8 @@ href="http://starmen.net/mother3/walkthroughs/maps/Chapter%201%20Maps/Sunshine%2
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%208%20Maps/Cave%20of%20the%20Future.png">Cave of the Future</a></li>
 <li><a href="http://starmen.net/mother3/walkthroughs/maps/Chapter%208%20Maps/The%20Final%20Needle.png">The Final Needle</a></li>
 </ul>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-16 19:55:10 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-17 00:55:10 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="3517" title="MOTHER 3 Maps:" author-id="2262" timestamp="2008-11-03 14:08:22 +0600" type="norm" dbname="box56897" last-modified-by="127" %}
+{% include box-open.html box-id="3517" title="MOTHER 3 Maps" author-id="2262" timestamp="2008-11-03 20:08:22 +0000" type="norm" dbname="box56897" last-modified-by="127" %}
 <a href="../../maps/m3_maps.zip">Complete Maps</a> - This .zip file contains all of MOTHER 3's Maps
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-03 14:09:19 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-03 20:09:19 +0000" last-modified-by-name="KingDarian" %}

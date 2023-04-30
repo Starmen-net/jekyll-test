@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound FAQs, Guides, and Maps
 categories:
   - mother2
-date: 2006-03-31 16:36:39 +0600
+date: 2006-03-31 22:36:39 +0000
 ---
-{% include box-open.html box-id="2154" title="Enemy, Boss, and Battle Guides:" author-id="75" timestamp="2006-03-31 16:36:39 +0600" type="norm" dbname="box56801" last-modified-by="75" %}
+{% include box-open.html box-id="2154" title="Enemy, Boss, and Battle Guides" author-id="75" timestamp="2006-03-31 22:36:39 +0000" type="norm" dbname="box56801" last-modified-by="75" %}
 <SUBMISSION id="1740" /><br />
 One long list containing all the enemies in EarthBound, and their HP, PP, Offense, Defense and Speed.
 <p />
@@ -17,9 +17,9 @@ A guide telling you how to defeat all of the main bosses in EarthBound. It tells
 <SUBMISSION id="1741" /><br />
 A complete guide that details the final battle, along with sure-fire methods of winning.
 <p />
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 12:42:55 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 17:42:55 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="2155" title="PSI Guides:" author-id="75" timestamp="2006-03-31 16:37:06 +0600" type="norm" dbname="box39266" last-modified-by="75" %}
+{% include box-open.html box-id="2155" title="PSI Guides" author-id="75" timestamp="2006-03-31 22:37:06 +0000" type="norm" dbname="box39266" last-modified-by="75" %}
 <SUBMISSION id="1744" /><br />
 Everything you ever wanted to know about PSI in EarthBound. Divided into offense, recover and assist for easy reference.
 <p />
@@ -31,9 +31,9 @@ This is a chart of all the PSI powers in EarthBound.
 <p />
 <SUBMISSION id="1758" /><br />
 Tells you all about everyone's PSI and has a few enemies with their stats.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-03-31 16:37:45 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-03-31 22:37:45 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="2156" title="Item Guides:" author-id="75" timestamp="2006-03-31 16:37:47 +0600" type="norm" dbname="box2320" last-modified-by="127" %}
+{% include box-open.html box-id="2156" title="Item Guides" author-id="75" timestamp="2006-03-31 22:37:47 +0000" type="norm" dbname="box2320" last-modified-by="127" %}
 <SUBMISSION id="1750" /><br />
 An incomplete guide that gives all major and minor info about every item.
 <p />
@@ -54,9 +54,9 @@ Lists the items that the enemies drop.
 <p />
 <SUBMISSION id="1759" /><br />
 Lists all the food available in EarthBound with accompanying information, the best food, and a mini-walkthrough.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 20:31:15 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-20 01:31:15 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2157" title="Tricks:" author-id="75" timestamp="2006-03-31 16:38:12 +0600" type="norm" dbname="box27022" last-modified-by="75" %}
+{% include box-open.html box-id="2157" title="Tricks" author-id="75" timestamp="2006-03-31 22:38:12 +0000" type="norm" dbname="box27022" last-modified-by="75" %}
 <SUBMISSION id="12404" /><br />
 Tells you how to make those magic butterflies keep on re-appearing. A relatively simple trick.
 <p />
@@ -86,9 +86,9 @@ Pro-Action Replay codes to boost your character's stats.
 <p />
 <SUBMISSION id="12408" /><br />
 Read this to do some weird stuff in EarthBound.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 13:35:22 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 18:35:22 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="2158" title="Miscellaneous Guides:" author-id="75" timestamp="2006-03-31 16:38:50 +0600" type="norm" dbname="box64261" last-modified-by="127" %}
+{% include box-open.html box-id="2158" title="Miscellaneous Guides" author-id="75" timestamp="2006-03-31 22:38:50 +0000" type="norm" dbname="box64261" last-modified-by="127" %}
 <SUBMISSION id="23079" /><br />
 A thorough listing of all possible stats available at every level, as well as an experience table.
 <p />
@@ -120,4 +120,4 @@ A humorous and logical view about the naming of places in EarthBound.
 <br />
 This is a list of the hints that can be purchased at the Hint Shops found troughout Earthbound.  
 
-{% include box-close.html author-name="PoeTrader" last-modified-on="2019-12-02 07:59:06 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2019-12-02 13:59:06 +0000" last-modified-by-name="CerealQueen" %}

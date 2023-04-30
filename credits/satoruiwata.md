@@ -2,9 +2,9 @@
 title: 'Game Credits: Satoru Iwata'
 categories:
   - credits
-date: 2005-05-01 16:45:58 +0500
+date: 2005-05-01 21:45:58 +0000
 ---
-{% include box-open.html box-id="959" title="Satoru Iwata:" author-id="2262" timestamp="2005-05-01 16:45:58 +0500" type="norm" dbname="box4213" last-modified-by="127" %}
+{% include box-open.html box-id="959" title="Satoru Iwata" author-id="2262" timestamp="2005-05-01 21:45:58 +0000" type="norm" dbname="box4213" last-modified-by="127" %}
 <img src="satoruiwata.JPG" align="right" />
 <b>Bio</b><BR />
 Satoru Iwata is one of the most well-known individuals in the gaming industry. Iwata started his career in the gaming industry as a game designer. He created the game development company HAL(named after the supercomputer in <i>2001: A Space Odyssey</i>) with his friends from the Tokyo Institue of Technology. He has been a vital part in the creation of many Nintendo and Hal video games over the years. In 2001, when Hiroshi Yamauchi stepped down from his role as president of Nintendo, Iwata took over the position which he still holds today.<BR /><BR />
@@ -158,4 +158,4 @@ Executive Producer</LI>
 <LI><b>Star Fox: Assault(GCN 2005)</b><BR />
 Executive Producer</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:49:32 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:49:32 +0000" last-modified-by-name="KingDarian" %}

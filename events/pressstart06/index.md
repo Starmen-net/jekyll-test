@@ -2,9 +2,9 @@
 title: 'Events: Press Start 2006 - The Symphony of Games'
 categories:
   - events
-date: 2007-06-21 11:50:16 +0500
+date: 2007-06-21 16:50:16 +0000
 ---
-{% include box-open.html box-id="3080" title="Press Start 2006 - The Symphony of Games:" author-id="288" timestamp="2007-06-21 11:50:16 +0500" type="norm" dbname="box31264" last-modified-by="127" %}
+{% include box-open.html box-id="3080" title="Press Start 2006 - The Symphony of Games" author-id="288" timestamp="2007-06-21 16:50:16 +0000" type="norm" dbname="box31264" last-modified-by="127" %}
 <a href="mother_concert.jpg">"Press Start 2006 - The Symphony of Games"</a> was an event held in Shibuya, Japan on September 22, 2006. It was a showcase of famous game music in orcestra form -- and the music was rewritten by their respective original composers. The list of music played is as follows:
 
 <br /><br />
@@ -44,9 +44,9 @@ The MOTHER Medley consisted of:
  <li>MOTHER 3 Love Theme</li>
 </ul>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-21 12:14:39 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-21 17:14:39 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3081" title="Event Report:" author-id="288" timestamp="2007-06-21 12:12:30 +0500" type="norm" dbname="box60847" last-modified-by="127" %}
+{% include box-open.html box-id="3081" title="Event Report" author-id="288" timestamp="2007-06-21 17:12:30 +0000" type="norm" dbname="box60847" last-modified-by="127" %}
 (Info courtesy of <a href="http://mother-jp.net">MOTHER Party</a>)
 
 <ul>
@@ -63,4 +63,4 @@ The MOTHER Medley consisted of:
 </ul>
 
 (MORE INFO TO COME!)
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-21 12:19:06 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-21 17:19:06 +0000" last-modified-by-name="Tomato" %}

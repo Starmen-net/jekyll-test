@@ -2,9 +2,9 @@
 title: Super Famicom Perfect Video &#039;92~&#039;93
 categories:
   - merchandise
-date: 2005-01-03 20:43:48 +0600
+date: 2005-01-04 02:43:48 +0000
 ---
-{% include box-open.html box-id="316" title="Super Famicom Perfect Video &#039;92~&#039;93:" author-id="45" timestamp="2005-01-03 20:43:48 +0600" type="norm" dbname="box39963" last-modified-by="127" %}
+{% include box-open.html box-id="316" title="Super Famicom Perfect Video &#039;92~&#039;93" author-id="45" timestamp="2005-01-04 02:43:48 +0000" type="norm" dbname="box39963" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/sfpv_title.jpg" border="0" alt="Super Famicom Perfect Video '92~'93" />
 	</center>
@@ -38,4 +38,4 @@ date: 2005-01-03 20:43:48 +0600
 	<b>Movie:</b>
 	<br />
 	<a href="/mother2/videos/m2itoi_ver1.avi">Mother 2 Segment (Subtitled)</a> (See the <a href="/mother2/videos/">Mother 2 Videos</a> section for more information.)
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-06-12 23:31:45 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-06-13 04:31:45 +0000" last-modified-by-name="Tomato" %}

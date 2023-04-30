@@ -2,9 +2,9 @@
 title: Move-Sets
 categories:
   - ssbm
-date: 2018-04-23 15:00:03 +0500
+date: 2018-04-23 20:00:03 +0000
 ---
-{% include box-open.html box-id="5136" title="Bowser:" author-id="28590" timestamp="2018-04-23 15:05:23 +0500" type="norm" dbname="box1800" last-modified-by="127" %}
+{% include box-open.html box-id="5136" title="Bowser" author-id="28590" timestamp="2018-04-23 20:05:23 +0000" type="norm" dbname="box1800" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -146,17 +146,17 @@ date: 2018-04-23 15:00:03 +0500
         <td><center>There’s little knock back, has a small hit box, but as Bowser spins downward, revealing his spikes, it does send a shock wave against the ground.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 16:09:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 21:09:37 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5138" title="Captain Falcon:" author-id="28590" timestamp="2018-04-23 15:08:22 +0500" type="norm" dbname="box7050" last-modified-by="127" %}
+{% include box-open.html box-id="5138" title="Captain Falcon" author-id="28590" timestamp="2018-04-23 20:08:22 +0000" type="norm" dbname="box7050" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:08:35 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:08:35 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5139" title="Donkey Kong:" author-id="28590" timestamp="2018-04-23 15:08:45 +0500" type="norm" dbname="box48530" last-modified-by="127" %}
+{% include box-open.html box-id="5139" title="Donkey Kong" author-id="28590" timestamp="2018-04-23 20:08:45 +0000" type="norm" dbname="box48530" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:09:05 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:09:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5137" title="Dr. Mario:" author-id="28590" timestamp="2018-04-23 15:07:24 +0500" type="norm" dbname="box7754" last-modified-by="127" %}
+{% include box-open.html box-id="5137" title="Dr. Mario" author-id="28590" timestamp="2018-04-23 20:07:24 +0000" type="norm" dbname="box7754" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -298,33 +298,33 @@ date: 2018-04-23 15:00:03 +0500
         <td><center>If this drilling kick doesn’t miss, you’ll receive the percentage.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:24:48 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:24:48 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5140" title="Falco:" author-id="28590" timestamp="2018-04-23 15:09:34 +0500" type="norm" dbname="box3767" last-modified-by="127" %}
+{% include box-open.html box-id="5140" title="Falco" author-id="28590" timestamp="2018-04-23 20:09:34 +0000" type="norm" dbname="box3767" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:09:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:09:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5141" title="Fox:" author-id="28590" timestamp="2018-04-23 15:09:47 +0500" type="norm" dbname="box6887" last-modified-by="127" %}
+{% include box-open.html box-id="5141" title="Fox" author-id="28590" timestamp="2018-04-23 20:09:47 +0000" type="norm" dbname="box6887" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:09:56 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:09:56 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5142" title="Ganondorf:" author-id="28590" timestamp="2018-04-23 15:10:12 +0500" type="norm" dbname="box8660" last-modified-by="127" %}
+{% include box-open.html box-id="5142" title="Ganondorf" author-id="28590" timestamp="2018-04-23 20:10:12 +0000" type="norm" dbname="box8660" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:10:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:10:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5143" title="Ice Climbers:" author-id="28590" timestamp="2018-04-23 15:10:42 +0500" type="norm" dbname="box47907" last-modified-by="127" %}
+{% include box-open.html box-id="5143" title="Ice Climbers" author-id="28590" timestamp="2018-04-23 20:10:42 +0000" type="norm" dbname="box47907" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:10:54 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:10:54 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5144" title="Jigglypuff:" author-id="28590" timestamp="2018-04-23 15:11:08 +0500" type="norm" dbname="box22930" last-modified-by="127" %}
+{% include box-open.html box-id="5144" title="Jigglypuff" author-id="28590" timestamp="2018-04-23 20:11:08 +0000" type="norm" dbname="box22930" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:11:20 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:11:20 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5156" title="Kirby:" author-id="28590" timestamp="2018-04-23 15:19:05 +0500" type="norm" dbname="box38199" last-modified-by="127" %}
+{% include box-open.html box-id="5156" title="Kirby" author-id="28590" timestamp="2018-04-23 20:19:05 +0000" type="norm" dbname="box38199" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:19:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:19:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5145" title="Link:" author-id="28590" timestamp="2018-04-23 15:11:53 +0500" type="norm" dbname="box14556" last-modified-by="127" %}
+{% include box-open.html box-id="5145" title="Link" author-id="28590" timestamp="2018-04-23 20:11:53 +0000" type="norm" dbname="box14556" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -471,9 +471,9 @@ date: 2018-04-23 15:00:03 +0500
         <td><center>NES Zelda fans’ favorite move, a downwards stab. GREAT move for KO’s. Has some big delay due to the sword going in the ground; a well-timed L-Cancel fixes this.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 16:09:27 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 21:09:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5134" title="Luigi (Move-Set):" author-id="28590" timestamp="2018-04-23 15:00:03 +0500" type="norm" dbname="box52588" last-modified-by="127" %}
+{% include box-open.html box-id="5134" title="Luigi (Move-Set)" author-id="28590" timestamp="2018-04-23 20:00:03 +0000" type="norm" dbname="box52588" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -615,9 +615,9 @@ date: 2018-04-23 15:00:03 +0500
         <td><center>This is recommended for edge guarding, and if it hits an opponent in the hip, it can meteor mash.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:00:22 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:00:22 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5135" title="Mario:" author-id="28590" timestamp="2018-04-23 15:01:38 +0500" type="norm" dbname="box23673" last-modified-by="127" %}
+{% include box-open.html box-id="5135" title="Mario" author-id="28590" timestamp="2018-04-23 20:01:38 +0000" type="norm" dbname="box23673" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -763,25 +763,25 @@ date: 2018-04-23 15:00:03 +0500
         <td><center>It was originally seen in Super Mario World as the Spin Jump. Instead of one powerful hit, it hits numerous times.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:02:29 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:02:29 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5146" title="Marth:" author-id="28590" timestamp="2018-04-23 15:14:15 +0500" type="norm" dbname="box11551" last-modified-by="127" %}
+{% include box-open.html box-id="5146" title="Marth" author-id="28590" timestamp="2018-04-23 20:14:15 +0000" type="norm" dbname="box11551" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:14:25 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:14:25 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5147" title="Mewtwo:" author-id="28590" timestamp="2018-04-23 15:14:28 +0500" type="norm" dbname="box6418" last-modified-by="127" %}
+{% include box-open.html box-id="5147" title="Mewtwo" author-id="28590" timestamp="2018-04-23 20:14:28 +0000" type="norm" dbname="box6418" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:14:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:14:37 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5148" title="Mr. Game & Watch:" author-id="28590" timestamp="2018-04-23 15:14:40 +0500" type="norm" dbname="box12237" last-modified-by="127" %}
+{% include box-open.html box-id="5148" title="Mr. Game & Watch" author-id="28590" timestamp="2018-04-23 20:14:40 +0000" type="norm" dbname="box12237" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:14:52 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:14:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5149" title="Ness:" author-id="28590" timestamp="2018-04-23 15:15:02 +0500" type="norm" dbname="box34018" last-modified-by="127" %}
+{% include box-open.html box-id="5149" title="Ness" author-id="28590" timestamp="2018-04-23 20:15:02 +0000" type="norm" dbname="box34018" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:15:12 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:15:12 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5150" title="Peach:" author-id="28590" timestamp="2018-04-23 15:15:56 +0500" type="norm" dbname="box64283" last-modified-by="127" %}
+{% include box-open.html box-id="5150" title="Peach" author-id="28590" timestamp="2018-04-23 20:15:56 +0000" type="norm" dbname="box64283" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -925,9 +925,9 @@ The golf club is the weapon of choice. It will hit <br />the enemy at a 45 degre
         <td><center>Peach will kick in a downward motion four times. Percentage varies depending on impact.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:22:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:22:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5151" title="Pichu:" author-id="28590" timestamp="2018-04-23 15:16:09 +0500" type="norm" dbname="box46404" last-modified-by="127" %}
+{% include box-open.html box-id="5151" title="Pichu" author-id="28590" timestamp="2018-04-23 20:16:09 +0000" type="norm" dbname="box46404" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -1069,25 +1069,25 @@ The golf club is the weapon of choice. It will hit <br />the enemy at a 45 degre
         <td><center>Pichu will release multiple shocks downward from its cheeks. This will result in 1% recoil damage to Picu, but if it hits the ground, another 1% damage will go to Pichu.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:24:03 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:24:03 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5152" title="Pikachu:" author-id="28590" timestamp="2018-04-23 15:16:23 +0500" type="norm" dbname="box33005" last-modified-by="127" %}
+{% include box-open.html box-id="5152" title="Pikachu" author-id="28590" timestamp="2018-04-23 20:16:23 +0000" type="norm" dbname="box33005" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:16:34 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:16:34 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5153" title="Roy:" author-id="28590" timestamp="2018-04-23 15:17:33 +0500" type="norm" dbname="box51016" last-modified-by="127" %}
+{% include box-open.html box-id="5153" title="Roy" author-id="28590" timestamp="2018-04-23 20:17:33 +0000" type="norm" dbname="box51016" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:17:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:17:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5154" title="Samus:" author-id="28590" timestamp="2018-04-23 15:17:59 +0500" type="norm" dbname="box19704" last-modified-by="127" %}
+{% include box-open.html box-id="5154" title="Samus" author-id="28590" timestamp="2018-04-23 20:17:59 +0000" type="norm" dbname="box19704" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:18:09 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:18:09 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5155" title="Sheik:" author-id="28590" timestamp="2018-04-23 15:18:14 +0500" type="norm" dbname="box6609" last-modified-by="127" %}
+{% include box-open.html box-id="5155" title="Sheik" author-id="28590" timestamp="2018-04-23 20:18:14 +0000" type="norm" dbname="box6609" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:18:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:18:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5157" title="Yoshi:" author-id="28590" timestamp="2018-04-23 15:19:18 +0500" type="norm" dbname="box54658" last-modified-by="127" %}
+{% include box-open.html box-id="5157" title="Yoshi" author-id="28590" timestamp="2018-04-23 20:19:18 +0000" type="norm" dbname="box54658" last-modified-by="127" %}
 <font size="5">"A" Attacks</font><br />
 <table class="fixed" border="1">
     <col width="200px" />
@@ -1229,12 +1229,12 @@ The golf club is the weapon of choice. It will hit <br />the enemy at a 45 degre
         <td><center>Yoshi will kick his feet quickly, but though his Meteor Smash is weak, if every kick makes contact, it can raise the percentage quite a high level.</center></td>
     </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:22:58 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:22:58 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5158" title="Young Link:" author-id="28590" timestamp="2018-04-23 15:19:30 +0500" type="norm" dbname="box41334" last-modified-by="127" %}
+{% include box-open.html box-id="5158" title="Young Link" author-id="28590" timestamp="2018-04-23 20:19:30 +0000" type="norm" dbname="box41334" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:19:46 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:19:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5159" title="Zelda:" author-id="28590" timestamp="2018-04-23 15:19:35 +0500" type="norm" dbname="box18439" last-modified-by="127" %}
+{% include box-open.html box-id="5159" title="Zelda" author-id="28590" timestamp="2018-04-23 20:19:35 +0000" type="norm" dbname="box18439" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 15:19:58 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-23 20:19:58 +0000" last-modified-by-name="CerealQueen" %}

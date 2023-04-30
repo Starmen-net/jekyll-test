@@ -2,9 +2,9 @@
 title: 'Game Credits: Keiichi Suzuki'
 categories:
   - credits
-date: 2005-05-01 14:20:36 +0500
+date: 2005-05-01 19:20:36 +0000
 ---
-{% include box-open.html box-id="955" title=" Keiichi Suzuki:" author-id="2262" timestamp="2005-05-01 14:20:36 +0500" type="norm" dbname="box32132" last-modified-by="127" %}
+{% include box-open.html box-id="955" title=" Keiichi Suzuki" author-id="2262" timestamp="2005-05-01 19:20:36 +0000" type="norm" dbname="box32132" last-modified-by="127" %}
 <img src="keiichisuzuki.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -28,4 +28,4 @@ Musical Effects</LI>
 <LI><b>MOTHER 3(GBA 2006) Japan Only</b><BR />
 Special Thanks</LI>
 </UL><BR/><BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 15:53:06 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 20:53:06 +0000" last-modified-by-name="KingDarian" %}

@@ -2,13 +2,13 @@
 title: Starmen.net - Theories - Negative Man
 categories:
   - articles
-date: 2013-06-18 13:14:30 +0500
+date: 2013-06-18 18:14:30 +0000
 ---
-{% include box-open.html box-id="4605" title="Theories topic (before the 2013 zombie revival update):" author-id="24629" timestamp="2013-06-18 13:14:30 +0500" type="norm" dbname="box59768" last-modified-by="127" %}
+{% include box-open.html box-id="4605" title="Theories topic (before the 2013 zombie revival update)" author-id="24629" timestamp="2013-06-18 18:14:30 +0000" type="norm" dbname="box59768" last-modified-by="127" %}
 <center><b>Who is Negative Man? Why is he so sad?</b></center>
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-27 21:34:58 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-28 02:34:58 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4606" title="Theory of the Week:" author-id="24629" timestamp="2013-06-18 13:19:33 +0500" type="norm" dbname="box27937" last-modified-by="127" %}
+{% include box-open.html box-id="4606" title="Theory of the Week" author-id="24629" timestamp="2013-06-18 18:19:33 +0000" type="norm" dbname="box27937" last-modified-by="127" %}
 <p>Negative Man was not always so upset, just the contrary. At one time, Negative Man was ever so happy with his peaceful life. He was the strongest, the cutest, and the most well respected creature in Argilla Cliffs. He was also the happiest. He had even been promoted to be a Needle Guardian.</p>
 
 <p>One day, he noticed his most precious possession had vanished; it was his meteotite. He fell into a panic and began looking day and night. It was valuable and extremely hard to come by. He was absolutely sure a Mystery Metal Monkey took it. He went out to confront them, but they denied ever even knowing he had such an item.</p>
@@ -20,9 +20,9 @@ date: 2013-06-18 13:14:30 +0500
 <p>Little did poor Negative Man know was his precious meteotite was in his back pocket the whole time.</p>
 
 -- CerealQueen
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 13:23:42 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 18:23:42 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4607" title="Oh, how the mighty have fallen:" author-id="24629" timestamp="2013-06-18 13:19:56 +0500" type="norm" dbname="box25309" last-modified-by="127" %}
+{% include box-open.html box-id="4607" title="Oh, how the mighty have fallen" author-id="24629" timestamp="2013-06-18 18:19:56 +0000" type="norm" dbname="box25309" last-modified-by="127" %}
 <p>Okay, here goes:</p>
 
 <p>Negative man is Ness. Crazy, Right?</p>
@@ -34,9 +34,9 @@ date: 2013-06-18 13:14:30 +0500
 <p>Ness could have broken up with Paula or had a falling out with Jeff or Poo, or Giygas could have scarred him for life.</p>
 
 -- PlaugeRatofDOOM
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 13:25:18 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 18:25:18 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4608" title="I think we've all been there at some point:" author-id="24629" timestamp="2013-06-18 13:19:57 +0500" type="norm" dbname="box48619" last-modified-by="127" %}
+{% include box-open.html box-id="4608" title="I think we've all been there at some point" author-id="24629" timestamp="2013-06-18 18:19:57 +0000" type="norm" dbname="box48619" last-modified-by="127" %}
 <p>From the ashened questions we let burn out, Pheen-X (and Amp) tries to bring these questions back to life, with an inferno of answers. This week's question, Negative Man. He's a question in himself. Did he get turned down by a hot date? Did he truly kill a former explorer and facing the guilt? Was he never invited to any parties and was left to grovel in self pity? Did Amp steal his donut one day in the office?!</p>
 
 <p>(Ugh, you gonna complain about that every day?)
@@ -73,12 +73,12 @@ It all started about 20-30 years ago. This young man within the Tazmilly Village
 <p>(uggggh, I'd rather put up with the Nega guy)</p>
 
 -- firej7
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 13:29:22 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 18:29:22 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4609" title="Rejected by the evil one, and kicked around by the good one:" author-id="24629" timestamp="2013-06-18 13:19:59 +0500" type="norm" dbname="box55098" last-modified-by="127" %}
+{% include box-open.html box-id="4609" title="Rejected by the evil one, and kicked around by the good one" author-id="24629" timestamp="2013-06-18 18:19:59 +0000" type="norm" dbname="box55098" last-modified-by="127" %}
 <p>We all know the Negative Man. The depressed yellow block is a wimpy yet kind of hilarious character. Where did he come from that is the topic of the theory contest this week. Here is what I think: Negative Man says things like "life is but a meaningless grain of sand" which is a line from the flying man's theme. He also says he is nothing but a worthless protoplasm which is a enemy in Earthbound. Seeing that he knows some things about EB this means that he knew what was going on in When Gygas attacked earth. Maybe he was a soldier for Gygas but because he was so weak Gygas fired him.Then he just crawled into his cave and waited for someone to come and just swat them away with the 1 HP dealing attacks</p>
 
 <p>This is SaturnRocks singing off</p>
 
 -- mrsaturnrocks52
-{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 13:32:04 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2013-06-18 18:32:04 +0000" last-modified-by-name="J_Spade" %}

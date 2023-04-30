@@ -2,13 +2,13 @@
 title: Music Samples &amp; Similaries
 categories:
   - mother2
-date: 2018-03-14 23:46:55 +0500
+date: 2018-03-15 04:46:55 +0000
 ---
-{% include box-open.html box-id="5125" title="Introduction:" author-id="28590" timestamp="2018-03-15 00:22:16 +0500" type="norm" dbname="box50119" last-modified-by="127" %}
+{% include box-open.html box-id="5125" title="Introduction" author-id="28590" timestamp="2018-03-15 05:22:16 +0000" type="norm" dbname="box50119" last-modified-by="127" %}
 If you've played through EarthBound, chances are you've heard some songs that sound strangely familiar. You're not just hearing things, EarthBound contains several songs that sample famous pieces of music. Below is a list of each sample along with MP3s so you can hear the samples yourself as well as a list of other music references found throughout the game.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-16 15:36:05 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-16 20:36:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5124" title="Samples and Similarities:" author-id="28590" timestamp="2018-03-14 23:46:55 +0500" type="norm" dbname="box18425" last-modified-by="127" %}
+{% include box-open.html box-id="5124" title="Samples and Similarities" author-id="28590" timestamp="2018-03-15 04:46:55 +0000" type="norm" dbname="box18425" last-modified-by="127" %}
 <ul class="pics">
 	
 <li>     
@@ -535,9 +535,9 @@ John Lennon and The Plastic U.F.Ono Band<br />"Mind Games"
 <br />While not identical, both the beginning of "Smiles and Tears" and "Mind Games" have a similar melody.
 	</li>
 </ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-06 08:00:36 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-06 13:00:36 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5126" title="References:" author-id="28590" timestamp="2018-03-15 00:22:59 +0500" type="norm" dbname="box64522" last-modified-by="127" %}
+{% include box-open.html box-id="5126" title="References" author-id="28590" timestamp="2018-03-15 05:22:59 +0000" type="norm" dbname="box64522" last-modified-by="127" %}
 <b>Yesterday</b>
 <br />
 The Beatles song "Yesterday" is referenced in southern Onett in a pop quiz. This is found only in EarthBound and not MOTHER 2.
@@ -557,4 +557,4 @@ Starman is an enemy in EarthBound as well the name of a David Bowie song.
 <b>Diamond Dogs</b>
 <br />
 Diamond Dog is a boss in EarthBound as well the name of a David Bowie song.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-15 00:23:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-15 05:23:24 +0000" last-modified-by-name="CerealQueen" %}

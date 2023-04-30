@@ -2,9 +2,9 @@
 title: 'Game Credits: Akihito Toda'
 categories:
   - credits
-date: 2005-09-21 18:50:35 +0500
+date: 2005-09-21 23:50:35 +0000
 ---
-{% include box-open.html box-id="1454" title="Akihito Toda:" author-id="2262" timestamp="2005-09-21 18:50:35 +0500" type="norm" dbname="box10928" last-modified-by="127" %}
+{% include box-open.html box-id="1454" title="Akihito Toda" author-id="2262" timestamp="2005-09-21 23:50:35 +0000" type="norm" dbname="box10928" last-modified-by="127" %}
 <img src="akihitotoda.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -18,4 +18,4 @@ date: 2005-09-21 18:50:35 +0500
     <LI><b>MOTHER 3(GBA 2006) Japan Only</b><BR />
     Message Design</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 18:49:12 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 23:49:12 +0000" last-modified-by-name="KingDarian" %}

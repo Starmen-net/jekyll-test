@@ -2,9 +2,9 @@
 title: Starmen.Net Hoodie
 categories:
   - merchandise
-date: 2005-01-03 23:18:01 +0600
+date: 2005-01-04 05:18:01 +0000
 ---
-{% include box-open.html box-id="372" title="Starmen.Net Hoodie:" author-id="45" timestamp="2005-01-03 23:18:01 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="372" title="Starmen.Net Hoodie" author-id="45" timestamp="2005-01-04 05:18:01 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/hoodie_title.png" border="0" alt="Starmen.Net Hoodie" />
 	</center>
@@ -29,4 +29,4 @@ date: 2005-01-03 23:18:01 +0600
 	<br />
 	<a href="/merchandise/images/hoodie_front.png">Hoodie (front)</a> - <a href="/merchandise/images/hoodie_back.png">Hoodie (back)</a> - <a href="/merchandise/images/hoodieb_zoom.jpg">Hoodie back graphic</a> - 
 	<a href="/merchandise/images/hoodief_zoom.jpg">Hoodie front graphic</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:18:51 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:18:51 +0000" last-modified-by-name="ShadowX" %}

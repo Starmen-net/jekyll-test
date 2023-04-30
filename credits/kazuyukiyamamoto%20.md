@@ -2,9 +2,9 @@
 title: 'Game Credits: Kazuyuki Yamamoto '
 categories:
   - credits
-date: 2008-06-10 13:42:39 +0500
+date: 2008-06-10 18:42:39 +0000
 ---
-{% include box-open.html box-id="3452" title="Kazuyuki Yamamoto :" author-id="2262" timestamp="2008-06-10 13:42:39 +0500" type="norm" dbname="box6665" last-modified-by="127" %}
+{% include box-open.html box-id="3452" title="Kazuyuki Yamamoto " author-id="2262" timestamp="2008-06-10 18:42:39 +0000" type="norm" dbname="box6665" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 
@@ -20,4 +20,4 @@ Special Thanks</LI>
 Animation Special Effects</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 13:42:46 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 18:42:46 +0000" last-modified-by-name="KingDarian" %}

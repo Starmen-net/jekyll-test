@@ -2,9 +2,9 @@
 title: Ness&#039; Great Adventure
 categories:
   - merchandise
-date: 2005-01-03 19:05:57 +0600
+date: 2005-01-04 01:05:57 +0000
 ---
-{% include box-open.html box-id="268" title="Ness&#039; Great Adventure:" author-id="45" timestamp="2005-01-03 19:05:57 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="268" title="Ness&#039; Great Adventure" author-id="45" timestamp="2005-01-04 01:05:57 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/sm2bf2_title.jpg" border="0" alt="Ness' Great Adventure" />
 	</center>
@@ -30,4 +30,4 @@ date: 2005-01-03 19:05:57 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/sm2bf2.jpg">Front</a> - <a href="/merchandise/images/sm2bi3.jpg">Inside</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 19:06:13 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:06:13 +0000" last-modified-by-name="ShadowX" %}

@@ -2,13 +2,13 @@
 title: Radio PSI - Cohosts - The Radio PSI Cohosts
 categories:
   - radio
-date: 2012-10-02 12:38:02 +0500
+date: 2012-10-02 17:38:02 +0000
 ---
-{% include box-open.html box-id="4544" title="Meet the Cohosts:" author-id="5884" timestamp="2012-10-10 12:55:47 +0500" type="norm" dbname="box33996" last-modified-by="127" %}
+{% include box-open.html box-id="4544" title="Meet the Cohosts" author-id="5884" timestamp="2012-10-10 17:55:47 +0000" type="norm" dbname="box33996" last-modified-by="127" %}
 Over the years, Radio PSI has accumulated many supporting members. While not DJs, they are still vital to many programs. These are their stories.
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-10 12:56:49 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-10 17:56:49 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4538" title="DJ Mon's \"The_Crew\" (DJ Mon - Digital Monsters and RPG Club):" author-id="5884" timestamp="2012-10-02 12:38:02 +0500" type="norm" dbname="box45592" last-modified-by="127" %}
+{% include box-open.html box-id="4538" title="DJ Mon's \"The_Crew\" (DJ Mon - Digital Monsters and RPG Club)" author-id="5884" timestamp="2012-10-02 17:38:02 +0000" type="norm" dbname="box45592" last-modified-by="127" %}
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
 <img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
@@ -164,9 +164,9 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 </tr>
 </p>
 </table>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-18 15:42:29 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-18 20:42:29 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4543" title="DJ Amztrak's Throne of Games:" author-id="5884" timestamp="2012-10-10 12:49:19 +0500" type="norm" dbname="box54486" last-modified-by="127" %}
+{% include box-open.html box-id="4543" title="DJ Amztrak's Throne of Games" author-id="5884" timestamp="2012-10-10 17:49:19 +0000" type="norm" dbname="box54486" last-modified-by="127" %}
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
 <img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
@@ -190,4 +190,4 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 
 
 
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-10 12:55:44 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-10 17:55:44 +0000" last-modified-by-name="cyan683" %}

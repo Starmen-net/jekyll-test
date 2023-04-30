@@ -2,20 +2,20 @@
 title: Mailbag Rules and Guidelines
 categories:
   - mailbag
-date: 2014-01-13 01:43:06 +0600
+date: 2014-01-13 07:43:06 +0000
 ---
-{% include box-open.html box-id="4634" title=":" author-id="4164" timestamp="2014-01-20 01:30:22 +0600" type="blank" dbname="box49596" last-modified-by="127" %}
+{% include box-open.html box-id="4634" author-id="4164" timestamp="2014-01-20 07:30:22 +0000" type="blank" dbname="box49596" last-modified-by="127" %}
 <br />
 <br />
-{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-20 01:30:56 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-20 07:30:56 +0000" last-modified-by-name="Strawberry Tofu" %}
 
-{% include box-open.html box-id="4624" title="Hey, kids! It's...:" author-id="4164" timestamp="2014-01-13 01:43:06 +0600" type="norm" dbname="box1134" last-modified-by="127" %}
+{% include box-open.html box-id="4624" title="Hey, kids! It's..." author-id="4164" timestamp="2014-01-13 07:43:06 +0000" type="norm" dbname="box1134" last-modified-by="127" %}
 <center><IMG SRC= "http://starmen.net/mailbag/guidelines.png" ALT="Fun with a Purpose!"/></center>
 <br/>
 <p style="text-align: center;"><b>Picky</b> and <b>Porky</b> both enjoy watching Mailbag every week. They've even sent in submissions of their own! However, while Picky's submissions are some of vid and Tofu's favorites, Porky's submissions haven't even shown up in a single episode! Looking over the facts, it's not hard to see why:</p>
-{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-13 02:02:56 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-13 08:02:56 +0000" last-modified-by-name="Strawberry Tofu" %}
 
-{% include box-open.html box-id="4625" title="Selected Highlights:" author-id="4164" timestamp="2014-01-13 02:03:42 +0600" type="norm" dbname="box43276" last-modified-by="127" %}
+{% include box-open.html box-id="4625" title="Selected Highlights" author-id="4164" timestamp="2014-01-13 08:03:42 +0000" type="norm" dbname="box43276" last-modified-by="127" %}
 <p>(<b>SHORT VERSION:</b> Keep your submissions brief, readable, polite, and appropriate! Enjoy yourself!)
 <br/>
 <br/>
@@ -69,8 +69,8 @@ date: 2014-01-13 01:43:06 +0600
 </ul>
 </p>
 
-{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-02-10 00:14:20 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-02-10 06:14:20 +0000" last-modified-by-name="Strawberry Tofu" %}
 
-{% include box-open.html box-id="4626" title="Questions?:" author-id="4164" timestamp="2014-01-13 02:22:17 +0600" type="norm" dbname="box40642" last-modified-by="127" %}
+{% include box-open.html box-id="4626" title="Questions?" author-id="4164" timestamp="2014-01-13 08:22:17 +0000" type="norm" dbname="box40642" last-modified-by="127" %}
 <p>If you have any questions about Mailbag submissions that we haven't covered here, shoot a private message to one of our hosts (Strawberry Tofu or vid) on the forums, or send a direct message to <a href="https://twitter.com/smnetmailbag">@smnetmailbag</a> on Twitter!</p>
-{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-13 02:23:35 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-13 08:23:35 +0000" last-modified-by-name="Strawberry Tofu" %}

@@ -2,9 +2,9 @@
 title: Caution Hippies
 categories:
   - merchandise
-date: 2005-01-04 01:14:52 +0600
+date: 2005-01-04 07:14:52 +0000
 ---
-{% include box-open.html box-id="436" title="Caution Hippies:" author-id="45" timestamp="2005-01-04 01:14:52 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="436" title="Caution Hippies" author-id="45" timestamp="2005-01-04 07:14:52 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_chs_title.jpg" border="0" alt="Caution Hippies" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-04 01:14:52 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_chs_sticker.jpg">Sticker</a> - <a href="/merchandise/images/smn_chs_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:15:19 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:15:19 +0000" last-modified-by-name="ShadowX" %}

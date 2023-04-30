@@ -2,13 +2,13 @@
 title: Theories - Apple Kid and Orange Kid
 categories:
   - articles
-date: 2012-08-29 19:56:00 +0500
+date: 2012-08-30 00:56:00 +0000
 ---
-{% include box-open.html box-id="4508" title="Theories Topic for some amount of time that I'm too lazy to look up right now:" author-id="1419" timestamp="2012-08-29 19:56:00 +0500" type="norm" dbname="box30131" last-modified-by="127" %}
+{% include box-open.html box-id="4508" title="Theories Topic for some amount of time that I'm too lazy to look up right now" author-id="1419" timestamp="2012-08-30 00:56:00 +0000" type="norm" dbname="box30131" last-modified-by="127" %}
 <center>Apple Kid and Orange Kid. Two matching inventors in the town of Twoson. That's way too similar to be a coincidence. How are these two related, and how did their rivalry come to exist?</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-29 19:57:08 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-30 00:57:08 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4509" title="Theory of the Week! (lol week):" author-id="1419" timestamp="2012-08-29 19:57:10 +0500" type="norm" dbname="box55925" last-modified-by="127" %}
+{% include box-open.html box-id="4509" title="Theory of the Week! (lol week)" author-id="1419" timestamp="2012-08-30 00:57:10 +0000" type="norm" dbname="box55925" last-modified-by="127" %}
 Apple and Orange Kid may seem like your average rival inventors, but this rivalry didn’t always exist. In fact, just the opposite used to be true!<p/>
 
 It all started just a month ago. Twoson was hosting the first-ever Eagleland Science and Engineering Festival, and all the greatest designers of Onett, Twoson, Threed, and Fourside were planning to attend, without a doubt. The grand prize was, after all, $10,000 in cash. Likewise, two close childhood friends, nicknamed Apple and Orange Kid, were bound to compete, teaming up together to create something truly amazing on account of their love for science.
@@ -35,9 +35,9 @@ But Orange Kid proposed that he deserved a greater portion, since he was the one
 …Oh, yeah, and the machine was stolen, too.<p/>
 
 -AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-29 20:03:48 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-30 01:03:48 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4510" title="THE TRUTH!:" author-id="1419" timestamp="2012-08-29 20:03:52 +0500" type="norm" dbname="box47013" last-modified-by="127" %}
+{% include box-open.html box-id="4510" title="THE TRUTH!" author-id="1419" timestamp="2012-08-30 01:03:52 +0000" type="norm" dbname="box47013" last-modified-by="127" %}
 What follows is THE TRUTH<p/>
 
 Giygas and his Apple of Enlightenment predicted that there would be an "Apple Kid" integral to foiling his ultimate Universal domination. He used the Apple of Enlightenment to find the Kid.<p/>
@@ -47,9 +47,9 @@ Apple Kid lived in Twoson his whole life. He had an averseness to the mainstream
 In an attempt to unravel destiny, Giygas used his amazing technologies to manufacture a sort of evil clone of the Apple Kid, and named the result Orange Kid. Mere months before Ness was destined to find him, Orange Kid was sent to Twoson to sabotage him. Orange Kid was equally as intelligent as his nemesis, Apple, and was much more cleaned-up. He used his showy inventions to win over the town people and turn them against Apple Kid. Giygas had hoped to trick Ness into confiding in Orange Kid, who of course would prove utterly useless to him. Luckily, he did not succeed.<p/>
 
 - Gabriel Rodriguez
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-29 20:04:41 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-30 01:04:41 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4511" title="Horse Oranges are much more delicious than Horse Apples:" author-id="1419" timestamp="2012-08-29 20:04:47 +0500" type="norm" dbname="box58946" last-modified-by="127" %}
+{% include box-open.html box-id="4511" title="Horse Oranges are much more delicious than Horse Apples" author-id="1419" timestamp="2012-08-30 01:04:47 +0000" type="norm" dbname="box58946" last-modified-by="127" %}
 It was the second week of eighth grade, and the chubby boy had clearly made an enemy.<br/>
 "Could someone tell me an example of a radioactive element?"<br/>
 The chubby boy raised his hand to answer the question. Suddenly, a blond boy with glasses on the other side of the room blurted out without raising his hand, "Uranium!"<br/>
@@ -75,9 +75,9 @@ Suddenly a flood of oranges and apples came rolling down the road, and poured al
 Before she could finish, the machines exploded and sent the two boys flying! They landed 3 hours later in a town named Twoson. The radioactive elements had a side effect on the two: a small portion of the apple and orange DNA was fused into the boys. They are known as "Apple Kid" and "Orange Kid" to this day.<br/><br/>
 
 - Ostricho
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-29 20:06:12 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-30 01:06:12 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4512" title="Tomato Kid invented the Vodka Ketchup:" author-id="1419" timestamp="2012-08-29 20:06:17 +0500" type="norm" dbname="box39493" last-modified-by="127" %}
+{% include box-open.html box-id="4512" title="Tomato Kid invented the Vodka Ketchup" author-id="1419" timestamp="2012-08-30 01:06:17 +0000" type="norm" dbname="box39493" last-modified-by="127" %}
 Orange Kid is the definition of cool. He can walk the walk, talk the talk, and other stuff the other stuff. His crystal clear eyes were the definition of cool. A self-proclaimed genius, women are shocked at his smooth-talking, his intelligence, and his boldness. Indeed, he was the definition of perfect throughout his years. But when and how did this rise to stardom begin? Here, we will examine this, on "Reach to the Stars: Orange Kid."<p/>
 
 His rise to stardom began on his first day of school at the now renamed in his honor "Super Orange Tech" in Twoson. He was 8 at the time, and already he was showing signs of his current genius. He would boldly claim his intelligence, but he frequently got low grades, because he was too cool for homework and too cool to do his best on tests. The school officials, seeing his smarts, moved him ahead two grades.<p/>
@@ -90,4 +90,4 @@ Only time will tell what Orange Kid will bring to the scientific community, but 
 --Discovery. The world is just awesome.<p/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-29 20:07:14 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-08-30 01:07:14 +0000" last-modified-by-name="Captain Bozo" %}

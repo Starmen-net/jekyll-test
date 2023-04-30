@@ -2,9 +2,9 @@
 title: 'Game Credits: Motoo Yasuma'
 categories:
   - credits
-date: 2005-09-21 13:06:12 +0500
+date: 2005-09-21 18:06:12 +0000
 ---
-{% include box-open.html box-id="1444" title="Motoo Yasuma:" author-id="2262" timestamp="2005-09-21 13:06:12 +0500" type="norm" dbname="box21701" last-modified-by="127" %}
+{% include box-open.html box-id="1444" title="Motoo Yasuma" author-id="2262" timestamp="2005-09-21 18:06:12 +0000" type="norm" dbname="box21701" last-modified-by="127" %}
 <b>Game Credits</b>
  <UL>
     <LI><b>MOTHER/EarthBound(NES 1989) Japan Only</b><BR />
@@ -22,4 +22,4 @@ date: 2005-09-21 13:06:12 +0500
     <LI><b>Balloon Fight GB(GBC 2000)</b><BR />
     Programmer</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:21:50 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:21:50 +0000" last-modified-by-name="KingDarian" %}

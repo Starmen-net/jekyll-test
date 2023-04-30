@@ -2,9 +2,9 @@
 title: MOTHER 3 - Rumors
 categories:
   - mother3
-date: 2009-03-18 12:47:04 +0500
+date: 2009-03-18 17:47:04 +0000
 ---
-{% include box-open.html box-id="3693" title="Rumors:" author-id="2262" timestamp="2009-03-18 12:47:04 +0500" type="norm" dbname="box58896" last-modified-by="127" %}
+{% include box-open.html box-id="3693" title="Rumors" author-id="2262" timestamp="2009-03-18 17:47:04 +0000" type="norm" dbname="box58896" last-modified-by="127" %}
 Below is a listing of various rumors that are relatively wide-spread and have some potential to be true. Rumors since proved to be false are marked off.
 <BR />
 <UL>
@@ -24,4 +24,4 @@ Below is a listing of various rumors that are relatively wide-spread and have so
  <LI>Nov. 2004 - Itoi is said to have been working with developer Brownie Brown, a subsidiary company of NOJ, for some time.</LI>
  <LI>July 2004 - Itoi is supposedly 60% done with the new script for Mother 3.</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:47:19 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:47:19 +0000" last-modified-by-name="KingDarian" %}

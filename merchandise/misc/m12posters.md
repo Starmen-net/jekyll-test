@@ -2,9 +2,9 @@
 title: Mother 1+2 Posters
 categories:
   - merchandise
-date: 2005-01-03 21:00:40 +0600
+date: 2005-01-04 03:00:40 +0000
 ---
-{% include box-open.html box-id="330" title="Mother 1+2 Posters:" author-id="45" timestamp="2005-01-03 21:00:40 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="330" title="Mother 1+2 Posters" author-id="45" timestamp="2005-01-04 03:00:40 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m12_posters_title.png" border="0" alt="Mother 1+2 Posters" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-03 21:00:40 +0600
 	<br />
 	<a href="/merchandise/images/m12_posters1.jpg">Poster 1 #1</a> - <a href="/merchandise/images/m12_posters1-2.jpg">Poster 1 #2</a> - <a href="/merchandise/images/m12_posters2.jpg">Poster 2 #1</a> - 
 	<a href="/merchandise/images/m12_posters2-2.jpg">Poster 2 #2</a> - <a href="/merchandise/images/m12_posters3.jpg">Poster 3</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:00:55 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:00:55 +0000" last-modified-by-name="ShadowX" %}

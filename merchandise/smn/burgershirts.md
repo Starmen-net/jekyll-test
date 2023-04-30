@@ -2,9 +2,9 @@
 title: Burger Shirts &amp; Ringers!
 categories:
   - merchandise
-date: 2009-05-10 20:59:34 +0500
+date: 2009-05-11 01:59:34 +0000
 ---
-{% include box-open.html box-id="3734" title="Burger Shirts & Ringers!:" author-id="45" timestamp="2009-05-10 20:59:34 +0500" type="norm" dbname="box33486" last-modified-by="45" %}
+{% include box-open.html box-id="3734" title="Burger Shirts & Ringers!" author-id="45" timestamp="2009-05-11 01:59:34 +0000" type="norm" dbname="box33486" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_burgershirts_title.png" border="0" alt="Burger Shirts & Ringers!" />
 	</center>
@@ -29,4 +29,4 @@ date: 2009-05-10 20:59:34 +0500
 	<a href="/merchandise/images/smn_burgerts_red.jpg">Red</a> - <a href="/merchandise/images/smn_burgerts_royal.jpg">Royal</a> - <a href="/merchandise/images/smn_burgerts_brown.jpg">Brown</a> - 
 	<a href="/merchandise/images/smn_burgerts_kgreen.jpg">Kelly Green</a> - <a href="/merchandise/images/smn_burgerr_red.jpg">Ringer (Red)</a> - <a href="/merchandise/images/smn_burgerr_navy.jpg">Ringer (Navy)</a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 23:38:46 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-12 04:38:46 +0000" last-modified-by-name="ShadowX" %}

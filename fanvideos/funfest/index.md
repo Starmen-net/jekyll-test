@@ -2,9 +2,9 @@
 title: 'Fan Videos: Funfest Entries'
 categories:
   - fanvideos
-date: 2007-06-04 23:35:40 +0500
+date: 2007-06-05 04:35:40 +0000
 ---
-{% include box-open.html box-id="2991" title="Funfest Videos:" author-id="137" timestamp="2007-06-04 23:35:40 +0500" type="norm" dbname="box41980" last-modified-by="127" %}
+{% include box-open.html box-id="2991" title="Funfest Videos" author-id="137" timestamp="2007-06-05 04:35:40 +0000" type="norm" dbname="box41980" last-modified-by="127" %}
 <h3><u>Halloween Related</u></h3><ul class="pics">
 <li>
 		<a href="http://www.youtube.com/watch?v=WDcgNeTgkuo"><img src="http://starmen.net/fanvideos/thumbs/johncarpenter.gif" alt="John Carpenter's EB Halloween" /></a>
@@ -106,4 +106,4 @@ by <a href="http://starmen.net/forum/?t=usrinfo&id=3287">Libra</a></h3>
 	</li>
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="Jonk" last-modified-on="2008-03-01 16:07:30 +0600" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2008-03-01 22:07:30 +0000" last-modified-by-name="xfisjmg1" %}

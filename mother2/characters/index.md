@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Characters
 categories:
   - mother2
-date: 2007-07-20 10:11:48 +0500
+date: 2007-07-20 15:11:48 +0000
 ---
-{% include box-open.html box-id="3238" title="Ness:" author-id="3287" timestamp="2007-07-20 10:11:48 +0500" type="norm" dbname="box52653" last-modified-by="127" %}
+{% include box-open.html box-id="3238" title="Ness" author-id="3287" timestamp="2007-07-20 15:11:48 +0000" type="norm" dbname="box52653" last-modified-by="127" %}
 <a name="ness"></a><p>
 <img class="picleft" src="bignesspeace.PNG" />
 <div style="float: right; width: 55px; margin: 0 1em 0 0;">
@@ -41,9 +41,9 @@ Ness, a seemingly regular young boy with a tremendous aptitude for PSI, begins h
 </table><br />
 
 <p>Written by <a href="http://forum.starmen.net/members/AmateurGamer">AmateurGamer</a></p>
-{% include box-close.html author-name="Libra" last-modified-on="2013-04-19 01:43:40 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="Libra" last-modified-on="2013-04-19 06:43:40 +0000" last-modified-by-name="NorthofOnett" %}
 
-{% include box-open.html box-id="4403" title="Paula:" author-id="17505" timestamp="2012-04-10 17:06:51 +0500" type="norm" dbname="box28208" last-modified-by="127" %}
+{% include box-open.html box-id="4403" title="Paula" author-id="17505" timestamp="2012-04-10 22:06:51 +0000" type="norm" dbname="box28208" last-modified-by="127" %}
 <a name="paula"></a><p>
 <img class="picleft" src="bigpaula.PNG" />
 <div style="float: right; width: 55px; margin: 0 1em 0 0;">
@@ -55,9 +55,9 @@ Although she is quick with a bash from her non-stick fry pan, her real strength 
 <br />
 Out of battle, Paula’s psychic abilities are able to help out Ness and co. as well.  She was able to speak to Ness via telepathy during his journey to Twoson in order to let him know where to find her. Another unique ability of hers is the pray command.  When used in battle, a prayer can sometimes turn a hopeless situation into a stunning victory by making an enemy feel strange or by  healing the entire party if you’re lucky. 
 </p>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-10 17:31:48 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-10 22:31:48 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4404" title="Jeff:" author-id="17505" timestamp="2012-04-10 17:06:54 +0500" type="norm" dbname="box58827" last-modified-by="127" %}
+{% include box-open.html box-id="4404" title="Jeff" author-id="17505" timestamp="2012-04-10 22:06:54 +0000" type="norm" dbname="box58827" last-modified-by="127" %}
 <a name="jeff"></a><p>
 <img class="picleft" src="bigjeff.PNG" />
 <div style="float: right; width: 55px; margin: 0 1em 0 0;">
@@ -68,9 +68,9 @@ Jeff Andonuts hails from the northern country of Winters.  The genius son of fam
 Jeff is a character with hardly any bark, but a lot of bite.  He’s self-admittedly shy, pretty quiet, and doesn’t have any of the psychic abilities of the other party members but he makes up for it with his unparalleled mechanical genius and big guns.  Although he can’t use psychic attacks, he has access to a large number of weapon items that no one else can handle such as bottle rockets, bazookas, HP suckers, and laser guns.  In addition to being able to operate these heavy munitions, Jeff also has the ability to fix certain broken items you will come across during your adventure. These fixed items cannot be purchased in any shops and often have very powerful and unique effects.  Who needs PSI Fire when you have a Death Ray?<br />
 <br />
 During battle Jeff has the exclusive ability to spy on an enemy.  The spy command allows Jeff to determine many of the opponent’s physical statistics (such as offense and defense) as well as any weaknesses it might have to certain PSI attacks. If he’s lucky, Jeff might even find an item the enemy was hiding and immediately add it to his inventory.</p>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-10 17:31:56 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-10 22:31:56 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="4405" title="Poo:" author-id="17505" timestamp="2012-04-10 17:06:56 +0500" type="norm" dbname="box44591" last-modified-by="127" %}
+{% include box-open.html box-id="4405" title="Poo" author-id="17505" timestamp="2012-04-10 22:06:56 +0000" type="norm" dbname="box44591" last-modified-by="127" %}
 <a name="poo"></a><p>
 <img class="picleft" src="bigpoo.PNG" />
 <div style="float: right; width: 55px; margin: 0 1em 0 0;">
@@ -81,4 +81,4 @@ Our final hero is the esteemed Prince Poo of Dalaam.  He makes his home in the D
 Poo has a number of interesting attributes that are exclusive to his character when he joins the party.  Since he was raised in an area with very different culinary techniques, Poo doesn’t enjoy western food all that much and therefore only gains a small amount of HP when he eats it.  However, there are a few food items that are especially beneficial to him so don’t worry.  Another exclusive facet is his mysterious power to mirror an enemy during battle.  Supposedly learned during his Mu training, Poo has the ability to take a deep breath and assume the form of an opponent.  During this metamorphosis, Poo is not in control of his own actions and will fight with the ability and strength of his target.<br />
 <br />
 During their quest Poo will demonstrate no less than 27 psychic abilities.  Although he shares some of the same skills as Ness and Paula, he does have a number of attacks that are distinctive such as the Brain Shock ability.  PSI Starstorm is Poo’s ultimate attack however.  The Starstorm is unique in that it is not realized by leveling up like other psychic powers, instead, an elderly man known only as the Star Master will visit the party every so often to pass along this power to Prince Poo.  The final form of this attack is arguably the most powerful in the game rivaled only by Ness’s PSI Rockin’ Omega.</p>
-{% include box-close.html author-name="METC" last-modified-on="2012-04-10 17:32:05 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-10 22:32:05 +0000" last-modified-by-name="METC" %}

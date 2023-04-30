@@ -2,9 +2,9 @@
 title: Brain Shock
 categories:
   - merchandise
-date: 2007-04-21 18:38:20 +0500
+date: 2007-04-21 23:38:20 +0000
 ---
-{% include box-open.html box-id="2871" title="Brain Shock:" author-id="45" timestamp="2007-04-21 18:38:20 +0500" type="norm" dbname="box10693" last-modified-by="45" %}
+{% include box-open.html box-id="2871" title="Brain Shock" author-id="45" timestamp="2007-04-21 23:38:20 +0000" type="norm" dbname="box10693" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3brainshock_title.jpg" border="0" alt="Mother 3 Brain Shock" />
 	</center>
@@ -31,4 +31,4 @@ date: 2007-04-21 18:38:20 +0500
 	<br />
 	<a href="/merchandise/images/m3brainshock_front.jpg">Front</a> - <a href="/merchandise/images/m3brainshock_back.jpg">Back</a> - <a href="/merchandise/images/m3brainshock_p05.jpg">Page 05</a> - 
 	<a href="/merchandise/images/m3brainshock_p12.jpg">Page 12</a> - <a href="/merchandise/images/m3brainshock_p22.jpg">Page 22</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 20:30:29 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-22 01:30:29 +0000" last-modified-by-name="ShadowX" %}

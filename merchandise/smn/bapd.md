@@ -2,9 +2,9 @@
 title: 'BOING: Aerophase Distortions: Sticker'
 categories:
   - merchandise
-date: 2005-01-04 01:25:06 +0600
+date: 2005-01-04 07:25:06 +0000
 ---
-{% include box-open.html box-id="444" title="BOING: Aerophase Distortions: Sticker:" author-id="45" timestamp="2005-01-04 01:25:06 +0600" type="norm" dbname="box3325" last-modified-by="45" %}
+{% include box-open.html box-id="444" title="BOING: Aerophase Distortions: Sticker" author-id="45" timestamp="2005-01-04 07:25:06 +0000" type="norm" dbname="box3325" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_bapd_title.jpg" border="0" alt="BOING: Aerophase Distortions: Sticker" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-04 01:25:06 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_bapd_sticker.jpg">Sticker</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-11-01 18:58:44 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-11-02 00:58:44 +0000" last-modified-by-name="ShadowX" %}

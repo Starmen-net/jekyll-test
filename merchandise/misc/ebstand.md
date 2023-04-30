@@ -2,9 +2,9 @@
 title: EarthBound Cardboard Stand
 categories:
   - merchandise
-date: 2005-01-03 21:10:39 +0600
+date: 2005-01-04 03:10:39 +0000
 ---
-{% include box-open.html box-id="339" title="EarthBound Cardboard Stand:" author-id="45" timestamp="2005-01-03 21:10:39 +0600" type="norm" dbname="box14357" last-modified-by="127" %}
+{% include box-open.html box-id="339" title="EarthBound Cardboard Stand" author-id="45" timestamp="2005-01-04 03:10:39 +0000" type="norm" dbname="box14357" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ebstand_title.jpg" border="0" alt="EarthBound Cardboard Stand" />
 	</center>
@@ -34,4 +34,4 @@ date: 2005-01-03 21:10:39 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/ebstand.jpg">Stand</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:16:49 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:16:49 +0000" last-modified-by-name="Tomato" %}

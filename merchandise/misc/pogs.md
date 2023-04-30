@@ -2,9 +2,9 @@
 title: EarthBound Pogs
 categories:
   - merchandise
-date: 2005-01-03 20:42:37 +0600
+date: 2005-01-04 02:42:37 +0000
 ---
-{% include box-open.html box-id="315" title="EarthBound Pogs:" author-id="45" timestamp="2005-01-03 20:42:37 +0600" type="norm" dbname="box49986" last-modified-by="127" %}
+{% include box-open.html box-id="315" title="EarthBound Pogs" author-id="45" timestamp="2005-01-04 02:42:37 +0000" type="norm" dbname="box49986" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ebpogs_title.jpg" border="0" alt="EarthBound Pogs" />
 	</center>
@@ -29,4 +29,4 @@ date: 2005-01-03 20:42:37 +0600
 	Thanks to <a href="/cgi-bin/contacts/contact.cgi?Unicron">Unicron</a> and 
 	<a href="mailto:GotARiverFenixEP@aol.com">GotARiverFenixEP</a> and 
 	<a href="mailto:BensonBJ2M@msn.com">Matt Benson</a> for sending in pictures.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:23:58 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:23:58 +0000" last-modified-by-name="Tomato" %}

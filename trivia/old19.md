@@ -2,9 +2,9 @@
 title: EarthBound Trivia - Archive 19
 categories:
   - trivia
-date: 2006-03-27 01:29:41 +0600
+date: 2006-03-27 07:29:41 +0000
 ---
-{% include box-open.html box-id="2140" title="Weekset 197 - Theme Week HARD:" author-id="9" timestamp="2006-03-27 01:29:41 +0600" type="norm" dbname="box23616" last-modified-by="9" %}
+{% include box-open.html box-id="2140" title="Weekset 197 - Theme Week HARD" author-id="9" timestamp="2006-03-27 07:29:41 +0000" type="norm" dbname="box23616" last-modified-by="9" %}
 <p>Welcome to Theme Week Period Of Non-Predetermined Length!  This week's theme was HARD questions.</p>
 
 <p>	<b>Which is the HARDest Your Sanctuary guardian?  (Think about it!)</b>  The HARDest Your Sanctuary guardian is Diamond Dog, because, heck, he's diamond, and diamond's pretty much the hardest thing there is.  Carbon Dog doesn't count, because he isn't diamond.<br />
@@ -14,9 +14,9 @@ date: 2006-03-27 01:29:41 +0600
 	<b>Which boss is the HARDest to lose to?</b>  The answer is, of course, Starman Junior.  Because you <i>can't</i>.</p>
 
 <p>This week, we saw 5/5 runs by 1up_clock, Aeon, Archon Divinus, Artemis251, bluegoo26, Bowser, bstring, CodPor, Cyan683, darklink570, Denn, Dr. Baconman, EB0und, epoch, Eternal Jade, flyguy, FoppyKing, Goggles, Gyroman, incendio, Incoherent Moron, Jake Roe, JeffMan, Libra, PoeTrader, poik007, Ravenshaw, Seifer, Seth Gastelum, SimonBob, Sonic 65, Spam_Man, Strawberry Tofu, Tanooki Mario and zozo.  Wow, that's a lot!</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:31:37 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:31:37 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2171" title="Weekset 198 - Theme Week Hungry:" author-id="9" timestamp="2006-04-03 02:46:19 +0500" type="norm" dbname="box36931" last-modified-by="9" %}
+{% include box-open.html box-id="2171" title="Weekset 198 - Theme Week Hungry" author-id="9" timestamp="2006-04-03 07:46:19 +0000" type="norm" dbname="box36931" last-modified-by="9" %}
 <p>This was Theme Week Hungry.</p>
 
 <p>	<b>What are the four types of sandwich that can be eaten throughout the game?</b>  You've got your Lucky, your Skip, your Skip DX, and your Clumsy Robots have their bologne.<br />
@@ -26,9 +26,9 @@ date: 2006-03-27 01:29:41 +0600
 	<b>How does a certain bread-seller add "flavour" (sic) to his or her pastries?</b>  By leaving the pastries outside, flies land on them.</p>
 
 <p>Congratulations to Artemis251, BCKrogoth, CodPor, Cyan683, EarthBrent, hey, Radiation, Ravenshaw, and SimonBob.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:31:29 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:31:29 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2223" title="Weekset 199 - Theme Week Five Elements:" author-id="9" timestamp="2006-04-10 01:34:46 +0500" type="norm" dbname="box35260" last-modified-by="9" %}
+{% include box-open.html box-id="2223" title="Weekset 199 - Theme Week Five Elements" author-id="9" timestamp="2006-04-10 06:34:46 +0000" type="norm" dbname="box35260" last-modified-by="9" %}
 <p>This was Theme Week Five Chinese Elements.</p>
 
 <p>	<b>What's the only Fire Springs non-boss enemy that isn't exactly a "Fire" type?</b>  The Evil Elemental.  The others are all rather flaming.<br />
@@ -38,9 +38,9 @@ date: 2006-03-27 01:29:41 +0600
 	<b>What are two of the four times in the game when unceremonious fallings-to-the-ground from the sky are either shown or implied?</b>  In rough order of occurrence: Onett meteorite, Sky Runner crash #1, Helicopter into Deep Darkness, Sky Runner crash #2.</p>
 
 <p>Congratulations are in order for: Aeon, Artemis251, bluegoo26, Box of Dragonite, Goggles, Nazz DX, Radiation, Seifer.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:31:51 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:31:51 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2235" title="Weekset 200 - Theme Week Bosses:" author-id="9" timestamp="2006-04-17 01:40:33 +0500" type="norm" dbname="box22422" last-modified-by="9" %}
+{% include box-open.html box-id="2235" title="Weekset 200 - Theme Week Bosses" author-id="9" timestamp="2006-04-17 06:40:33 +0000" type="norm" dbname="box22422" last-modified-by="9" %}
 <p>Wow, over four years of Trivia!  (Allowing for vacation breaks, computer downtime, and extended weeksets for other reasons, of course.)<br />
 This was Theme Week Bosses.</p>
 
@@ -51,9 +51,9 @@ This was Theme Week Bosses.</p>
 	<b>How does a disgruntled employee in Onett City Hall intend to show his displeasure at his employers?  (snicker, snort)</b>  He plans on taking his time in signing a paper.</p>
 
 <p>Congratulations to: Aeon, bluegoo26, CodPor, collater333, Cyan683, DDR Paladin, EB Player 1028, Jeff of Dalaam, Meredith_Richtore, PSI322, Strawberry Tofu, The Losar.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:32:02 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:32:02 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2251" title="Weekset 201 - Theme Week Followers:" author-id="9" timestamp="2006-04-24 01:22:12 +0500" type="norm" dbname="box65458" last-modified-by="9" %}
+{% include box-open.html box-id="2251" title="Weekset 201 - Theme Week Followers" author-id="9" timestamp="2006-04-24 06:22:12 +0000" type="norm" dbname="box65458" last-modified-by="9" %}
 <p>This was Theme Week Followers.</p>
 
 <p>	<b>When he joins you, how does Pokey say he'll be following you?</b>  He'll be following at a safe distance.<br />
@@ -63,9 +63,9 @@ This was Theme Week Bosses.</p>
 	<b>Does the black-and-white flashback Ness has before he goes to Magicant always immediately follow the acquisition of the Fire Springs melody?</b>  No, no, a thousand times no!  Some people took this more literally than others, but "No" is correct.  In my sense of immediately, at least for this question, (which means "not necessarily temporally adjacent, but at least sufficiently soon after that you didn't leave and go elsewhere") it only immediately follows the acquisition if Fire Springs was the last melody you acquired.</p>
 
 <p>Congratulations to: Artemis251, billybobfred, bstring, Caleb Potter, CodPor, Cyan683, epoch, JeffMan, Jeff of Dalaam, Nearsighted Orange, SimonBob, Vyenpakapaka.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:32:14 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:32:14 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2258" title="Weekset 202 - Theme Week Countdown:" author-id="9" timestamp="2006-05-01 02:12:18 +0500" type="norm" dbname="box15406" last-modified-by="9" %}
+{% include box-open.html box-id="2258" title="Weekset 202 - Theme Week Countdown" author-id="9" timestamp="2006-05-01 07:12:18 +0000" type="norm" dbname="box15406" last-modified-by="9" %}
 <p>Theme Week Countdown, coming at you!  During this theme week, Mother 3 was released, hence the theme.</p>
 
 <p>	<b>What are the battles you fight in the longest sequence of (immediately consecutive) battles that you have to fight?  (Hint: immediately should be associated with "Wow, I didn't move an inch and I'm already in another battle!" here.)</b>  These would be the four Cops and Captain Strong all the way back in Onett.<br />
@@ -77,9 +77,9 @@ This was Theme Week Bosses.</p>
 <p><b>Bonus (not for credit): Rounded down to the nearest whole number (e.g. 3.9999 is rounded down to 3, 4.0 is rounded down to 4), what's the probability I lied some time in the last week?</b>  1.  I said that Theme Week Followers would be the last Theme Week for a while, but even this week was a Theme Week.  Therefore I lied, and the probability I lied some time in the last week was 1.</p>
 
 <p>Because of the difficulty of various questions, only Andrew, Strawberry Tofu, and WolFox won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:32:27 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:32:27 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2273" title="Weekset 203 - Theme Week 3:" author-id="9" timestamp="2006-05-08 00:37:53 +0500" type="norm" dbname="box32355" last-modified-by="9" %}
+{% include box-open.html box-id="2273" title="Weekset 203 - Theme Week 3" author-id="9" timestamp="2006-05-08 05:37:53 +0000" type="norm" dbname="box32355" last-modified-by="9" %}
 <p>To celebrate the long-awaited release of Mother 3, it's Theme Week 3!</p>
 
 <p>	<b>In what building is the nearest telephone to the enemies who are most stereotypically identified with the number "three"?</b>  These enemies are the Guardian Diggers (with their trisphilia).  Therefore the building would be the Montagues' shack.<br />
@@ -89,9 +89,9 @@ This was Theme Week Bosses.</p>
 	<b>In what city is Mother 3 (or, in Yankeespeak, EarthBound 2) mentioned?</b>  Fourside.</p>
 
 <p>I'd like to congratulate: Aeon, bstring, CodPor, darklink570, Goplat, hlavco, Jorel Batson, leth, Libra, The Losar, Scott Dumblauskas, SimonBob, Triple10X, and Zatham.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:32:36 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:32:36 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2319" title="Weekset 204 - Almost Common Bonds:" author-id="9" timestamp="2006-05-15 00:30:57 +0500" type="norm" dbname="box12870" last-modified-by="9" %}
+{% include box-open.html box-id="2319" title="Weekset 204 - Almost Common Bonds" author-id="9" timestamp="2006-05-15 05:30:57 +0000" type="norm" dbname="box12870" last-modified-by="9" %}
 <p>This was Theme Week Almost Common Bonds.  That is, the questions all had to do with a group of things that almost all had something in common.</p>
 
 <p>	<b><i>Name</i> the reason why of all the (n+1) characters whose in-battle actions you can control (in any of the three games), Pippi is most unlike the other (n) characters.  (Hint: Read this question carefully; it'll help a lot in <i>naming</i> the reason.  You don't even need to have played Mother 3 to <i>name</i> the reason.)</b>  You name Ninten, you name Lloyd, you name Ana, you name Teddy, Ness, Paula, Jeff, Poo, [names of Mother 3 characters all redacted].  But you don't name Pippi.<br />
@@ -101,9 +101,9 @@ This was Theme Week Bosses.</p>
 	<b>Where is the only optional eraseable statue in EarthBound?</b>  It's in Winters, near the southerly exit to Brick Road's first maze.</p>
 
 <p>This week, CodPor, Dragonfire, FoppyKing, Kine, Radiation, SimonBob, STAREYe, Super Starman Deluxe, and WhoopA won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 00:33:42 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-15 05:33:42 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2336" title="Weekset 205 - Fight Club:" author-id="9" timestamp="2006-05-22 01:53:42 +0500" type="norm" dbname="box22262" last-modified-by="9" %}
+{% include box-open.html box-id="2336" title="Weekset 205 - Fight Club" author-id="9" timestamp="2006-05-22 06:53:42 +0000" type="norm" dbname="box22262" last-modified-by="9" %}
 <p>This was Theme Week Fight Club.</p>
 
 <p>	<b>Speaking generically (i.e., 'bat', 'fry pan'), what can Poo equip as a weapon?</b>  Slingshots, yo-yos and swords.  (Oh my!)<br />
@@ -113,9 +113,9 @@ This was Theme Week Bosses.</p>
 	<b>What is one of the two things that Jeff fixes throughout the game which can never be used in a fight?  (Hey, but for the number of answers, this could've gone last week!  Hint: both are also never in your inventory.)</b>  These would be the Sky <s>Walker</s> Runner and the yellow submarine.</p>
 
 <p>Thank you and congratulate DDR Paladin, billybobfred, bstring, kidbond, Ninten1, CodPor, Cyan683, incendio, Radiation, Jeff Erbrecht, Lord Bob Bree, Faolan, epoch, nekoaitsu, Scott Dumblauskas, T23M, The Losar, DJ Gear, and WhoopA.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-22 01:55:05 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-22 06:55:05 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2364" title="Weekset 206 - Smash Brothers:" author-id="9" timestamp="2006-05-29 01:36:13 +0500" type="norm" dbname="box60494" last-modified-by="9" %}
+{% include box-open.html box-id="2364" title="Weekset 206 - Smash Brothers" author-id="9" timestamp="2006-05-29 06:36:13 +0000" type="norm" dbname="box60494" last-modified-by="9" %}
 <p>This was Theme Week Smash Brothers.</p>
 
 <p>	<b>What's the first enemy you encounter that can (with relative frequency) hit you with SMAAAASH attacks?</b>  The Rowdy Mouse, which can often get a SMAAAASH rate of every other hit.<br />
@@ -125,4 +125,4 @@ This was Theme Week Bosses.</p>
 	<b>Which two characters have Don't Care names of Mario and Luigi in Mother 2?  (Note: it's not that hard.  You don't need to Google this one.)</b>  Ness (Mario) and Jeff (Luigi).</p>
 
 <p>Congratulate: WolFox, Salookanana, Bluegoo26, Super Starman Deluxe, Goggles, Plarplethingie, JeffMan, LeChimp, Seifer, nekoaitsu, notalentjew, Matthew, Jeff of Dalaam, The Losar, Giegue, Tails98, Tanooki Mario.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-29 01:39:05 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-05-29 06:39:05 +0000" last-modified-by-name="Anthadd" %}

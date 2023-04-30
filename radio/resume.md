@@ -2,9 +2,9 @@
 title: STARMEN.NET - RADIO - WE&#039;RE HIRING!
 categories:
   - radio
-date: 2007-10-09 19:44:34 +0500
+date: 2007-10-10 00:44:34 +0000
 ---
-{% include box-open.html box-id="3295" title="THE HIRING STATEMENTS!!:" author-id="247" timestamp="2007-10-09 19:44:34 +0500" type="norm" dbname="box3929" last-modified-by="127" %}
+{% include box-open.html box-id="3295" title="THE HIRING STATEMENTS!!" author-id="247" timestamp="2007-10-10 00:44:34 +0000" type="norm" dbname="box3929" last-modified-by="127" %}
 <p>
 Radio PSI is hiring! And now is the time to show you have what it takes to rock faces off and please the listeners with your soothing DJ voice. These deliciously awesome slots will be 6 PM to 8 PM, Eastern time, Monday through Thursday. In addition, Starmen.net will neither archive nor host these shows due to what would be a shockingly large increase in Radio PSI's usage of webspace. The resume to send in is below, but take into account what's to be expected of you as a DJ.
 </p>
@@ -36,9 +36,9 @@ Finally, bear in mind these two very important notes:
 1. THIS RESUME IS FOR MONDAY-THURSDAY NIGHTS BETWEEN 6 PM AND 8 PM, EASTERN TIME. IF YOU ARE UNABLE TO DO A SHOW DURING THIS TIME, DON'T SIGN UP!<BR /><BR />
 
 2. THESE SHOWS WILL [b]NOT[/b] BE AUTOMATICALLY ARCHIVED!  STARMEN.NET WILL NEITHER ARCHIVE NOR HOST THESE WEEKDAY SHOWS.  EXPECT TO ARCHIVE AND HOST BY YOUR OWN MEANS.
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-10-09 19:53:04 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-10-10 00:53:04 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="3296" title="THE ACTUAL RESUME!!:" author-id="247" timestamp="2007-10-09 19:53:07 +0500" type="norm" dbname="box41481" last-modified-by="127" %}
+{% include box-open.html box-id="3296" title="THE ACTUAL RESUME!!" author-id="247" timestamp="2007-10-10 00:53:07 +0000" type="norm" dbname="box41481" last-modified-by="127" %}
 <p>
 Name (or Internet Monkier):
 </p>
@@ -78,4 +78,4 @@ In addition, you are expected to record a 30-minute demo broadcast by your own m
 <p>
 Send everything to Mansion Maniac via e-mail at DJMathyz[AT]GMail[DOT]com, make sure the subject reads "Radio PSI Resume".
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-10-09 19:55:41 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-10-10 00:55:41 +0000" last-modified-by-name="Mansion Maniac" %}

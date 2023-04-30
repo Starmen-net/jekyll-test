@@ -2,9 +2,9 @@
 title: Strategy Guides
 categories:
   - merchandise
-date: 2005-01-03 19:41:30 +0600
+date: 2005-01-04 01:41:30 +0000
 ---
-{% include box-open.html box-id="285" title="EarthBound Strategy Guides:" author-id="45" timestamp="2005-01-03 19:41:30 +0600" type="norm" dbname="box41968" last-modified-by="45" %}
+{% include box-open.html box-id="285" title="EarthBound Strategy Guides" author-id="45" timestamp="2005-01-04 01:41:30 +0000" type="norm" dbname="box41968" last-modified-by="45" %}
 <table1 />
 
 	<a href="ebpg.php">EarthBound Player's Guide</a><br />
@@ -14,9 +14,9 @@ date: 2005-01-03 19:41:30 +0600
 	06/01/01<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 15:56:47 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 21:56:47 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2794" title="Mother Strategy Guides:" author-id="45" timestamp="2007-01-20 15:56:54 +0600" type="norm" dbname="box33073" last-modified-by="45" %}
+{% include box-open.html box-id="2794" title="Mother Strategy Guides" author-id="45" timestamp="2007-01-20 21:56:54 +0000" type="norm" dbname="box33073" last-modified-by="45" %}
 <table1 />
 
         <a href="everythingom.php">Everything of Mother 1</a><br />
@@ -54,9 +54,9 @@ date: 2005-01-03 19:41:30 +0600
 	06/24/01<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-22 08:48:44 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-22 14:48:44 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2795" title="Mother 2 Strategy Guides:" author-id="45" timestamp="2007-01-20 15:56:56 +0600" type="norm" dbname="box29268" last-modified-by="45" %}
+{% include box-open.html box-id="2795" title="Mother 2 Strategy Guides" author-id="45" timestamp="2007-01-20 21:56:56 +0000" type="norm" dbname="box29268" last-modified-by="45" %}
 <table1 />
 
         <a href="everythingom2.php">Everything of Mother 2</a><br />
@@ -82,9 +82,9 @@ date: 2005-01-03 19:41:30 +0600
 	02/20/02<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 15:59:00 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 21:59:00 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2796" title="Mother 1+2 Strategy Guides:" author-id="45" timestamp="2007-01-20 15:56:57 +0600" type="norm" dbname="box21641" last-modified-by="45" %}
+{% include box-open.html box-id="2796" title="Mother 1+2 Strategy Guides" author-id="45" timestamp="2007-01-20 21:56:57 +0000" type="norm" dbname="box21641" last-modified-by="45" %}
 <table1 />
 
 	<a href="m12gb.php">Mother 1+2 Guidebook</a><br />
@@ -96,9 +96,9 @@ date: 2005-01-03 19:41:30 +0600
 	03/19/04<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 15:58:50 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 21:58:50 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2912" title="Mother 3 Strategy Guides:" author-id="45" timestamp="2007-05-25 23:52:29 +0500" type="norm" dbname="box15748" last-modified-by="45" %}
+{% include box-open.html box-id="2912" title="Mother 3 Strategy Guides" author-id="45" timestamp="2007-05-26 04:52:29 +0000" type="norm" dbname="box15748" last-modified-by="45" %}
 <table1 />
 
 	<a href="m3complete.php">Mother 3 Complete Guidebook</a><br />
@@ -112,4 +112,4 @@ date: 2005-01-03 19:41:30 +0600
 	05/26/07<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-05-25 23:52:57 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-05-26 04:52:57 +0000" last-modified-by-name="ShadowX" %}

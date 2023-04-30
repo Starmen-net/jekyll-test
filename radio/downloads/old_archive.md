@@ -2,9 +2,9 @@
 title: RADIO PSI - DOWNLOADS
 categories:
   - radio
-date: 2005-04-03 23:48:43 +0500
+date: 2005-04-04 04:48:43 +0000
 ---
-{% include box-open.html box-id="896" title="Downloadables!:" author-id="142" timestamp="2005-04-03 23:48:43 +0500" type="norm" dbname="box48779" last-modified-by="127" %}
+{% include box-open.html box-id="896" title="Downloadables!" author-id="142" timestamp="2005-04-04 04:48:43 +0000" type="norm" dbname="box48779" last-modified-by="127" %}
 <p>
 Downloads are available for a number of shows that the DJs have done for Radio PSI! (A large number of shows are, unfortunately missing.) Click a link below to open a new page full of downloadable archives from your favorite DJ! Archives are added to these lists noon Eastern, the day after broadcast.
 </p><BR />
@@ -46,4 +46,4 @@ DJ Fly-Boi Mathyz archives are no longer available<BR />
 <p>
 A big thanks to Cyan/DJ Mon for having done a big part of getting the archives to auto-update! And a big thanks too to Jeff's Radio, who had kept archives while we, the DJs, were lazy. :)
 </p><BR />
-{% include box-close.html author-name="Sephy" last-modified-on="2012-10-16 11:39:34 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="Sephy" last-modified-on="2012-10-16 16:39:34 +0000" last-modified-by-name="cyan683" %}

@@ -2,9 +2,9 @@
 title: 'Game Credits: Takashi Watanabe'
 categories:
   - credits
-date: 2008-06-08 23:18:14 +0500
+date: 2008-06-09 04:18:14 +0000
 ---
-{% include box-open.html box-id="3445" title="Takashi Watanabe:" author-id="2262" timestamp="2008-06-08 23:18:14 +0500" type="norm" dbname="box34137" last-modified-by="127" %}
+{% include box-open.html box-id="3445" title="Takashi Watanabe" author-id="2262" timestamp="2008-06-09 04:18:14 +0000" type="norm" dbname="box34137" last-modified-by="127" %}
 <b>Game Credits</b>
 
 <UL>
@@ -40,4 +40,4 @@ Motorcycle Modeling</LI>
 Sound Effects</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 23:35:24 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-09 04:35:24 +0000" last-modified-by-name="KingDarian" %}

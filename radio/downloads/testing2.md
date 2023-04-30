@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - radio
-date: 2012-10-19 13:48:54 +0500
+date: 2012-10-19 18:48:54 +0000
 ---
-{% include box-open.html box-id="4563" title="testing part 2:" author-id="5884" timestamp="2012-10-19 13:48:54 +0500" type="norm" dbname="box20658" last-modified-by="127" %}
+{% include box-open.html box-id="4563" title="testing part 2" author-id="5884" timestamp="2012-10-19 18:48:54 +0000" type="norm" dbname="box20658" last-modified-by="127" %}
 Downloads are available for a number of shows that the DJs have done for Radio PSI! (A large number of shows are, unfortunately, missing.) Click a link below to open a new page full of downloadable archives from your favorite DJ! Archives are added to these lists noon Eastern, the day after broadcast.
 
 <br /><br />Load archives for:
@@ -71,4 +71,4 @@ document.getElementById('djList').innerHTML=(newHTML);
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-22 15:49:53 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-22 20:49:53 +0000" last-modified-by-name="cyan683" %}

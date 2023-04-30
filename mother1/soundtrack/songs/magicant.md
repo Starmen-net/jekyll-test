@@ -2,9 +2,9 @@
 title: Magicant &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-24 21:21:14 +0600
+date: 2010-11-25 03:21:14 +0000
 ---
-{% include box-open.html box-id="3922" title="Production Credits:" author-id="307" timestamp="2010-11-24 21:21:14 +0600" type="norm" dbname="box41169" last-modified-by="127" %}
+{% include box-open.html box-id="3922" title="Production Credits" author-id="307" timestamp="2010-11-25 03:21:14 +0000" type="norm" dbname="box41169" last-modified-by="127" %}
 MAGICANT (INST.)
 
 <table>
@@ -26,4 +26,4 @@ MAGICANT (INST.)
 TAKAZUMI KUNITOMO</td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:22:59 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:22:59 +0000" last-modified-by-name="LiarXAgerate" %}

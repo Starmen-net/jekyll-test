@@ -2,9 +2,9 @@
 title: Theories - Current Tallies
 categories:
   - articles
-date: 2014-03-10 14:40:28 +0500
+date: 2014-03-10 19:40:28 +0000
 ---
-{% include box-open.html box-id="4702" title="Current Theory Prompt Submission Counts:" author-id="24629" timestamp="2014-03-10 14:40:28 +0500" type="norm" dbname="box28452" last-modified-by="127" %}
+{% include box-open.html box-id="4702" title="Current Theory Prompt Submission Counts" author-id="24629" timestamp="2014-03-10 19:40:28 +0000" type="norm" dbname="box28452" last-modified-by="127" %}
 <p>*includes only submissions from October 2011 and later</p>
 <p>Anyone to reach <i>ten</i> submissions will receive this <img src="/articles/theories/Giygas_Theory_Badge.png" alt="Giygas Badge" title="Big Mac?"/> fantastic badge!</p>
 
@@ -139,4 +139,4 @@ date: 2014-03-10 14:40:28 +0500
 <tr><td>Ziggyhacks</td><td>2</td></tr>
 <tr><td>zoinkstation</td><td>2</td></tr>
 </table>
-{% include box-close.html author-name="J_Spade" last-modified-on="2016-09-29 12:37:12 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="J_Spade" last-modified-on="2016-09-29 17:37:12 +0000" last-modified-by-name="J_Spade" %}

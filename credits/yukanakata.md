@@ -2,9 +2,9 @@
 title: 'Game Credits: Yuka Nakata'
 categories:
   - credits
-date: 2005-09-21 19:19:43 +0500
+date: 2005-09-22 00:19:43 +0000
 ---
-{% include box-open.html box-id="1458" title="Yuka Nakata:" author-id="2262" timestamp="2005-09-21 19:19:43 +0500" type="norm" dbname="box51715" last-modified-by="127" %}
+{% include box-open.html box-id="1458" title="Yuka Nakata" author-id="2262" timestamp="2005-09-22 00:19:43 +0000" type="norm" dbname="box51715" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 <LI><b>MOTHER/EarthBound(NES 1989) Japan Only</b><BR />
@@ -29,4 +29,4 @@ North American Localization</LI>
 <LI><b>MOTHER 2/EarthBound(SNES 1994/1995)</b><BR />
 Translator</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 19:47:53 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 00:47:53 +0000" last-modified-by-name="KingDarian" %}

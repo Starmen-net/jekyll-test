@@ -2,13 +2,13 @@
 title: Theories - Slot Brothers
 categories:
   - articles
-date: 2012-07-12 14:02:07 +0500
+date: 2012-07-12 19:02:07 +0000
 ---
-{% include box-open.html box-id="4483" title="Theories topic for the week of June 27 - July 11, 2012:" author-id="1419" timestamp="2012-07-12 14:02:07 +0500" type="norm" dbname="box41906" last-modified-by="127" %}
+{% include box-open.html box-id="4483" title="Theories topic for the week of June 27 - July 11, 2012" author-id="1419" timestamp="2012-07-12 19:02:07 +0000" type="norm" dbname="box41906" last-modified-by="127" %}
 <center>What is the story of the Slot Brothers in Dusty Dunes Desert?</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-12 14:03:11 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-12 19:03:11 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4484" title="Theory of the Week:" author-id="1419" timestamp="2012-07-12 14:03:13 +0500" type="norm" dbname="box49381" last-modified-by="127" %}
+{% include box-open.html box-id="4484" title="Theory of the Week" author-id="1419" timestamp="2012-07-12 19:03:13 +0000" type="norm" dbname="box49381" last-modified-by="127" %}
 It happened many years ago, back when the Sanchez Brothers were young and golden; the proud owners of their very own casino, specializing in the long-time favorite: slot machines. Your parents might remember these days-- that is, if they grew up in Onett. These days were a simpler time, when schoolchildren enjoyed the innocent fun of dropping a quarter in a machine, hoping to win themselves a can of fruit juice, or maybe even a Skip Sandwich. Perhaps it was the captivating simplicity of it all that attracted such large crowds to the Sanchez Brothers casino…<p/>
 
 But one day, everything changed. New technology was beginning to engulf Eagleland into a new era, an era in which slot machines were becoming an outdated form of amusement, and consumers craved something more… interactive. Pancho and Pincho Sanchez just couldn’t compete; business plummeted, sales dropped, and soon the two young men were evicted from their building, in favor of what would become a much more successful video game arcade. Nearly all of their slot machines, once beloved by the public, were uprooted, incinerated, and buried in the Dusty Dunes Desert. The humble Sanchez Brothers had been utterly crushed by the new market in entertainment, leaving them homeless, poverty-stricken, and demoralized. They had spent the last of their money to buy back just one single slot machine, in a fruitless effort to keep their dream alive. But alas, it was broken, and so were the hearts of the unfortunate Sanchez Brothers.<p/>
@@ -23,9 +23,9 @@ Pancho and Pincho Sanchez spent many years as drifters, dragging around their la
 THE END<p/>
 
 - AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-12 14:09:47 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-12 19:09:47 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4485" title="LOOK OUT HERMANO:" author-id="1419" timestamp="2012-07-12 14:07:56 +0500" type="norm" dbname="box36668" last-modified-by="127" %}
+{% include box-open.html box-id="4485" title="LOOK OUT HERMANO" author-id="1419" timestamp="2012-07-12 19:07:56 +0000" type="norm" dbname="box36668" last-modified-by="127" %}
 The desert was hotter than a baked Mach Pizza. The desert coyotes howled like a church choir; ironically, it was Sunday. Not a very blessed one, however.<br/>
 Three brothers roamed the wastleland, with a fresh sandstorm blowing in their eyes. They were on the way to a sunstroke. One almost stepped on a desert lizard, who screeched at him and ran.<br/>
 “Keep it up, Pincho and Pancho,” said their brother, Tomas Jefferson. “Sooner or later, we’ll reach Eagleland, and we’ll make it to the big city!”<br/>
@@ -59,4 +59,4 @@ They went to King Porky and begged to be taken back. “Please, Master Porky! Le
 And so ends the sad tale of the Slot Brothers.<br/>
 <br/>
 - Ostricho
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-12 14:09:39 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-12 19:09:39 +0000" last-modified-by-name="Captain Bozo" %}

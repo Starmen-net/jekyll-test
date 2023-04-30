@@ -2,9 +2,9 @@
 title: 'SUMTFMA: Ovalized Ninja Adhesive Logo'
 categories:
   - merchandise
-date: 2009-05-10 21:57:30 +0500
+date: 2009-05-11 02:57:30 +0000
 ---
-{% include box-open.html box-id="3745" title="SUMTFMA: Ovalized Ninja Adhesive Logo:" author-id="45" timestamp="2009-05-10 21:57:30 +0500" type="norm" dbname="box29618" last-modified-by="45" %}
+{% include box-open.html box-id="3745" title="SUMTFMA: Ovalized Ninja Adhesive Logo" author-id="45" timestamp="2009-05-11 02:57:30 +0000" type="norm" dbname="box29618" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_sumtfma_title.png" border="0" alt="SUMTFMA: Ovalized Ninja Adhesive Logo" />
 	</center>
@@ -25,4 +25,4 @@ date: 2009-05-10 21:57:30 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_sumtfma_sticker.jpg">Sticker</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:15:45 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:15:45 +0000" last-modified-by-name="ShadowX" %}

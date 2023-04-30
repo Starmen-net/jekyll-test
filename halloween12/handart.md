@@ -2,15 +2,15 @@
 title: Halloween Funfest 2012!
 categories:
   - halloween12
-date: 2012-10-01 18:56:34 +0500
+date: 2012-10-01 23:56:34 +0000
 ---
-{% include box-open.html box-id="4527" title="Handart!:" author-id="1419" timestamp="2012-10-01 18:56:34 +0500" type="norm" dbname="box58073" last-modified-by="127" %}
+{% include box-open.html box-id="4527" title="Handart!" author-id="1419" timestamp="2012-10-01 23:56:34 +0000" type="norm" dbname="box58073" last-modified-by="127" %}
 Handart gives you an opportunity to really sink your fangs into your submission. Break out the charcoal pencils, crayons, clay, or yarn and create something inspired by Mother and Halloween. Crochet a creepy crawly, paint a psycho, or draw a demon. get your submission in by November 5th and it will be judged against those submitted by others. You may win a prize... if the vampires don't get to you first.<p/>
 
 <a href="http://starmen.net/submit/?ForceSection=Halloween%20Funfest%202012">Submit something to the Handart section!</a>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-01 22:28:49 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 03:28:49 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4528" title="Submissions:" author-id="1419" timestamp="2012-10-01 18:56:57 +0500" type="norm" dbname="box9733" last-modified-by="127" %}
+{% include box-open.html box-id="4528" title="Submissions" author-id="1419" timestamp="2012-10-01 23:56:57 +0000" type="norm" dbname="box9733" last-modified-by="127" %}
 <div class="hr"><hr /></div>
 <ul class="submissions">
 	<li class="">
@@ -231,4 +231,4 @@ Handart gives you an opportunity to really sink your fangs into your submission.
 	</li>
 </ul>
 <div class="hr"><hr /></div>		
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 10:05:28 +0600" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 16:05:28 +0000" last-modified-by-name="Emily" %}

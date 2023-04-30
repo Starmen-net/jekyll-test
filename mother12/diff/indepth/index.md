@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - mother12
-date: 2023-01-12 23:31:57 +0600
+date: 2023-01-13 05:31:57 +0000
 ---
-{% include box-open.html box-id="5553" title="New Box, Edit me :(:" author-id="28590" timestamp="2023-01-12 23:31:57 +0600" type="norm" dbname="box18272" last-modified-by="127" %}
+{% include box-open.html box-id="5553" title="New Box, Edit me :(" author-id="28590" timestamp="2023-01-13 05:31:57 +0000" type="norm" dbname="box18272" last-modified-by="127" %}
 <center>
 <table class="fixed" border="0" >
     <col width="300px" />
@@ -176,4 +176,4 @@ They both show the opening text explaining George and Maria's kidnapping, except
 </center>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2023-02-07 13:18:47 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2023-02-07 19:18:47 +0000" last-modified-by-name="CerealQueen" %}

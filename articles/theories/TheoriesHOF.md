@@ -2,9 +2,9 @@
 title: Theories Hall of Fame
 categories:
   - articles
-date: 2011-10-09 15:26:53 +0500
+date: 2011-10-09 20:26:53 +0000
 ---
-{% include box-open.html box-id="4032" title="Theories Hall of Fame:" author-id="1419" timestamp="2011-10-09 15:26:53 +0500" type="norm" dbname="box35919" last-modified-by="127" %}
+{% include box-open.html box-id="4032" title="Theories Hall of Fame" author-id="1419" timestamp="2011-10-09 20:26:53 +0000" type="norm" dbname="box35919" last-modified-by="127" %}
 On this page all of the winners of the Theories of the Week will be recorded and tallied. Each octopus will link to the corresponding Theories submission.<p/>
 <hr/><p/>
 <table>
@@ -174,9 +174,9 @@ On this page all of the winners of the Theories of the Week will be recorded and
 </tr>
 
 </table>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2016-09-29 12:35:50 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2016-09-29 17:35:50 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4153" title="Radio Theories Hall of Fame:" author-id="1419" timestamp="2011-12-31 23:34:02 +0600" type="norm" dbname="box49776" last-modified-by="127" %}
+{% include box-open.html box-id="4153" title="Radio Theories Hall of Fame" author-id="1419" timestamp="2012-01-01 05:34:02 +0000" type="norm" dbname="box49776" last-modified-by="127" %}
 The list below are the winners of Radio PSI Theories, which Captain Bozo ran during his show on <a href="http://starmen.net/radio">Radio PSI!</a> For now, Radio PSI Theories is retired.<p/>
 <hr/><p/>
 <table>
@@ -278,4 +278,4 @@ The list below are the winners of Radio PSI Theories, which Captain Bozo ran dur
 </tr>
 </table>
 
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2013-06-18 14:06:13 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2013-06-18 19:06:13 +0000" last-modified-by-name="J_Spade" %}

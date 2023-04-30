@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ GONMON ARCHIVES
 categories:
   - radio
-date: 2006-05-27 08:31:36 +0500
+date: 2006-05-27 13:31:36 +0000
 ---
-{% include box-open.html box-id="2357" title="Downloadables!:" author-id="247" timestamp="2006-05-27 08:31:36 +0500" type="norm" dbname="box11888" last-modified-by="127" %}
+{% include box-open.html box-id="2357" title="Downloadables!" author-id="247" timestamp="2006-05-27 13:31:36 +0000" type="norm" dbname="box11888" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ γ<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 13:26:35 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 18:26:35 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2360" title="DJ γ's Archive Downloads!:" author-id="247" timestamp="2006-05-27 08:45:14 +0500" type="norm" dbname="box2512" last-modified-by="127" %}
+{% include box-open.html box-id="2360" title="DJ γ's Archive Downloads!" author-id="247" timestamp="2006-05-27 13:45:14 +0000" type="norm" dbname="box2512" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/gonmon/radiopsidumpdjg20070824.ogg">August 24th, 2007</a>
 </p>
@@ -185,4 +185,4 @@ DJ γ<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/gonmon/radiopsidumpdjg20060519.ogg">May 19th, 2006</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 13:25:57 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 18:25:57 +0000" last-modified-by-name="Mansion Maniac" %}

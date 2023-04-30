@@ -2,9 +2,9 @@
 title: Tricks - Walk Through Walls
 categories:
   - mother2
-date: 2006-04-02 13:24:02 +0500
+date: 2006-04-02 18:24:02 +0000
 ---
-{% include box-open.html box-id="2162" title="Walk Through Walls:" author-id="75" timestamp="2006-04-02 13:24:02 +0500" type="norm" dbname="box43367" last-modified-by="75" %}
+{% include box-open.html box-id="2162" title="Walk Through Walls" author-id="75" timestamp="2006-04-02 18:24:02 +0000" type="norm" dbname="box43367" last-modified-by="75" %}
       Remember way back when in #earthbound chat, I told everyone that I had
       a huge secret that was big and important?  By now, you've probably
       forgotten all about it.  But I wasn't just blowing steam; this is
@@ -113,4 +113,4 @@ date: 2006-04-02 13:24:02 +0500
       development in the game of EarthBound, and I hope this is it.<p />
 
 - Mars
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 13:33:32 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 18:33:32 +0000" last-modified-by-name="PoeTrader" %}

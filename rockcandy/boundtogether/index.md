@@ -2,9 +2,9 @@
 title: 'Bound Together '
 categories:
   - rockcandy
-date: 2007-08-04 17:14:14 +0500
+date: 2007-08-04 22:14:14 +0000
 ---
-{% include box-open.html box-id="3252" title="Bound Together: Remix Project:" author-id="137" timestamp="2007-08-04 17:14:14 +0500" type="norm" dbname="box38446" last-modified-by="127" %}
+{% include box-open.html box-id="3252" title="Bound Together: Remix Project" author-id="137" timestamp="2007-08-04 22:14:14 +0000" type="norm" dbname="box38446" last-modified-by="127" %}
 Organized and presented by Joe Cam
 
 <p>48 songs 
@@ -15,14 +15,14 @@ the VGFrequency radio show from October 29th which featured the debut of Bound T
 <p>If you're a fan of video game remixes or a fan of EarthBound, you need to check this out. The best and brightest names from OCRemix and VGMix are all in one project with some fantastic music. If you downloaded it once before, get rid of it and download this version. </p>
 
 <p>NOTE: This project is in no way related to Rock Candy, Starmen.Net or its staff and is presented in this section for fan convenience and to promote good EarthBound Music. If this site location leads to presumptions of affiliation with Bound together and Rock Candy or other parts of this site, this is not its intention.</p>
-{% include box-close.html author-name="Jonk" last-modified-on="2009-03-17 10:25:39 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2009-03-17 15:25:39 +0000" last-modified-by-name="Jonk" %}
 
-{% include box-open.html box-id="3255" title="Bound Together: Downloads:" author-id="137" timestamp="2007-08-04 18:47:16 +0500" type="norm" dbname="box15722" last-modified-by="127" %}
+{% include box-open.html box-id="3255" title="Bound Together: Downloads" author-id="137" timestamp="2007-08-04 23:47:16 +0000" type="norm" dbname="box15722" last-modified-by="127" %}
 <a href="http://www.wushuplaya.com/boundtogether/Bound_Together.torrent"><B><U>TORRENT - Re: Bound Together</U></B></a><br /><br />
 <a href="http://starmen.net/fanmusic/boundtogether/BoundTogether.zip"><B><U>ZIP FILE - Re: Bound Together</U></B></a>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-08-04 18:57:23 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-08-04 23:57:23 +0000" last-modified-by-name="Jonk" %}
 
-{% include box-open.html box-id="3253" title="Bound Together Tracklist:" author-id="137" timestamp="2007-08-04 17:14:38 +0500" type="norm" dbname="box49342" last-modified-by="127" %}
+{% include box-open.html box-id="3253" title="Bound Together Tracklist" author-id="137" timestamp="2007-08-04 22:14:38 +0000" type="norm" dbname="box49342" last-modified-by="127" %}
 <table class="album" cellspacing="0">
 	<thead>
 		<tr>
@@ -324,9 +324,9 @@ the VGFrequency radio show from October 29th which featured the debut of Bound T
 		
 	</tbody>
 </table>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-09-13 20:07:28 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-09-14 01:07:28 +0000" last-modified-by-name="Jonk" %}
 
-{% include box-open.html box-id="3254" title="Thanks and Appreciation:" author-id="137" timestamp="2007-08-04 17:59:35 +0500" type="norm" dbname="box20221" last-modified-by="127" %}
+{% include box-open.html box-id="3254" title="Thanks and Appreciation" author-id="137" timestamp="2007-08-04 22:59:35 +0000" type="norm" dbname="box20221" last-modified-by="127" %}
 <u>Much thanks goes to:</u>
 <p>Mustin for his constant support, hard work and assistance regarding this project.
 po! for being a B.A.M.F. and hosting this site and also updating it while my own site is FUBARed...</p>
@@ -338,4 +338,4 @@ po! for being a B.A.M.F. and hosting this site and also updating it while my own
 <a href="http://www.olremix.org/"><b>OverLooked Remix</b></a><br />
 <a href="http://www.ocremix.org/"><b>OverClocked Remix</b></a><br />
 <p>EarthBound, all images and all music is copyright Nintendo. This is a fan made project and there is no charge for this. It's made to honor the game EarthBound and show that there is still high demand for more EarthBound material in America. Give us the games we want and the franchise we love!!</p>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-08-04 18:53:12 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-08-04 23:53:12 +0000" last-modified-by-name="Jonk" %}

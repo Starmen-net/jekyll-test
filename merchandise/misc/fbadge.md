@@ -2,9 +2,9 @@
 title: Franklin Badge
 categories:
   - merchandise
-date: 2005-01-03 21:09:42 +0600
+date: 2005-01-04 03:09:42 +0000
 ---
-{% include box-open.html box-id="338" title="Franklin Badge:" author-id="45" timestamp="2005-01-03 21:09:42 +0600" type="norm" dbname="box6454" last-modified-by="45" %}
+{% include box-open.html box-id="338" title="Franklin Badge" author-id="45" timestamp="2005-01-04 03:09:42 +0000" type="norm" dbname="box6454" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/fbadge_title.png" width="250" height="250" border="0" alt="Franklin Badge" />
 	</center>
@@ -52,4 +52,4 @@ date: 2005-01-03 21:09:42 +0600
 	<a href="/merchandise/images/m3dlx_fbpackage_back.jpg">FB Package (Back - M3 DLX)</a> - <a href="/merchandise/images/m3dlx_complete.jpg">Mother 3 Deluxe Box</a>
 	<br /><br />
 	<a href="/merchandise/images/fbadge_yoko1.jpg">Franklin Badges & Guides & Winning Ticket & Letters</a> - <a href="/merchandise/images/fbadge_yoko2.jpg">Franklin Badge & Letter</a> - <a href="/merchandise/images/fbadge_yoko3.jpg">Back of Guides & Letter</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-08-18 17:34:30 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-08-18 22:34:30 +0000" last-modified-by-name="ShadowX" %}

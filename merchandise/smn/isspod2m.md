@@ -2,9 +2,9 @@
 title: 'Item Schematics: SPOD 2.0 Mini'
 categories:
   - merchandise
-date: 2005-01-04 00:29:49 +0600
+date: 2005-01-04 06:29:49 +0000
 ---
-{% include box-open.html box-id="402" title="Item Schematics: SPOD 2.0 Mini:" author-id="45" timestamp="2005-01-04 00:29:49 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="402" title="Item Schematics: SPOD 2.0 Mini" author-id="45" timestamp="2005-01-04 06:29:49 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_isspod2m_title.jpg" border="0" alt="Item Schematics: SPOD 2.0 Mini" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-04 00:29:49 +0600
 	<b>Item Schematics: SPOD 2.0 Mini Pictures:</b>
 	<br />
 	<a href="/merchandise/images/smn_isspod2m_poster.jpg">Poster</a> - <a href="/merchandise/images/smn_isspod2m_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:29:59 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:29:59 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Mother 1+2 Mr. Saturn Display Box
 categories:
   - merchandise
-date: 2005-01-03 21:02:59 +0600
+date: 2005-01-04 03:02:59 +0000
 ---
-{% include box-open.html box-id="332" title="Mother 1+2 Mr. Saturn Display Box:" author-id="45" timestamp="2005-01-03 21:02:59 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="332" title="Mother 1+2 Mr. Saturn Display Box" author-id="45" timestamp="2005-01-04 03:02:59 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m12_msdbox_title.jpg" border="0" alt="Mother 1+2 Mr. Saturn Display Box" />
 	</center>
@@ -23,4 +23,4 @@ date: 2005-01-03 21:02:59 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m12_msdbox_allsides.jpg">All Sides</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:03:10 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:03:10 +0000" last-modified-by-name="ShadowX" %}

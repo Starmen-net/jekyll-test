@@ -2,15 +2,15 @@
 title: Halloween Funfest 2012!
 categories:
   - halloween12
-date: 2012-10-01 18:59:22 +0500
+date: 2012-10-01 23:59:22 +0000
 ---
-{% include box-open.html box-id="4533" title="Writing!:" author-id="1419" timestamp="2012-10-01 18:59:22 +0500" type="norm" dbname="box24555" last-modified-by="127" %}
+{% include box-open.html box-id="4533" title="Writing!" author-id="1419" timestamp="2012-10-01 23:59:22 +0000" type="norm" dbname="box24555" last-modified-by="127" %}
 The Writing section is your chance to submit scary scripts, spooky stories, and possessed poetry to raise the hair on the back of your reader's necks. Your words can work weird witchcraft, after all - what are spells but the right words in the right order? Submit your writing by November 5th to be considered to win one of our prizes. There's ample opportunity for horror in the mind's eye, and the imagination of the audience can conjure images impossible to render in any other media. Don't delve too deeply. The Devil's in the details in more way than one.<p/>
 
 <a href="http://starmen.net/submit/?ForceSection=Halloween%20Funfest%202012">Submit something to the Writing section!</a>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-01 23:33:14 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 04:33:14 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4534" title="Submissions:" author-id="1419" timestamp="2012-10-01 18:59:35 +0500" type="norm" dbname="box19368" last-modified-by="127" %}
+{% include box-open.html box-id="4534" title="Submissions" author-id="1419" timestamp="2012-10-01 23:59:35 +0000" type="norm" dbname="box19368" last-modified-by="127" %}
 <div class="hr"><hr /></div>
 <ul class="submissions">
 	<li class="">
@@ -150,4 +150,4 @@ The Writing section is your chance to submit scary scripts, spooky stories, and 
 	</li>
 </ul>
 <div class="hr"><hr /></div>		
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 10:14:45 +0600" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 16:14:45 +0000" last-modified-by-name="Emily" %}

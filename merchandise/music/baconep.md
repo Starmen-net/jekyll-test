@@ -2,9 +2,9 @@
 title: Bacon ep
 categories:
   - merchandise
-date: 2009-01-31 00:32:59 +0600
+date: 2009-01-31 06:32:59 +0000
 ---
-{% include box-open.html box-id="3603" title="Bacon ep:" author-id="45" timestamp="2009-01-31 00:32:59 +0600" type="norm" dbname="box49956" last-modified-by="45" %}
+{% include box-open.html box-id="3603" title="Bacon ep" author-id="45" timestamp="2009-01-31 06:32:59 +0000" type="norm" dbname="box49956" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/baconep_title.jpg" border="0" alt="Bacon ep" />
 	</center>
@@ -127,4 +127,4 @@ date: 2009-01-31 00:32:59 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/baconep_front.jpg">Front</a> - <a href="/merchandise/images/baconep_back.jpg">Back</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-01-31 01:51:57 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-01-31 07:51:57 +0000" last-modified-by-name="ShadowX" %}

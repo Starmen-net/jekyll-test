@@ -2,18 +2,18 @@
 title: Radio PSI - Historical Segments
 categories:
   - radio
-date: 2006-03-05 21:00:41 +0600
+date: 2006-03-06 03:00:41 +0000
 ---
-{% include box-open.html box-id="2741" title="Segments:" author-id="247" timestamp="2006-12-08 19:22:37 +0600" type="norm" dbname="box61665" last-modified-by="127" %}
+{% include box-open.html box-id="2741" title="Segments" author-id="247" timestamp="2006-12-09 01:22:37 +0000" type="norm" dbname="box61665" last-modified-by="127" %}
 <p>
 Radio PSI shows aren't just about the music!  All DJs showcase a collection of fun (and goofy) segments that the listeners can take part in, helping make the Radio PSI experience much more fun!
 </p>
 
 <p>This is a list of segments from DJs who have moved on to other things.
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-15 10:31:30 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-15 15:31:30 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="2362" title="DJ ß Segments:" author-id="247" timestamp="2006-05-27 17:22:18 +0500" type="norm" dbname="box50452" last-modified-by="127" %}
+{% include box-open.html box-id="2362" title="DJ ß Segments" author-id="247" timestamp="2006-05-27 22:22:18 +0000" type="norm" dbname="box50452" last-modified-by="127" %}
 <p>
 <b><i>Name The Thing That The Thing Is From Thing</i></b> - The world famous trivia sensation that's taking the radio by storm! ß plays a sound clip (that's the thing). It could be from a movie, TV show, famous person, video game, or just about anything (that's the thing). The first person in the IRC channel to identify the source of the clip is the winner, and that's how the game (a.k.a. thing) is played! Usually played twice a night, at 12:30 and 1:30, Eastern Time.
 </p>
@@ -41,9 +41,9 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 <p>
 <b><i>The Committee for the Discussion of Things/Objects</i></b> - This Premiere Segment usually takes the entirety of the show. ß gathers a group of resident experts from the Radio PSI and Starmen.Net community who discuss the topics on everyone's mind.  Put questions and feedback in the IRC channel during the segment, and the Committee will discuss them!
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2008-11-30 21:38:05 +0600" last-modified-by-name="ozwalled" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2008-12-01 03:38:05 +0000" last-modified-by-name="ozwalled" %}
 
-{% include box-open.html box-id="2566" title="DJ γ's Segments:" author-id="247" timestamp="2006-09-07 18:22:59 +0500" type="norm" dbname="box44051" last-modified-by="127" %}
+{% include box-open.html box-id="2566" title="DJ γ's Segments" author-id="247" timestamp="2006-09-07 23:22:59 +0000" type="norm" dbname="box44051" last-modified-by="127" %}
 <p>
 <b><i>Pressing Issues</i></b> - The only segment DJ γ is now doing on a weekly basis. You, the listener, sends him a pressing issue via email, and he then answers the problem on air. Results may vary, and subject matter is entirely dependent upon who sends what. Now get out there and take that video game out for some ice cream.
 </p>
@@ -59,9 +59,9 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 <p>
 <b><i>Random Roulette</i></b> - DJ γ's utterly random segment is done... well, Randomly. When it happens, he takes a randomly generated list of 100 songs from his entire playlist (which grows each week), weeds out the horrible songs, and then randomizes it some more. Requests that are sent in get put into the list, subtracting any others to make the 100 song list. When the show begins, the list is randomized every 5 songs, so the odds of getting your song played is slim! That's the roulette part!
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-15 10:32:03 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-15 15:32:03 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="3490" title="DJ Dex's Segments:" author-id="1959" timestamp="2008-06-30 07:38:49 +0500" type="norm" dbname="box16488" last-modified-by="127" %}
+{% include box-open.html box-id="3490" title="DJ Dex's Segments" author-id="1959" timestamp="2008-06-30 12:38:49 +0000" type="norm" dbname="box16488" last-modified-by="127" %}
 <p>
 <b><i>Panter's Weekly DJ name (20 Questions)</i></b> - Near the start of the show, Panter offers a clue to what his new DJ name for the week is, and DJ dex and the audience try to guess what it is, in 20 questions or less.
 </p>
@@ -73,9 +73,9 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 <p>
 <b><i>Dex Blatanty Steals One of oz's Segments (AKA Dex Eats)</i></b> - Listen as DJ Dex eats something tasty on air! Is it good? Is it bad? Who knows! Nobody can understand what he says!
 </p>
-{% include box-close.html author-name="ozwalled" last-modified-on="2012-10-15 10:31:49 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="ozwalled" last-modified-on="2012-10-15 15:31:49 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="2052" title="DJ Fly-Boi Mathyz's Segments:" author-id="247" timestamp="2006-03-05 21:00:41 +0600" type="norm" dbname="box10293" last-modified-by="127" %}
+{% include box-open.html box-id="2052" title="DJ Fly-Boi Mathyz's Segments" author-id="247" timestamp="2006-03-06 03:00:41 +0000" type="norm" dbname="box10293" last-modified-by="127" %}
 <p>
 <b><i>Channels</i></b> - Mathyz's landmark, and most popular segment, is a fun (and sometimes difficult) game revolving around guessing what game a song is from!  Only SNES, NES, and Game Boy songs are used, so keep that in mind!  Different variations of the game include sdrawkcaB Channels (games of Channels played backwards), Remix Channels (DJ Tansunnami makes a Channels version of ANY SONG ON ANY GAME ON ANY SYSTEM), and Stacked Channels (three games are played on top of each other instead of just one).
 </p>
@@ -91,9 +91,9 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 <p>
 <b><i>Random Radio Games</i></b> - Mathyz has a handful of games that you'd typically hear on any run-of-the-mill radio station, broadcast and Internet alike.  They include: Triple Threat (One word from three different song titles have a theme amongst them), Mystery Beats (The opening of a song is played at the beginning of the show, and the full song played sometime during the show), and the seldom-used Ittles (Song titles shown have a typo in them).  Newer Random Radio games have included I Heard What You Said The First Time (songs that have broken-record-like segments in it) and sdrawkcaB (songs are played backwards to be guessed which song it is).
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-15 10:33:51 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-15 15:33:51 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="3481" title="DJ Not-a-DJ's Segments:" author-id="1959" timestamp="2008-06-29 08:33:35 +0500" type="norm" dbname="box49296" last-modified-by="127" %}
+{% include box-open.html box-id="3481" title="DJ Not-a-DJ's Segments" author-id="1959" timestamp="2008-06-29 13:33:35 +0000" type="norm" dbname="box49296" last-modified-by="127" %}
 <p>
 <b><i>Down By The Bay</i></b> - DJ Not-a-DJ will ask you, the Radio PSI listener, to send him a Private Message in IRC by doubleclicking his name in the userlist twice. You will then message him two words that rhyme, and that is it. DJ Not-a-DJ will choose 6 pairs of words out of all of them that he receives and improvise and sing a line using your two rhyming words in the song "Down By The Bay".
 </p>
@@ -113,9 +113,9 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 <p>
 <b><i>Story Time</i></b> - Another segment from DJ Not-a-DJ's time with Midweek Radio, Story Time is usually performed in the last 20 minutes of the show. The DJ will take the last 5 or so songs queued up for the night and create a story off of the top of his head incorporating the titles of those songs as key plot points of the story.
 </p>
-{% include box-close.html author-name="ozwalled" last-modified-on="2012-10-15 10:34:40 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="ozwalled" last-modified-on="2012-10-15 15:34:40 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="2053" title="DJ Ozztastic's Segments:" author-id="247" timestamp="2006-03-05 21:00:42 +0600" type="norm" dbname="box36982" last-modified-by="127" %}
+{% include box-open.html box-id="2053" title="DJ Ozztastic's Segments" author-id="247" timestamp="2006-03-06 03:00:42 +0000" type="norm" dbname="box36982" last-modified-by="127" %}
 <p>
 <b><i>WHO ARTED?!</i></b> - Occuring thrice during his three hour-shows around half past every hour, WHO ARTED?! tests your starmen.net fanart and artist knowledge! ozwalled posts a bolded image link in the #radiopsi IRC channel, and you play along by looking at that piece of Mother-series art, and then sending an <b>IRC PM</b> to ozwalled with your guess of which starmen.net artist created that image. In the first round, a hint is given before the image link is seen, but for the second and third rounds, the hint is only given afterwards (meaning those who know their starmen.net art and artists have the upper hand). Winners are the person who guesses the right answer the 3rd, 2nd and 1st time, for the 1st 2nd and 3rd rounds, respectively. Multiple-time winners can receive a SWANKY BADGE!
 </p>
@@ -160,9 +160,9 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 <p>
 <b><i>The Talking Dead</i></b> - Every October, when the walls between our world and the Spirit World are are their thinnest, ozwalled holds a séance and talks with the deceased. This is NOT for the faint of heart, and is a very dangerous thing to do (in 2006, ozwalled was possessed by The Fire God. He has since overcome the possession and in October of 2007, The Fire God co-hosted the Halloween show), so DO NOT try this at home, even if you are wearing your baseball cap backwards. 
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2009-07-31 02:06:27 +0500" last-modified-by-name="ozwalled" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2009-07-31 07:06:27 +0000" last-modified-by-name="ozwalled" %}
 
-{% include box-open.html box-id="4564" title="Backup Buddy Segments:" author-id="5884" timestamp="2012-10-31 13:41:52 +0500" type="norm" dbname="box39579" last-modified-by="127" %}
+{% include box-open.html box-id="4564" title="Backup Buddy Segments" author-id="5884" timestamp="2012-10-31 18:41:52 +0000" type="norm" dbname="box39579" last-modified-by="127" %}
 <font size="+1"><i>Buddy Major Bozo's Segments</i></font>
 
 <p><b><i>Magic Nine Ball</i></b> - The Omniscient Magic Nine Ball knows all and tells all! If he feels like it, that is. You PM Buddy Major Bozo a yes or no question on IRC during my show and, between blocks, he will relay your question to it and it will share with us its infinite wisdom! (Note, may be prone to being insulting with its infinite wisdom)
@@ -173,4 +173,4 @@ Radio PSI shows aren't just about the music!  All DJs showcase a collection of f
 
 <p><b><i>Buddy Major Bozo's Radio PSI Adventure</i></b> - Radio PSI Adventure is pretty much a text-adventure in you radio! It is an ongoing story of epic proportions involving your personal heroes, the DJs! Join #RPSIadventure on Thinstack IRC for more info!
 </p>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 13:45:34 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 18:45:34 +0000" last-modified-by-name="cyan683" %}

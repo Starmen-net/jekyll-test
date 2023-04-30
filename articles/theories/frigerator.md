@@ -2,14 +2,14 @@
 title: Theories - Snowcap Frigerator
 categories:
   - articles
-date: 2012-02-01 14:37:15 +0600
+date: 2012-02-01 20:37:15 +0000
 ---
-{% include box-open.html box-id="4196" title="Theories topic for the week of January 25 - February 1, 2012:" author-id="1419" timestamp="2012-02-01 14:37:15 +0600" type="norm" dbname="box36853" last-modified-by="127" %}
+{% include box-open.html box-id="4196" title="Theories topic for the week of January 25 - February 1, 2012" author-id="1419" timestamp="2012-02-01 20:37:15 +0000" type="norm" dbname="box36853" last-modified-by="127" %}
 <center><img src="http://walkthrough.starmen.net/mother3/image/screens/23/fridge.png" title="Alright Indiana Jones, that's totally how you get down from a mountain safely..." /><p/>
 The refrigerator at the top of Snowcap... it's how you get down once you're finally done. But why is it even up there? That's NOT a normal place for a fridge to be. How did it get up there? Who did it? Below are some answers!</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 14:43:38 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 20:43:38 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4197" title="Theory of the Week:" author-id="1419" timestamp="2012-02-01 14:43:51 +0600" type="norm" dbname="box15710" last-modified-by="127" %}
+{% include box-open.html box-id="4197" title="Theory of the Week" author-id="1419" timestamp="2012-02-01 20:43:51 +0000" type="norm" dbname="box15710" last-modified-by="127" %}
 The refrigerator? You knocked it off the cliff!?<br/>
 You don't realize the effort that went into getting it up there...<p/>
 
@@ -86,26 +86,26 @@ I'd say more, but the story is over!<p/>
 So I hope you're happy. All that work, and you ruined it. You are an awful, awful person<p/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 14:46:16 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 20:46:16 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4198" title="Yeah well I guess... but do you see any outlets at Osohe Castle?! yeah i thought so:" author-id="1419" timestamp="2012-02-01 14:46:26 +0600" type="norm" dbname="box2231" last-modified-by="127" %}
+{% include box-open.html box-id="4198" title="Yeah well I guess... but do you see any outlets at Osohe Castle?! yeah i thought so" author-id="1419" timestamp="2012-02-01 20:46:26 +0000" type="norm" dbname="box2231" last-modified-by="127" %}
 The refrigerator on top of Snowcap Mountain… Frankly, I don’t have that much to say about this one, but here’s a possible explanation:<p/>
 
 We know that there used to be a civilization living on the Nowhere Islands before the “White Ship” arrived from the other part of the world. These were the same people who co-existed with the Dragon for a time, before it had to be put to sleep with the Needles. These people, fearing the Dragon’s eventual awakening, left the Nowhere Islands, leaving behind various remnants of their society, such as the Osohe Castle, the Noble Spittoon, and that refrigerator. While the old citizens tried to take as much as they could with them on their mass exodus, the refrigerator just happened to be left behind. Of course, it’s completely empty; can’t go on a mass departure without food.<p/>
 
 …So that’s it, just a white box that the past left behind…<p/>
 -AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 14:47:23 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 20:47:23 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4199" title="best theory:" author-id="1419" timestamp="2012-02-01 14:47:46 +0600" type="norm" dbname="box63761" last-modified-by="127" %}
+{% include box-open.html box-id="4199" title="best theory" author-id="1419" timestamp="2012-02-01 20:47:46 +0000" type="norm" dbname="box63761" last-modified-by="127" %}
 On the Nowhere Islands, pokey has made a lot of improvements, but it is clear that the top of the mountain only needed one thing to be truly improved.<p/>
 
 coold beverages<p/>
 
 - Ants
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 14:48:06 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 20:48:06 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4200" title="Captain Pheen-X and the Planeteers in: What's the deal with fridges?:" author-id="1419" timestamp="2012-02-01 14:48:24 +0600" type="norm" dbname="box21338" last-modified-by="127" %}
+{% include box-open.html box-id="4200" title="Captain Pheen-X and the Planeteers in: What's the deal with fridges?" author-id="1419" timestamp="2012-02-01 20:48:24 +0000" type="norm" dbname="box21338" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This weeks question, how'd Snowcap mountains get capped with a refrigerator? Well...kinda apparent I try to avoid the cold at all costs...but in the name of theories...it must be done.<p/>
 Journying to the Snowcap Mountains was a pain, but a local yeti nearly knocked me out by attempting to do televised stunts clearly told not to attempt. He was about to blame me for everything until I saved his life from a few chilly dogs. He decided to repay the deed by taking me to his home under the snow...joy.<p/>
 Upon entry and another coat, his home was filled to the brim with kitchen appliances from blenders, to ice cube trays, to dishwashers, and...to fridges. It was easy to say...I was confused.<p/>
@@ -135,4 +135,4 @@ Now we know how the fridge got on Snowcap and where it came from...and who cause
 And thus, another question is left to heat me up in a warm, toasty campfire. So this is Pheen-X saying...I want a popsicle now.<p/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 14:49:53 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 20:49:53 +0000" last-modified-by-name="Captain Bozo" %}

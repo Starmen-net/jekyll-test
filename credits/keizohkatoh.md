@@ -2,9 +2,9 @@
 title: 'Game Credits: Keizoh Katoh'
 categories:
   - credits
-date: 2005-09-21 14:35:51 +0500
+date: 2005-09-21 19:35:51 +0000
 ---
-{% include box-open.html box-id="1452" title="Keizoh Katoh:" author-id="2262" timestamp="2005-09-21 14:35:51 +0500" type="norm" dbname="box4781" last-modified-by="127" %}
+{% include box-open.html box-id="1452" title="Keizoh Katoh" author-id="2262" timestamp="2005-09-21 19:35:51 +0000" type="norm" dbname="box4781" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 
@@ -94,4 +94,4 @@ Progress Management</LI>
 Progress Management</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 13:29:47 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 18:29:47 +0000" last-modified-by-name="KingDarian" %}

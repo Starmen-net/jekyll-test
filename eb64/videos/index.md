@@ -2,9 +2,9 @@
 title: Mother 3 / EarthBound 64 Videos and Music
 categories:
   - eb64
-date: 2005-08-07 19:26:45 +0500
+date: 2005-08-08 00:26:45 +0000
 ---
-{% include box-open.html box-id="1168" title="MOTHER 3 / EarthBound 64 Videos:" author-id="288" timestamp="2005-08-07 19:26:45 +0500" type="norm" dbname="box20842" last-modified-by="127" %}
+{% include box-open.html box-id="1168" title="MOTHER 3 / EarthBound 64 Videos" author-id="288" timestamp="2005-08-08 00:26:45 +0000" type="norm" dbname="box20842" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft" href="http://www.youtube.com/watch?v=OFUu0u6Hk4k"><img src="thumb_eb64preview.jpg" align="center" /></a>
@@ -40,4 +40,4 @@ date: 2005-08-07 19:26:45 +0500
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2019-09-26 16:02:54 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2019-09-26 21:02:54 +0000" last-modified-by-name="CerealQueen" %}

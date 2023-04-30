@@ -2,9 +2,9 @@
 title: Debug Room
 categories:
   - mother3
-date: 2016-12-31 00:52:53 +0600
+date: 2016-12-31 06:52:53 +0000
 ---
-{% include box-open.html box-id="4922" title="Debug Room:" author-id="28590" timestamp="2016-12-31 00:52:53 +0600" type="norm" dbname="box18792" last-modified-by="127" %}
+{% include box-open.html box-id="4922" title="Debug Room" author-id="28590" timestamp="2016-12-31 06:52:53 +0000" type="norm" dbname="box18792" last-modified-by="127" %}
 <img src="Debug Menu.png" /> <font size="3"> &nbsp; <b>Debug Room</b></font>
 <br /><br />
 
@@ -107,4 +107,4 @@ The standard debug room accommodates the following features:
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 00:53:12 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 06:53:12 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: ALL CARDS!
 categories:
   - ebsiege
-date: 2007-06-12 03:36:01 +0500
+date: 2007-06-12 08:36:01 +0000
 ---
-{% include box-open.html box-id="3013" title="ALL CARDS!:" author-id="137" timestamp="2007-06-12 03:36:01 +0500" type="norm" dbname="box33824" last-modified-by="8" %}
+{% include box-open.html box-id="3013" title="ALL CARDS!" author-id="137" timestamp="2007-06-12 08:36:01 +0000" type="norm" dbname="box33824" last-modified-by="8" %}
 <div style="text-align: center;">
 <ul class="thumbprevs">
 <li><a href="../pdfs/earthbound_01.pdf"><img src="../thumbs/earthbound_01.jpg" /></a><a rel="lightbox[mailn]" href="../resized/earthbound_01.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
@@ -116,4 +116,4 @@ date: 2007-06-12 03:36:01 +0500
 <li><a href="../pdfs/EB_15.pdf"><img src="../thumbs/EB_15.jpg" /></a><a rel="lightbox[mailn]" href="../resized/EB_15.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 </ul>
 </div>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 02:13:02 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 07:13:02 +0000" last-modified-by-name="reidman" %}

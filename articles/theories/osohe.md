@@ -2,15 +2,15 @@
 title: Theories - Kingdom of Osohe
 categories:
   - articles
-date: 2012-02-08 13:57:56 +0600
+date: 2012-02-08 19:57:56 +0000
 ---
-{% include box-open.html box-id="4202" title="Theories topic for the week of February 1 - 8, 2012::" author-id="1419" timestamp="2012-02-08 13:57:56 +0600" type="norm" dbname="box45019" last-modified-by="127" %}
+{% include box-open.html box-id="4202" title="Theories topic for the week of February 1 - 8, 2012:" author-id="1419" timestamp="2012-02-08 19:57:56 +0000" type="norm" dbname="box45019" last-modified-by="127" %}
 <center><img src="http://i.imgur.com/m8QU3.png" title="Jinkies!" /><p/>
 
 The kingdom of Osohe was on Nowhere Island long before the White Ship arived... but by time they got there, it was ruins. What happened here? Why did the kingdom die out?</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 14:03:00 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:03:00 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4203" title="Theory of the Week:" author-id="1419" timestamp="2012-02-08 14:03:13 +0600" type="norm" dbname="box59502" last-modified-by="127" %}
+{% include box-open.html box-id="4203" title="Theory of the Week" author-id="1419" timestamp="2012-02-08 20:03:13 +0000" type="norm" dbname="box59502" last-modified-by="127" %}
 In Leder's speech he says that the people of Earth lived along side the Dragon long ago until they could no longer coexist and they had to seal it under the Islands. The needles would be guarded by the Magypsies and pulled if it was ever needed again. It was sealed by the original inhabitants of the Islands, the Magypsies. The Dragon slept as the power of the Earth itself and protected the Islands. However, Leder says that the Islands were part of the original world that got destroyed and was the only protected area. The Hummingbird Egg stored the memories of the people of the White Ship. There is a bit of a problem when Leder discusses the original people from Osohe Castle. Osohe Castle was abandoned because they feared the awakening of the Dragon and were gone by the time the people of the White Ship got there. This means the "Dragon" which has the ability to destroy the world or start the beginnings of new bountiful things was "put to sleep” under the Islands long before the world ended. I didn’t get this until I reread the speech to write this theory.<p/>
 
 SO<p/>
@@ -25,9 +25,9 @@ The kingdom of Osohe was started in search for the Dragon many years after it wa
 The people of the White Ship were involved in the destruction of the world and may have been the cause of the deaths of many people. They erased their memories to start a new life when they found the abandoned lands and the Osohe kingdom.<p/>
 
 - PK DNKX!
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 14:04:33 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:04:33 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4204" title="Bard Quest, or, Snakes in a Drain:" author-id="1419" timestamp="2012-02-08 14:04:37 +0600" type="norm" dbname="box64202" last-modified-by="127" %}
+{% include box-open.html box-id="4204" title="Bard Quest, or, Snakes in a Drain" author-id="1419" timestamp="2012-02-08 20:04:37 +0000" type="norm" dbname="box64202" last-modified-by="127" %}
 Once, Osohe Castle was a center for culture, trade, and power. It was, for a time (a mere moment in the scheme of things) something of a Utopia. But power and politics inevitably draw the attention of those who would do evil.<p/>
 
 The deaths of the residents of Osohe Castle - from King to scullery maid - began with such a man.<p/>
@@ -47,21 +47,21 @@ Within just a few weeks, Osohe was barren. Everyone had either fled or died.<p/>
 Finally finding peace after weeks of having been nearly crushed by shoes, sleeping bodies, and scooting chairs, the tiny venomous snake that the minstrel-assassin had smuggled into the castle squirmed its way into a dark, damp crevase that led it down, down, down into the warm, wet dungeon that it would call home for centuries to come.<p/>
 
 - Emily
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 14:07:33 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:07:33 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4205" title="IT WAS THE TUNA LOAF:" author-id="1419" timestamp="2012-02-08 14:07:57 +0600" type="norm" dbname="box21541" last-modified-by="127" %}
+{% include box-open.html box-id="4205" title="IT WAS THE TUNA LOAF" author-id="1419" timestamp="2012-02-08 20:07:57 +0000" type="norm" dbname="box21541" last-modified-by="127" %}
 They were probably the (big) family of an eccentric millionaire who chose for everyone to just go live isolated in a island in the middle of nowhere. Unfortunately, the last night’s casserole didn’t go very well… (A way to say that they died of food poisoning.)<p/>
 
 - Mutoh
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 14:08:20 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:08:20 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4206" title="Today I learned that without guns, people don't die:" author-id="1419" timestamp="2012-02-08 14:08:27 +0600" type="norm" dbname="box65142" last-modified-by="127" %}
+{% include box-open.html box-id="4206" title="Today I learned that without guns, people don't die" author-id="1419" timestamp="2012-02-08 20:08:27 +0000" type="norm" dbname="box65142" last-modified-by="127" %}
 I’d say the inhabitants were the more Noble residents of the old world, or perhaps the royalty of that era. They must have died of natural causes. I mean, there weren’t any guns during that time, and I assume it would be heavily guarded. The ghosts, I assume, are simply wandering the old hallways, as if they are still guarding, strolling or just simply walking.<p/>
 
 - PSI Starstorm OMEGA
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 14:09:15 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:09:15 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4207" title="It turns out that Toothpaste is toxic in large amounts:" author-id="1419" timestamp="2012-02-08 14:09:43 +0600" type="norm" dbname="box65127" last-modified-by="127" %}
+{% include box-open.html box-id="4207" title="It turns out that Toothpaste is toxic in large amounts" author-id="1419" timestamp="2012-02-08 20:09:43 +0000" type="norm" dbname="box65127" last-modified-by="127" %}
 Osohe Castle... Osohe Castle.<p/>
 This one is very difficult to explain.<p/>
 The ghosts in Osohe castle were always ghosts. Well... most of them.<p/>
@@ -87,4 +87,4 @@ Did your parents ever tell you that you aren't supposed to swallow toothpaste? Y
 And thus, all of the Osohe Castle inhabitants lost their noses-- er I mean, passed on. And the lesson to learn here today, is that you shouldn't fill a castle with fluoride toothpaste(Or swallow it I guess, but, I mean, who does that?).<p/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 14:10:50 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:10:50 +0000" last-modified-by-name="Captain Bozo" %}

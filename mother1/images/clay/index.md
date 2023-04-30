@@ -2,9 +2,9 @@
 title: MOTHER / EarthBound Zero Clay Models
 categories:
   - mother1
-date: 2006-02-17 00:06:23 +0600
+date: 2006-02-17 06:06:23 +0000
 ---
-{% include box-open.html box-id="1864" title="MOTHER / EarthBound Zero Clay Models:" author-id="474" timestamp="2006-02-17 00:06:23 +0600" type="norm" dbname="box42941" last-modified-by="127" %}
+{% include box-open.html box-id="1864" title="MOTHER / EarthBound Zero Clay Models" author-id="474" timestamp="2006-02-17 06:06:23 +0000" type="norm" dbname="box42941" last-modified-by="127" %}
 <a href="alligatr.png" title="Alligator"><img src="aligatrt.png" width="50" height="50" /></a>
 <a href="ana.png" title="Ana"><img src="anat.png" width="50" height="50" /></a>
 <a href="knight.png" title="Armor"><img src="knightt.png" width="50" height="50" /></a>
@@ -57,16 +57,16 @@ date: 2006-02-17 00:06:23 +0600
 <a href="byunn.png" title="Watcher"><img src="byunnt.png" width="50" height="50" /></a>
 <a href="woodlog.png" title="Woodoh"><img src="woodlogt.png" width="50" height="50" /></a>
 <a href="zombie.png" title="Zombie"><img src="zombiet.png" width="50" height="50" /></a>
-{% include box-close.html author-name="Artemis251" last-modified-on="2008-06-04 21:44:55 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2008-06-05 02:44:55 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="4842" title="MOTHER Concept Art:" author-id="28590" timestamp="2016-11-20 08:12:54 +0600" type="norm" dbname="box6644" last-modified-by="127" %}
+{% include box-open.html box-id="4842" title="MOTHER Concept Art" author-id="28590" timestamp="2016-11-20 14:12:54 +0000" type="norm" dbname="box6644" last-modified-by="127" %}
 <a href="Ninten_conceptart.png" title="Early Ninten Concept Art"><img src="Ninten_conceptart.png" width="100" height="100" /></a>
 
 <br /><br />
 If you have knowledge of where piece was first released, let us know on the forums!
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-20 08:15:27 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-20 14:15:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5001" title="Other:" author-id="28590" timestamp="2017-03-19 07:34:28 +0500" type="norm" dbname="box25921" last-modified-by="127" %}
+{% include box-open.html box-id="5001" title="Other" author-id="28590" timestamp="2017-03-19 12:34:28 +0000" type="norm" dbname="box25921" last-modified-by="127" %}
 <a href="map.jpg" title="Holy Loly National Park"><img src="mapT.png" /></a><br />
 A map from Holy Loly National Park, taken directly from the Mother Encyclopedia.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-19 07:38:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-19 12:38:15 +0000" last-modified-by-name="CerealQueen" %}

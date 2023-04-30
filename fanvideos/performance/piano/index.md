@@ -2,9 +2,9 @@
 title: 'Fan Videos: Performance - Piano'
 categories:
   - fanvideos
-date: 2007-06-04 23:09:23 +0500
+date: 2007-06-05 04:09:23 +0000
 ---
-{% include box-open.html box-id="2984" title="Performance: Piano:" author-id="137" timestamp="2007-06-04 23:09:23 +0500" type="norm" dbname="box6289" last-modified-by="127" %}
+{% include box-open.html box-id="2984" title="Performance: Piano" author-id="137" timestamp="2007-06-05 04:09:23 +0000" type="norm" dbname="box6289" last-modified-by="127" %}
 <ul class="pics">	
 <div style="float: left; padding: 0px 10px 0px 0px;"><li>
 		<youtube vid="NCe7Jr6KBkg" height="250" width="300" />
@@ -81,4 +81,4 @@ by <a href="http://www.youtube.com/user/Vgmusicforpiano">VG Music for Piano</a><
 	</li></div>	
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="Jonk" last-modified-on="2012-04-26 15:43:19 +0500" last-modified-by-name="stoicmani" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2012-04-26 20:43:19 +0000" last-modified-by-name="stoicmani" %}

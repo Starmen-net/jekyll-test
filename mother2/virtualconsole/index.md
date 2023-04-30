@@ -2,19 +2,19 @@
 title: EarthBound on Wii Virtual Console
 categories:
   - mother2
-date: 2007-08-07 15:31:54 +0500
+date: 2007-08-07 20:31:54 +0000
 ---
-{% include box-open.html box-id="3259" title="EarthBound on Wii Virtual Console:" author-id="288" timestamp="2007-08-07 15:31:54 +0500" type="norm" dbname="box30180" last-modified-by="127" %}
+{% include box-open.html box-id="3259" title="EarthBound on Wii Virtual Console" author-id="288" timestamp="2007-08-07 20:31:54 +0000" type="norm" dbname="box30180" last-modified-by="127" %}
 <a href="ebonvc_literal_big.jpg"><img src="ebonvc_literal.jpg" align="right" border="0" /></a>After more than 12 years, EarthBound is given life anew! Huzzah! Thank you, Wii Virtual Console!
-{% include box-close.html author-name="Tomato" last-modified-on="2007-08-07 23:08:00 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-08-08 04:08:00 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3260" title="How to Purchase:" author-id="288" timestamp="2007-08-07 15:32:45 +0500" type="norm" dbname="box49952" last-modified-by="127" %}
+{% include box-open.html box-id="3260" title="How to Purchase" author-id="288" timestamp="2007-08-07 20:32:45 +0000" type="norm" dbname="box49952" last-modified-by="127" %}
 Here's how to purchase EarthBound on the Wii Virtual Console.
 
 (list steps) (include video)
-{% include box-close.html author-name="Tomato" last-modified-on="2007-08-07 15:33:18 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-08-07 20:33:18 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3261" title="Alterations:" author-id="288" timestamp="2007-08-07 15:33:19 +0500" type="norm" dbname="box32759" last-modified-by="127" %}
+{% include box-open.html box-id="3261" title="Alterations" author-id="288" timestamp="2007-08-07 20:33:19 +0000" type="norm" dbname="box32759" last-modified-by="127" %}
 Sadly, legal issues arose and a few changes had to be made for this version of EarthBound. Here are the changes that were made:
 
 <ul>
@@ -22,9 +22,9 @@ Sadly, legal issues arose and a few changes had to be made for this version of E
  <li>Welcome to roller coaster land</li>
  <li>A cleverly hidden change in the text</li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-08-23 23:10:49 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-08-24 04:10:49 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3262" title="Help Spread the Word:" author-id="288" timestamp="2007-08-07 15:34:14 +0500" type="norm" dbname="box3706" last-modified-by="127" %}
+{% include box-open.html box-id="3262" title="Help Spread the Word" author-id="288" timestamp="2007-08-07 20:34:14 +0000" type="norm" dbname="box3706" last-modified-by="127" %}
 Nintendo is (or was supposedly planning on) using EarthBound on the Virtual Console as a gauge to see how popular the series is, and how well it can do outside of Japan after all these years. It's common knowledge that the first release on the Super Nintendo didn't do nearly as well as Nintendo had hoped, so this is a very rare second chance we're getting.
 <br /><br />
 If the sales of EB on VC don't do really well or don't spike, Nintendo will probably consider the EarthBound series a failure yet again, and all hope for official MOTHER 1 and MOTHER 3 releases will be gone forever. Period.
@@ -42,4 +42,4 @@ So we can't let that happen! The Smash Bros. series has done a LOT to help sprea
 <li>And hopefully our friends and contacts at other sites and publications can help us out too? :D</li>
 </ul>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2008-05-02 12:35:33 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-05-02 17:35:33 +0000" last-modified-by-name="Tomato" %}

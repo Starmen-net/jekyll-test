@@ -2,9 +2,9 @@
 title: Sound Effects
 categories:
   - mother1
-date: 2015-06-23 02:05:01 +0500
+date: 2015-06-23 07:05:01 +0000
 ---
-{% include box-open.html box-id="4772" title="MOTHER / EarthBound Beginnings Sound Effects:" author-id="28590" timestamp="2016-10-13 14:21:12 +0500" type="norm" dbname="box22292" last-modified-by="127" %}
+{% include box-open.html box-id="4772" title="MOTHER / EarthBound Beginnings Sound Effects" author-id="28590" timestamp="2016-10-13 19:21:12 +0000" type="norm" dbname="box22292" last-modified-by="127" %}
 <table border="0" width="99%">
 <tr><td width="33%">
 <a href="Bash.wav">Bash</a><br />
@@ -36,9 +36,9 @@ date: 2015-06-23 02:05:01 +0500
 <a href="Take Damage.wav">Take Damage</a><br />
 <a href="Trip and Fall.wav">Trip and Fall</a><br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-13 14:53:31 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-13 19:53:31 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4744" title="Sound Effects Archive:" author-id="27298" timestamp="2015-06-23 02:05:01 +0500" type="norm" dbname="box38483" last-modified-by="127" %}
+{% include box-open.html box-id="4744" title="Sound Effects Archive" author-id="27298" timestamp="2015-06-23 07:05:01 +0000" type="norm" dbname="box38483" last-modified-by="127" %}
 &nbsp;<a href="EBB%20SFX.zip">Download all sound effects from EarthBound Beginnings (1.6 MB)</a><br />
 Sound effects courtesy of Agent Ape.
-{% include box-close.html author-name="NorthofOnett" last-modified-on="2016-10-13 14:22:59 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="NorthofOnett" last-modified-on="2016-10-13 19:22:59 +0000" last-modified-by-name="CerealQueen" %}

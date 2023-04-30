@@ -2,9 +2,9 @@
 title: EarthBound Poster
 categories:
   - merchandise
-date: 2007-06-23 21:21:07 +0500
+date: 2007-06-24 02:21:07 +0000
 ---
-{% include box-open.html box-id="3099" title="EarthBound Poster:" author-id="45" timestamp="2007-06-23 21:21:07 +0500" type="norm" dbname="box23508" last-modified-by="45" %}
+{% include box-open.html box-id="3099" title="EarthBound Poster" author-id="45" timestamp="2007-06-24 02:21:07 +0000" type="norm" dbname="box23508" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -56,4 +56,4 @@ To advertise EarthBound, Nintendo of America sent out a poster to retailers to d
 <a href="/merchandise/images/ebposter_rating.jpg" ><img src="/merchandise/images/ebposter_rating.jpg" title="EarthBound Poster" border="1" width="100" height="100" hspace="1" /></a>
 <br /><br />
 	Thanks to <a href="mailto:GotARiverFenixEP@aol.com">GotARiverFenixEP</a> for some pictures!
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-11-24 23:48:59 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-11-25 05:48:59 +0000" last-modified-by-name="ShadowX" %}

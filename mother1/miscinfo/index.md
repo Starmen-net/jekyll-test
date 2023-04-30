@@ -2,13 +2,13 @@
 title: MOTHER / EarthBound Zero FAQs, Guides, Maps, Etc.
 categories:
   - mother1
-date: 2007-06-18 22:28:36 +0500
+date: 2007-06-19 03:28:36 +0000
 ---
-{% include box-open.html box-id="3039" title="MOTHER / EarthBound Zero FAQs, Guides, Etc.:" author-id="288" timestamp="2007-06-18 22:32:22 +0500" type="norm" dbname="box42519" last-modified-by="127" %}
+{% include box-open.html box-id="3039" title="MOTHER / EarthBound Zero FAQs, Guides, Etc." author-id="288" timestamp="2007-06-19 03:32:22 +0000" type="norm" dbname="box42519" last-modified-by="127" %}
 <navigator group="Mother1|Maps~FAQs~Miscellaneous" display="no" quantity="100" section="description" /><displaytor mode="twocolumnlist" />
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-19 21:13:11 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 02:13:11 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3038" title="MOTHER / EarthBound Zero Maps:" author-id="288" timestamp="2007-06-18 22:28:36 +0500" type="norm" dbname="box42743" last-modified-by="127" %}
+{% include box-open.html box-id="3038" title="MOTHER / EarthBound Zero Maps" author-id="288" timestamp="2007-06-19 03:28:36 +0000" type="norm" dbname="box42743" last-modified-by="127" %}
 <a href="maps/eb0map_big.png">Full Map of MOTHER / EarthBound Zero</a> - (6.6 MB, 16384 x 14384) - Be careful, this is BIG!<br />
 <a href="maps/eb0map_small.png">Smaller Map of MOTHER / EarthBound Zero</a> - (438 KB, 1024 x 896)
 
@@ -60,4 +60,4 @@ date: 2007-06-18 22:28:36 +0500
             <a href="maps/itoipeak.png">Mt. Itoi: Peak</a><br />
             <a href="maps/giegue.png">Mysterious Cave</a><br />
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2007-11-11 20:12:54 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-11-12 02:12:54 +0000" last-modified-by-name="Artemis251" %}

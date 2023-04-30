@@ -2,9 +2,9 @@
 title: Mother 3+
 categories:
   - merchandise
-date: 2006-09-27 21:49:37 +0500
+date: 2006-09-28 02:49:37 +0000
 ---
-{% include box-open.html box-id="2577" title="Mother 3+:" author-id="45" timestamp="2006-09-27 21:49:37 +0500" type="norm" dbname="box38581" last-modified-by="75" %}
+{% include box-open.html box-id="2577" title="Mother 3+" author-id="45" timestamp="2006-09-28 02:49:37 +0000" type="norm" dbname="box38581" last-modified-by="75" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -138,4 +138,4 @@ This album was also later released on the Japanese iTunes and then surprisingly 
 	<br /><br />
 	Very special thanks to <a href="http://www.mother-jp.net/">mother-jp.net</a> 
 	for providing some information.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-15 16:33:51 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-15 21:33:51 +0000" last-modified-by-name="PoeTrader" %}

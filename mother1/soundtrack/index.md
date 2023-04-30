@@ -2,15 +2,15 @@
 title: MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-09-23 15:21:00 +0500
+date: 2010-09-23 20:21:00 +0000
 ---
-{% include box-open.html box-id="3883" title="The MOTHER Original Soundtrack: The Story:" author-id="307" timestamp="2010-09-23 15:21:00 +0500" type="norm" dbname="box17420" last-modified-by="127" %}
+{% include box-open.html box-id="3883" title="The MOTHER Original Soundtrack: The Story" author-id="307" timestamp="2010-09-23 20:21:00 +0000" type="norm" dbname="box17420" last-modified-by="127" %}
 It's one of the weirdest pieces of MOTHER merchandise ever released, and it's available on CD and cassette. It features a 14 year-old would-be pop star, a Canadian metal singer, and a British boys' choir. It's the MOTHER Original Soundtrack, and for some time we knew almost nothing about the people who had made it, who themselves probably still have no idea we're listening to it. 
 
 <p align="center">MENU</p>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-23 15:29:55 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-23 20:29:55 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3884" title="The Players:" author-id="307" timestamp="2010-09-23 15:30:05 +0500" type="norm" dbname="box21346" last-modified-by="127" %}
+{% include box-open.html box-id="3884" title="The Players" author-id="307" timestamp="2010-09-23 20:30:05 +0000" type="norm" dbname="box21346" last-modified-by="127" %}
 <div align="center"><div style="float: left; margin: 0 3px 7px 0;">
 <img src="warwick2.jpg" />
 <div>Catherine Warwick</div>
@@ -53,9 +53,9 @@ It's one of the weirdest pieces of MOTHER merchandise ever released, and it's av
 
 
 
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2022-11-23 15:45:05 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2022-11-23 21:45:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="3888" title="The Songs:" author-id="307" timestamp="2010-09-26 16:08:34 +0500" type="norm" dbname="box17524" last-modified-by="127" %}
+{% include box-open.html box-id="3888" title="The Songs" author-id="307" timestamp="2010-09-26 21:08:34 +0000" type="norm" dbname="box17524" last-modified-by="127" %}
 <ol><li><strong><a href="songs/pollyana.php">Polyanna (I Believe In You)</a></strong> is a bright, melodic pop arrangement of the overworld song, featuring <a href="personnel/catherinewarwick.php">Catherine Warwick</a> on lead vocals and Keiichi Suzuki singing backup. And a synth-harpsichord(?) solo that makes me think Suzuki has listened to more than a few Brian Wilson compositions in his day.</li>
 <li>Warwick returns for <a href="songs/beinfriends.php">Bein' Friends</a>, an adaptation of the song that plays when Ninten has a friend in his party. Fittingly, she shares lead vocals with <a href="personnel/jeremyhollandsmith.php">Jeremy Holland-Smith</a>, who does a call-and-response with her on the chorus. Just don't ask me who's singing during that strange, heavy breakdown section at the end.</li>
 <li><a href="personnel/jebmillion.php">Jeb Million</a> takes over for a rocking, surprisingly dense take on <strong><a href="songs/paradiseline.php">The Paradise Line</a></strong> theme. Listen for all the buried guitar, vocal, and keys flourishes—listen, also, for the King Edward School Choir Boys, who inexplicably take over the bridge ahead of that big guitar solo.</li>
@@ -68,9 +68,9 @@ It's one of the weirdest pieces of MOTHER merchandise ever released, and it's av
 <li>The choral take on <strong><a href="songs/eightmelodies.php">Eight Melodies</a></strong>, featured in MOTHER's <a href="http://starmen.net/mother1/videos/">TV commercial</a>, is performed by St. Paul's Cathedral Choir, from which Jeremy Holland-Smith and Jeremy Budd were both drawn.</li>
 <li>Finally, <strong><a href="songs/worldofmother.php">The World of MOTHER</a></strong> collects much of the actual music from the Famicom original. Original pressings of the disc featured a 16-minute montage; the rerelease, currently in print, adds five minutes to the running time.</li>
 </ol>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 18:08:25 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 23:08:25 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3885" title="The Localization and the Rerelease:" author-id="307" timestamp="2010-09-23 16:33:18 +0500" type="norm" dbname="box20215" last-modified-by="127" %}
+{% include box-open.html box-id="3885" title="The Localization and the Rerelease" author-id="307" timestamp="2010-09-23 21:33:18 +0000" type="norm" dbname="box20215" last-modified-by="127" %}
 The soundtrack story doesn't quite end with its release in Japan. According to localization producer Phil Sandhop, in his 2004 interview with Lost Levels, even the <em>soundtrack</em>, bizarre as it was, was part of the oft-delayed Earth Bound localization project:
 
 <blockquote>Even the game's soundtrack was planned for some sort of US release. "During preparations for launch, NOA Legal looked at it and it probably would have been made available in the states, although NOA wasn't going to market it."</blockquote>
@@ -82,4 +82,4 @@ The soundtrack story doesn't quite end with its release in Japan. According to l
 <p>The new version of the soundtrack, which is <a href="http://starmen.net/merchandise/music/m1cd.php">still available</a>, features an additional seven minutes of original game music in the "World of MOTHER" track, and a "Smiles and Tears" demo originally recorded for an unreleased MOTHER 2 orchestral soundtrack. The most mysterious get in MOTHER swag history is finally available to everybody with $30 and an intense desire to hear a boy treble sing an angular new-wave torch song.</p>
 
 <p>Which leaves the completionists among us the chance to move on to the exceedingly rare <a href="http://starmen.net/merchandise/music/m1ct.php">cassette release</a>...</p>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 16:07:54 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 21:07:54 +0000" last-modified-by-name="LiarXAgerate" %}

@@ -2,9 +2,9 @@
 title: 'Fan Videos: Music Videos'
 categories:
   - fanvideos
-date: 2007-06-04 23:51:24 +0500
+date: 2007-06-05 04:51:24 +0000
 ---
-{% include box-open.html box-id="2992" title="Music Videos:" author-id="137" timestamp="2007-06-04 23:51:24 +0500" type="norm" dbname="box26236" last-modified-by="127" %}
+{% include box-open.html box-id="2992" title="Music Videos" author-id="137" timestamp="2007-06-05 04:51:24 +0000" type="norm" dbname="box26236" last-modified-by="127" %}
 <ul class="pics">	
 <div style="float: left; padding: 0px 10px 0px 0px;"><li>
 		<youtube vid="8dQOlFPKf40" height="250" width="300" />
@@ -93,4 +93,4 @@ by <a href="http://youtube.com/user/BizzarreProductions">BizzarreProductions</a>
 	</li></div>	
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="Jonk" last-modified-on="2012-08-19 10:42:31 +0500" last-modified-by-name="stoicmani" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2012-08-19 15:42:31 +0000" last-modified-by-name="stoicmani" %}

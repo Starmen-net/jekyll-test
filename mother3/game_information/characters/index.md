@@ -2,9 +2,9 @@
 title: Characters
 categories:
   - mother3
-date: 2017-07-12 16:00:30 +0500
+date: 2017-07-12 21:00:30 +0000
 ---
-{% include box-open.html box-id="5545" title="Overview:" author-id="28590" timestamp="2020-12-17 17:08:23 +0600" type="norm" dbname="box29851" last-modified-by="127" %}
+{% include box-open.html box-id="5545" title="Overview" author-id="28590" timestamp="2020-12-17 23:08:23 +0000" type="norm" dbname="box29851" last-modified-by="127" %}
 This page is dedicated to the main cast of MOTHER 3. A briefly summary is given of the character's history, though some are a bit more rich than others.
 
 <br /><br />
@@ -13,9 +13,9 @@ Do keep in mind, <font size="3"><b>there are end-game spoilers present on this p
 <br /><br />
 
 To find the full chart of the character's PSI info, please take a <a href="http://starmen.net/mother3/game_information/characters/psi.php" >gander here. </a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 17:20:41 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 23:20:41 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5082" title="Lucas:" author-id="28590" timestamp="2017-07-12 16:00:30 +0500" type="norm" dbname="box3057" last-modified-by="127" %}
+{% include box-open.html box-id="5082" title="Lucas" author-id="28590" timestamp="2017-07-12 21:00:30 +0000" type="norm" dbname="box3057" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -43,9 +43,9 @@ Although he possesses tremendous PSI potential and can hit hard with his Sticks,
 <a href="thumb_lucas4.png" title="Uh oh"><img src="thumb_lucas4.png" width="50" height="50" /></a>
 </center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:30:50 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:30:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5120" title="Claus:" author-id="28590" timestamp="2018-01-27 20:02:55 +0600" type="norm" dbname="box23121" last-modified-by="127" %}
+{% include box-open.html box-id="5120" title="Claus" author-id="28590" timestamp="2018-01-28 02:02:55 +0000" type="norm" dbname="box23121" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -75,9 +75,9 @@ Claus, like his brother, possesses the potential for PSI, although the extent of
 
 <a href="thumb_claus4.png" title="Uh oh"><img src="thumb_claus4.png" width="50" height="50" /></a>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:31:22 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:31:22 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5296" title="Flint:" author-id="28590" timestamp="2018-06-16 14:10:02 +0500" type="norm" dbname="box58457" last-modified-by="127" %}
+{% include box-open.html box-id="5296" title="Flint" author-id="28590" timestamp="2018-06-16 19:10:02 +0000" type="norm" dbname="box58457" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -107,9 +107,9 @@ Flint, unlike his sons, does not wield PSI, but makes up for it with his Brute F
 
 <a href="thumb_flint4.png" title="Uh oh"><img src="thumb_flint4.png" width="50" height="50" /></a>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:32:24 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:32:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5297" title="Boney:" author-id="28590" timestamp="2018-06-16 14:11:50 +0500" type="norm" dbname="box21648" last-modified-by="127" %}
+{% include box-open.html box-id="5297" title="Boney" author-id="28590" timestamp="2018-06-16 19:11:50 +0000" type="norm" dbname="box21648" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -135,9 +135,9 @@ Boney wears his dog collars with pride, even into the heat of battle, and makes 
 <a href="thumb_boney3.png" title="Rest in Peace"><img src="thumb_boney3.png" width="50" height="50" /></a>
 
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:32:07 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:32:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5298" title="Duster:" author-id="28590" timestamp="2018-06-16 14:15:31 +0500" type="norm" dbname="box47947" last-modified-by="127" %}
+{% include box-open.html box-id="5298" title="Duster" author-id="28590" timestamp="2018-06-16 19:15:31 +0000" type="norm" dbname="box47947" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -168,9 +168,9 @@ Duster takes a unique, even artistic approach to battle, utilizing the Thief Tri
 
 <a href="thumb_duster4.png" title="Rest in Peace"><img src="thumb_duster4.png" width="50" height="50" /></a>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:34:50 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:34:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5299" title="Kumatora:" author-id="28590" timestamp="2018-06-16 14:17:45 +0500" type="norm" dbname="box43682" last-modified-by="127" %}
+{% include box-open.html box-id="5299" title="Kumatora" author-id="28590" timestamp="2018-06-16 19:17:45 +0000" type="norm" dbname="box43682" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -201,9 +201,9 @@ Fittingly for one raised by the Magypsies, Kumatora’s PSI is exceptionally pot
 
 <a href="thumb_kumatora4.png" title="Rest in Peace"><img src="thumb_kumatora4.png" width="50" height="50" /></a>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:33:13 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:33:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5300" title="Salsa:" author-id="28590" timestamp="2018-06-16 14:25:30 +0500" type="norm" dbname="box37035" last-modified-by="127" %}
+{% include box-open.html box-id="5300" title="Salsa" author-id="28590" timestamp="2018-06-16 19:25:30 +0000" type="norm" dbname="box37035" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -234,9 +234,9 @@ What Salsa lacks in offensive power, he makes up for with his Monkey Tricks, ser
 
 <a href="thumb_salsa4.png" title="Rest in Peace"><img src="thumb_salsa4.png" width="50" height="50" /></a>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:33:33 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:33:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5301" title="Hinawa:" author-id="28590" timestamp="2018-06-16 14:26:03 +0500" type="norm" dbname="box38943" last-modified-by="127" %}
+{% include box-open.html box-id="5301" title="Hinawa" author-id="28590" timestamp="2018-06-16 19:26:03 +0000" type="norm" dbname="box38943" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -264,9 +264,9 @@ Nippolyte digs a very fine grave for her -- right next to a patch of sunflowers,
 <a href="thumb_hinawa3.png" title="Rest in Peace"><img src="thumb_hinawa3.png" width="50" height="50" /></a>
 
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:34:01 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:34:01 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5302" title="The People of Tazmily:" author-id="28590" timestamp="2018-06-16 14:26:06 +0500" type="norm" dbname="box37044" last-modified-by="127" %}
+{% include box-open.html box-id="5302" title="The People of Tazmily" author-id="28590" timestamp="2018-06-16 19:26:06 +0000" type="norm" dbname="box37044" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -1101,9 +1101,9 @@ When the time comes, Leder informs the protagonists of things they probably did 
 </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:49:12 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:49:12 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5541" title="Animals:" author-id="28590" timestamp="2020-12-17 16:50:00 +0600" type="norm" dbname="box15876" last-modified-by="127" %}
+{% include box-open.html box-id="5541" title="Animals" author-id="28590" timestamp="2020-12-17 22:50:00 +0000" type="norm" dbname="box15876" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -1156,9 +1156,9 @@ Samba is Salsa’s “love-monkey”, but is separated from him by the Pigmask A
 </table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 16:56:05 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 22:56:05 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5542" title="Magyspies:" author-id="28590" timestamp="2020-12-17 16:56:21 +0600" type="norm" dbname="box53579" last-modified-by="127" %}
+{% include box-open.html box-id="5542" title="Magyspies" author-id="28590" timestamp="2020-12-17 22:56:21 +0000" type="norm" dbname="box53579" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -1266,9 +1266,9 @@ Ionia has been especially involved in raising Kumatora as an orphan to who she i
 </table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 17:00:49 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 23:00:49 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5543" title="Allies:" author-id="28590" timestamp="2020-12-17 16:56:40 +0600" type="norm" dbname="box20641" last-modified-by="127" %}
+{% include box-open.html box-id="5543" title="Allies" author-id="28590" timestamp="2020-12-17 22:56:40 +0000" type="norm" dbname="box20641" last-modified-by="127" %}
 
 <table class="fixed">
     <col width="250px" />
@@ -1304,9 +1304,9 @@ Dr. Andonuts returns from EarthBound, apparently having arrived on the Nowhere I
 </table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 17:03:12 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 23:03:12 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5544" title="Enemies:" author-id="28590" timestamp="2020-12-17 17:03:17 +0600" type="norm" dbname="box13119" last-modified-by="127" %}
+{% include box-open.html box-id="5544" title="Enemies" author-id="28590" timestamp="2020-12-17 23:03:17 +0000" type="norm" dbname="box13119" last-modified-by="127" %}
 <table class="fixed">
     <col width="250px" />
     <col width="1500px" />
@@ -1394,4 +1394,4 @@ Porky remains confident that defeating him is impossible, constantly pointing ou
 </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 17:07:26 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2020-12-17 23:07:26 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: 'ART DEPT: GORLF Shirt'
 categories:
   - merchandise
-date: 2009-05-10 20:41:54 +0500
+date: 2009-05-11 01:41:54 +0000
 ---
-{% include box-open.html box-id="3732" title="ART DEPT: GORLF Shirt:" author-id="45" timestamp="2009-05-10 20:41:54 +0500" type="norm" dbname="box36931" last-modified-by="45" %}
+{% include box-open.html box-id="3732" title="ART DEPT: GORLF Shirt" author-id="45" timestamp="2009-05-11 01:41:54 +0000" type="norm" dbname="box36931" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_artdpt_title.png" border="0" alt="ART DEPT: GORLF Shirt" />
 	</center>
@@ -24,4 +24,4 @@ date: 2009-05-10 20:41:54 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_artdpt_front.jpg">Front</a> - <a href="/merchandise/images/smn_artdpt_front.jpg">Back</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:20:40 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:20:40 +0000" last-modified-by-name="ShadowX" %}

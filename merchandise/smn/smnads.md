@@ -2,9 +2,9 @@
 title: SMN ART DEPT SITKCOR
 categories:
   - merchandise
-date: 2005-01-03 23:39:28 +0600
+date: 2005-01-04 05:39:28 +0000
 ---
-{% include box-open.html box-id="376" title="SMN ART DEPT SITKCOR:" author-id="45" timestamp="2005-01-03 23:39:28 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="376" title="SMN ART DEPT SITKCOR" author-id="45" timestamp="2005-01-04 05:39:28 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_smnads_title.png" border="0" alt="SMN ART DEPT SITKCOR" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 23:39:28 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_smnads_sticker.jpg">Sticker</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:39:37 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:39:37 +0000" last-modified-by-name="ShadowX" %}

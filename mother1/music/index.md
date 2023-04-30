@@ -2,9 +2,9 @@
 title: MOTHER / EarthBound Zero Music
 categories:
   - mother1
-date: 2007-06-19 21:19:33 +0500
+date: 2007-06-20 02:19:33 +0000
 ---
-{% include box-open.html box-id="3053" title="MOTHER / EarthBound Zero Music:" author-id="288" timestamp="2007-06-19 21:19:33 +0500" type="norm" dbname="box54438" last-modified-by="127" %}
+{% include box-open.html box-id="3053" title="MOTHER / EarthBound Zero Music" author-id="288" timestamp="2007-06-20 02:19:33 +0000" type="norm" dbname="box54438" last-modified-by="127" %}
 <b>NOTE:</b> These MP3 files were made from NSF rips, so they're not 100% accurate, but they should be close enough for most people to enjoy.<br /><br />
 
 <b><u>NOTE:</u></b> Fan-made remixes and other such music can be found in the <a href="/fanmusic">Fan Music section</a>.
@@ -56,4 +56,4 @@ date: 2007-06-19 21:19:33 +0500
 <table3 />
 <br /><br />
 <a href="MOTHER_Music_Archive.zip">.zip file containing all the above MP3s!</a> (32 MB)
-{% include box-close.html author-name="Tomato" last-modified-on="2016-11-26 00:45:45 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2016-11-26 06:45:45 +0000" last-modified-by-name="CerealQueen" %}

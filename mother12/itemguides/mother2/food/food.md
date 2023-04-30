@@ -2,9 +2,9 @@
 title: Mother 2 Item Guide
 categories:
   - mother12
-date: 2004-12-25 00:17:19 +0600
+date: 2004-12-25 06:17:19 +0000
 ---
-{% include box-open.html box-id="149" title="All Food and Medicine:" author-id="288" timestamp="2004-12-25 00:17:19 +0600" type="norm" last-modified-by="127" %}
+{% include box-open.html box-id="149" title="All Food and Medicine" author-id="288" timestamp="2004-12-25 06:17:19 +0000" type="norm" last-modified-by="127" %}
 <center>
 <B><I><U>Basic Foods:</U></I></B>
 <br /><br /><img src="basicfood.jpg" /><BR />
@@ -15,4 +15,4 @@ date: 2004-12-25 00:17:19 +0600
 <br /><br /><B><I><U>Medicines & Pills:</U></I></B>
 <br /><br /><img src="medicine.jpg" />
 </center>
-{% include box-close.html author-name="Tomato" last-modified-on="2004-12-25 00:22:18 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2004-12-25 06:22:18 +0000" last-modified-by-name="Tomato" %}

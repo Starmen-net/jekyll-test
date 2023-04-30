@@ -2,9 +2,9 @@
 title: Trivia Hall of Fame
 categories:
   - trivia
-date: 2011-10-19 15:17:07 +0500
+date: 2011-10-19 20:17:07 +0000
 ---
-{% include box-open.html box-id="4072" title="Scoring Scheme:" author-id="12306" timestamp="2011-10-26 18:38:44 +0500" type="norm" dbname="box49758" last-modified-by="127" %}
+{% include box-open.html box-id="4072" title="Scoring Scheme" author-id="12306" timestamp="2011-10-26 23:38:44 +0000" type="norm" dbname="box49758" last-modified-by="127" %}
 <p>Here's the current scoring setup:</p>
 
 <p><img src="Butterfly.png" alt="1 point!" /> - 1 point.</p>
@@ -13,9 +13,9 @@ date: 2011-10-19 15:17:07 +0500
 <p><img src="Question.png" alt="50 points!?!" /> - 50 points?</p>
 
 <p>Unlock the next icon by getting enough points to earn it!  Are you a bad enough dude to earn 50 entries to the Hall of Fame?</p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-01-05 02:36:23 +0600" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-01-05 08:36:23 +0000" last-modified-by-name="aurilliux" %}
 
-{% include box-open.html box-id="4070" title="Top 10!:" author-id="12306" timestamp="2011-10-26 13:19:53 +0500" type="norm" dbname="box48018" last-modified-by="127" %}
+{% include box-open.html box-id="4070" title="Top 10!" author-id="12306" timestamp="2011-10-26 18:19:53 +0000" type="norm" dbname="box48018" last-modified-by="127" %}
 <p>The ten (or so) participants with the highest total number of wins are listed here.  Congratulations to you, and keep up the good work.  For those of you not on this list, be sure to <a href="../index.php#questions">keep trying</a>!</p>
 
 <p><b>No. 1:  Captain Bozo, Miles of Smashwiki, Strawberry Tofu -- 20 points</b><br />
@@ -28,9 +28,9 @@ date: 2011-10-19 15:17:07 +0500
 <b>No. 8: </b> Bluwiikoon, fed306, Lord Bob Bree -- 7 points<br />
 
 </p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-19 10:15:57 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-19 15:15:57 +0000" last-modified-by-name="aurilliux" %}
 
-{% include box-open.html box-id="4056" title="Members:" author-id="12306" timestamp="2011-10-19 15:17:07 +0500" type="norm" dbname="box17368" last-modified-by="127" %}
+{% include box-open.html box-id="4056" title="Members" author-id="12306" timestamp="2011-10-19 20:17:07 +0000" type="norm" dbname="box17368" last-modified-by="127" %}
 <p><!--Skip to letter section?-->
 <center>
 <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
@@ -159,4 +159,4 @@ zzzingbird: <img src="Butterfly.png" alt="1 point!" /><img src="Butterfly.png" a
 
 
 <p>If you're looking for the old hall of fame, it has been saved <a href="../hof/">here</a>.</p>
-{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-19 10:20:22 +0500" last-modified-by-name="aurilliux" %}
+{% include box-close.html author-name="aurilliux" last-modified-on="2012-04-19 15:20:22 +0000" last-modified-by-name="aurilliux" %}

@@ -4,9 +4,9 @@ title: >-
   Monkey
 categories:
   - merchandise
-date: 2011-02-26 17:42:38 +0600
+date: 2011-02-26 23:42:38 +0000
 ---
-{% include box-open.html box-id="3964" title="MOTHER 2 Mini Figure Collection 3: Ness, Poo, Porky, Picky, & Bubble Monkey:" author-id="45" timestamp="2011-02-26 17:42:38 +0600" type="norm" dbname="box37" last-modified-by="127" %}
+{% include box-open.html box-id="3964" title="MOTHER 2 Mini Figure Collection 3: Ness, Poo, Porky, Picky, & Bubble Monkey" author-id="45" timestamp="2011-02-26 23:42:38 +0000" type="norm" dbname="box37" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -71,4 +71,4 @@ In September of 2010 Banpresto started stocking UFO crane catching games with MO
 <a href="/merchandise/images/m2mfc3_box_side1.jpg" ><img src="/merchandise/images/m2mfc3_box_side1.jpg" title="MOTHER 2 Mini Figure Collection 3: Box (Side 1)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2mfc3_box_side2.jpg" ><img src="/merchandise/images/m2mfc3_box_side2.jpg" title="MOTHER 2 Mini Figure Collection 3: Box (Side 2)" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:05:57 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:05:57 +0000" last-modified-by-name="Tomato" %}

@@ -2,9 +2,9 @@
 title: Site Information - Banners
 categories:
   - siteinfo
-date: 2006-04-07 12:48:00 +0500
+date: 2006-04-07 17:48:00 +0000
 ---
-{% include box-open.html box-id="2180" title="New, Improved Banners:" author-id="247" timestamp="2006-04-07 12:48:00 +0500" type="norm" dbname="box21669" last-modified-by="127" %}
+{% include box-open.html box-id="2180" title="New, Improved Banners" author-id="247" timestamp="2006-04-07 17:48:00 +0000" type="norm" dbname="box21669" last-modified-by="127" %}
 <p>
 After the Starmen.net Banner Contest 2006, we have obtained many new, incredible banners for use on websites that are kind enough to use a banner linking to Starmen.net.  Unlike the banner contest held in 2000, this contest was expanded for not only horizontal banners, but also for vertical, button, and micro-style banners, categorized by size, for more than just one winner.
 </p>
@@ -15,9 +15,9 @@ Below are the winners, in Horizontal, Vertical, Button, Micro, and Set categorie
 
 <p>Thanks to everyone who participated in our banner contest, it's people like you who keep the community alive and kicking outside of the forums.
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 16:37:26 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:37:26 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2185" title="Banner Set Winners:" author-id="247" timestamp="2006-04-07 13:02:28 +0500" type="norm" dbname="box36444" last-modified-by="127" %}
+{% include box-open.html box-id="2185" title="Banner Set Winners" author-id="247" timestamp="2006-04-07 18:02:28 +0000" type="norm" dbname="box36444" last-modified-by="127" %}
 <p>
 Sets are made for the full immersion of bannerness on a website, so a consistent theme can be made.  If you want to use all sizes on your website, nstead of using four random banners that look nothing alike, these make great alternatives.<br /><br />
 </p>
@@ -95,9 +95,9 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 </tr>
 </table>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 16:39:06 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:39:06 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2184" title="Micro Banner Winners:" author-id="247" timestamp="2006-04-07 13:02:27 +0500" type="norm" dbname="box16984" last-modified-by="127" %}
+{% include box-open.html box-id="2184" title="Micro Banner Winners" author-id="247" timestamp="2006-04-07 18:02:27 +0000" type="norm" dbname="box16984" last-modified-by="127" %}
 <p>
 1st Place - Mr. Spoon<br />
 <img src="http://starmen.net/siteinfo/banners/images/individual/mrspoon-micro.png" />
@@ -116,9 +116,9 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 3rd Place - Radiation<br />
 <img src="http://starmen.net/siteinfo/banners/images/individual/radiation-micro.png" />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 16:38:43 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:38:43 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2183" title="Button Banner Winners:" author-id="247" timestamp="2006-04-07 13:02:26 +0500" type="norm" dbname="box53597" last-modified-by="127" %}
+{% include box-open.html box-id="2183" title="Button Banner Winners" author-id="247" timestamp="2006-04-07 18:02:26 +0000" type="norm" dbname="box53597" last-modified-by="127" %}
 <p>
 1st Place - Firegirl<br />
 <img src="http://starmen.net/siteinfo/banners/images/individual/firegirl-button.gif" />
@@ -137,9 +137,9 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 3rd Place - Cap'n Crunch + Erik<br />
 <img src="http://starmen.net/siteinfo/banners/images/individual/capncrunch-button.jpg" />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 17:08:26 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 22:08:26 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2181" title="Horizontal Banner Winners:" author-id="247" timestamp="2006-04-07 13:02:24 +0500" type="norm" dbname="box28630" last-modified-by="127" %}
+{% include box-open.html box-id="2181" title="Horizontal Banner Winners" author-id="247" timestamp="2006-04-07 18:02:24 +0000" type="norm" dbname="box28630" last-modified-by="127" %}
 <p>
 1st Place - kakashi0freak<br />
 <img src="http://starmen.net/siteinfo/banners/images/individual/kakashi0freak-horizontal.png" />
@@ -158,9 +158,9 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 3rd Place - Cappucino<br />
 <img src="http://starmen.net/siteinfo/banners/images/individual/cappucino-horizontal.png" />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 16:37:42 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:37:42 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2182" title="Vertical Banner Winners:" author-id="247" timestamp="2006-04-07 13:02:25 +0500" type="norm" dbname="box18527" last-modified-by="127" %}
+{% include box-open.html box-id="2182" title="Vertical Banner Winners" author-id="247" timestamp="2006-04-07 18:02:25 +0000" type="norm" dbname="box18527" last-modified-by="127" %}
 <p>
 Vertical was, admittedly, the category with the lowest turnout.  The only other banner after these two was also part of a set, and therefore disqualified from this category.
 </p>
@@ -179,12 +179,12 @@ Vertical was, admittedly, the category with the lowest turnout.  The only other 
 </TR>
 </TABLE>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2008-12-10 12:27:17 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2008-12-10 18:27:17 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="2190" title="The Non-Placers:" author-id="247" timestamp="2006-04-07 15:46:18 +0500" type="norm" dbname="box6377" last-modified-by="127" %}
+{% include box-open.html box-id="2190" title="The Non-Placers" author-id="247" timestamp="2006-04-07 20:46:18 +0000" type="norm" dbname="box6377" last-modified-by="127" %}
 <p>
 For those that didn't place, we'll always have a shrine for you here on <a href="http://starmen.net/siteinfo/banners/nonplacers.php">this page</a>.
 <br /><br />
 Also, you can view the older banners by clicking <a href="http://starmen.net/siteinfo/banners.php">here</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-06-11 16:51:05 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-06-11 21:51:05 +0000" last-modified-by-name="Artemis251" %}

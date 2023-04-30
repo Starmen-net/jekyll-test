@@ -2,17 +2,17 @@
 title: EarthBound 64 Fact Refresher
 categories:
   - eb64
-date: 2006-02-28 20:32:46 +0600
+date: 2006-03-01 02:32:46 +0000
 ---
-{% include box-open.html box-id="1991" title="EarthBound 64 Fact Refresher:" author-id="288" timestamp="2006-02-28 20:32:46 +0600" type="norm" dbname="box55203" last-modified-by="127" %}
+{% include box-open.html box-id="1991" title="EarthBound 64 Fact Refresher" author-id="288" timestamp="2006-03-01 02:32:46 +0000" type="norm" dbname="box55203" last-modified-by="127" %}
 With the new Mother 3 for Game Boy Advance coming out, the cancelled EarthBound 64 could use some more attention. A lot of facts and rumors never really left Japan's shores, so Starmen.Net will be refreshing people's memories and possibly giving new information about this ill-fated game.
 <BR /><BR />
 Most of this information is summarized and para-translated from the excellent Japanese site, <A HREF="http://charapit.com/mother/n64/index.htm">Chimera's Forest</A>. There's a LOT of information to go through, so these refresher pages will be updated a chunk at a time.
 <BR /><BR />
 <A HREF="http://forum.starmen.net/?t=msg&th=21148">DISCUSS ALL THIS ON THE FORUMS!</A>
-{% include box-close.html author-name="Tomato" last-modified-on="2006-02-28 20:38:19 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-01 02:38:19 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="1993" title="Mother 3 Introduction:" author-id="288" timestamp="2006-02-28 20:39:28 +0600" type="norm" dbname="box4238" last-modified-by="127" %}
+{% include box-open.html box-id="1993" title="Mother 3 Introduction" author-id="288" timestamp="2006-03-01 02:39:28 +0000" type="norm" dbname="box4238" last-modified-by="127" %}
 Title: Mother 3 - Fall of the Pig King<BR />
 Made By: Nintendo<BR />
 Genre: RPG<BR />
@@ -21,9 +21,9 @@ Price: 6800 yen<BR />
 Media: N64 Cartridge<BR />
 Game Size (Mb): Unknown<BR />
 Rumble Pak Compatible
-{% include box-close.html author-name="Tomato" last-modified-on="2006-02-28 20:53:06 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-01 02:53:06 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="1992" title="Basic Mother 3 History:" author-id="288" timestamp="2006-02-28 20:38:21 +0600" type="norm" dbname="box1113" last-modified-by="127" %}
+{% include box-open.html box-id="1992" title="Basic Mother 3 History" author-id="288" timestamp="2006-03-01 02:38:21 +0000" type="norm" dbname="box1113" last-modified-by="127" %}
 Mother 3 for the Nintendo 64 was first publically announced around 1996. In 1997, screenshots and the game's subtitle - "Chimera's Forest"  - were revealed. It seemed like the game was on the road to being completed, but after that, information on the game pretty much dried up.
 <BR /><BR />
 The subtitle was later changed to "The Fall of the Pig King", and the game was now scheduled to be a regular N64 cartridge game instead of a N64 Disk Drive game.
@@ -31,9 +31,9 @@ The subtitle was later changed to "The Fall of the Pig King", and the game was n
 In 1999, it could be found in playable demo form at <A HREF="/eb64/spaceworld">Nintendo's annual Spaceworld event</A>. That was the last time it was ever shown off; the game was cancelled in August of 2000.
 <BR /><BR />
 In April of 2003, news about Mother 3 re-emerged, but it was now being developed for the Game Boy Advance. For more information about this GBA game, check out the Mother 3 section.
-{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 17:42:14 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 23:42:14 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="1994" title="Mother 3 and the Nintendo 64 Disk Drive:" author-id="288" timestamp="2006-02-28 20:40:42 +0600" type="norm" dbname="box20735" last-modified-by="127" %}
+{% include box-open.html box-id="1994" title="Mother 3 and the Nintendo 64 Disk Drive" author-id="288" timestamp="2006-03-01 02:40:42 +0000" type="norm" dbname="box20735" last-modified-by="127" %}
 Mother 3 was originally intended to be for the 64DD accessory for the Nintendo 64 system. The benefits of the 64DD was that games could be bigger, and lots more data could be saved to them than on regular N64 cartridges. Save files could be hundreds or thousands of times bigger, meaning much more interactive worlds.
 <BR /><BR />
 The system also included a built-in clock which games could use to keep track of time. This meant that games could sort of take place in real-time, much like the Animal Crossing games of today. An example of the clock's usefulness was this: a player could plant a seed in a field, and over time it would slowly grow. You could turn the game off for a long time or come back much later and the tree might be big enough to enter a new area or the like. Mother 3 was intended to use this to make towns and the world much more lively.
@@ -43,9 +43,9 @@ Mother 3 was reliant on the 64DD being released, but the 64DD was also reliant o
 The 64DD was pushed so far back that it wasn't released until almost the same time the PS2 came out. All the main titles for the 64DD system had already been moved to cartridge form, so by the time it was released, it was already dead in the water.
 <BR /><BR />
 Then, in August of 2000, half a year after the 64DD's release, Mother 3 was cancelled. Three months later in November, the 64DD was discontinued. And so both versions of the game wound up dead and destined never to be played by users.
-{% include box-close.html author-name="Tomato" last-modified-on="2006-02-28 20:41:21 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-01 02:41:21 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="1995" title="The Game and the Game World:" author-id="288" timestamp="2006-02-28 20:41:23 +0600" type="norm" dbname="box50669" last-modified-by="127" %}
+{% include box-open.html box-id="1995" title="The Game and the Game World" author-id="288" timestamp="2006-03-01 02:41:23 +0000" type="norm" dbname="box50669" last-modified-by="127" %}
 <B><U>Chapter System:</U></B><BR />
 Mother 3 was broken into chapters, and in each one would have different main characters. But they weren't indepedent of each other; sometimes you might run across characters from other chapters or see some events from different people's perspectives.
 <BR /><BR />
@@ -115,9 +115,9 @@ There were some rare sketches located on Nintendo of America's site for a while.
 <BR /><BR />
 <B><U>Saturn Valley:</U></B><BR />
 Benimaru "Ashura" Itoh mentioned this very quickly in an interview. Supposedly <A HREF="/eb64/images/characters/mrsaturn.jpg">Mr. Saturns also appear</A> in this third game, and just like last time, they live in a "Mr. Saturn Village" in a valley. What's more, there were supposedly other "touching characters" besides Mr. Saturn in the game.
-{% include box-close.html author-name="Tomato" last-modified-on="2006-04-12 22:56:56 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-04-13 03:56:56 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2106" title="Game Characters:" author-id="288" timestamp="2006-03-20 12:21:03 +0600" type="norm" dbname="box10292" last-modified-by="127" %}
+{% include box-open.html box-id="2106" title="Game Characters" author-id="288" timestamp="2006-03-20 18:21:03 +0000" type="norm" dbname="box10292" last-modified-by="127" %}
 <B><U><A HREF="/eb64/images/madflint.jpg">Flint</A></U></B><BR />
 The first main character. He's the father of his twin sons, Lucas (another main character) and Claus. He has a subdued sort of outer appearance. He seems to have a young and beautiful wife (but this could have changed) and plays a sort of leader-type role in Tatsumairi Village. Apparently he's a much nicer guy than he looks.
 <BR /><BR />
@@ -162,4 +162,4 @@ Then there's <A HREF="/eb64/images/characters/yosaku.jpg">Yosaku</A>, a really b
 <BR /><BR />
 <B><U><A HREF="/eb64/images/clay1.jpg">Clay People</A></U></B><BR />
 These green clay-like people are supposedly being forced to do slave labor for the pig army. It's unknown if they literally are made of clay or are just people turned into monsters. Very little is known about these guys.
-{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 23:28:33 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-21 05:28:33 +0000" last-modified-by-name="Tomato" %}

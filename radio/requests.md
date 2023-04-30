@@ -2,9 +2,9 @@
 title: Radio PSI - How to Request
 categories:
   - radio
-date: 2006-02-24 21:23:50 +0600
+date: 2006-02-25 03:23:50 +0000
 ---
-{% include box-open.html box-id="1953" title="Ooh a page on how to request a song!:" author-id="247" timestamp="2006-02-24 21:23:50 +0600" type="norm" dbname="box42277" last-modified-by="127" %}
+{% include box-open.html box-id="1953" title="Ooh a page on how to request a song!" author-id="247" timestamp="2006-02-25 03:23:50 +0000" type="norm" dbname="box42277" last-modified-by="127" %}
 <p>
 Sending your request through e-mail is the best way, just make sure to include an mp3 unless you're sure the DJ has it.  If you have a request for a song a DJ doesn't have, and you can't send it to them, don't expect the DJ to find it themself!  That being said, send in those requests!
 </p>
@@ -91,4 +91,4 @@ All DJs use GMail at present, so just substitute the names below into "DJNAMEHER
 </tr>
 
 </table>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-31 13:39:54 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-10-31 18:39:54 +0000" last-modified-by-name="cyan683" %}

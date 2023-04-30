@@ -2,9 +2,9 @@
 title: Starmen.Net Insignia Keychain
 categories:
   - merchandise
-date: 2007-06-19 20:38:02 +0500
+date: 2007-06-20 01:38:02 +0000
 ---
-{% include box-open.html box-id="3050" title="Starmen.Net Insignia Keychain:" author-id="45" timestamp="2007-06-19 20:38:02 +0500" type="norm" dbname="box18522" last-modified-by="45" %}
+{% include box-open.html box-id="3050" title="Starmen.Net Insignia Keychain" author-id="45" timestamp="2007-06-20 01:38:02 +0000" type="norm" dbname="box18522" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smnkeychain_title.png" border="0" alt="Starmen.Net Insignia Keychain" />
 	</center>
@@ -31,4 +31,4 @@ date: 2007-06-19 20:38:02 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smnkeychain_front.jpg">Front</a> - <a href="/merchandise/images/smnkeychain_size.jpg">Size</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-06-19 23:29:02 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-06-20 04:29:02 +0000" last-modified-by-name="ShadowX" %}

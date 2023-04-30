@@ -2,9 +2,9 @@
 title: 'Game Credits: SNES Games'
 categories:
   - credits
-date: 2005-05-03 23:40:32 +0500
+date: 2005-05-04 04:40:32 +0000
 ---
-{% include box-open.html box-id="1643" title="Super Family Computer - MOTHER 2 Credits:" author-id="2262" timestamp="2005-10-19 21:06:59 +0500" type="norm" dbname="box47149" last-modified-by="127" %}
+{% include box-open.html box-id="1643" title="Super Family Computer - MOTHER 2 Credits" author-id="2262" timestamp="2005-10-20 02:06:59 +0000" type="norm" dbname="box47149" last-modified-by="127" %}
 <table width="100%">
 <tr valign="top">
 <td width="50%">
@@ -240,9 +240,9 @@ date: 2005-05-03 23:40:32 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 16:10:11 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 21:10:11 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="999" title="Super Nintendo Entertainment System - EarthBound Credits:" author-id="2262" timestamp="2005-05-03 23:40:32 +0500" type="norm" dbname="box25719" last-modified-by="127" %}
+{% include box-open.html box-id="999" title="Super Nintendo Entertainment System - EarthBound Credits" author-id="2262" timestamp="2005-05-04 04:40:32 +0000" type="norm" dbname="box25719" last-modified-by="127" %}
 <table width="100%">
 <tr valign="top">
 <td width="50%">
@@ -486,4 +486,4 @@ date: 2005-05-03 23:40:32 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 18:29:06 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 23:29:06 +0000" last-modified-by-name="KingDarian" %}

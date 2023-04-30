@@ -2,9 +2,9 @@
 title: Tricks - Walk Through Walls 2
 categories:
   - mother2
-date: 2006-04-02 13:38:48 +0500
+date: 2006-04-02 18:38:48 +0000
 ---
-{% include box-open.html box-id="2163" title="Walk Through Walls 2:" author-id="75" timestamp="2006-04-02 13:38:48 +0500" type="norm" dbname="box37459" last-modified-by="75" %}
+{% include box-open.html box-id="2163" title="Walk Through Walls 2" author-id="75" timestamp="2006-04-02 18:38:48 +0000" type="norm" dbname="box37459" last-modified-by="75" %}
       Hey, it's me, Mars.  A lot of time has passed since I released the
       legendary Walk Through Walls code.  I wanted to make a new document
       that would help newcomers exploit this code to the fullest.
@@ -150,4 +150,4 @@ date: 2006-04-02 13:38:48 +0500
       Most importantly, you can have a blast.  Please do.<p />
 
 - Mars</p>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 13:51:16 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 18:51:16 +0000" last-modified-by-name="PoeTrader" %}

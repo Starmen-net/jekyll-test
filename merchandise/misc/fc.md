@@ -2,9 +2,9 @@
 title: Family Computer 1983-1994
 categories:
   - merchandise
-date: 2005-01-03 21:08:38 +0600
+date: 2005-01-04 03:08:38 +0000
 ---
-{% include box-open.html box-id="337" title="Family Computer 1983-1994:" author-id="45" timestamp="2005-01-03 21:08:38 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="337" title="Family Computer 1983-1994" author-id="45" timestamp="2005-01-04 03:08:38 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/fc_title.jpg" border="0" alt="Family Computer 1983-1994" />
 	</center>
@@ -35,4 +35,4 @@ date: 2005-01-03 21:08:38 +0600
 	<a href="/merchandise/images/fc_mother.jpg">Mother</a> - <a href="/merchandise/images/fc_interview1.jpg">Interview 1</a> - <a href="/merchandise/images/fc_interview2.jpg">Interview 2</a> - 
 	<a href="/merchandise/images/fc_interview3.jpg">Interview 3</a> - <a href="/merchandise/images/fc_interview4.jpg">Interview 4</a> - <a href="/merchandise/images/fc_interview5.jpg">Interview 5</a> - 
 	<a href="/merchandise/images/fc_interview6.jpg">Interview 6</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:08:59 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:08:59 +0000" last-modified-by-name="ShadowX" %}

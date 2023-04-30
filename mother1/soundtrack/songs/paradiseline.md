@@ -2,9 +2,9 @@
 title: The Paradise Line &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-24 21:13:19 +0600
+date: 2010-11-25 03:13:19 +0000
 ---
-{% include box-open.html box-id="3920" title="Production Credits:" author-id="307" timestamp="2010-11-24 21:13:19 +0600" type="norm" dbname="box64495" last-modified-by="127" %}
+{% include box-open.html box-id="3920" title="Production Credits" author-id="307" timestamp="2010-11-25 03:13:19 +0000" type="norm" dbname="box64495" last-modified-by="127" %}
 THE PARADISE LINE
 
 <table>
@@ -45,9 +45,9 @@ THE PARADISE LINE
 <td>BOB ANDREWS</td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:15:26 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:15:26 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3921" title="Lyrics:" author-id="307" timestamp="2010-11-24 21:15:31 +0600" type="norm" dbname="box24106" last-modified-by="127" %}
+{% include box-open.html box-id="3921" title="Lyrics" author-id="307" timestamp="2010-11-25 03:15:31 +0000" type="norm" dbname="box24106" last-modified-by="127" %}
 The Paradise Special's<br />
 Pullin' into the station<br />
 Hurry up gotta get on board<br />
@@ -99,4 +99,4 @@ Leave your sadness behind<br />
 We can ride away forever you and I<br />
 Yeah forever<br />
 Takin' the Paradise Line<br />
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:17:33 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:17:33 +0000" last-modified-by-name="LiarXAgerate" %}

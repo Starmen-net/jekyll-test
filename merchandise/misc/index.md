@@ -2,9 +2,9 @@
 title: Miscellaneous
 categories:
   - merchandise
-date: 2005-01-03 20:35:31 +0600
+date: 2005-01-04 02:35:31 +0000
 ---
-{% include box-open.html box-id="312" title="EarthBound:" author-id="45" timestamp="2005-01-03 20:35:31 +0600" type="norm" dbname="box46597" last-modified-by="45" %}
+{% include box-open.html box-id="312" title="EarthBound" author-id="45" timestamp="2005-01-04 02:35:31 +0000" type="norm" dbname="box46597" last-modified-by="45" %}
 <table1 />
 
 	<a href="cheesestrings.php">Cheesestrings Ness Card</a><br />
@@ -29,9 +29,9 @@ date: 2005-01-03 20:35:31 +0600
 	02/09/02<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2008-02-23 02:40:36 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2008-02-23 08:40:36 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2807" title="Mother:" author-id="45" timestamp="2007-01-22 08:44:45 +0600" type="norm" dbname="box49403" last-modified-by="45" %}
+{% include box-open.html box-id="2807" title="Mother" author-id="45" timestamp="2007-01-22 14:44:45 +0000" type="norm" dbname="box49403" last-modified-by="45" %}
 <table1 />
 
 	<a href="fpvnh.php">Famicom Perfect Video Nintendo History</a><br />
@@ -55,9 +55,9 @@ date: 2005-01-03 20:35:31 +0600
 	05/26/01<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-02-10 21:46:15 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-02-11 03:46:15 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2808" title="Mother 2:" author-id="45" timestamp="2007-01-22 08:44:48 +0600" type="norm" dbname="box51481" last-modified-by="45" %}
+{% include box-open.html box-id="2808" title="Mother 2" author-id="45" timestamp="2007-01-22 14:44:48 +0000" type="norm" dbname="box51481" last-modified-by="45" %}
 <table1 />
 	<a href="bcmsplushie.php">Ball & Chain Mr. Saturn Plushie</a><br />
 	<a href="gmsplushie.php">Giant Mr. Saturn Plushie</a><br />
@@ -100,9 +100,9 @@ date: 2005-01-03 20:35:31 +0600
 	12/16/01<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2013-01-17 11:36:48 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2013-01-17 17:36:48 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2809" title="Mother 1+2:" author-id="45" timestamp="2007-01-22 08:44:51 +0600" type="norm" dbname="box49670" last-modified-by="45" %}
+{% include box-open.html box-id="2809" title="Mother 1+2" author-id="45" timestamp="2007-01-22 14:44:51 +0000" type="norm" dbname="box49670" last-modified-by="45" %}
 <table1 />
 
 	<a href="m12artbook.php">Mother 1+2 Art Book</a><br />
@@ -130,9 +130,9 @@ date: 2005-01-03 20:35:31 +0600
 	03/12/04<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-08 22:35:12 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-09 04:35:12 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2810" title="Mother 3:" author-id="45" timestamp="2007-01-22 08:44:53 +0600" type="norm" dbname="box3133" last-modified-by="45" %}
+{% include box-open.html box-id="2810" title="Mother 3" author-id="45" timestamp="2007-01-22 14:44:53 +0000" type="norm" dbname="box3133" last-modified-by="45" %}
 <table1 />
 
 	<a href="imsplushie.php">Incognito Mr. Saturn Plushie</a><br />
@@ -144,4 +144,4 @@ date: 2005-01-03 20:35:31 +0600
 	12/08/10<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-08 22:35:42 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-09 04:35:42 +0000" last-modified-by-name="ShadowX" %}

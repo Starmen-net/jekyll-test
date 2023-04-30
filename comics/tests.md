@@ -2,17 +2,17 @@
 title: testsadfa
 categories:
   - comics
-date: 2005-04-01 04:33:41 +0600
+date: 2005-04-01 10:33:41 +0000
 ---
-{% include box-open.html box-id="690" title="woo test POOP:" author-id="8" timestamp="2005-04-01 04:33:41 +0600" type="db" dbname="box52496" last-modified-by="127" %}
+{% include box-open.html box-id="690" title="woo test POOP" author-id="8" timestamp="2005-04-01 10:33:41 +0000" type="db" dbname="box52496" last-modified-by="127" %}
 <navigator display="no" /><displaytor mode="list" />
-{% include box-close.html author-name="reidman" last-modified-on="2005-08-12 00:20:41 +0500" last-modified-by-name="PoopDog" %}
+{% include box-close.html author-name="reidman" last-modified-on="2005-08-12 05:20:41 +0000" last-modified-by-name="PoopDog" %}
 
-{% include box-open.html box-id="1210" title="just testing stuff:" author-id="865" timestamp="2005-08-12 00:11:58 +0500" type="db" dbname="box17380" last-modified-by="127" %}
+{% include box-open.html box-id="1210" title="just testing stuff" author-id="865" timestamp="2005-08-12 05:11:58 +0000" type="db" dbname="box17380" last-modified-by="127" %}
 <navigator /><displaytor mode="thumbnail" />
-{% include box-close.html author-name="PoopDog" last-modified-on="2005-08-12 01:47:49 +0500" last-modified-by-name="PD" %}
+{% include box-close.html author-name="PoopDog" last-modified-on="2005-08-12 06:47:49 +0000" last-modified-by-name="PD" %}
 
-{% include box-open.html box-id="1211" title="Test2:" author-id="288" timestamp="2005-08-12 01:03:14 +0500" type="norm" dbname="box437" last-modified-by="127" %}
+{% include box-open.html box-id="1211" title="Test2" author-id="288" timestamp="2005-08-12 06:03:14 +0000" type="norm" dbname="box437" last-modified-by="127" %}
 &lt;&nbsp;
 <a href="/comics/galleries.php?ret=nothing&box47622FirstLetterA">A</a>&nbsp;
 <a href="/comics/galleries.php?ret=nothing&box47622FirstLetterB">B</a>&nbsp;
@@ -41,4 +41,4 @@ date: 2005-04-01 04:33:41 +0600
 <a href="/comics/galleries.php?ret=nothing&box47622FirstLetter=Y">Y</a>&nbsp;
 <a href="/comics/galleries.php?ret=nothing&box47622FirstLetter=Z">Z</a>&nbsp;
 &gt;&nbsp;
-{% include box-close.html author-name="Tomato" last-modified-on="2005-08-12 01:20:53 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2005-08-12 06:20:53 +0000" last-modified-by-name="Tomato" %}

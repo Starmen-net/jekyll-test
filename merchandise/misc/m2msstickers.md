@@ -2,9 +2,9 @@
 title: MOTHER 2 Mr. Saturn Stickers
 categories:
   - merchandise
-date: 2010-12-01 22:00:26 +0600
+date: 2010-12-02 04:00:26 +0000
 ---
-{% include box-open.html box-id="3938" title="MOTHER 2 Mr. Saturn Stickers:" author-id="45" timestamp="2010-12-01 22:00:26 +0600" type="norm" dbname="box17537" last-modified-by="127" %}
+{% include box-open.html box-id="3938" title="MOTHER 2 Mr. Saturn Stickers" author-id="45" timestamp="2010-12-02 04:00:26 +0000" type="norm" dbname="box17537" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -57,4 +57,4 @@ These Mr. Saturn Stickers were given away during appearances of the enormous <a 
 	<br />
 
 <a href="/merchandise/images/m2ms_stickers.jpg" ><img src="/merchandise/images/m2ms_stickers.jpg" title="MOTHER 2 Mr. Saturn Stickers" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:34:03 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:34:03 +0000" last-modified-by-name="Tomato" %}

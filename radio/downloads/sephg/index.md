@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ SEPH G ARCHIVES
 categories:
   - radio
-date: 2006-02-20 14:59:04 +0600
+date: 2006-02-20 20:59:04 +0000
 ---
-{% include box-open.html box-id="1916" title="Downloadables!:" author-id="247" timestamp="2006-02-20 14:59:04 +0600" type="norm" dbname="box14383" last-modified-by="127" %}
+{% include box-open.html box-id="1916" title="Downloadables!" author-id="247" timestamp="2006-02-20 20:59:04 +0000" type="norm" dbname="box14383" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ Seph G<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 15:10:08 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 20:10:08 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="1917" title="DJ Seph G's Archive Downloads!:" author-id="247" timestamp="2006-02-20 15:00:18 +0600" type="norm" dbname="box22317" last-modified-by="127" %}
+{% include box-open.html box-id="1917" title="DJ Seph G's Archive Downloads!" author-id="247" timestamp="2006-02-20 21:00:18 +0000" type="norm" dbname="box22317" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/sephg/radiopsidumpdjsephg20050423.ogg">April 23rd, 2005</a>
 </p>
@@ -120,4 +120,4 @@ DJ Seph G<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/sephg/radiopsidumpdjsephg20040424.ogg">April 24th, 2004</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-03-24 04:08:50 +0600" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-03-24 10:08:50 +0000" last-modified-by-name="Mansion Maniac" %}

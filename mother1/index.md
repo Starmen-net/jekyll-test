@@ -2,9 +2,9 @@
 title: MOTHER / EarthBound Zero
 categories:
   - mother1
-date: 2005-04-01 22:47:40 +0600
+date: 2005-04-02 04:47:40 +0000
 ---
-{% include box-open.html box-id="1287" title="MOTHER / EarthBound Beginnings:" author-id="492" timestamp="2005-08-16 13:35:38 +0500" type="norm" dbname="box28005" last-modified-by="127" %}
+{% include box-open.html box-id="1287" title="MOTHER / EarthBound Beginnings" author-id="492" timestamp="2005-08-16 18:35:38 +0000" type="norm" dbname="box28005" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="titleVC.png" alt="EarthBound Beginnings / MOTHER" />
 	<table>
@@ -80,9 +80,9 @@ Itoi's minimalist quirkiness, stylized humor, and spare sentimentality resonated
 An English localization began immediately, with firm plans for a <a href="http://starmen.net/mother1/images/publication/eb0preview.jpg">September 1991 release</a>. An 80-page instruction manual/player's guide was produced. The game's odd soundtrack, orchestrated and performed by Suzuki and a band of unknown British singers, was prepped for release. Things… worked out a little differently. <br />
 </p>
 <br class="cleary" />
-{% include box-close.html author-name="EvilJim Christo" last-modified-on="2016-10-28 17:18:27 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="EvilJim Christo" last-modified-on="2016-10-28 22:18:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2270" title="Recommended Links:" author-id="474" timestamp="2006-05-03 20:29:31 +0500" type="norm" dbname="box48009" last-modified-by="127" %}
+{% include box-open.html box-id="2270" title="Recommended Links" author-id="474" timestamp="2006-05-04 01:29:31 +0000" type="norm" dbname="box48009" last-modified-by="127" %}
 Here are a few important links that MOTHER fans might find interesting and/or helpful.<br />
 <ul>
  <li><a href="/mother1/easypatch">EarthBound Zero Easy Patch</a> - Makes the game a lot easier for those who don't enjoy level-grinding.</li>
@@ -98,12 +98,12 @@ Here are a few important links that MOTHER fans might find interesting and/or he
 <li><a href="http://www.lostlevels.org/200407/200407-earthbound.shtml">Lost Levels Online</a> - The history of EarthBound Zero in the US.</li>
 
 </ul>
-{% include box-close.html author-name="Artemis251" last-modified-on="2017-07-04 00:40:03 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2017-07-04 05:40:03 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="716" title="Contact Info:" author-id="307" timestamp="2005-04-01 22:47:40 +0600" type="norm" dbname="box38533" last-modified-by="127" %}
+{% include box-open.html box-id="716" title="Contact Info" author-id="307" timestamp="2005-04-02 04:47:40 +0000" type="norm" dbname="box38533" last-modified-by="127" %}
 <table1 />
 Section maintainer:<br />
 <table2 />
 <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a><br />
 <table3 />
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2017-01-22 13:11:25 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2017-01-22 19:11:25 +0000" last-modified-by-name="CerealQueen" %}

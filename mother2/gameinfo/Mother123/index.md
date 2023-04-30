@@ -2,17 +2,17 @@
 title: How Mother 1 2 3 Connect
 categories:
   - mother2
-date: 2016-10-28 19:12:52 +0500
+date: 2016-10-29 00:12:52 +0000
 ---
-{% include box-open.html box-id="4809" title="Introduction:" author-id="28590" timestamp="2016-10-28 19:12:52 +0500" type="norm" dbname="box32494" last-modified-by="127" %}
+{% include box-open.html box-id="4809" title="Introduction" author-id="28590" timestamp="2016-10-29 00:12:52 +0000" type="norm" dbname="box32494" last-modified-by="127" %}
 Make no mistakes about it -- the story of the MOTHER series is one that is continued in between game to game, from sequel to sequel. However, the continuity of the MOTHER series is not one that makes itself obvious at first glance. After all, each title in the series begins with a never-before-seen protagonist and a seemingly new setting. Where, then, are the chains that hold these games together as a singular, cohesive story? The answer can be found within the antagonists, common enemies, and creative concepts that appear throughout multiple games within the series that fuse the series together.
 
 <br /><br />
 
 Due to the nature of this topic, there will be several spoilers in the text that follows.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:13:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:13:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4810" title="PSI:" author-id="28590" timestamp="2016-10-28 19:12:54 +0500" type="norm" dbname="box16292" last-modified-by="127" %}
+{% include box-open.html box-id="4810" title="PSI" author-id="28590" timestamp="2016-10-29 00:12:54 +0000" type="norm" dbname="box16292" last-modified-by="127" %}
 <a name="psi"></a><p>
 <img class="picleft" src="PSI_1.png" width="255.5" height="239" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -21,9 +21,9 @@ Due to the nature of this topic, there will be several spoilers in the text that
 <br /><br />
 
 	What we do know is that PSI is an important talent that helps drive forward the stories of each of the MOTHER games. In each installment in the series, the protagonists -- Ninten, Ness, and Lucas, in MOTHER 1, 2, and 3 respectively -- both acquire more training with their psychic abilities over time, along with many of their companions as well. Of course, many of the foes that each of these heroes faces possess the same PSI that they do. In conclusion, PSI is an important part of the world that the series has established, immediately making connections between the three games.</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:13:23 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:13:23 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4811" title="Giygas, the Cosmic Destroyer:" author-id="28590" timestamp="2016-10-28 19:13:27 +0500" type="norm" dbname="box12813" last-modified-by="127" %}
+{% include box-open.html box-id="4811" title="Giygas, the Cosmic Destroyer" author-id="28590" timestamp="2016-10-29 00:13:27 +0000" type="norm" dbname="box12813" last-modified-by="127" %}
 Giygas is an antagonist of multiple appearances within the MOTHER series, and his siege against the planet Earth provides valuable insight to the continuity of the story. However, many who play the second installment of this franchise may not realize that Giygas truly debuted in the first MOTHER title. In the localized version of the first MOTHER, EarthBound Beginnings, his name was localized as Giegue, from the Japanese ギーグ (Gīgu, or as it is romanized, Gyiyg). 
 <br /><br />
 
@@ -53,9 +53,9 @@ Before the events of MOTHER 2, Giygas uses a prophesying device known as the App
 <br /><br />
 
 	Giygas is one of the most explicit links between two separate games within this series, although varying localizations of his name have caused confusion as to whether he was the same entity as Giegue in the past. Fortunately, we are far past this point, and can ensure Giygas’s looming presence within both MOTHER 1 and MOTHER 2. </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 23:08:48 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 04:08:48 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4812" title="Porky Minch:" author-id="28590" timestamp="2016-10-28 19:14:04 +0500" type="norm" dbname="box32582" last-modified-by="127" %}
+{% include box-open.html box-id="4812" title="Porky Minch" author-id="28590" timestamp="2016-10-29 00:14:04 +0000" type="norm" dbname="box32582" last-modified-by="127" %}
 Whereas Giygas bridged the gap between MOTHER 1 and 2, Porky Minch is the major connection between MOTHER 2 and 3. His descent into villainy is one must play two games in order to fully witness.
 
 <a name="Pokey"></a><p>
@@ -76,9 +76,9 @@ Whereas Giygas bridged the gap between MOTHER 1 and 2, Porky Minch is the major 
 <br /><br />
 
 	Ignoring Porky, MOTHER 2 and 3 are almost completely unrelated games. This continues to display the method in which Itoi has attached his series together with the resurgence of past antagonists.</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:14:28 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:14:28 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4813" title="Dr. Andonuts:" author-id="28590" timestamp="2016-10-28 19:14:42 +0500" type="norm" dbname="box64136" last-modified-by="127" %}
+{% include box-open.html box-id="4813" title="Dr. Andonuts" author-id="28590" timestamp="2016-10-29 00:14:42 +0000" type="norm" dbname="box64136" last-modified-by="127" %}
 <a name="Dr. Andonuts"></a><p>
 <img class="picleft" src="Andonuts_1.png" width="255.5" height="216.5" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -92,9 +92,9 @@ Dr. Andonuts first appeared in MOTHER 2 as the father of one of Ness’s party m
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
 </div>
 In MOTHER 3, while most of the individuals that Porky has snatched from other points in time are nameless individuals we do not recognize from the past, Dr. Andonuts is an exception. It seems Porky has swiped away Dr. Andonuts to make him use his genius ideas for Porky’s nefarious purposes. He is found forcibly working in the Chimera Labs on the Nowhere Islands, in which animals are spliced apart and reassembled into monstrous fusions of their previous selves.</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:14:54 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:14:54 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4814" title="Mr. Saturn:" author-id="28590" timestamp="2016-10-28 19:15:12 +0500" type="norm" dbname="box48519" last-modified-by="127" %}
+{% include box-open.html box-id="4814" title="Mr. Saturn" author-id="28590" timestamp="2016-10-29 00:15:12 +0000" type="norm" dbname="box48519" last-modified-by="127" %}
 <a name="Mr. Saturn"></a><p>
 <img class="picleft" src="Saturn_1.png" width="256.5" height="222.5" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -110,9 +110,9 @@ These lovable mascots of the MOTHER series first appeared in MOTHER 2, in which 
 </div>
 	In MOTHER 3, the Mr. Saturns have taken residence in another Saturn Valley located upon the Nowhere Islands. During the events of the game, Porky’s Pigmasks wreak havoc in Saturn Valley and torture the Mr. Saturns in an attempt to make them reveal the location of one of the Seven Needles. When Lucas and his friends chase off these captors, the Mr. Saturns are incredibly thankful. They perform many helpful tasks for the party, such as building themselves up as ladders and giving Lucas’s party the same magical tea from the previous game. </p>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:15:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:15:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4815" title="Franklin Badge:" author-id="28590" timestamp="2016-10-28 19:15:37 +0500" type="norm" dbname="box37158" last-modified-by="127" %}
+{% include box-open.html box-id="4815" title="Franklin Badge" author-id="28590" timestamp="2016-10-29 00:15:37 +0000" type="norm" dbname="box37158" last-modified-by="127" %}
 <a name="Franklin Badge"></a><p>
 <img class="picright" src="Franklin_1.png" width="248" height="224" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -131,9 +131,9 @@ This iconic item provides a strong tie between the all three of the MOTHER games
 
 
 	In a similar way, you can expect other items to pop up in more than one installment of the series. Be on the lookout for Cups of LifeNoodles, Strawberry Tofu, and other less important items that can be seen regularly throughout the series.</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:16:06 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:16:06 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4816" title="Recurring Enemies:" author-id="28590" timestamp="2016-10-28 19:16:28 +0500" type="norm" dbname="box9567" last-modified-by="127" %}
+{% include box-open.html box-id="4816" title="Recurring Enemies" author-id="28590" timestamp="2016-10-29 00:16:28 +0000" type="norm" dbname="box9567" last-modified-by="127" %}
 <center><img src="Starman_1.png" title="Pink Starman Jr. gonna win" width="256" height="224" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Starman_2.png" title="Weak Starman Jr." width="255" height="222.5" /></center>
 <br /><br />
 
@@ -157,9 +157,9 @@ Despite each protagonist being different in each game, they each occasionally fi
 
 <br />
 	These and others are found in multiple games. However, these are only reappearances of enemies by name alone; a player may find themselves fighting an enemy that vastly reminds them of one from a previous or future game in the series without it being exactly the same. This just goes to show how the creatures and people fought in each of the MOTHER games also assists in connecting the series.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:16:40 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:16:40 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4817" title="Miscellaneous Ties:" author-id="28590" timestamp="2016-10-28 19:17:02 +0500" type="norm" dbname="box28052" last-modified-by="127" %}
+{% include box-open.html box-id="4817" title="Miscellaneous Ties" author-id="28590" timestamp="2016-10-29 00:17:02 +0000" type="norm" dbname="box28052" last-modified-by="127" %}
 <center><img src="Tie_1.png" title="EarthBound" width="285" height="193.5" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Tie_2.png" title="Mother 3" width="240" height="160" /></center>
 <br /><br />
 
@@ -184,9 +184,9 @@ In both MOTHER 2 and 3, a magazine can be found, which contains a story titled �
 
 	In MOTHER 3, at a toy room in Thunder Tower, an item known only as the “Friend’s Yo-Yo” is heavily guarded by Porky’s robotic maid, Lil’ Miss Marshmallow. This yo-yo is implied to have belonged to Ness, and seems to be of great value to Porky.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:17:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:17:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4818" title="Thematic Connections: What is the Overarching Message?:" author-id="28590" timestamp="2016-10-28 19:17:25 +0500" type="norm" dbname="box47800" last-modified-by="127" %}
+{% include box-open.html box-id="4818" title="Thematic Connections: What is the Overarching Message?" author-id="28590" timestamp="2016-10-29 00:17:25 +0000" type="norm" dbname="box47800" last-modified-by="127" %}
 Now that you’ve seen the characters and objects that bring the games together, you may be wondering what thematic connections there are to be made. 
 
 <br /><br />
@@ -204,4 +204,4 @@ Now that you’ve seen the characters and objects that bring the games together,
 <br /><br />
 
 	In conclusion, the manner in which the MOTHER series is connected is not entirely subtle, but it not blatant either. This creates a system in which each game can stand alone as a memorable experience, but rewards those who have played other games by continuing to build upon the world Itoi has created.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 19:17:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-29 00:17:44 +0000" last-modified-by-name="CerealQueen" %}

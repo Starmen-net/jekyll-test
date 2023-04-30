@@ -2,13 +2,13 @@
 title: Best of IRC 4 - Oh no, it&#039;s IRC!
 categories:
   - chat
-date: 2012-02-29 23:31:43 +0600
+date: 2012-03-01 05:31:43 +0000
 ---
-{% include box-open.html box-id="4317" title=":" author-id="1419" timestamp="2012-02-29 23:31:43 +0600" type="blank" dbname="box29002" last-modified-by="127" %}
+{% include box-open.html box-id="4317" author-id="1419" timestamp="2012-03-01 05:31:43 +0000" type="blank" dbname="box29002" last-modified-by="127" %}
 <b><center><a href="http://starmen.net/chat/boirc4/page01.php">&lt&lt&lt Previous Page</a> | <a href="http://starmen.net/chat/boirc4/page02.php">Next Page &gt&gt&gt</a></center></b>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-29 23:34:56 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 05:34:56 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4319" title="THE ADVENTURES OF LONK:" author-id="1419" timestamp="2012-02-29 23:35:21 +0600" type="norm" dbname="box42626" last-modified-by="127" %}
+{% include box-open.html box-id="4319" title="THE ADVENTURES OF LONK" author-id="1419" timestamp="2012-03-01 05:35:21 +0000" type="norm" dbname="box42626" last-modified-by="127" %}
 [21:13:09] * BuckFever is now known as PrincessZelda<br/>
 [21:13:16] * PsiReaper (~webchat@dukmdo-4.366.66.58.Dial6.Dallas1.Level7.net) has joined #starmen<br/>
 [21:13:31] &ltPsiReaper&gt Just been playing some LoD.<br/>
@@ -67,9 +67,9 @@ date: 2012-02-29 23:31:43 +0600
 [21:17:51] &ltTaco&gt what is going on<br/>
 [21:17:52] &ltTrx&gt I didnt feel this confused when Giygas started shaking wildly<br/>
 [21:17:52] &lt@LONK&gt SHAT UP I AM THE HURRO OF HIRULE<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-29 23:37:17 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 05:37:17 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4322" title="Contractions!:" author-id="1419" timestamp="2012-03-01 00:16:42 +0600" type="norm" dbname="box51233" last-modified-by="127" %}
+{% include box-open.html box-id="4322" title="Contractions!" author-id="1419" timestamp="2012-03-01 06:16:42 +0000" type="norm" dbname="box51233" last-modified-by="127" %}
 [22:10:15] &ltMsCamine&gt Ain't ain't a word<br/>
 [22:10:33] &ltMsCamine&gt is a thing I said once<br/>
 [22:10:34] &ltDr_Meowgon_Spengler&gt it's a real word, it's just slang I never see used by anyone but nightshade<br/>
@@ -80,9 +80,9 @@ date: 2012-02-29 23:31:43 +0600
 [22:13:25] &ltPsychicKid&gt b&<br/>
 [22:14:13] &lt@BuckFever&gt No I amn't<br/>
 [22:14:32] &lt@BuckFever&gt Y'all're crazy<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 00:17:57 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 06:17:57 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4323" title="Randy's Alien Girlfriend:" author-id="1419" timestamp="2012-03-03 18:05:32 +0600" type="norm" dbname="box14284" last-modified-by="127" %}
+{% include box-open.html box-id="4323" title="Randy's Alien Girlfriend" author-id="1419" timestamp="2012-03-04 00:05:32 +0000" type="norm" dbname="box14284" last-modified-by="127" %}
 [16:02:33] * A_Beautiful_Woman (~Carparama@upqvia7892b-wc70-86-505.dynamic.mtsallstream.net) has joined #starmen<br/>
 [16:02:37] &lt!Captain_Bozo&gt OH RANDY<br/>
 [16:02:38] &ltA_Beautiful_Woman&gt oh, hey everybody<br/>
@@ -101,14 +101,14 @@ date: 2012-02-29 23:31:43 +0600
 [16:03:24] &lt+Duckarama&gt I don't blame you.  I am pretty hip.<br/>
 [16:03:31] &ltA_Beautiful_Woman&gt Well, I have to go.  My planet needs me!<br/>
 [16:03:39] * A_Beautiful_Woman blows up on the way to somewhere far away.<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-03 18:07:50 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-04 00:07:50 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4324" title="Wow... they start out young.:" author-id="1419" timestamp="2012-03-04 17:22:35 +0600" type="norm" dbname="box60908" last-modified-by="127" %}
+{% include box-open.html box-id="4324" title="Wow... they start out young." author-id="1419" timestamp="2012-03-04 23:22:35 +0000" type="norm" dbname="box60908" last-modified-by="127" %}
 [15:21:26] &ltAnnK_&gt i also had a 16 month old who has this very violent addiction to poke his 1 month old daughter in the eyes<br/>
 [15:21:46] &lt!Captain_Bozo&gt I hope you mean sister :P
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-04 17:23:18 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-04 23:23:18 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4331" title="On second thought...:" author-id="1419" timestamp="2012-03-07 19:42:33 +0600" type="norm" dbname="box39174" last-modified-by="127" %}
+{% include box-open.html box-id="4331" title="On second thought..." author-id="1419" timestamp="2012-03-08 01:42:33 +0000" type="norm" dbname="box39174" last-modified-by="127" %}
 [17:40:38] &lt!Captain_Bozo&gt I just went shopping. Got a bunch of food for the month :3<br/>
 [17:41:01] &lt!Captain_Bozo&gt Chicken was really low priced this month so I got a bunch of chicken breasts. 6 servings for 4 dollars :3<br/>
 [17:41:22] &lt@HockeyKong&gt and they'll hold for a while<br/>
@@ -116,9 +116,9 @@ date: 2012-02-29 23:31:43 +0600
 [17:41:27] &lt@HockeyKong&gt theyre still green even<br/>
 [17:41:30] &lt!Captain_Bozo&gt hahahaha<br/>
 [17:41:37] &lt@HockeyKong&gt Chicken breasts work like Bannanas, right?<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-07 19:43:21 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-08 01:43:21 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4335" title="MrAccident, defender of justice:" author-id="1419" timestamp="2012-03-10 20:01:17 +0600" type="norm" dbname="box7226" last-modified-by="127" %}
+{% include box-open.html box-id="4335" title="MrAccident, defender of justice" author-id="1419" timestamp="2012-03-11 02:01:17 +0000" type="norm" dbname="box7226" last-modified-by="127" %}
 [17:41:55] &lt@MrAccident&gt welp<br/>
 [17:42:10] &lt@MrAccident&gt today I bought a sofa and nearly shot a man<br/>
 [17:42:46] &lt@MrAccident&gt the two events were not directly related<br/>
@@ -160,9 +160,9 @@ date: 2012-02-29 23:31:43 +0600
 [17:57:17] &lt@MrAccident&gt I made sure I shook his hand before my stop<br/>
 [17:57:19] &lt@Emily&gt And then the lady he was bothering went back to your place, right? She's standing behind you giving you a shoulder massage right now, isn't she?<br/>
 [17:57:19] &lt@MrAccident&gt that guy was legit<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-10 20:02:49 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-11 02:02:49 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4375" title="Stevesesy and the Wizard:" author-id="1419" timestamp="2012-03-22 18:44:24 +0500" type="norm" dbname="box19819" last-modified-by="127" %}
+{% include box-open.html box-id="4375" title="Stevesesy and the Wizard" author-id="1419" timestamp="2012-03-22 23:44:24 +0000" type="norm" dbname="box19819" last-modified-by="127" %}
 [16:34:21] &ltStevesesy&gt I dont think any of you understand what my day to day is like<br/>
 [16:34:29] &ltStevesesy&gt ridiculou doesn't even cover it<br/>
 [16:34:51] &lt!Captain_Bozo&gt I can only imagine<br/>
@@ -188,9 +188,9 @@ date: 2012-02-29 23:31:43 +0600
 [16:39:23] &ltStevesesy&gt talked<br/>
 [16:39:27] &ltStevesesy&gt went for a walk<br/>
 [16:39:35] &ltStevesesy&gt he told me about how portlania was the best tv show<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 18:45:33 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 23:45:33 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4376" title="NESluver better not send How I Met Your Mother:" author-id="1419" timestamp="2012-03-23 22:01:56 +0500" type="norm" dbname="box46850" last-modified-by="127" %}
+{% include box-open.html box-id="4376" title="NESluver better not send How I Met Your Mother" author-id="1419" timestamp="2012-03-24 03:01:56 +0000" type="norm" dbname="box46850" last-modified-by="127" %}
 [17:49] &ltnesluver&gt laugh tracks should only be used ironically<br/>
 [17:49] &ltnewageinsanecultist&gt Hrrm?<br/>
 [17:49] &ltnesluver&gt i want to take every single current sitcom that uses a laugh tack and shove it into a rocket<br/>
@@ -209,9 +209,9 @@ date: 2012-02-29 23:31:43 +0600
 [17:52] &ltnesluver&gt<br/>
 [17:52] &ltnesluver&gt you’re free tolike whatever you want<br/>
 [17:53] &ltnesluver&gt just don’t let me take control of nasa or anything<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-23 22:03:03 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-24 03:03:03 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4385" title="I don't think I want this responsibility...:" author-id="1419" timestamp="2012-03-29 23:15:22 +0500" type="norm" dbname="box7521" last-modified-by="127" %}
+{% include box-open.html box-id="4385" title="I don't think I want this responsibility..." author-id="1419" timestamp="2012-03-30 04:15:22 +0000" type="norm" dbname="box7521" last-modified-by="127" %}
 [23:03:58] &lt@Tofu&gt wasn't sax "saxamaphone"<br/>
 [23:04:02] &ltelliotw2&gt yes<br/>
 [23:04:03] &ltPK_Away&gt yes<br/>
@@ -232,9 +232,9 @@ date: 2012-02-29 23:31:43 +0600
 [21:05:15] &ltDr_Meowgon_Spengler&gt HI<br/>
 [21:05:16] &ltPK_Away&gt bozo<br/>
 [21:05:19] &ltPK_Away&gt is the saxamaphone<br/>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-29 23:17:18 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-30 04:17:18 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4386" title="Ice Climber: Rise Upping:" author-id="1419" timestamp="2012-04-01 01:21:05 +0500" type="norm" dbname="box17313" last-modified-by="127" %}
+{% include box-open.html box-id="4386" title="Ice Climber: Rise Upping" author-id="1419" timestamp="2012-04-01 06:21:05 +0000" type="norm" dbname="box17313" last-modified-by="127" %}
 [20:14:50] &lt@BuckFever&gt who here has Kid Icarus Uprising<br/>
 [20:15:51] &ltAceDrgnGirl&gt tofu does<br/>
 [20:16:02] &lt@Tofu&gt i do<br/>
@@ -268,8 +268,8 @@ date: 2012-02-29 23:31:43 +0600
 [20:18:58] &lt@Tofu&gt how would one raised in a barn raise someone in a barn<br/>
 [20:19:40] &lt!Captain_Bozo&gt I hear you can unlock Ness if you jump off the cliff in level 17 though<br/>
 [20:20:45] &lt@HockeyKong&gt Yeah, and then you slide along the wall until you fall through a hole in the graphics and you can fight Gruntilda ealy
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-01 01:22:42 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-01 06:22:42 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4318" title="New Box, Edit me :(:" author-id="1419" timestamp="2012-02-29 23:35:03 +0600" type="blank" dbname="box50664" last-modified-by="127" %}
+{% include box-open.html box-id="4318" title="New Box, Edit me :(" author-id="1419" timestamp="2012-03-01 05:35:03 +0000" type="blank" dbname="box50664" last-modified-by="127" %}
 <b><center><a href="http://starmen.net/chat/boirc4/page01.php">&lt&lt&lt Previous Page</a> | <a href="http://starmen.net/chat/boirc4/page02.php">Next Page &gt&gt&gt</a></center></b>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-29 23:35:19 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-01 05:35:19 +0000" last-modified-by-name="Captain Bozo" %}

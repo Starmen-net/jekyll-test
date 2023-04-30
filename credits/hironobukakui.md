@@ -2,9 +2,9 @@
 title: 'Game Credits: Hironobu Kakui'
 categories:
   - credits
-date: 2008-06-10 14:29:07 +0500
+date: 2008-06-10 19:29:07 +0000
 ---
-{% include box-open.html box-id="3453" title="Hironobu Kakui:" author-id="2262" timestamp="2008-06-10 14:29:07 +0500" type="norm" dbname="box38084" last-modified-by="127" %}
+{% include box-open.html box-id="3453" title="Hironobu Kakui" author-id="2262" timestamp="2008-06-10 19:29:07 +0000" type="norm" dbname="box38084" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 
@@ -137,4 +137,4 @@ Technical Support</LI>
 
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 14:29:15 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 19:29:15 +0000" last-modified-by-name="KingDarian" %}

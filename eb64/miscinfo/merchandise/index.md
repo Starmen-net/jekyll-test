@@ -2,9 +2,9 @@
 title: EarthBound 64 - Merchandise
 categories:
   - eb64
-date: 2019-09-26 13:56:45 +0500
+date: 2019-09-26 18:56:45 +0000
 ---
-{% include box-open.html box-id="5453" title="MOTHER 3 Stickers:" author-id="28590" timestamp="2019-09-26 13:56:45 +0500" type="norm" dbname="box42195" last-modified-by="127" %}
+{% include box-open.html box-id="5453" title="MOTHER 3 Stickers" author-id="28590" timestamp="2019-09-26 18:56:45 +0000" type="norm" dbname="box42195" last-modified-by="127" %}
 <div class="gameinfo">
 
 	<table>
@@ -45,9 +45,9 @@ date: 2019-09-26 13:56:45 +0500
 <a rel="lightbox[1]" href="64stickersheet.jpg" class="thumbnail"><img src="64stickersheet_t.jpg"  HEIGHT="100" border="1"  /></a>
 
      
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-05 13:25:57 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-05 19:25:57 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5454" title="D.C.M.C. Shirt:" author-id="28590" timestamp="2019-09-26 14:09:35 +0500" type="norm" dbname="box33341" last-modified-by="127" %}
+{% include box-open.html box-id="5454" title="D.C.M.C. Shirt" author-id="28590" timestamp="2019-09-26 19:09:35 +0000" type="norm" dbname="box33341" last-modified-by="127" %}
 <div class="gameinfo">
 
 	<table>
@@ -102,8 +102,8 @@ Mother 3 World Tour Staff</i></p>
 <a rel="lightbox[2]" href="DCMC_Shirt_7.jpg" class="thumbnail"><img src="DCMC_Shirt_7_t.jpg"  HEIGHT="100" border="1"  /></a><br />
 <a rel="lightbox[2]" href="DCMC_Shirt_8.jpg" class="thumbnail"><img src="DCMC_Shirt_8_t.jpg"  HEIGHT="100" border="1"  /></a>&nbsp;&nbsp;&nbsp;
 <a rel="lightbox[2]" href="DCMC_Shirt_9.jpg" class="thumbnail"><img src="DCMC_Shirt_9_t.jpg"  HEIGHT="100" border="1"  /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-05 13:29:18 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-05 19:29:18 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5455" title="Unconfirmed Merchandise:" author-id="28590" timestamp="2019-09-26 15:36:16 +0500" type="norm" dbname="box34523" last-modified-by="127" %}
+{% include box-open.html box-id="5455" title="Unconfirmed Merchandise" author-id="28590" timestamp="2019-09-26 20:36:16 +0000" type="norm" dbname="box34523" last-modified-by="127" %}
 <li><a href="https://starmen.net/eb64/publications/Dengeki_Nintendo_64_Issue_19_December_1997_PG94.png" >Replica of Lucas' shoes as seen in game</a></li>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 15:37:34 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 20:37:34 +0000" last-modified-by-name="CerealQueen" %}

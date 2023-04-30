@@ -2,13 +2,13 @@
 title: Fan Comics
 categories:
   - comics
-date: 2005-04-02 21:22:52 +0600
+date: 2005-04-03 03:22:52 +0000
 ---
-{% include box-open.html box-id="889" title="Fan Comics:" author-id="81" timestamp="2005-04-03 20:48:45 +0500" type="norm" dbname="box796" last-modified-by="127" %}
+{% include box-open.html box-id="889" title="Fan Comics" author-id="81" timestamp="2005-04-04 01:48:45 +0000" type="norm" dbname="box796" last-modified-by="127" %}
 Welcome to EarthBound Fan Comics!  Enjoy reading oodles of EarthBound-related comics drawn by none other than our own community.  We've got some extremely talented comic artists on this site whose comics demand to be read!  They'll make you laugh, they'll make you cry, they'll probably make you laugh again!  Click on the Series icon to look at the different comic series or check out Comic Strips for stand-alone comics. If you would like to submit your own comics, just make sure to read the guidelines down at the bottom of the page.  Enjoy!
-{% include box-close.html author-name="Ness_42" last-modified-on="2006-11-15 19:56:27 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Ness_42" last-modified-on="2006-11-16 01:56:27 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="1214" title="Fan Comic Gallery Index:" author-id="288" timestamp="2005-08-12 01:21:55 +0500" type="norm" dbname="box39743" last-modified-by="127" %}
+{% include box-open.html box-id="1214" title="Fan Comic Gallery Index" author-id="288" timestamp="2005-08-12 06:21:55 +0000" type="norm" dbname="box39743" last-modified-by="127" %}
 <b>NOTE:</b> These links are to artists' whole galleries. As such, their Series pages may be mixed in and out of order. To search for strips (single-page comics) or series, choose one of the links below this listing.
 <br /><br />
 <center>&lt;&nbsp;
@@ -37,18 +37,18 @@ Welcome to EarthBound Fan Comics!  Enjoy reading oodles of EarthBound-related co
 <a href="/comics/galleries.php?ret=nothing&box47622FirstLetter=Z">Z</a>&nbsp;
 &gt;&nbsp;
 <a href="/comics/galleries.php?ret=nothing&box47622FirstLetterA">Alphabetical</a>&nbsp;</center>
-{% include box-close.html author-name="Tomato" last-modified-on="2009-02-04 08:47:23 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2009-02-04 14:47:23 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="781" title="Featured Comic Sections:" author-id="81" timestamp="2005-04-02 21:26:43 +0600" type="norm" dbname="box23954" last-modified-by="127" %}
+{% include box-open.html box-id="781" title="Featured Comic Sections" author-id="81" timestamp="2005-04-03 03:26:43 +0000" type="norm" dbname="box23954" last-modified-by="127" %}
 <center>
 <a href="byauth/"><img src="byauth.jpg" alt="By Author" border="0" /></a>
 <a href="series/"><img src="series.jpg" alt="Series" border="0" /></a>
 <a href="manga/"><img src="manga.jpg" alt="Manga" border="0" /></a>
 <a href="books/"><img src="books.png" alt="Books" border="0" /></a>
 </center>
-{% include box-close.html author-name="Ness_42" last-modified-on="2007-07-16 18:33:26 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Ness_42" last-modified-on="2007-07-16 23:33:26 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="779" title="Guidelines:" author-id="81" timestamp="2005-04-02 21:22:52 +0600" type="norm" dbname="box16546" last-modified-by="127" %}
+{% include box-open.html box-id="779" title="Guidelines" author-id="81" timestamp="2005-04-03 03:22:52 +0000" type="norm" dbname="box16546" last-modified-by="127" %}
 <a name="guidelines" />Go <a href="/submit/">here</a> to submit comics. Comics must follow these guidelines:
 <br />
 <ul>
@@ -58,16 +58,16 @@ Welcome to EarthBound Fan Comics!  Enjoy reading oodles of EarthBound-related co
 <li><b>Originality</b>, <u>effort</u>, and <i>quality</i> are important</li>
 </ul>
 Effort tends to be pretty visible. Comics with little effort will not be accepted. Even if you're not good at drawing, you can still have a high-quality comic if you think of something funny or original. Comics will be hand-picked. If your comics don't make the cut, find out why and keep trying.<br />
-{% include box-close.html author-name="Ness_42" last-modified-on="2010-01-31 17:03:01 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Ness_42" last-modified-on="2010-01-31 23:03:01 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="780" title="Latest Updates:" author-id="81" timestamp="2005-04-02 21:26:35 +0600" type="norm" dbname="box24922" last-modified-by="127" %}
+{% include box-open.html box-id="780" title="Latest Updates" author-id="81" timestamp="2005-04-03 03:26:35 +0000" type="norm" dbname="box24922" last-modified-by="127" %}
 <navigator section="date" display="no" group="comics" quantity="10" /><displaytor mode="list" />
-{% include box-close.html author-name="Ness_42" last-modified-on="2006-06-18 15:35:46 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Ness_42" last-modified-on="2006-06-18 20:35:46 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="866" title="Contact Info:" author-id="288" timestamp="2005-04-03 16:04:11 +0500" type="norm" dbname="box53469" last-modified-by="127" %}
+{% include box-open.html box-id="866" title="Contact Info" author-id="288" timestamp="2005-04-03 21:04:11 +0000" type="norm" dbname="box53469" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
  Someone? PM <a href="http://forum.starmen.net/?t=usrinfo&id=474">Artemis251</a> if you have concerns in the mean time ♫
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2014-11-04 19:13:24 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2014-11-05 01:13:24 +0000" last-modified-by-name="Artemis251" %}

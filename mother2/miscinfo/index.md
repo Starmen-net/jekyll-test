@@ -2,9 +2,9 @@
 title: Misc. Game Info
 categories:
   - mother2
-date: 2005-04-03 04:35:35 +0500
+date: 2005-04-03 09:35:35 +0000
 ---
-{% include box-open.html box-id="804" title="Misc. Game Information:" author-id="926" timestamp="2005-04-03 04:35:35 +0500" type="norm" dbname="box11277" last-modified-by="127" %}
+{% include box-open.html box-id="804" title="Misc. Game Information" author-id="926" timestamp="2005-04-03 09:35:35 +0000" type="norm" dbname="box11277" last-modified-by="127" %}
 <SUBMISSION id="1740" /><br />
 One long list containing all the enemies in EarthBound, and their HP, PP, Offense, Defense and Speed.
 <p />
@@ -67,4 +67,4 @@ Tells you all about everyone's PSI and has a few enemies with their stats.
 <p />
 <SUBMISSION id="1759" /><br />
 Contains all the food available in EarthBound with accompanying information, the best food, and a mini-walkthrough.
-{% include box-close.html author-name="Wheelchairboy" last-modified-on="2005-04-03 14:42:05 +0500" last-modified-by-name="Wheelchairboy" %}
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2005-04-03 19:42:05 +0000" last-modified-by-name="Wheelchairboy" %}

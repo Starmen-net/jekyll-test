@@ -2,9 +2,9 @@
 title: Super Smash Bros. Screenshots
 categories:
   - smashbros
-date: 2005-03-13 19:04:31 +0600
+date: 2005-03-14 01:04:31 +0000
 ---
-{% include box-open.html box-id="510" title="Super Smash Bros. Screenshots:" author-id="49" timestamp="2005-03-13 19:04:31 +0600" type="norm" dbname="box48952" last-modified-by="75" %}
+{% include box-open.html box-id="510" title="Super Smash Bros. Screenshots" author-id="49" timestamp="2005-03-14 01:04:31 +0000" type="norm" dbname="box48952" last-modified-by="75" %}
 <a href="ss_charselect.jpg" title="Character Select Screen"><img src="ss_charselectt.jpg" width="50" height="50" /></a>
 <a href="ss_ness.jpg" title="Ness Quadruplets at Select"><img src="ss_nesst.jpg" width="50" height="50" /></a>
 <a href="ss_go.jpg" title="Ness Melee Start"><img src="ss_got.jpg" width="50" height="50" /></a>
@@ -24,10 +24,10 @@ date: 2005-03-13 19:04:31 +0600
 <a href="ss_thunderboost.jpg" title="Who says Thunder doesn't Strike the same place twice?"><img src="ss_thunderboostt.jpg" width="50" height="50" /></a>
 <a href="ssbcredt.jpg" title="Shigesato Itoi's Credits"><img src="ssbcreditt.jpg" width="50" height="50" /></a>
 <a href="youwon.png" title="The Ennnnd!"><img src="youwont.jpg" width="50" height="50" /></a>
-{% include box-close.html author-name="ROFISH" last-modified-on="2006-02-25 15:00:53 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2006-02-25 21:00:53 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="1376" title="Miscellaneous Media:" author-id="1594" timestamp="2005-08-26 01:24:46 +0500" type="norm" dbname="box63592" last-modified-by="75" %}
+{% include box-open.html box-id="1376" title="Miscellaneous Media" author-id="1594" timestamp="2005-08-26 06:24:46 +0000" type="norm" dbname="box63592" last-modified-by="75" %}
 <a href="misc_ness.jpg" title="Ness on an Angle"><img src="misc_nesst.jpg" width="50" height="50" /></a>
 <a href="misc_nesssmall.jpg" title="Happy Ness!"><img src="misc_nesssmallt.jpg" width="50" height="50" /></a>
 <a href="misc_powerstamp.jpg" title="Nintendo Power's Challenge"><img src="misc_powerstampt.jpg" width="50" height="50" /></a>
-{% include box-close.html author-name="Firegirl" last-modified-on="2006-02-25 15:05:27 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="Firegirl" last-modified-on="2006-02-25 21:05:27 +0000" last-modified-by-name="PoeTrader" %}

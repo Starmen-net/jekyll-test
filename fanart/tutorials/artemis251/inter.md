@@ -2,9 +2,9 @@
 title: 'Fan Art - Art Tutorials - Colored Pencils: Intarmeditate!'
 categories:
   - fanart
-date: 2005-10-05 19:22:50 +0500
+date: 2005-10-06 00:22:50 +0000
 ---
-{% include box-open.html box-id="1585" title="The middle of the road:" author-id="474" timestamp="2005-10-05 19:22:50 +0500" type="norm" dbname="box59628" last-modified-by="127" %}
+{% include box-open.html box-id="1585" title="The middle of the road" author-id="474" timestamp="2005-10-06 00:22:50 +0000" type="norm" dbname="box59628" last-modified-by="127" %}
 So, you've got the basics down and you're ready for some more?  Good, good; there's much more to learn!<br /><br /><br />
 
 <img src="baseshade.gif" border="0" hspace="13" align="left" alt="Ok, that's just wrong" target="_blank">
@@ -33,12 +33,12 @@ A rather simple installment.  There's two basic methods of making realistic or i
 </ul>
 </img>
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2005-10-09 18:32:40 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2005-10-09 23:32:40 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="1586" title="Sky Runner Transport:" author-id="474" timestamp="2005-10-05 19:22:51 +0500" type="blank" dbname="box26683" last-modified-by="127" %}
+{% include box-open.html box-id="1586" title="Sky Runner Transport" author-id="474" timestamp="2005-10-06 00:22:51 +0000" type="blank" dbname="box26683" last-modified-by="127" %}
 <ul>
 <li /><a href="/fanart/tutorials/artemis251/begin.php">Oh, wait - I meant beginner...I think.</a>
 <li /><a href="/fanart/tutorials/artemis251/advan.php">I'm ready to confront the advanced section!</a>
 <li /><a href="/fanart/tutorials/artemis251/advan.php">Go back home</a>
 </ul>
-{% include box-close.html author-name="Artemis251" last-modified-on="2005-10-06 22:59:19 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2005-10-07 03:59:19 +0000" last-modified-by-name="Artemis251" %}

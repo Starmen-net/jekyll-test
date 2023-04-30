@@ -2,9 +2,9 @@
 title: Mother Complete Conquer Techniques
 categories:
   - merchandise
-date: 2005-01-03 19:51:17 +0600
+date: 2005-01-04 01:51:17 +0000
 ---
-{% include box-open.html box-id="290" title="Mother Complete Conquer Techniques:" author-id="45" timestamp="2005-01-03 19:51:17 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="290" title="Mother Complete Conquer Techniques" author-id="45" timestamp="2005-01-04 01:51:17 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m1cct_title.jpg" border="0" alt="Mother Complete Conquer Techniques" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 19:51:17 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/mother1techg1.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 19:52:38 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:52:38 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Starmen.Net Calendar 2003
 categories:
   - merchandise
-date: 2005-01-03 23:37:44 +0600
+date: 2005-01-04 05:37:44 +0000
 ---
-{% include box-open.html box-id="375" title="Starmen.Net Calendar 2003:" author-id="45" timestamp="2005-01-03 23:37:44 +0600" type="norm" dbname="box59065" last-modified-by="45" %}
+{% include box-open.html box-id="375" title="Starmen.Net Calendar 2003" author-id="45" timestamp="2005-01-04 05:37:44 +0000" type="norm" dbname="box59065" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smncal03_title.png" border="0" alt="Starmen.Net Calendar 2003" />
 	</center>
@@ -55,4 +55,4 @@ date: 2005-01-03 23:37:44 +0600
 	<a href="/merchandise/images/smncal03_november.jpg"><img src="/merchandise/images/smncal03_11.jpg" border="0" alt="November by SoupaBoy" /></a>
 	<a href="/merchandise/images/smncal03_december.jpg"><img src="/merchandise/images/smncal03_12.jpg" border="0" alt="December by Meeellla" /></a>
 	</center>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-06 02:51:31 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-06 08:51:31 +0000" last-modified-by-name="ShadowX" %}

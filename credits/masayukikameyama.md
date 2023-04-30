@@ -2,9 +2,9 @@
 title: 'Game Credits: Masayuki Kameyama'
 categories:
   - credits
-date: 2005-09-21 13:28:35 +0500
+date: 2005-09-21 18:28:35 +0000
 ---
-{% include box-open.html box-id="1445" title="Masayuki Kameyama:" author-id="2262" timestamp="2005-09-21 13:28:35 +0500" type="norm" dbname="box34401" last-modified-by="127" %}
+{% include box-open.html box-id="1445" title="Masayuki Kameyama" author-id="2262" timestamp="2005-09-21 18:28:35 +0000" type="norm" dbname="box34401" last-modified-by="127" %}
 <b>Game Credits</b>
  <UL>
     <LI><b>Famicom Mukashi-Banashi: Shin Oni Ga Shima(NES 1987) Japan Only</b><BR />
@@ -23,4 +23,4 @@ date: 2005-09-21 13:28:35 +0500
     <LI><b>Mole Mania(GB 1996) USA Only</b><BR />
     Director</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:05:22 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:05:22 +0000" last-modified-by-name="KingDarian" %}

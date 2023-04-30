@@ -2,9 +2,9 @@
 title: 'Events: 3 2 1 MOTHER Fan Event'
 categories:
   - events
-date: 2007-06-20 01:31:11 +0500
+date: 2007-06-20 06:31:11 +0000
 ---
-{% include box-open.html box-id="3066" title="3 2 1 MOTHER Fan Event:" author-id="288" timestamp="2007-06-20 01:31:11 +0500" type="norm" dbname="box30751" last-modified-by="127" %}
+{% include box-open.html box-id="3066" title="3 2 1 MOTHER Fan Event" author-id="288" timestamp="2007-06-20 06:31:11 +0000" type="norm" dbname="box30751" last-modified-by="127" %}
 Web site: <a href="http://magicant-lab.com">http://magicant-lab.com</a>
 
 <br /><br />
@@ -17,9 +17,9 @@ Short anime clips were shown at the event. These were fan-made, but by a profess
 
 <br /><br />
 (more details to come)
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 01:45:29 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 06:45:29 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3067" title="Event Report:" author-id="288" timestamp="2007-06-20 01:34:03 +0500" type="norm" dbname="box52314" last-modified-by="127" %}
+{% include box-open.html box-id="3067" title="Event Report" author-id="288" timestamp="2007-06-20 06:34:03 +0000" type="norm" dbname="box52314" last-modified-by="127" %}
 Luckily for us, our good friend (and former staff member) Kyosuke lives and works in Japan, so he was able to attend! And he came back with a report that would make any EarthBound fan drool with envy!
 
 <hr width="50%" />
@@ -58,9 +58,9 @@ The time I spent with those people today reminded me even more just how much I l
 <br /><br />
 -Kyosuke
 
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 01:50:03 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 06:50:03 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3068" title="Event Photos:" author-id="288" timestamp="2007-06-20 01:50:24 +0500" type="norm" dbname="box57017" last-modified-by="127" %}
+{% include box-open.html box-id="3068" title="Event Photos" author-id="288" timestamp="2007-06-20 06:50:24 +0000" type="norm" dbname="box57017" last-modified-by="127" %}
 <table1 />
 <a href="ebcos01.jpg">Cosplay #1</a><br />
 <a href="ebcos02.jpg">Cosplay #2</a><br />
@@ -84,4 +84,4 @@ The time I spent with those people today reminded me even more just how much I l
 <a href="line.jpg">Line</a><br />
 <a href="natsume.jpg">"Natsume" & Kyosuke</a><br />
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 14:25:15 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-20 19:25:15 +0000" last-modified-by-name="Tomato" %}

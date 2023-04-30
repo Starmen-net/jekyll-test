@@ -2,9 +2,9 @@
 title: Mr. Baseball Bluester Shirts
 categories:
   - merchandise
-date: 2007-04-25 21:38:20 +0500
+date: 2007-04-26 02:38:20 +0000
 ---
-{% include box-open.html box-id="2874" title="Mr. Baseball Bluester Shirts:" author-id="45" timestamp="2007-04-25 21:38:20 +0500" type="norm" dbname="box63657" last-modified-by="45" %}
+{% include box-open.html box-id="2874" title="Mr. Baseball Bluester Shirts" author-id="45" timestamp="2007-04-26 02:38:20 +0000" type="norm" dbname="box63657" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_mrbb_title.png" border="0" alt="Mr. Baseball Bluester Shirts" />
 	</center>
@@ -32,4 +32,4 @@ date: 2007-04-25 21:38:20 +0500
 	<a href="/merchandise/images/smn_mrbbw_red.jpg">Women's Red</a> - <a href="/merchandise/images/smn_mrbbw_carblue.jpg">Women's Caribbean Blue</a> - <a href="/merchandise/images/smn_mrbbw_violet.jpg">Women's Violet</a> - 
 	<a href="/merchandise/images/smn_mrbbw_design.jpg">Women's Design</a> - <a href="/merchandise/images/smn_mrbbr_front.jpg">Ringer (Front)</a> - <a href="/merchandise/images/smn_mrbbr_back.jpg">Ringer (Back)</a> - 
 	<a href="/merchandise/images/smn_mrbbr_designf.jpg">Ringer Design (Front)</a> - <a href="/merchandise/images/smn_mrbbr_designb.jpg">Ringer Design (Back)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 03:03:05 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 08:03:05 +0000" last-modified-by-name="ShadowX" %}

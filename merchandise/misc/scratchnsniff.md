@@ -2,9 +2,9 @@
 title: EarthBound Scratch-n-Sniff Cards
 categories:
   - merchandise
-date: 2005-01-03 20:41:21 +0600
+date: 2005-01-04 02:41:21 +0000
 ---
-{% include box-open.html box-id="314" title="EarthBound Scratch-n-Sniff Cards:" author-id="45" timestamp="2005-01-03 20:41:21 +0600" type="norm" dbname="box40277" last-modified-by="45" %}
+{% include box-open.html box-id="314" title="EarthBound Scratch-n-Sniff Cards" author-id="45" timestamp="2005-01-04 02:41:21 +0000" type="norm" dbname="box40277" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -65,4 +65,4 @@ date: 2005-01-03 20:41:21 +0600
 	<br />
 <a href="/merchandise/images/eb_cards1.png" ><img src="/merchandise/images/eb_cards1.png" title="Cards (Front)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/eb_cards2.png" ><img src="/merchandise/images/eb_cards2.png" title="Cards (Back)" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-27 20:39:32 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-28 01:39:32 +0000" last-modified-by-name="ShadowX" %}

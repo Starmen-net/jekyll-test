@@ -2,9 +2,9 @@
 title: Famicom - 20 Years of Precious Memories DVD
 categories:
   - merchandise
-date: 2005-10-21 23:44:43 +0500
+date: 2005-10-22 04:44:43 +0000
 ---
-{% include box-open.html box-id="1661" title="Famicom - 20 Years of Precious Memories DVD:" author-id="45" timestamp="2005-10-21 23:44:43 +0500" type="norm" dbname="box15899" last-modified-by="45" %}
+{% include box-open.html box-id="1661" title="Famicom - 20 Years of Precious Memories DVD" author-id="45" timestamp="2005-10-22 04:44:43 +0000" type="norm" dbname="box15899" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/famicon20years_title.jpg" border="0" alt="Famicom - 20 Years of Precious Memories DVD" />
 	</center>
@@ -39,4 +39,4 @@ date: 2005-10-21 23:44:43 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/famicon20years_front.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-10-21 23:50:53 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-10-22 04:50:53 +0000" last-modified-by-name="ShadowX" %}

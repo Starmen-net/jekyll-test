@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - ssb4
-date: 2018-01-12 16:57:18 +0600
+date: 2018-01-12 22:57:18 +0000
 ---
-{% include box-open.html box-id="5114" title="New Box, Edit me :(:" author-id="28590" timestamp="2018-01-12 16:57:18 +0600" type="norm" dbname="box33775" last-modified-by="127" %}
+{% include box-open.html box-id="5114" title="New Box, Edit me :(" author-id="28590" timestamp="2018-01-12 22:57:18 +0000" type="norm" dbname="box33775" last-modified-by="127" %}
 <table class="fixed" border="0">
     <col width="500px" />
     <col width="500px" />
@@ -91,4 +91,4 @@ It is available from the Nintendo eShop: http://www.nintendo.com/games/detail/sm
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 17:20:02 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 23:20:02 +0000" last-modified-by-name="CerealQueen" %}

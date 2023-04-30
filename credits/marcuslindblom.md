@@ -2,9 +2,9 @@
 title: 'Game Credits: Marcus Lindblom'
 categories:
   - credits
-date: 2005-05-01 18:33:15 +0500
+date: 2005-05-01 23:33:15 +0000
 ---
-{% include box-open.html box-id="960" title="Marcus Lindblom:" author-id="2262" timestamp="2005-05-01 18:33:15 +0500" type="norm" dbname="box41338" last-modified-by="127" %}
+{% include box-open.html box-id="960" title="Marcus Lindblom" author-id="2262" timestamp="2005-05-01 23:33:15 +0000" type="norm" dbname="box41338" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 <LI><b>Wario's Woods(SNES 1994)</b><BR />
@@ -40,4 +40,4 @@ Special Thanks</LI>
 <LI><b>Evil Dead Regeneration(XBOX, PS2 2005)</b><BR />
 Project Manager</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 21:55:59 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-09 02:55:59 +0000" last-modified-by-name="KingDarian" %}

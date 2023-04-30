@@ -2,9 +2,9 @@
 title: Boom Boom Dollar
 categories:
   - merchandise
-date: 2007-04-21 18:27:20 +0500
+date: 2007-04-21 23:27:20 +0000
 ---
-{% include box-open.html box-id="2870" title="Boom Boom Dollar:" author-id="45" timestamp="2007-04-21 18:27:20 +0500" type="norm" dbname="box2042" last-modified-by="45" %}
+{% include box-open.html box-id="2870" title="Boom Boom Dollar" author-id="45" timestamp="2007-04-21 23:27:20 +0000" type="norm" dbname="box2042" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3bbd_title.jpg" border="0" alt="Mother 3 " />
 	</center>
@@ -27,4 +27,4 @@ date: 2007-04-21 18:27:20 +0500
 	<br />
 	<a href="/merchandise/images/m3bbd_front.jpg">Front</a> - <a href="/merchandise/images/m3bbd_back.jpg">Back</a> - <a href="/merchandise/images/m3bbd_insert.jpg">MOTHER series only event Insert</a> - 
 	<a href="/merchandise/images/m3bbd_p02.jpg">Page 02</a> - <a href="/merchandise/images/m3bbd_p10.jpg">Page 10</a> - <a href="/merchandise/images/m3bbd_p16.jpg">Page 16</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 19:42:59 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-22 00:42:59 +0000" last-modified-by-name="ShadowX" %}

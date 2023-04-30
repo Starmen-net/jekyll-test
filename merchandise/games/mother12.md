@@ -2,9 +2,9 @@
 title: MOTHER 1+2
 categories:
   - merchandise
-date: 2010-10-20 09:14:39 +0500
+date: 2010-10-20 14:14:39 +0000
 ---
-{% include box-open.html box-id="3900" title="MOTHER 1+2:" author-id="45" timestamp="2010-10-20 09:14:39 +0500" type="norm" dbname="box16130" last-modified-by="127" %}
+{% include box-open.html box-id="3900" title="MOTHER 1+2" author-id="45" timestamp="2010-10-20 14:14:39 +0000" type="norm" dbname="box16130" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -92,4 +92,4 @@ date: 2010-10-20 09:14:39 +0500
 <br /><br />
 	Thanks to <A HREF="mailto:GotARiverFenixEP@aol.com">GotARiverFenixEP</A> and sikkei for some of these pictures. 
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:47:05 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:47:05 +0000" last-modified-by-name="Tomato" %}

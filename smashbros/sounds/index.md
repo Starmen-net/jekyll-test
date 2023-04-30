@@ -2,9 +2,9 @@
 title: Super Smash Bros. Sound Clips
 categories:
   - smashbros
-date: 2006-03-08 01:52:51 +0600
+date: 2006-03-08 07:52:51 +0000
 ---
-{% include box-open.html box-id="2064" title="Super Smash Bros. Sound Clips:" author-id="49" timestamp="2006-03-08 01:52:51 +0600" type="norm" dbname="box3055" last-modified-by="75" %}
+{% include box-open.html box-id="2064" title="Super Smash Bros. Sound Clips" author-id="49" timestamp="2006-03-08 07:52:51 +0000" type="norm" dbname="box3055" last-modified-by="75" %}
 <table width="100%">
   <tr>
      <td width="50%"><ul>
@@ -26,4 +26,4 @@ date: 2006-03-08 01:52:51 +0600
      </td>
   </tr>
 </table>
-{% include box-close.html author-name="ROFISH" last-modified-on="2006-03-08 10:40:33 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2006-03-08 16:40:33 +0000" last-modified-by-name="PoeTrader" %}

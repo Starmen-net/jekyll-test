@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ JAMIE MEN ARCHIVES
 categories:
   - radio
-date: 2006-02-20 14:16:22 +0600
+date: 2006-02-20 20:16:22 +0000
 ---
-{% include box-open.html box-id="1912" title="Downloadables!:" author-id="247" timestamp="2006-02-20 14:16:22 +0600" type="norm" dbname="box41406" last-modified-by="127" %}
+{% include box-open.html box-id="1912" title="Downloadables!" author-id="247" timestamp="2006-02-20 20:16:22 +0000" type="norm" dbname="box41406" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ Jamie Men<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:59:37 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:59:37 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="1913" title="DJ Jamie Men's Archive Downloads!:" author-id="247" timestamp="2006-02-20 14:18:00 +0600" type="norm" dbname="box38877" last-modified-by="127" %}
+{% include box-open.html box-id="1913" title="DJ Jamie Men's Archive Downloads!" author-id="247" timestamp="2006-02-20 20:18:00 +0000" type="norm" dbname="box38877" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/jamiemen/radiopsidumpdjjamie20070804.ogg">August 4th, 2007</a>
 </p>
@@ -52,4 +52,4 @@ DJ Jamie Men<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/jamiemen/radiopsidumpdjjamie20040620.ogg">June 20th, 2004</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:59:11 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:59:11 +0000" last-modified-by-name="Mansion Maniac" %}

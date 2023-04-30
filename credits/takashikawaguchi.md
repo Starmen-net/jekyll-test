@@ -2,9 +2,9 @@
 title: 'Game Credits: Takashi Kawaguchi'
 categories:
   - credits
-date: 2005-09-21 14:09:01 +0500
+date: 2005-09-21 19:09:01 +0000
 ---
-{% include box-open.html box-id="1451" title="Takashi Kawaguchi:" author-id="2262" timestamp="2005-09-21 14:09:01 +0500" type="norm" dbname="box23117" last-modified-by="127" %}
+{% include box-open.html box-id="1451" title="Takashi Kawaguchi" author-id="2262" timestamp="2005-09-21 19:09:01 +0000" type="norm" dbname="box23117" last-modified-by="127" %}
 <b>Game Credits</b>
  <UL>
     <LI><b>MOTHER/EarthBound(NES 1989) Japan Only</b><BR />
@@ -44,4 +44,4 @@ date: 2005-09-21 14:09:01 +0500
     <LI><b>Baten Kaitos(GCN 2003/2004)</b><BR />
     Effects Design</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 19:03:41 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 00:03:41 +0000" last-modified-by-name="KingDarian" %}

@@ -2,9 +2,9 @@
 title: 'Game Credits: Tatsuya Ishii'
 categories:
   - credits
-date: 2005-09-21 12:37:14 +0500
+date: 2005-09-21 17:37:14 +0000
 ---
-{% include box-open.html box-id="1440" title="Tatsuya Ishii:" author-id="2262" timestamp="2005-09-21 12:37:14 +0500" type="norm" dbname="box2222" last-modified-by="127" %}
+{% include box-open.html box-id="1440" title="Tatsuya Ishii" author-id="2262" timestamp="2005-09-21 17:37:14 +0000" type="norm" dbname="box2222" last-modified-by="127" %}
 <img src="tatsuyaishii.JPG" align="right" />
 <b>Game Credits</b>
  <UL>
@@ -18,4 +18,4 @@ date: 2005-09-21 12:37:14 +0500
 <UL>
 <LI><a href="http://www.sonymusic.co.jp/Music/Arch/SR/TatsuyaIshii/">Sony Music Online Japan</a></LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 19:21:28 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 00:21:28 +0000" last-modified-by-name="KingDarian" %}

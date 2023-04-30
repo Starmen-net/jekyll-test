@@ -2,9 +2,9 @@
 title: Mother 1+2 Sheet Music
 categories:
   - merchandise
-date: 2005-04-03 23:46:17 +0500
+date: 2005-04-04 04:46:17 +0000
 ---
-{% include box-open.html box-id="895" title="Mother 1+2 Sheet Music:" author-id="45" timestamp="2005-04-03 23:46:17 +0500" type="norm" dbname="box9068" last-modified-by="45" %}
+{% include box-open.html box-id="895" title="Mother 1+2 Sheet Music" author-id="45" timestamp="2005-04-04 04:46:17 +0000" type="norm" dbname="box9068" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m12_sheetmusic_title.jpg" border="0" alt="Mother 1+2 Sheet Music" />
 	</center>
@@ -30,4 +30,4 @@ date: 2005-04-03 23:46:17 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m12_sheetmusic_front.jpg">Front</a> - <a href="/merchandise/images/m12_sheetmusic_page.jpg">Page</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-04-03 23:46:29 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-04-04 04:46:29 +0000" last-modified-by-name="ShadowX" %}

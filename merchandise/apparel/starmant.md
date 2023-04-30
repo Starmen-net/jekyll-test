@@ -2,9 +2,9 @@
 title: Starman SMAAAAAASH T-Shirt
 categories:
   - merchandise
-date: 2005-01-03 00:51:39 +0600
+date: 2005-01-03 06:51:39 +0000
 ---
-{% include box-open.html box-id="255" title="Starman SMAAAAAASH T-Shirt:" author-id="45" timestamp="2005-01-03 00:51:39 +0600" type="norm" dbname="box47954" last-modified-by="127" %}
+{% include box-open.html box-id="255" title="Starman SMAAAAAASH T-Shirt" author-id="45" timestamp="2005-01-03 06:51:39 +0000" type="norm" dbname="box47954" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/starmansmash_title.png" width="380" height="278" border="0" alt="Starman SMAAAAAASH T-Shirt" />
 	</center>
@@ -32,4 +32,4 @@ date: 2005-01-03 00:51:39 +0600
 	<a href="/merchandise/images/itoi_sign2.jpg">Itoi (Sign 2)</a>
 	<br /><br />
 	Some images are from <a href="http://www.the-king-of-games.com">The-King-Of-Games.com</a>.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:24:36 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:24:36 +0000" last-modified-by-name="Tomato" %}

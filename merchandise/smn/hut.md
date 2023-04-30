@@ -2,9 +2,9 @@
 title: HOT URF TIME!
 categories:
   - merchandise
-date: 2005-01-04 00:31:56 +0600
+date: 2005-01-04 06:31:56 +0000
 ---
-{% include box-open.html box-id="404" title="HOT URF TIME!:" author-id="45" timestamp="2005-01-04 00:31:56 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="404" title="HOT URF TIME!" author-id="45" timestamp="2005-01-04 06:31:56 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_hut_title.png" border="0" alt="HOT URF TIME!" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-04 00:31:56 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_hut_front.jpg">Front</a> - <a href="/merchandise/images/smn_hut_design.jpg">Design</a> - <a href="/merchandise/images/smn_cd.jpg">Detial</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:32:39 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:32:39 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Sound Effects
 categories:
   - mother2
-date: 2005-04-03 18:39:18 +0500
+date: 2005-04-03 23:39:18 +0000
 ---
-{% include box-open.html box-id="884" title="MOTHER 2 / EarthBound Sound Effects:" author-id="926" timestamp="2005-04-03 18:39:18 +0500" type="norm" dbname="box55233" last-modified-by="127" %}
+{% include box-open.html box-id="884" title="MOTHER 2 / EarthBound Sound Effects" author-id="926" timestamp="2005-04-03 23:39:18 +0000" type="norm" dbname="box55233" last-modified-by="127" %}
 <table border="0" width="99%">
 <tr><td width="33%">
 <a href="attack1.wav">Attack 1</a><br />
@@ -157,9 +157,9 @@ date: 2005-04-03 18:39:18 +0500
 <a href="wow.wav">WOW!</a><br />
 <a href="yell.wav">Yell</a><br />
 </td></tr></table>
-{% include box-close.html author-name="Wheelchairboy" last-modified-on="2016-11-21 19:25:07 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2016-11-22 01:25:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="885" title="Sound Effects Archive:" author-id="926" timestamp="2005-04-03 18:42:35 +0500" type="norm" dbname="box38508" last-modified-by="127" %}
+{% include box-open.html box-id="885" title="Sound Effects Archive" author-id="926" timestamp="2005-04-03 23:42:35 +0000" type="norm" dbname="box38508" last-modified-by="127" %}
 <img src="/include/submitimage/m2.png" width="12" height="10" />&nbsp;<a href="eb_sfx_archive.zip">Download all 147 sound effects (11.9 MB)</a><br />
 Sound effects courtesy of EBismaru and Tomato.
-{% include box-close.html author-name="Wheelchairboy" last-modified-on="2007-06-20 19:14:49 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2007-06-21 00:14:49 +0000" last-modified-by-name="lewahi" %}

@@ -2,9 +2,9 @@
 title: Mother 2 Bumper Sticker
 categories:
   - merchandise
-date: 2005-01-03 21:22:17 +0600
+date: 2005-01-04 03:22:17 +0000
 ---
-{% include box-open.html box-id="346" title="Mother 2 Bumper Sticker:" author-id="45" timestamp="2005-01-03 21:22:17 +0600" type="norm" dbname="box46390" last-modified-by="127" %}
+{% include box-open.html box-id="346" title="Mother 2 Bumper Sticker" author-id="45" timestamp="2005-01-04 03:22:17 +0000" type="norm" dbname="box46390" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/m2bump_title.jpg" border="0" alt="Mother 2 Bumper Sticker" />
 	</center>
@@ -28,4 +28,4 @@ date: 2005-01-03 21:22:17 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/bumpersticker1.jpg">1</a> - <a href="/merchandise/images/bumpersticker2.jpg">2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-02-15 19:59:26 +0600" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-02-16 01:59:26 +0000" last-modified-by-name="sarsie" %}

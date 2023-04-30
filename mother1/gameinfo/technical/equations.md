@@ -2,13 +2,13 @@
 title: MOTHER / Earthbound Zero Technical Info &amp; Equations
 categories:
   - mother1
-date: 2011-11-15 05:14:29 +0600
+date: 2011-11-15 11:14:29 +0000
 ---
-{% include box-open.html box-id="4116" title="MOTHER / EARTHBOUND ZERO Equations:" author-id="8286" timestamp="2011-11-15 05:14:29 +0600" type="norm" dbname="box32804" last-modified-by="127" %}
+{% include box-open.html box-id="4116" title="MOTHER / EARTHBOUND ZERO Equations" author-id="8286" timestamp="2011-11-15 11:14:29 +0000" type="norm" dbname="box32804" last-modified-by="127" %}
 Until recently, the algorithms and equations used in Mother have been shrouded in scary machine code and undocumented assembly code dumps. But luckily, a few awesome people have showed up to save the day and provide us with some very cool and interesting info. The following are how the game makes its decisions and/or makes its various calculations.
-{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 05:15:10 +0600" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 11:15:10 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="4117" title="Level Experience:" author-id="8286" timestamp="2011-11-15 05:19:04 +0600" type="norm" dbname="box27833" last-modified-by="127" %}
+{% include box-open.html box-id="4117" title="Level Experience" author-id="8286" timestamp="2011-11-15 11:19:04 +0000" type="norm" dbname="box27833" last-modified-by="127" %}
 <p>The total experience needed to reach level n = n * n * (n+1) * constant, rounded down.</p>
 
 <p>"constant" depends on person:<br/>
@@ -24,9 +24,9 @@ Until recently, the algorithms and equations used in Mother have been shrouded i
 <p>Teddy starts at level 18 with 3600 experience points. Everyone else starts at level 1 with 0 experience points.</p>
 
 
-{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 05:53:21 +0600" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 11:53:21 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="4118" title="Stat Growth Formulas:" author-id="8286" timestamp="2011-11-15 05:34:32 +0600" type="norm" dbname="box30081" last-modified-by="127" %}
+{% include box-open.html box-id="4118" title="Stat Growth Formulas" author-id="8286" timestamp="2011-11-15 11:34:32 +0000" type="norm" dbname="box30081" last-modified-by="127" %}
 <p>Formula for stat increase during a levelup:<br/>
 stat gain = (constant + (random number 0-3))/2, rounded down</p>
 <p>Constant values:<br/>
@@ -58,9 +58,9 @@ PP: Target value = Force*1.5</p>
 
 <br/><hr width="50%"/><br/>
 <p>If your level is high enough to learn a particular PSI power, you have a 1/4 chance of learning it after any battle you win or escape from.</p>
-{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 06:04:37 +0600" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 12:04:37 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="4119" title="Item Information:" author-id="8286" timestamp="2011-11-15 06:05:46 +0600" type="norm" dbname="box54905" last-modified-by="127" %}
+{% include box-open.html box-id="4119" title="Item Information" author-id="8286" timestamp="2011-11-15 12:05:46 +0000" type="norm" dbname="box54905" last-modified-by="127" %}
 <p>The drop rate from enemies is 1/16 for all items.</p>
 
 <p>Infinitely usable items: Super Spray, Flashdark, Bullhorn, AsthmaSpray, WordsO'Love, Swear Words</p>
@@ -73,9 +73,9 @@ PP: Target value = Force*1.5</p>
 <p>Bullhorn - always has exactly 50% success-rate.</p>
 
 <p>StkyMachine - inflicts paralysis (like PSI Paralysis)</p>
-{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 06:19:25 +0600" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 12:19:25 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="4120" title="Battle Formulas:" author-id="8286" timestamp="2011-11-15 06:13:00 +0600" type="norm" dbname="box62787" last-modified-by="127" %}
+{% include box-open.html box-id="4120" title="Battle Formulas" author-id="8286" timestamp="2011-11-15 12:13:00 +0000" type="norm" dbname="box62787" last-modified-by="127" %}
 <p>Physical attacks (using "FIGHT" option):</p>
 
 <p>Dodge rate: [26 + (target's Fight - attacker's Fight)/2]/256<br/>
@@ -102,9 +102,9 @@ However, if attacker's offense &#60; defender's defense, then damage is ((Attack
 <p>The higher a character's Speed is, the better chance it has of going first.</p>
 
 <p>The chance of running is 50/50. Each character may make an attempt to run once per turn, and on a success, the whole party flees.  PSI 4th-D Slip works 100% of the time.</p>
-{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 06:31:37 +0600" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 12:31:37 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="4122" title="Random Encounters:" author-id="8286" timestamp="2011-11-15 06:34:04 +0600" type="norm" dbname="box1449" last-modified-by="127" %}
+{% include box-open.html box-id="4122" title="Random Encounters" author-id="8286" timestamp="2011-11-15 12:34:04 +0000" type="norm" dbname="box1449" last-modified-by="127" %}
 <p>Whenever you take a step in an area with random encounters, the RNG generates a number, and you get into a battle if the number is below a certain amount. Here is the list of random encounter probabilities:<br/>
 1: 32/256<br/>
 2: 21/256<br/>
@@ -123,4 +123,4 @@ However, if attacker's offense &#60; defender's defense, then damage is ((Attack
 - With every step you take, you've got a 21/256 (or about 8.2%) chance of getting into a fight.<br/>
 - Once you get into your first fight, the odds of getting into your second fight for that area are 16/256 (6.25%) for each step.<br/>
 - After that second fight, your odds for getting into a fight remain at 13/256 (about 5.1%) for each step for the remainder of your exploration of the area.  The "bonus" resets when you go back to the safe town.</p>
-{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 06:35:19 +0600" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2011-11-15 12:35:19 +0000" last-modified-by-name="Floogal" %}

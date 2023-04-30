@@ -2,9 +2,9 @@
 title: Game Box Cards
 categories:
   - ebsiege
-date: 2007-06-12 03:41:35 +0500
+date: 2007-06-12 08:41:35 +0000
 ---
-{% include box-open.html box-id="3014" title="Game Box Cards:" author-id="137" timestamp="2007-06-12 03:41:35 +0500" type="norm" dbname="box42024" last-modified-by="8" %}
+{% include box-open.html box-id="3014" title="Game Box Cards" author-id="137" timestamp="2007-06-12 08:41:35 +0000" type="norm" dbname="box42024" last-modified-by="8" %}
 <div style="text-align: center;">
 <ul class="thumbprevs">
 <li><a href="../pdfs/DS_01.pdf"><img src="../thumbs/DS_01.jpg" /></a><a rel="lightbox[mailn]" href="../resized/DS_01.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
@@ -32,4 +32,4 @@ date: 2007-06-12 03:41:35 +0500
 <li><a href="../pdfs/EB_15.pdf"><img src="../thumbs/EB_15.jpg" /></a><a rel="lightbox[mailn]" href="../resized/EB_15.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 </ul>
 </div>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 04:07:55 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 09:07:55 +0000" last-modified-by-name="reidman" %}

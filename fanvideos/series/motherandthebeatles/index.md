@@ -2,9 +2,9 @@
 title: 'Fan Videos: Series - Mother &amp; The Beatles'
 categories:
   - fanvideos
-date: 2007-06-15 01:03:06 +0500
+date: 2007-06-15 06:03:06 +0000
 ---
-{% include box-open.html box-id="3024" title="Mother & The Beatles:" author-id="266" timestamp="2007-06-15 01:03:06 +0500" type="norm" dbname="box55009" last-modified-by="127" %}
+{% include box-open.html box-id="3024" title="Mother & The Beatles" author-id="266" timestamp="2007-06-15 06:03:06 +0000" type="norm" dbname="box55009" last-modified-by="127" %}
 <center><img src="http://starmen.net/fanvideos/thumbs/motherbeatleslogo.png" /></center><br />
 Mother & The Beatles is a series that takes a closer look at the world of Mother and brings to light the similarities to The Beatles universe that may have been intended by Itoi, Mother's creator.
 <br />
@@ -75,4 +75,4 @@ by <a href="http://www.youtube.com/user/MotherYouHadMe">MotherYouHadMe</a></h3>
 
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="xfisjmg1" last-modified-on="2007-06-20 23:51:20 +0500" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="xfisjmg1" last-modified-on="2007-06-21 04:51:20 +0000" last-modified-by-name="xfisjmg1" %}

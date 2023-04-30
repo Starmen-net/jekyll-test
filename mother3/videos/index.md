@@ -2,9 +2,9 @@
 title: 'Mother 3: Videos'
 categories:
   - mother3
-date: 2007-06-13 01:58:06 +0500
+date: 2007-06-13 06:58:06 +0000
 ---
-{% include box-open.html box-id="3020" title="Mother 3 Videos:" author-id="288" timestamp="2007-06-13 01:58:06 +0500" type="norm" dbname="box5113" last-modified-by="127" %}
+{% include box-open.html box-id="3020" title="Mother 3 Videos" author-id="288" timestamp="2007-06-13 06:58:06 +0000" type="norm" dbname="box5113" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft" href="http://www.youtube.com/watch?v=z8YaKuWLvGs"><img src="thumb_m3com1.jpg" align="center" /></a>
@@ -95,4 +95,4 @@ date: 2007-06-13 01:58:06 +0500
 </li>
 
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2019-09-25 07:30:51 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2019-09-25 12:30:51 +0000" last-modified-by-name="CerealQueen" %}

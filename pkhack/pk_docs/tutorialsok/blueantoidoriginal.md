@@ -2,9 +2,9 @@
 title: Oh man if you haven&#039;t read this then I DON&#039;T KNOW
 categories:
   - pkhack
-date: 2006-09-30 21:36:09 +0500
+date: 2006-10-01 02:36:09 +0000
 ---
-{% include box-open.html box-id="2586" title="Go ahead and lose yourself:" author-id="473" timestamp="2006-09-30 21:36:09 +0500" type="norm" dbname="box28933" last-modified-by="127" %}
+{% include box-open.html box-id="2586" title="Go ahead and lose yourself" author-id="473" timestamp="2006-10-01 02:36:09 +0000" type="norm" dbname="box28933" last-modified-by="127" %}
 <b>Are You Ready?</b><br />
 <i>by Blue Antoid & Gau</i><br />
 <p />
@@ -48,4 +48,4 @@ That is not so today.  Many tantalizing possibilities are open to those with the
 That is why we ask that you complete these tutorials sequentially.  They have been specifically designed with a stable learning curve - one which we hope will enhance your learning experience.  After all, a beginner learning to swim doesn't start by leaping into the deep end of the pool.  You've got to allow yourself time to master the basics, gain confidence, and learn what to do if something goes wrong.  Only then can you really face the depths of the water without fear of drowning.<br />
 <p />
 Thank you for listening to my long story.  The tutorial you're about to take will guide you through the creation of a small hack.  Don't worry - everything you need will be provided.  If you're ready, we can begin right now...
-{% include box-close.html author-name="Radiation" last-modified-on="2006-09-30 21:36:19 +0500" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2006-10-01 02:36:19 +0000" last-modified-by-name="Radiation" %}

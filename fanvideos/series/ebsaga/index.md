@@ -2,9 +2,9 @@
 title: 'Fan Videos: Series - EB Saga'
 categories:
   - fanvideos
-date: 2007-06-04 23:30:29 +0500
+date: 2007-06-05 04:30:29 +0000
 ---
-{% include box-open.html box-id="2990" title="EB Saga:" author-id="137" timestamp="2007-06-04 23:30:29 +0500" type="norm" dbname="box27565" last-modified-by="127" %}
+{% include box-open.html box-id="2990" title="EB Saga" author-id="137" timestamp="2007-06-05 04:30:29 +0000" type="norm" dbname="box27565" last-modified-by="127" %}
 <center><img src="http://starmen.net/fanvideos/thumbs/ebsagalogo.png" /></center>
 <br /><br />
 EarthBound Saga follows Ness through his adventures in a intentionally poorly-produced piece of art.<ul class="pics">
@@ -37,4 +37,4 @@ by <a href="http://starmen.net/forum/?t=usrinfo&id=7102">UbseyMovies</a></h3>
 
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="Jonk" last-modified-on="2009-01-14 20:15:30 +0600" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2009-01-15 02:15:30 +0000" last-modified-by-name="xfisjmg1" %}

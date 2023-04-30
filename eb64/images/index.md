@@ -2,9 +2,9 @@
 title: EarthBound 64 Screenshots &amp; Images
 categories:
   - eb64
-date: 2019-06-11 12:31:01 +0500
+date: 2019-06-11 17:31:01 +0000
 ---
-{% include box-open.html box-id="5324" title="Nintendo 64 DD Era Screenshots:" author-id="28590" timestamp="2019-06-11 16:02:35 +0500" type="norm" dbname="box18147" last-modified-by="127" %}
+{% include box-open.html box-id="5324" title="Nintendo 64 DD Era Screenshots" author-id="28590" timestamp="2019-06-11 21:02:35 +0000" type="norm" dbname="box18147" last-modified-by="127" %}
 <a rel="lightbox[1]" href="1996/n_Cast.jpg" class="thumbnail"><img src="1996/n_Castthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a rel="lightbox[1]" href="1996/n_Chase.jpg" class="thumbnail"><img src="1996/n_Chasethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a rel="lightbox[1]" href="1996/n_Chase_2.jpg" class="thumbnail"><img src="1996/n_Chase_2thumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
@@ -49,9 +49,9 @@ date: 2019-06-11 12:31:01 +0500
 <a rel="lightbox[1]" href="1997/n_Yado_Inn.jpg" class="thumbnail"><img src="1997/n_Yado_Innthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a rel="lightbox[1]" href="1997/n_Yosaku_House.jpg" class="thumbnail"><img src="1997/n_Yosaku_Housethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 <a rel="lightbox[1]" href="1998/Hiroki-Chan.jpg" class="thumbnail"><img src="1998/Hiroki-Chanthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-10-29 22:39:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-10-30 03:39:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5323" title="Nintendo 64 Era Screenshots:" author-id="28590" timestamp="2019-06-11 12:31:01 +0500" type="norm" dbname="box45925" last-modified-by="127" %}
+{% include box-open.html box-id="5323" title="Nintendo 64 Era Screenshots" author-id="28590" timestamp="2019-06-11 17:31:01 +0000" type="norm" dbname="box45925" last-modified-by="127" %}
 <a rel="lightbox[2]" href="1998/Butch.jpg" class="thumbnail"><img src="1998/Butchthumb.png"  WIDTH="50" HEIGHT="50" border="1" /></a>
 <a rel="lightbox[2]" href="1998/Livestock.jpg" class="thumbnail"><img src="1998/Livestockthumb.png"  WIDTH="50" HEIGHT="50" border="1" /></a>
 
@@ -190,9 +190,9 @@ date: 2019-06-11 12:31:01 +0500
 
 <a rel="lightbox[2]" href="2000/n_World_Doomed_2.JPG" class="thumbnail"><img src="2000/n_World_Doomed_2thumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-13 00:21:51 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-13 06:21:51 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5325" title="Battle Screenshots:" author-id="28590" timestamp="2019-06-11 17:24:26 +0500" type="norm" dbname="box62580" last-modified-by="127" %}
+{% include box-open.html box-id="5325" title="Battle Screenshots" author-id="28590" timestamp="2019-06-11 22:24:26 +0000" type="norm" dbname="box62580" last-modified-by="127" %}
 <a rel="lightbox[3]" href="1997/n_Boar_Dragon_Battle.jpg" class="thumbnail"><img src="1997/n_Boar_Dragon_Battlethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 
 <a rel="lightbox[3]" href="1999/n_Boar_Battle.jpg" class="thumbnail"><img src="1999/n_Boar_Battlethumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
@@ -206,9 +206,9 @@ date: 2019-06-11 12:31:01 +0500
 <a rel="lightbox[3]" href="2000/n_Pork_Trooper.JPG" class="thumbnail"><img src="2000/n_Pork_Trooperthumb.png"  WIDTH="50" HEIGHT="50" border="1"  /></a>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-11 18:02:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-11 23:02:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5326" title="Logo & Character Renders:" author-id="28590" timestamp="2019-06-11 21:31:33 +0500" type="norm" dbname="box58284" last-modified-by="127" %}
+{% include box-open.html box-id="5326" title="Logo & Character Renders" author-id="28590" timestamp="2019-06-12 02:31:33 +0000" type="norm" dbname="box58284" last-modified-by="127" %}
 <a rel="lightbox[4]" href="sketches/Logo.png"><img src="sketches/Logothumb.png" WIDTH="50" HEIGHT="50" border="1" /></a>
 <a rel="lightbox[4]" href="characters/Cast Photo.jpg"><img src="characters/Cast_Photothumb.png" WIDTH="50" HEIGHT="50" border="1" /></a>
 <a rel="lightbox[4]" href="characters/andonuts.jpg"><img src="characters/andonuts.png" WIDTH="50" HEIGHT="50" border="1" /></a>
@@ -246,9 +246,9 @@ date: 2019-06-11 12:31:01 +0500
 <a rel="lightbox[4]" href="characters/Mayor.png"><img src="characters/Mayor_T.png" WIDTH="50" HEIGHT="50" border="1" /></a>
 
 <a rel="lightbox[4]" href="characters/Waitress.png"><img src="characters/Waitress_T.png" WIDTH="50" HEIGHT="50" border="1" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-19 04:40:19 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-19 10:40:19 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5327" title="Concept Sketches:" author-id="28590" timestamp="2019-06-11 21:59:10 +0500" type="norm" dbname="box5575" last-modified-by="127" %}
+{% include box-open.html box-id="5327" title="Concept Sketches" author-id="28590" timestamp="2019-06-12 02:59:10 +0000" type="norm" dbname="box5575" last-modified-by="127" %}
 <a rel="lightbox[5]" href="sketches/art1.jpg"><img src="sketches/art1.png" WIDTH="150" HEIGHT="150" border="1"  /></a>
 <a rel="lightbox[5]" href="sketches/art2.jpg"><img src="sketches/art2.png" WIDTH="150" HEIGHT="150" border="1" /></a>
 <a rel="lightbox[5]" href="sketches/art3.jpg"><img src="sketches/art3.png" WIDTH="150" HEIGHT="150" border="1" /></a>
@@ -280,8 +280,8 @@ date: 2019-06-11 12:31:01 +0500
 
 
 <a rel="lightbox[5]" href="sketches/Treehouse.jpg"><img src="sketches/Treehousethumb.png" WIDTH="150" HEIGHT="150" border="1" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-11 22:06:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-12 03:06:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5328" title="Credits:" author-id="28590" timestamp="2019-06-12 09:57:58 +0500" type="norm" dbname="box63145" last-modified-by="127" %}
+{% include box-open.html box-id="5328" title="Credits" author-id="28590" timestamp="2019-06-12 14:57:58 +0000" type="norm" dbname="box63145" last-modified-by="127" %}
 A <i>HUGE</i> thank you goes to Sebastian to helping provide a few updated screenshots, to OkeijiDragon for the discovery of new art, DaEgg123 for discovering new magazine scans and screenshots, Echoes, and the entire EarthBound 64 Discord for finding many new discoveries and compiling them so neatly! 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-03 22:59:01 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-04 04:59:01 +0000" last-modified-by-name="CerealQueen" %}

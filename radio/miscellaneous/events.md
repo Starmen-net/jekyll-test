@@ -2,9 +2,9 @@
 title: Radio PSI Special Events
 categories:
   - radio
-date: 2023-01-26 02:05:48 +0600
+date: 2023-01-26 08:05:48 +0000
 ---
-{% include box-open.html box-id="5564" title="Special Annual Events:" author-id="9233" timestamp="2023-01-26 02:05:48 +0600" type="norm" dbname="box15660" last-modified-by="127" %}
+{% include box-open.html box-id="5564" title="Special Annual Events" author-id="9233" timestamp="2023-01-26 08:05:48 +0000" type="norm" dbname="box15660" last-modified-by="127" %}
 <p align="center" valign="middle">
 <font size="6"><b><i>A Very Monly Christmas</i></b></font>
 <br />
@@ -35,4 +35,4 @@ E3 is the week where developers gather together to showcase their upcoming games
 Normally managed and moderated by DJ Umbra, the Roundtables never failed to happen each time E3 happened ever since 2011. In fact, some would say that the roundtables will outlast E3 itself.
 </p>
 <br />
-{% include box-close.html author-name="nightshade" last-modified-on="2023-04-03 00:33:02 +0500" last-modified-by-name="nightshade" %}
+{% include box-close.html author-name="nightshade" last-modified-on="2023-04-03 05:33:02 +0000" last-modified-by-name="nightshade" %}

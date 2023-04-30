@@ -2,16 +2,16 @@
 title: Prototype&#039;s PK Hack Tutorial
 categories:
   - pkhack
-date: 2012-03-11 18:13:08 +0500
+date: 2012-03-11 23:13:08 +0000
 ---
-{% include box-open.html box-id="4344" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-03-11 18:13:08 +0500" type="blank" dbname="box57862" last-modified-by="127" %}
+{% include box-open.html box-id="4344" title="New Box, Edit me :(" author-id="6189" timestamp="2012-03-11 23:13:08 +0000" type="blank" dbname="box57862" last-modified-by="127" %}
 <center><font size="5">2.2 Map Editing</font></center><br /><br />Map editing is where most hacks stop, or get horribly broken beyond any hope of repair. Save after making small
 changes, and keep a history of backups. This is one of the hardest things to do right in hacking the EarthBound ROM, and the most likely to destroy your ROM. Rule #1 is backups for this very reason, since it is the most important rule. Don’t come crying to me when you’ve done three hours of map making, only to find your Door data or something got turned into gibberish, making the ROM unusable.
 <br /><br />
 <hr />
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:19:43 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:19:43 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4345" title="1. General Information:" author-id="6189" timestamp="2012-03-11 18:15:34 +0500" type="norm" dbname="box41434" last-modified-by="127" %}
+{% include box-open.html box-id="4345" title="1. General Information" author-id="6189" timestamp="2012-03-11 23:15:34 +0000" type="norm" dbname="box41434" last-modified-by="127" %}
 There are two programs for editing the maps, and while both have a similar interface, there are things each does
 better than the other. Even worse, there are some minor incompatiblity problems with the two editors. For starters,
 Mr. Accident’s Map Editor 4.x uses the small free space towards the end of the ROM known as the PK Hack System Area of Doom. Thus, any sort of hack that puts data there is incompatible with Mr. A’s editor, like EB++ 0.2+. Mr. A’s editor can’t open a 6MB ROM either. But JHack’s editor can’t edit doors properly. Editing the ROM with both editors at the same time will most likely break your ROM, and switching between the editors while you edit can ruin Door data, SPT/TPT entries, hotspots, and anything else on the Map. Messianic has had much experience with both editors, and has created the following edit order list.
@@ -58,9 +58,9 @@ the doors. This is because as Messianic listed, Mr. A’s is best for making the
 <br /><br />
 As you can see, both editors have a Map editing pane, a tiles selector, and a number of options for editing the other
 parts of the map. Just remember to follow the editing order to avoid problems. Others have done map editing with different orders and had the maps work, but the order allows for the smallest chance of problems.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-25 14:50:25 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-25 19:50:25 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4377" title="2. Editing Tile Blocks:" author-id="6189" timestamp="2012-03-25 14:50:28 +0500" type="norm" dbname="box18649" last-modified-by="127" %}
+{% include box-open.html box-id="4377" title="2. Editing Tile Blocks" author-id="6189" timestamp="2012-03-25 19:50:28 +0000" type="norm" dbname="box18649" last-modified-by="127" %}
 First select which tile block you will be editing, then pick out what tileset you will be using. After that, start
 placing tiles in that block to make your map. Remember which tiles you set as walkable, and which ones are not. You don’t want to box the player in, or create obstacles where there shouldn’t be. Remember, tile blocks directly above, below, and to each side of the tile block you are editing will be visible in-game to the player if they use the same tileset. This is why the game has a couple of Indoors tilesets, so they can make rooms next to each other without visibility problems.
 <br /><br />
@@ -78,9 +78,9 @@ Again, try to keep the relative sizes of things in mind when making a map. A sma
 tall looks strange in a small town, and most homes don’t have doors the size of buses. You should have already planned what the inside of the building should look like, you should make the outside reflect how large it was. If you have an upper floor to the house, it will be jarring to see it only be a single story house outside.
 <br /><br />
 DO NOT FORGET YOUR COLLISION PROPERTIES! Don’t make the mistake of using a tile that looks similar to the one you really wanted, that has a different collision property setting. You could make a map that looks great in the editor, and then later in the testing phase find out you can’t finish the game because a part of the map is impassible. As such, I HIGHLY recommend you create a copy of your ROM once you have your map built, and then setup basic access to your map in-game by disabling all creatures, and opening all doors. This way you can explore every inch of your map and look for mistakes, things that look worse in-game than they did in the editor, things you didn’t think the player could see, bad collision data, and any other problem that needs to be fixed before you continue on.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-25 14:51:51 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-25 19:51:51 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4378" title="3. Editing Doors:" author-id="6189" timestamp="2012-03-25 14:51:55 +0500" type="norm" dbname="box52984" last-modified-by="127" %}
+{% include box-open.html box-id="4378" title="3. Editing Doors" author-id="6189" timestamp="2012-03-25 19:51:55 +0000" type="norm" dbname="box52984" last-modified-by="127" %}
 Doors require multiple parts of the ROM to match up properly, and so this is easy to screw up. You will be putting
 the door data on top of the tile collision properties data that specifies a door. If you don’t, your door won’t be usable.
 This is why it’s important to plan your map, since if you don’t put in the door tile collision data properly, you can’t make the door functional. If you’ve gotten to this point and have realized you haven’t done that, don’t panic. You can still go back and fix things in the tile editor, and on the map itself if need be. You might as well consider this the point of no return. You can still edit your map after this, but the chances of causing some godawful overwrite or corruption greatly increases. Finalize your map and collision data NOW. You do not want to have to take the risk later if you end up needing to change something because you didn’t plan it out. Also, you need to do your expansion of your ROM to 4MB with Mr. Accident’s Map Editor in order to have the Door editing work properly, but you should have already known and done this from earlier in the tutorial.
@@ -93,9 +93,9 @@ If you really want to add new areas to the game, but want to keep EVERY room/are
 <br /><br />
 Thanks to Mr. Accident for the following info. For the Ropes/Ladders type of doors, you don’t need a line of them
 from one side to the other, just one on each side. It’s like that in the ROM just because the people who made it decided to waste space for some odd reason. According to Tomato, you can “jump” through doors in Mr. A’s map editor by holding down CTRL and clicking on a door. This is useful for figuring out where doors go, and is much faster than opening up the door editor and finding the right door.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-25 14:52:45 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-25 19:52:45 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4423" title="4. Editing SPT and TPT Entries:" author-id="6189" timestamp="2012-04-16 19:23:45 +0500" type="norm" dbname="box9884" last-modified-by="127" %}
+{% include box-open.html box-id="4423" title="4. Editing SPT and TPT Entries" author-id="6189" timestamp="2012-04-17 00:23:45 +0000" type="norm" dbname="box9884" last-modified-by="127" %}
 This is where your planning really comes into play. You need to assign SPT and TPT entries, and it really helps if
 you already know how many you need. This way you can finish up your map before you even create the sprites and text blocks that you will be using. Doing this will save you a great deal of time later, and help decrease chances of destroying your ROM. The Sprite Pointer Table(SPT) is all the NPC’s and enemies in the game. The Text Pointer Table is most of the text in the game, except special bits, and text linked from other text blocks. Before I tell you about editing, I need to explain a little about the SPT and TPT.<br /><br />
 
@@ -121,32 +121,32 @@ Keep in mind, unless you have unchecked “Show Repeat Sprites” in the sprite 
 <br /><br />
 Proper use of the TPT and SPT will allow you to add situational decorations to your maps, completely change the
 appearance of an area, and is part of the backbone of a good hack. It may seem complicated, but it’s worth the time to learn.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-04-16 19:27:10 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-04-17 00:27:10 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4424" title="5. Editing Enemy Groups:" author-id="6189" timestamp="2012-04-16 19:27:20 +0500" type="norm" dbname="box3412" last-modified-by="127" %}
+{% include box-open.html box-id="4424" title="5. Editing Enemy Groups" author-id="6189" timestamp="2012-04-17 00:27:20 +0000" type="norm" dbname="box3412" last-modified-by="127" %}
 As I’ve stated before, I have no experience messing around with this thing. If ANYONE knows what the deal is and
 don’t mind writing up an explaination, or at least explaining it to me so I can write an explaination, let me know with a PM or something.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-04-16 19:27:57 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-04-17 00:27:57 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4425" title="6. Editing Hotspots:" author-id="6189" timestamp="2012-04-16 19:28:29 +0500" type="norm" dbname="box45919" last-modified-by="127" %}
+{% include box-open.html box-id="4425" title="6. Editing Hotspots" author-id="6189" timestamp="2012-04-17 00:28:29 +0000" type="norm" dbname="box45919" last-modified-by="127" %}
 I could write up a tutorial about how to edit hotspots, but GuyInSummers already did that ages ago, and it still
 works today. His tutorial is <a href="http://pkhack.fobby.net/down/tuts/hotspot.php">here</a>. It includes all relevent info about
 hotspots, including which hotspots are “safe” to edit, and everything you need to know to successfully make your own
 hotspots (safe meaning they don’t trigger any weird additional stuff we haven’t figured out yet).
-{% include box-close.html author-name="NESluver" last-modified-on="2012-04-16 19:30:35 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-04-17 00:30:35 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4426" title="7. Editing Map Sector Properties:" author-id="6189" timestamp="2012-04-16 19:30:53 +0500" type="norm" dbname="box58701" last-modified-by="127" %}
+{% include box-open.html box-id="4426" title="7. Editing Map Sector Properties" author-id="6189" timestamp="2012-04-17 00:30:53 +0000" type="norm" dbname="box58701" last-modified-by="127" %}
 You are in the home stretch now! Time for the final detail on your map, the sector properties. This is rather easy
 compared to the stuff you’ve been doing. All you need to do is go around your map and specify some details. You need to specify the following things, if the player can use PSI Teleport in that location, if using the town map will display a map and which map if so, if the exit mouse should work, if the area should be considered “indoors”, if there should be magic butterflies spawning regularly, or if your characters should be using one of the alternate sprite sets(IE magicant, robots, or miniature). Be sure to check every tile block on your map, and make sure the Sector Properties are correct.<br /><br />
 
 Once you’ve finished, I highly recommend setting up your hack to let you walk around the map without enemies or
 barriers, so you can test all your collision properties and other odds and ends on the map before you continue hacking.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-04-16 19:31:18 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-04-17 00:31:18 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4427" title="8. Hyperbound's Map Editing Tutorial:" author-id="6189" timestamp="2012-04-16 19:31:26 +0500" type="norm" dbname="box28654" last-modified-by="127" %}
+{% include box-open.html box-id="4427" title="8. Hyperbound's Map Editing Tutorial" author-id="6189" timestamp="2012-04-17 00:31:26 +0000" type="norm" dbname="box28654" last-modified-by="127" %}
 HyperBound makes maps without the Tileset Editor, and has documented his method for map creation. You can find it <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hyperbound_mapediting.php">here</a>. Feel free to use this method if the Tileset Editor keeps breaking your ROM or whatever.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-04-16 19:32:09 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-04-17 00:32:09 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4346" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-03-11 18:17:58 +0500" type="blank" dbname="box47184" last-modified-by="127" %}
+{% include box-open.html box-id="4346" title="New Box, Edit me :(" author-id="6189" timestamp="2012-03-11 23:17:58 +0000" type="blank" dbname="box47184" last-modified-by="127" %}
 <center><font size="4"><a href="section2part1.php">&larr; 2.1 Tilesets</a> | <b>2.2 Map Editing </b> | <a href="section3.php">3.0 Sprite and Other Graphical Editing &rarr;</a></font></center>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:34:35 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:34:35 +0000" last-modified-by-name="NESluver" %}

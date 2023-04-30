@@ -2,9 +2,9 @@
 title: Game Credits
 categories:
   - credits
-date: 2005-05-03 20:02:49 +0500
+date: 2005-05-04 01:02:49 +0000
 ---
-{% include box-open.html box-id="997" title="Game Credits Directory:" author-id="2262" timestamp="2005-05-03 20:02:49 +0500" type="norm" dbname="box58960" last-modified-by="127" %}
+{% include box-open.html box-id="997" title="Game Credits Directory" author-id="2262" timestamp="2005-05-04 01:02:49 +0000" type="norm" dbname="box58960" last-modified-by="127" %}
 <b><a href="nes.php">8-Bit Classics</a></b><BR />
 <a href="nes.php"><img src="http://starmen.net/credits/MotherGlobe.gif" align="right" border="0" /></a>
 Credits for the two versions of the first MOTHER game, the unreleased Earthbound for the Nintendo Entertainment System(NES) and MOTHER for the Family Computer(Famicom)<BR /><BR />
@@ -21,12 +21,12 @@ Credits known about the canceled 3D take on the MOTHER series.<BR /><BR />
 Credits for the original soundtracks released for the MOTHER games in Japan<BR /><BR />
 <b><a href="about.php">About the Game Credits</a></b><BR />
 A basic overview about how this section is set up<BR /><BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 20:37:53 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-04 01:37:53 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="1008" title="Contact Info:" author-id="288" timestamp="2005-06-05 23:14:27 +0500" type="norm" dbname="box9411" last-modified-by="127" %}
+{% include box-open.html box-id="1008" title="Contact Info" author-id="288" timestamp="2005-06-06 04:14:27 +0000" type="norm" dbname="box9411" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
  <a href="http://forum.starmen.net/?t=usrinfo&id=2262">KingDarian</a>
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2005-06-05 23:15:37 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2005-06-06 04:15:37 +0000" last-modified-by-name="Tomato" %}

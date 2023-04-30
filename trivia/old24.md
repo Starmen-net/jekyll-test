@@ -2,9 +2,9 @@
 title: Starmen.net EarthBound Trivia - Archive 24
 categories:
   - trivia
-date: 2007-05-28 03:39:10 +0500
+date: 2007-05-28 08:39:10 +0000
 ---
-{% include box-open.html box-id="2937" title="Weekset 247 - Eleventy Million:" author-id="9" timestamp="2007-05-28 03:39:10 +0500" type="norm" dbname="box62634" last-modified-by="9" %}
+{% include box-open.html box-id="2937" title="Weekset 247 - Eleventy Million" author-id="9" timestamp="2007-05-28 08:39:10 +0000" type="norm" dbname="box62634" last-modified-by="9" %}
 <p>In which we see who's number 1.</p>
 
 <p>	<b>What's the occupation of the only "Miss" described as such in the game?  (I'm looking for what she does and the business/government she does that for.)</b>.  Manager of the Topolla Theatre - it's Miss Fake.<br />
@@ -14,9 +14,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>Where is the first place that Paula's prayer reaches?</b>  Saturn Valley.</p>
 
 <p>Nobody was number 1.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-05-28 03:40:22 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-05-28 08:40:22 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2974" title="Weekset 248 - HARD Trivia Strikes Back:" author-id="9" timestamp="2007-06-04 02:31:36 +0500" type="norm" dbname="box267" last-modified-by="9" %}
+{% include box-open.html box-id="2974" title="Weekset 248 - HARD Trivia Strikes Back" author-id="9" timestamp="2007-06-04 07:31:36 +0000" type="norm" dbname="box267" last-modified-by="9" %}
 <p>More HARD questions.</p>
 
 <p>	<b>What's the HARDest (in terms of chewing it) item that can <i>replenish</i> PP but not HP?  (Hint: look at the <a href="http://en.wikipedia.org/wiki/Letter_of_the_law">letter of the law [of this question]</a>.)</b>.  There's only one item in the game that <i>replenishes</i> PP as per its Help! dialogue - the PSI caramel.  Everything else <i>restores</i>, or something else.<br />
@@ -26,9 +26,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>Who's the HARDest character to join your party?  (Do I hear a "gimmegimmegimme" from the audience?)</b>  Dungeon Man.  Characters who are diamondised don't join your party, because they already have.</p>
 
 <p>Cap'n Muffin (Jack), CodPor, EB Master, Hiro, Ninten1, Rabid Dog, Sorry not telling; PsychoMax, ParodyKnaveBob, SerialPsychosis and Diana won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-04 02:32:20 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-04 07:32:20 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3001" title="Weekset 249 - Floody McOverflow:" author-id="9" timestamp="2007-06-11 03:49:52 +0500" type="norm" dbname="box28673" last-modified-by="9" %}
+{% include box-open.html box-id="3001" title="Weekset 249 - Floody McOverflow" author-id="9" timestamp="2007-06-11 08:49:52 +0000" type="norm" dbname="box28673" last-modified-by="9" %}
 <p>The dam has been breached!  Warning!</p>
 
 <p>	<b>What's the first boss that fights you in the water?</b>  The <b>Kraken</b> fights you in the water.  (Yes, you fight it in a boat, but the question wasn't the first boss you fight in the water.)<br />
@@ -38,9 +38,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>What are the two "kinds" (sic) of water named in the equippable items that reduce damage taken from PSI Freeze?</b>  Sea water and rain water.</p>
 
 <p>Hiro, Lord Bob Bree and Mentally Abstract got all five questions right.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-11 03:50:58 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-11 08:50:58 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3035" title="Weekset 250 - Agh, My Allergies:" author-id="9" timestamp="2007-06-18 03:02:15 +0500" type="norm" dbname="box13267" last-modified-by="9" %}
+{% include box-open.html box-id="3035" title="Weekset 250 - Agh, My Allergies" author-id="9" timestamp="2007-06-18 08:02:15 +0000" type="norm" dbname="box13267" last-modified-by="9" %}
 <p>Dusty dusty dusty!</p>
 
 <p>	<b>The names of which two Dusty Dunes-area enemies suggest most strongly that those enemies are "dry"?</b>  Desert Wolf, Skelpion, and Thirsty Coil Snake.<br />
@@ -50,9 +50,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>What's the most common living beast of burden in the game's deserts?</b>  The camel, as the Bad Buffalo isn't exactly a beast of burden.</p>
 
 <p>Rose Friday, Hiro, WolFox, Culix, Mentally Abstract and cannotthink won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-18 03:02:53 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-18 08:02:53 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3130" title="Weekset 251 - Fandom:" author-id="9" timestamp="2007-06-25 02:45:39 +0500" type="norm" dbname="box24886" last-modified-by="9" %}
+{% include box-open.html box-id="3130" title="Weekset 251 - Fandom" author-id="9" timestamp="2007-06-25 07:45:39 +0000" type="norm" dbname="box24886" last-modified-by="9" %}
 <p>"omg best theme ever"</p>
 
 <p>	<b>One True Pairing - What boss which <i>do not transform</i> could be considered the "one true pairing" in the game?  (Using "OTP" tongue-in-cheek.)</b>  I'm honestly surprised <i>nobody at all</i> commented on how I went from a singular noun (boss) to a third-person-plural verb agreement (do).  It's <b>Thunder and Storm</b>.<br />
@@ -62,9 +62,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>Deus ex machina (roughly: get out of trouble free card) - Which characters serve as the deus ex machina that ends the one boss battle in the game in which non-controllable characters aid you and all the characters who aid you were never members of your party ("member of your party" meaning that text like "X has joined you" appeared as text at one point in the game)?<br />(Hint: there are only a few boss battles in which you're aided by somebody who isn't a member of your party at the beginning of the battle.)</b>  The Runaway Five (against the Clumsy Robot).  As I said, there are only a few such battles: the Clumsy Robot, the Kraken (so the boat captain claims), Master Barf, and Giygas.  The boat captain's slippers don't end the battle, the returning Poo is the deus ex machina against Barf, and Tony and King pray for you when you're fighting Giygas.</p>
 
 <p>PikaChan, Culix, Cyan683, darkgreen_orange, Dragonfire, Fourside Resident, Moochie, Ranger, Ravenshaw, Toomanypenguins, ShivnDragon and Wasuremono won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-25 02:46:23 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-06-25 07:46:23 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3154" title="Weekset 252 - Lemmego:" author-id="9" timestamp="2007-07-02 01:21:55 +0500" type="norm" dbname="box33314" last-modified-by="9" %}
+{% include box-open.html box-id="3154" title="Weekset 252 - Lemmego" author-id="9" timestamp="2007-07-02 06:21:55 +0000" type="norm" dbname="box33314" last-modified-by="9" %}
 <p>I was wondering if you could please loosen your grip on the mass-produced brand of waffle that belongs to me.</p>
 
 <p>	<b>Where can you find the only proper, multiple-residents jail in the game?  (City's fine, building preferred.)</b>  Onett.<br />
@@ -74,9 +74,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>What's the smallest 'bail', so to speak, that is initially required to release some characters from being held against their will at one point in the game?  (Hint: you don't get a 99%-plus reduction in the 'bail' for this one.)</b>  $10,000.  It's the cost of the Runaway Five's contract at the Chaos.</p>
 
 <p>EB Player Super, ParodyKnaveBob, Rose Friday, Ravenshaw, KingDarian and CodPor won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-02 01:22:55 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-02 06:22:55 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3197" title="Weekset 253 - Redundancies:" author-id="9" timestamp="2007-07-17 02:47:04 +0500" type="norm" dbname="box1144" last-modified-by="9" %}
+{% include box-open.html box-id="3197" title="Weekset 253 - Redundancies" author-id="9" timestamp="2007-07-17 07:47:04 +0000" type="norm" dbname="box1144" last-modified-by="9" %}
 <p>This week has been brought to you by Mojo Jojo and various olden-time anime dubs that didn't bother to re-sync lip movements.</p>
 
 <p>	<b>What's the name of the first Your Sanctuary that's referred to as "the (name)" in some in-game text?</b>  The Giant Step.  "That's referred to as..." was redundant.<br />
@@ -86,9 +86,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>What's the key-item invention with a <i>disgustingly long</i> full name (e.g. "Rhode Island and Providence Plantations" versus "Rhode Island") such that the full name is so redundant that you could trim the full name down to the first four words and it would be just as appropriate a name?  (Hint: if you trimmed the full name, you'd have to change the name it has as an item.)</b>  You're looking for the "Machine that Opens Doors, Especially When You Have a Slightly Bad Key".  The Bad key machine, to wit.</p>
 
 <p>CodPor, SolidNess(Josh) and Midna won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-17 02:48:28 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-17 07:48:28 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3241" title="Weekset 254 - Connections:" author-id="9" timestamp="2007-07-24 03:05:59 +0500" type="norm" dbname="box33112" last-modified-by="9" %}
+{% include box-open.html box-id="3241" title="Weekset 254 - Connections" author-id="9" timestamp="2007-07-24 08:05:59 +0000" type="norm" dbname="box33112" last-modified-by="9" %}
 <p>Did you know that "Connect Four" can be fully solved?  It can.  Can "Connect Five" be fully solved?  Let's see!</p>
 
 <p>	<b>What's the connection that one particular boy in a hockey mask has to a member of our four heroes?</b>  There's the one guy who's a member of Ness' club; another kidnapped Paula.<br />
@@ -98,9 +98,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>Name one of the two characters that you can first meet in Onett who are also connected to pretty much every event in the first, say, half of the game.</b>  Pokey is, of course, associated with everything except the events in Threed and Saturn Valley.  Similarly, the Mani Mani Statue is connected to all the same events Pokey is.  Lier X. Agerate is thus also connected to those events, but indirectly.</p>
 
 <p>SimonBob won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-24 03:09:07 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-24 08:09:07 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3249" title="Weekset 255 - Boys and Girls:" author-id="9" timestamp="2007-07-30 02:46:56 +0500" type="norm" dbname="box59086" last-modified-by="9" %}
+{% include box-open.html box-id="3249" title="Weekset 255 - Boys and Girls" author-id="9" timestamp="2007-07-30 07:46:56 +0000" type="norm" dbname="box59086" last-modified-by="9" %}
 <p>Boys, girls.</p>
 
 <p>	<b>What gender occurs the least among those human healer-type characters who don't follow the usual RPG rules about healing and payment for healing?</b>  The usual RPG rule on healing and payment for healing is that you pay, you get healed.  There are only three females who do this: Ness' mother, Paula's mother, and the mushroom-picking girl (who heals Mashroomisation).  Comparatively, with men you have Paula's father, Frank, the man at Meagre Livin' Farm (after Carpainter's defeat), Brick Road, the various tents north of Lake Tess, the Montague brothers, and so on and so forth.  And also the blue-haired healers when you've got a mushroom on your head.<br />
@@ -110,9 +110,9 @@ date: 2007-05-28 03:39:10 +0500
 	<b>What amount of HP recovery is most common among items that can be purchased in Onett?</b>  6 HP.</p>
 
 <p>Fabricati won, but no one else.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-30 02:47:27 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-07-30 07:47:27 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="3257" title="Weekset 256 - Egotism:" author-id="9" timestamp="2007-08-06 04:19:23 +0500" type="norm" dbname="box4959" last-modified-by="9" %}
+{% include box-open.html box-id="3257" title="Weekset 256 - Egotism" author-id="9" timestamp="2007-08-06 09:19:23 +0000" type="norm" dbname="box4959" last-modified-by="9" %}
 <p>I love me!  Do you love you?</p>
 
 <p>	<b>What "well-rounded", late-in-the-game enemy sounds like it's obsessed with itself?</b>  This'd be the Ego Orb.<br />
@@ -122,4 +122,4 @@ date: 2007-05-28 03:39:10 +0500
 	<b>Is it ever explicitly said, in the game, who "wish[es] you luck..." at the end of the coffee scene in Saturn Valley?</b>  It's never explicitly said.  Yes, the exact context is "I wish you luck...", but it's never said who I is.  Am?</p>
 
 <p>All in one breath: Black Fobby, MrAl, Archon Divinus, Dr. Baconman, BWTadpole, Firewater, Silky Malone, CactusWolf1983, CodPor, Culix, Psionic Brawler, The Dave, Lord Mani Mani, EB Player Super, Floogal, Mr Saturn Fan, Chatterb0x, Strawberry Tofu, Multiball, Gauntlet, haywutupyo, ShadowStarmen, Hlavco, JeffMan, Kahran042, Midna, K Rob, Libra, Zip Zipskins, Box_of_dragonite, MentallyAbstract, Rose Friday, MPHtails, DevilsMachine, ParodyKnaveBob, Jared, Ravenshaw, SimonBob, slicemasterflex, Blue_Monkey, thickfreakness and Wasuremono won.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2007-08-06 04:20:35 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2007-08-06 09:20:35 +0000" last-modified-by-name="Anthadd" %}

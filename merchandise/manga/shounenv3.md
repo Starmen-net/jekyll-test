@@ -2,9 +2,9 @@
 title: A Shounen Oh Comics Vol. 3
 categories:
   - merchandise
-date: 2005-01-03 18:54:39 +0600
+date: 2005-01-04 00:54:39 +0000
 ---
-{% include box-open.html box-id="262" title="A Shounen Oh Comics Vol. 3:" author-id="45" timestamp="2005-01-03 18:54:39 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="262" title="A Shounen Oh Comics Vol. 3" author-id="45" timestamp="2005-01-04 00:54:39 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 18:54:39 +0600
 	<b>Images:</b>
 	<br />
 	No Images
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 18:55:34 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:55:34 +0000" last-modified-by-name="ShadowX" %}

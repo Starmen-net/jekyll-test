@@ -2,9 +2,9 @@
 title: 'Super Smash Bros: WiiU'
 categories:
   - ssbwiiu
-date: 2016-10-13 09:51:43 +0500
+date: 2016-10-13 14:51:43 +0000
 ---
-{% include box-open.html box-id="4770" title="Super Smash Bros. WiiU:" author-id="45" timestamp="2016-10-13 09:51:43 +0500" type="norm" dbname="box28989" last-modified-by="127" %}
+{% include box-open.html box-id="4770" title="Super Smash Bros. WiiU" author-id="45" timestamp="2016-10-13 14:51:43 +0000" type="norm" dbname="box28989" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="Smashbros3dslogo.jpg" alt="Super Smash Bros. 3DS" />
 	<table valign="top">
@@ -54,4 +54,4 @@ date: 2016-10-13 09:51:43 +0500
 
 For more information, be sure to check out <a href="http://www.smashbros.com/">the official Smash. Bros. website</a>, which was updated slowly until the game was released, for complete details on the game.</p>
 <br  class="cleary" />
-{% include box-close.html author-name="ShadowX" last-modified-on="2016-10-13 16:59:16 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2016-10-13 21:59:16 +0000" last-modified-by-name="CerealQueen" %}

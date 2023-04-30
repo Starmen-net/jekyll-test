@@ -2,14 +2,14 @@
 title: Rock Candy - 4th Album
 categories:
   - rockcandy
-date: 2007-05-19 22:07:38 +0500
+date: 2007-05-20 03:07:38 +0000
 ---
-{% include box-open.html box-id="2886" title="Rock Candy - 4th Album:" author-id="137" timestamp="2007-05-19 22:07:38 +0500" type="norm" dbname="box61677" last-modified-by="127" %}
+{% include box-open.html box-id="2886" title="Rock Candy - 4th Album" author-id="137" timestamp="2007-05-20 03:07:38 +0000" type="norm" dbname="box61677" last-modified-by="127" %}
 <center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_banner_album_4.png" /></center><center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_separator.png" /></center><center><a href="http://jonk.fobby.net/smn/rockcandy/release/rc4.1.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part1.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc4.2.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part2.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc4.3.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part3.png" border="0" /></a></center>
 
-{% include box-close.html author-name="Jonk" last-modified-on="2007-08-25 17:45:43 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-08-25 22:45:43 +0000" last-modified-by-name="Jonk" %}
 
-{% include box-open.html box-id="2935" title="Rock Candy 4 Track Listing:" author-id="8" timestamp="2007-05-26 22:11:32 +0500" type="norm" dbname="box20075" last-modified-by="127" %}
+{% include box-open.html box-id="2935" title="Rock Candy 4 Track Listing" author-id="8" timestamp="2007-05-27 03:11:32 +0000" type="norm" dbname="box20075" last-modified-by="127" %}
 <table class="album" cellspacing="0">
 	<thead>
 		<tr>
@@ -214,4 +214,4 @@ date: 2007-05-19 22:07:38 +0500
 		</tr>
 	</tbody>
 </table>
-{% include box-close.html author-name="reidman" last-modified-on="2007-07-26 00:00:57 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="reidman" last-modified-on="2007-07-26 05:00:57 +0000" last-modified-by-name="Jonk" %}

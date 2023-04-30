@@ -2,9 +2,9 @@
 title: Earthbound no Matsuri
 categories:
   - matsuri
-date: 2005-10-22 12:57:34 +0500
+date: 2005-10-22 17:57:34 +0000
 ---
-{% include box-open.html box-id="1667" title="EB no Matsuri:" author-id="49" timestamp="2005-10-22 12:57:34 +0500" type="norm" dbname="box47644" last-modified-by="75" %}
+{% include box-open.html box-id="1667" title="EB no Matsuri" author-id="49" timestamp="2005-10-22 17:57:34 +0000" type="norm" dbname="box47644" last-modified-by="75" %}
 <center><img src="matsurilogo.gif" /></center>
 
 <P>There is a little-known holiday that occurs every December.  The scholars here at Starmen.Net rediscovered this ancient holiday while searching some ancient ruins of Japan for some guy from M*A*S*H.  What they found on the ancient scriptures was a lot of nonsense.  Below is some of this nonsense, describing a yearly festival known as "EB No Matsuri", which can be translated as "Festival of EarthBound".  Of course, SM.Net Holiday Funfest entries may be related to EB No Matsuri (TBA).  In fact, we encourage such entries. So get to it! </P>
@@ -17,9 +17,9 @@ date: 2005-10-22 12:57:34 +0500
 <P>At exactly midnight of Dec. 20, using temporal wormholes and a time-dilation device, Annual Gift Man lands on top of your house and climbs down the chimney.  If no chimney is available, he breaks into your house with a crowbar and a hacksaw.  Once he gains entry, he first checks to see if you left a plate of Strawberry Tofu out for him. If you didn't, he puts a few small pebbles in your cereal boxes. He then finds your room.  If you're not asleep by the time he gets there...well, if you're an insomniac, you get to dial 911 and report an intruder.  But, if you're a good little boy or girl, and are asleep, you'll get a copy of EarthBound underneath your pillow.  If you've been bad, or lied on your tax form, you get a petri dish of flesh-eating virii under your pillow. </P>
 <P>After visiting all the children of the world, it's time for Annual Gift Man to return to his home on the moon.  So, he connects his bathtub with the Tooth Fairy's flying toothbrush and the Easter Bunny's Magical Easter Basket and becomes Mega Annual Gift Moon Man.  Once he does this, he fights off all the evil of the world until all the children have awoken.  Sometimes, giant lizards from Japan try to steal copies of EarthBound from the children while they're sleeping, so Mega Annual Gift Moon Man uses his Gift Laser to blow them up. </P>
 <P>Once all the children have woken up and either found a copy of EB or a pile of flesh-eating fun under their pillow, Mega Annual Gift Moon Man becomes regular old Annual Gift Man and returns to the comfort of his moon couch.</P>
-{% include box-close.html author-name="ROFISH" last-modified-on="2006-12-13 22:08:48 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2006-12-14 04:08:48 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="2772" title="EB no Matsuri Funfest Entries:" author-id="75" timestamp="2006-12-18 14:08:44 +0600" type="norm" dbname="box21032" last-modified-by="75" %}
+{% include box-open.html box-id="2772" title="EB no Matsuri Funfest Entries" author-id="75" timestamp="2006-12-18 20:08:44 +0000" type="norm" dbname="box21032" last-modified-by="75" %}
 The people at Starmen.Net have added to the folklore of EB no Matsuri over the years. Here is the mega-collection of all EB no Matsuri Holiday Funfest entries from 2001 to present.<br /><br />
 
 <font size="+1"><u>Fan Art</u></font><br /><br />
@@ -82,4 +82,4 @@ The people at Starmen.Net have added to the folklore of EB no Matsuri over the y
 <SUBMISSION id="8177" />
 
 
-{% include box-close.html author-name="PoeTrader" last-modified-on="2008-01-14 14:52:13 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2008-01-14 20:52:13 +0000" last-modified-by-name="PoeTrader" %}

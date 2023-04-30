@@ -2,9 +2,9 @@
 title: RADIO PSI - DJS - PAST DJS
 categories:
   - radio
-date: 2006-02-25 08:31:41 +0600
+date: 2006-02-25 14:31:41 +0000
 ---
-{% include box-open.html box-id="1959" title="Starmen.Net Radio - Meet the Past DJs:" author-id="247" timestamp="2006-02-25 08:31:41 +0600" type="norm" dbname="box37435" last-modified-by="127" %}
+{% include box-open.html box-id="1959" title="Starmen.Net Radio - Meet the Past DJs" author-id="247" timestamp="2006-02-25 14:31:41 +0000" type="norm" dbname="box37435" last-modified-by="127" %}
 These are the DJs of ages past that are no longer part of the current Radio PSI team:
 
 <br /><br />
@@ -648,9 +648,9 @@ His favorite artists include J.S. Bach and Bedouin Soundclash.  He enjoys Dance 
 </td>
 </tr>
 </p></table>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-26 02:36:40 +0600" last-modified-by-name="nightshade" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-26 08:36:40 +0000" last-modified-by-name="nightshade" %}
 
-{% include box-open.html box-id="5560" title="Starmen.Net Radio - Meet the Past Buddies:" author-id="9233" timestamp="2023-01-25 17:57:06 +0600" type="norm" dbname="box10486" last-modified-by="127" %}
+{% include box-open.html box-id="5560" title="Starmen.Net Radio - Meet the Past Buddies" author-id="9233" timestamp="2023-01-25 23:57:06 +0000" type="norm" dbname="box10486" last-modified-by="127" %}
 These are the Backup Buddies of ages past that are no longer part of the current Radio PSI team:
 
 <br />
@@ -833,4 +833,4 @@ He has a penchant for music related to Sonic the Hedgehog, and if Lego made musi
 </td>
 </tr>
 </p></table>
-{% include box-close.html author-name="nightshade" last-modified-on="2023-01-25 18:18:26 +0600" last-modified-by-name="nightshade" %}
+{% include box-close.html author-name="nightshade" last-modified-on="2023-01-26 00:18:26 +0000" last-modified-by-name="nightshade" %}

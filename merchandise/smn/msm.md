@@ -2,9 +2,9 @@
 title: 'Mr Sparkle: Megamoto'
 categories:
   - merchandise
-date: 2005-01-04 00:23:04 +0600
+date: 2005-01-04 06:23:04 +0000
 ---
-{% include box-open.html box-id="397" title="Mr Sparkle: Megamoto:" author-id="45" timestamp="2005-01-04 00:23:04 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="397" title="Mr Sparkle: Megamoto" author-id="45" timestamp="2005-01-04 06:23:04 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_msm_title.jpg" border="0" alt="Mr Sparkle: Megamoto" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 00:23:04 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_msm_poster.jpg">Poster</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:23:20 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:23:20 +0000" last-modified-by-name="ShadowX" %}

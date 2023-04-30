@@ -2,9 +2,9 @@
 title: Starmen.Net Calendar 2006
 categories:
   - merchandise
-date: 2007-01-06 03:38:00 +0600
+date: 2007-01-06 09:38:00 +0000
 ---
-{% include box-open.html box-id="2780" title="Starmen.Net Calendar 2006:" author-id="45" timestamp="2007-01-06 03:38:00 +0600" type="norm" dbname="box38618" last-modified-by="45" %}
+{% include box-open.html box-id="2780" title="Starmen.Net Calendar 2006" author-id="45" timestamp="2007-01-06 09:38:00 +0000" type="norm" dbname="box38618" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/smncal06_title.png" width="350" height="270" border="0" alt="Starmen.Net Calendar 2006" />
 	</center>
@@ -61,4 +61,4 @@ date: 2007-01-06 03:38:00 +0600
 	<a href="/merchandise/images/smncal06_november.jpg"><img src="/merchandise/images/smncal06_11.jpg" border="0" alt="November by Ozwalled" /></a>
 	<a href="/merchandise/images/smncal06_december.jpg"><img src="/merchandise/images/smncal06_12.jpg" border="0" alt="December by Hawaiian Shirtz" /></a>
 	</center>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-07 05:04:07 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-07 11:04:07 +0000" last-modified-by-name="ShadowX" %}

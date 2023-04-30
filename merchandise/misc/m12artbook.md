@@ -2,9 +2,9 @@
 title: Mother 1+2 Art Book
 categories:
   - merchandise
-date: 2005-01-03 21:06:08 +0600
+date: 2005-01-04 03:06:08 +0000
 ---
-{% include box-open.html box-id="335" title="Mother 1+2 Art Book:" author-id="45" timestamp="2005-01-03 21:06:08 +0600" type="norm" dbname="box34000" last-modified-by="127" %}
+{% include box-open.html box-id="335" title="Mother 1+2 Art Book" author-id="45" timestamp="2005-01-04 03:06:08 +0000" type="norm" dbname="box34000" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/m12_artbook_title.jpg" border="0" alt="Mother 1+2 Art Book" />
 	</center>
@@ -30,4 +30,4 @@ date: 2005-01-03 21:06:08 +0600
 	<a href="/merchandise/images/m12_artbook_front.jpg">Front</a> - <a href="/merchandise/images/m12_artbook_back.jpg">Back</a> - <a href="/merchandise/images/m12_artbook_page1.jpg">Page 1</a> - 
 	<a href="/merchandise/images/m12_artbook_page2.jpg">Page 2</a> - <a href="/merchandise/images/m12_artbook_page3.jpg">Page 3</a> - <a href="/merchandise/images/m12_artbook_page4.jpg">Page 4</a> - 
 	<a href="/merchandise/images/m12_artbook_page5.jpg">Page 5</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:25:34 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:25:34 +0000" last-modified-by-name="Tomato" %}

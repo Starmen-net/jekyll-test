@@ -2,9 +2,9 @@
 title: MOTHER 3
 categories:
   - merchandise
-date: 2010-10-20 09:14:08 +0500
+date: 2010-10-20 14:14:08 +0000
 ---
-{% include box-open.html box-id="3899" title="MOTHER 3:" author-id="45" timestamp="2010-10-20 09:14:08 +0500" type="norm" dbname="box25576" last-modified-by="127" %}
+{% include box-open.html box-id="3899" title="MOTHER 3" author-id="45" timestamp="2010-10-20 14:14:08 +0000" type="norm" dbname="box25576" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -77,4 +77,4 @@ date: 2010-10-20 09:14:08 +0500
 <a href="/merchandise/images/m3_manual_page14_15.jpg" ><img src="/merchandise/images/m3_manual_page14_15.jpg" title="Manual Page 14~15" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m3_manual_page28_29.jpg" ><img src="/merchandise/images/m3_manual_page28_29.jpg" title="Manual Page 28~29" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m3_manual_page44_45.jpg" ><img src="/merchandise/images/m3_manual_page44_45.jpg" title="Manual Page 44~45" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:36:20 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:36:20 +0000" last-modified-by-name="Tomato" %}

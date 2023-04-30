@@ -2,9 +2,9 @@
 title: SUMFT Martial Arts Cap
 categories:
   - merchandise
-date: 2005-01-03 23:09:00 +0600
+date: 2005-01-04 05:09:00 +0000
 ---
-{% include box-open.html box-id="364" title="SUMFT Martial Arts Cap:" author-id="45" timestamp="2005-01-03 23:09:00 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="364" title="SUMFT Martial Arts Cap" author-id="45" timestamp="2005-01-04 05:09:00 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_sumftcap_title.png" border="0" alt="SUMFT Martial Arts Cap" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 23:09:00 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_sumftcap_front.jpg">Front</a> - <a href="/merchandise/images/smn_sumftcap_design.jpg">Design</a> - <a href="/merchandise/images/smn_hd2.jpg">Detial</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:09:13 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:09:13 +0000" last-modified-by-name="ShadowX" %}

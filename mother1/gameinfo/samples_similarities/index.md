@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - mother1
-date: 2018-05-06 20:56:54 +0500
+date: 2018-05-07 01:56:54 +0000
 ---
-{% include box-open.html box-id="5220" title="Samples and Similarities:" author-id="28590" timestamp="2018-05-06 20:56:54 +0500" type="norm" dbname="box55587" last-modified-by="127" %}
+{% include box-open.html box-id="5220" title="Samples and Similarities" author-id="28590" timestamp="2018-05-07 01:56:54 +0000" type="norm" dbname="box55587" last-modified-by="127" %}
 <ul class="pics">
 	<li>
 <table class="fixed" >
@@ -53,4 +53,4 @@ Pokemon Blue, Green, & Red<br />"Pokemon League Indigo Plateau"
 	</li>
 </ul>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-05-06 22:42:52 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-05-07 03:42:52 +0000" last-modified-by-name="CerealQueen" %}

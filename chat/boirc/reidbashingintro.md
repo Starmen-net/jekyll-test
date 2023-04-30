@@ -2,9 +2,9 @@
 title: Chat - Best of IRC - BoIRC - Woo hoo!  reid bashing!
 categories:
   - chat
-date: 2006-06-30 18:50:58 +0500
+date: 2006-06-30 23:50:58 +0000
 ---
-{% include box-open.html box-id="2441" title="Woo hoo!  reid bashing!  Introduction by reidman:" author-id="247" timestamp="2006-06-30 18:50:58 +0500" type="norm" dbname="box47356" last-modified-by="127" %}
+{% include box-open.html box-id="2441" title="Woo hoo!  reid bashing!  Introduction by reidman" author-id="247" timestamp="2006-06-30 23:50:58 +0000" type="norm" dbname="box47356" last-modified-by="127" %}
 <p>
 I lovingly call this Special Edition of Best of #earthbound:
 </p>
@@ -23,4 +23,4 @@ Here's a quick explanation of the situation:
 <p>
 <div align="center"><a href="http://starmen.net/chat/boirc/reidbashing.html">Enjoy!</a></div>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-06-30 18:54:35 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-06-30 23:54:35 +0000" last-modified-by-name="Mansion Maniac" %}

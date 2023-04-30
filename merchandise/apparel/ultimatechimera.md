@@ -2,9 +2,9 @@
 title: Ultimate Chimera T-Shirts
 categories:
   - merchandise
-date: 2009-01-08 22:45:20 +0600
+date: 2009-01-09 04:45:20 +0000
 ---
-{% include box-open.html box-id="3594" title="Ultimate Chimera T-Shirts:" author-id="45" timestamp="2009-01-08 22:45:20 +0600" type="norm" dbname="box52483" last-modified-by="127" %}
+{% include box-open.html box-id="3594" title="Ultimate Chimera T-Shirts" author-id="45" timestamp="2009-01-09 04:45:20 +0000" type="norm" dbname="box52483" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ultimatechimera_title.png" border="0" alt="Ultimate Chimera T-Shirts" />
 	</center>
@@ -59,4 +59,4 @@ date: 2009-01-08 22:45:20 +0600
 	<a href="/merchandise/images/kog_insert1.jpg">Insert (English)</a> - <a href="/merchandise/images/kog_insert2.jpg">Insert (Japanese)</a> - <a href="/merchandise/images/kog_gamead.jpg">Game Insert & Sticker</a>
 	<br /><br />
 	Some images are from <a href="http://www.the-king-of-games.com">The-King-Of-Games.com</a>.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:35:36 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:35:36 +0000" last-modified-by-name="Tomato" %}

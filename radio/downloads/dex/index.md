@@ -2,9 +2,9 @@
 title: STARMEN.NET - RADIO - DOWNLOADS - DJ DEX ARCHIVES
 categories:
   - radio
-date: 2007-09-23 14:35:33 +0500
+date: 2007-09-23 19:35:33 +0000
 ---
-{% include box-open.html box-id="3287" title="Downloadables!:" author-id="247" timestamp="2007-09-23 14:35:33 +0500" type="norm" dbname="box51584" last-modified-by="127" %}
+{% include box-open.html box-id="3287" title="Downloadables!" author-id="247" timestamp="2007-09-23 19:35:33 +0000" type="norm" dbname="box51584" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ Dex<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:37:53 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:37:53 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="3288" title="DJ Dex's Archive Downloads!:" author-id="247" timestamp="2007-09-23 14:37:57 +0500" type="norm" dbname="box14662" last-modified-by="127" %}
+{% include box-open.html box-id="3288" title="DJ Dex's Archive Downloads!" author-id="247" timestamp="2007-09-23 19:37:57 +0000" type="norm" dbname="box14662" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/slingz0r/radiopsidumpdjdex20070916.ogg">September 16th, 2007</a>
 </p>
@@ -97,4 +97,4 @@ DJ Dex<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/slingz0r/radiopsidumpdjsling20040709.ogg">July 9th, 2004</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:42:01 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:42:01 +0000" last-modified-by-name="Mansion Maniac" %}

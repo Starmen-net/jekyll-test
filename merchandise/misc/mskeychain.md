@@ -2,9 +2,9 @@
 title: Mr. Saturn Keychain
 categories:
   - merchandise
-date: 2005-01-03 20:54:31 +0600
+date: 2005-01-04 02:54:31 +0000
 ---
-{% include box-open.html box-id="324" title="Mr. Saturn Keychain:" author-id="45" timestamp="2005-01-03 20:54:31 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="324" title="Mr. Saturn Keychain" author-id="45" timestamp="2005-01-04 02:54:31 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/ms_keychain_title.jpg" border="0" alt="Mr. Saturn Keychain" />
 	</center>
@@ -22,4 +22,4 @@ date: 2005-01-03 20:54:31 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/ms_keychain.jpg">Keychain</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:54:42 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:54:42 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Anti-Piracy Measures
 categories:
   - mother1
-date: 2015-08-02 19:31:30 +0500
+date: 2015-08-03 00:31:30 +0000
 ---
-{% include box-open.html box-id="4756" title="Anti-Piracy Measures:" author-id="22707" timestamp="2015-08-02 19:31:30 +0500" type="norm" dbname="box63033" last-modified-by="127" %}
+{% include box-open.html box-id="4756" title="Anti-Piracy Measures" author-id="22707" timestamp="2015-08-03 00:31:30 +0000" type="norm" dbname="box63033" last-modified-by="127" %}
 Like many other games of the modern and classic era, various methods of the theft prevention have been implemented into a game’s coding, which is meant to prevent the act of playing said game if it is recognized to be either copied or fake by completely immobilizing it. This can be accomplished either by showing a screen that indicates its status as stolen or through much more creative means, such as the modification of the game to prevent it from being completed or the destruction of all previously saved games, both of which famously utilized in Mother 1’s sequel, Earthbound, also known as Mother 2. <br /><br />
 
 While meant to ensure profits from the game’s circulation, such measures have proven to be near insurmountable hurdles to those who choose to modify a game for a practical purpose, an issue which prominently presented itself after the retrieval of the original, prototype English ROM of Mother 1, now officially referred to as Earthbound Beginnings. The feat served as a milestone in the gaming community, made possible by the translation team Demiforce, who negotiated a temporary ownership of the cartridge from its then owner, Kenny Brooks, who had purchased it online for one hundred dollars. After receiving the cartridge, the ROM was dumped, but was unable to be run on the then best equipped emulator, known as Nesticle, due to a bug present in the program. A user by the name Xodnizel was able to quickly find a remedy to the issue, however, accomplished by a simple modification to one byte of the ROM’s data. It was then that it was released, with seemingly no issues what-so-ever. <br /><br />
@@ -18,4 +18,4 @@ As for how to identify each version of the ROM, the user only has to examine the
 <img src="https://starmen.net/mother1/gameinfo/technical/EbbAPM1.gif" /> <img src="https://starmen.net/mother1/gameinfo/technical/EbbAPM2.gif" /><br /><br />
 
 In more recent years, one more feat was accomplished by Starmen.net forum user, wyatt8740, who managed to generate a method of modification that is able to remedy an already defective ROM, which can be found <a href="https://forum.starmen.net/forum/Community/PKHack/I-found-out-how-to-fix-anti-piracy-Screens-in-hacked-EarthBound-Zero-ROMs-by-Changing-a-single-byte/page/1#post1894796">here.</a>
-{% include box-close.html author-name="Sith" last-modified-on="2015-08-02 20:16:42 +0500" last-modified-by-name="Sith" %}
+{% include box-close.html author-name="Sith" last-modified-on="2015-08-03 01:16:42 +0000" last-modified-by-name="Sith" %}

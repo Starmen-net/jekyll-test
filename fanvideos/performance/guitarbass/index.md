@@ -2,9 +2,9 @@
 title: 'Fan Videos: Performance - Guitar &amp; Bass'
 categories:
   - fanvideos
-date: 2007-06-13 12:14:49 +0500
+date: 2007-06-13 17:14:49 +0000
 ---
-{% include box-open.html box-id="3021" title="Guitar, Bass, Strings:" author-id="266" timestamp="2007-06-13 12:14:49 +0500" type="norm" dbname="box12741" last-modified-by="127" %}
+{% include box-open.html box-id="3021" title="Guitar, Bass, Strings" author-id="266" timestamp="2007-06-13 17:14:49 +0000" type="norm" dbname="box12741" last-modified-by="127" %}
 <ul class="pics">	
 <div style="float: left; padding: 0px 10px 0px 0px;"><li>
 		<youtube vid="hbj0hjiLvZw" height="250" width="300" />
@@ -47,4 +47,4 @@ by <a href="http://www.youtube.com/user/saitoasis90">saitoasis90</a></h3>
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
 
-{% include box-close.html author-name="xfisjmg1" last-modified-on="2012-04-26 15:14:54 +0500" last-modified-by-name="stoicmani" %}
+{% include box-close.html author-name="xfisjmg1" last-modified-on="2012-04-26 20:14:54 +0000" last-modified-by-name="stoicmani" %}

@@ -2,9 +2,9 @@
 title: 'MOTHER 2 / EarthBound Game Info: Factoids &amp; Trivia'
 categories:
   - mother2
-date: 2007-01-22 01:46:24 +0600
+date: 2007-01-22 07:46:24 +0000
 ---
-{% include box-open.html box-id="2804" title="MOTHER 2 / EarthBound Factoids & Trivia:" author-id="288" timestamp="2007-01-22 01:46:24 +0600" type="norm" dbname="box18777" last-modified-by="127" %}
+{% include box-open.html box-id="2804" title="MOTHER 2 / EarthBound Factoids & Trivia" author-id="288" timestamp="2007-01-22 07:46:24 +0000" type="norm" dbname="box18777" last-modified-by="127" %}
 Only the ultimate MOTHER 2/EB fans know this stuff... so learn it! There'll be a test on it at the end of the semester!
 
 <ul>
@@ -23,4 +23,4 @@ Only the ultimate MOTHER 2/EB fans know this stuff... so learn it! There'll be a
  <li>Itoi wasn't responsible for Moonside's creation. That was one of the locations he let his assistants have free reign. The art director Kouichi Ooyama made some interesting artwork for it, an assistant writer Akihito Toda had a good idea to go along with it and wrote some pretty unusual lines of dialogue, and game musician Hirokazu Tanaka created some music that fit with their work.</li>
 
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-24 13:31:21 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-24 18:31:21 +0000" last-modified-by-name="Tomato" %}

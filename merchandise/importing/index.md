@@ -2,9 +2,9 @@
 title: 'Importing:'
 categories:
   - merchandise
-date: 2007-01-28 23:35:57 +0600
+date: 2007-01-29 05:35:57 +0000
 ---
-{% include box-open.html box-id="2825" title="Description:" author-id="45" timestamp="2007-01-28 23:35:57 +0600" type="norm" dbname="box19142" last-modified-by="45" %}
+{% include box-open.html box-id="2825" title="Description" author-id="45" timestamp="2007-01-29 05:35:57 +0000" type="norm" dbname="box19142" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/importing/importing_title.png" border="0" alt="Importing" />
 	</center>
@@ -15,9 +15,9 @@ date: 2007-01-28 23:35:57 +0600
 	sites; and mini-faqs on how to order directly from various Japanese online stores! So 
 	look around, because importing from the Land of the Rising Sun won't seem so hard 
 	anymore!
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-09 21:40:08 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-10 03:40:08 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2830" title="Importing:" author-id="45" timestamp="2007-02-02 21:48:59 +0600" type="norm" dbname="box34191" last-modified-by="45" %}
+{% include box-open.html box-id="2830" title="Importing" author-id="45" timestamp="2007-02-03 03:48:59 +0000" type="norm" dbname="box34191" last-modified-by="45" %}
 <table1 />
 		<center>
 	<a href="stores.php"><img src="/merchandise/importing/stores.png" width="150" height="150" alt="Online Stores" border="0" /></a><br />
@@ -31,4 +31,4 @@ date: 2007-01-28 23:35:57 +0600
 			<br /><br />
 		</center>
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 08:47:11 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 13:47:11 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Super Smash Bros. Moves List
 categories:
   - smashbros
-date: 2005-03-13 17:45:18 +0600
+date: 2005-03-13 23:45:18 +0000
 ---
-{% include box-open.html box-id="487" title="Super Smash Bros. Moves List:" author-id="49" timestamp="2005-03-13 17:45:18 +0600" type="norm" dbname="box19058" last-modified-by="127" %}
+{% include box-open.html box-id="487" title="Super Smash Bros. Moves List" author-id="49" timestamp="2005-03-13 23:45:18 +0000" type="norm" dbname="box19058" last-modified-by="127" %}
 Here you'll find a list of moves for each character in the game.<UL>
       <LI><A HREF="#part1">Mario</A></LI>
       <LI><A HREF="#part2">Donkey Kong</A></LI>
@@ -19,9 +19,9 @@ Here you'll find a list of moves for each character in the game.<UL>
       <LI><A HREF="#part11">Ness</A></LI>
       <LI><A HREF="#part12">Jigglypuff</A></LI>
 </UL>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-27 21:07:21 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-28 03:07:21 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="1770" title="Key to Symbols:" author-id="1594" timestamp="2005-12-29 04:06:30 +0600" type="norm" dbname="box105" last-modified-by="127" %}
+{% include box-open.html box-id="1770" title="Key to Symbols" author-id="1594" timestamp="2005-12-29 10:06:30 +0000" type="norm" dbname="box105" last-modified-by="127" %}
 <TABLE WIDTH="300"><TR>
 <TD STYLE="border: 0px solid">A </TD>
 <TD STYLE="border: 0px solid">B  </TD>
@@ -44,9 +44,9 @@ Here you'll find a list of moves for each character in the game.<UL>
 </TR></TABLE>
 <BR />
 For your reference, remember this particular set of moves uses the assumption you are facing the right. When facing left, please mirror these commands.
-{% include box-close.html author-name="Firegirl" last-modified-on="2005-12-29 04:08:32 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="Firegirl" last-modified-on="2005-12-29 10:08:32 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="488" title="<a name=\"part1\">Mario</a>:" author-id="49" timestamp="2005-03-13 17:47:01 +0600" type="norm" dbname="box37051" last-modified-by="127" %}
+{% include box-open.html box-id="488" title="<a name=\"part1\">Mario</a>" author-id="49" timestamp="2005-03-13 23:47:01 +0000" type="norm" dbname="box37051" last-modified-by="127" %}
 <TABLE>
 <TR><TD STYLE="border: 1px dotted #BB0000;">Punch-Punch-Kick Combo</TD><TD STYLE="border: 1px dashed #BB0000;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #BB0000;">Standing Uppercut</TD><TD STYLE="border: 1px dashed #BB0000;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -64,9 +64,9 @@ For your reference, remember this particular set of moves uses the assumption yo
 <TR><TD STYLE="border: 1px dotted #BB0000;">Jumping Uppercut</TD><TD STYLE="border: 1px dashed #BB0000;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #BB0000;">Tornado Punch</TD><TD STYLE="border: 1px dashed #BB0000;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2017-12-14 05:26:13 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2017-12-14 11:26:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="489" title="<a name=\"part2\">Donkey Kong</a>:" author-id="49" timestamp="2005-03-13 17:59:30 +0600" type="norm" dbname="box31045" last-modified-by="127" %}
+{% include box-open.html box-id="489" title="<a name=\"part2\">Donkey Kong</a>" author-id="49" timestamp="2005-03-13 23:59:30 +0000" type="norm" dbname="box31045" last-modified-by="127" %}
 <TABLE>
 <TR><TD STYLE="border: 1px dotted #C79818;">One-Two Punch</TD><TD STYLE="border: 1px dashed #C79818;" align="right"><IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #C79818;">Overhead Slap</TD><TD STYLE="border: 1px dashed #C79818;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" 
@@ -112,9 +112,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 
 /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:14:59 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:14:59 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="490" title="<a name=\"part3\">Link</a>:" author-id="49" timestamp="2005-03-13 18:03:48 +0600" type="norm" dbname="box397" last-modified-by="127" %}
+{% include box-open.html box-id="490" title="<a name=\"part3\">Link</a>" author-id="49" timestamp="2005-03-14 00:03:48 +0000" type="norm" dbname="box397" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #3CDB2C;">	Sword Attack	</TD><TD STYLE="border: 1px dashed #3CDB2C;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #3CDB2C;">	Overhead Swipe	</TD><TD STYLE="border: 1px dashed #3CDB2C;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -132,9 +132,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #3CDB2C;">	Spinning Sword Attack	</TD><TD STYLE="border: 1px dashed #3CDB2C;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #3CDB2C;">	Bomb	</TD><TD STYLE="border: 1px dashed #3CDB2C;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:14:31 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:14:31 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="491" title="<a name=\"part4\">Samus</a>:" author-id="49" timestamp="2005-03-13 18:05:59 +0600" type="norm" dbname="box21846" last-modified-by="127" %}
+{% include box-open.html box-id="491" title="<a name=\"part4\">Samus</a>" author-id="49" timestamp="2005-03-14 00:05:59 +0000" type="norm" dbname="box21846" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #A542B5;">	Punch	</TD><TD STYLE="border: 1px dashed #A542B5;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #A542B5;">	Drop Kick	</TD><TD STYLE="border: 1px dashed #A542B5;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -151,9 +151,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #A542B5;">	Blaster Charge (press<br/>once to being charge,<br/>then press again to fire)</TD><TD STYLE="border: 1px dashed #A542B5;" align="right"><IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #A542B5;">	Screw Attack	</TD><TD STYLE="border: 1px dashed #A542B5;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #A542B5;">	Bomb Drop	</TD><TD STYLE="border: 1px dashed #A542B5;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR></TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:13:44 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:13:44 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="492" title="<a name=\"part5\">Yoshi</a>:" author-id="49" timestamp="2005-03-13 18:07:40 +0600" type="norm" dbname="box16122" last-modified-by="127" %}
+{% include box-open.html box-id="492" title="<a name=\"part5\">Yoshi</a>" author-id="49" timestamp="2005-03-14 00:07:40 +0000" type="norm" dbname="box16122" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #00ff00;"> Kick</TD><TD STYLE="border: 1px dashed #00ff00;" align="right"><IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #00ff00;"> Upward Headbutt</TD><TD STYLE="border: 1px dashed #00ff00;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -172,9 +172,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #00ff00;"> Egg Bomb</TD><TD STYLE="border: 1px dashed #00ff00;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #00ff00;"> Downward Torpedo Dive</TD><TD STYLE="border: 1px dashed #00ff00;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:13:02 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:13:02 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="493" title="<a name=\"part6\">Kirby</a>:" author-id="49" timestamp="2005-03-13 18:08:51 +0600" type="norm" dbname="box35248" last-modified-by="127" %}
+{% include box-open.html box-id="493" title="<a name=\"part6\">Kirby</a>" author-id="49" timestamp="2005-03-14 00:08:51 +0000" type="norm" dbname="box35248" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #F8A4C0;"> 1-2 Punch Attack </TD><TD STYLE="border: 1px dashed #F8A4C0;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #F8A4C0;"> High Kick </TD><TD STYLE="border: 1px dashed #F8A4C0;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -192,9 +192,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #F8A4C0;"> Final Cutter </TD><TD STYLE="border: 1px dashed #F8A4C0;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #F8A4C0;"> Stone </TD><TD STYLE="border: 1px dashed #F8A4C0;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:12:30 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:12:30 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="494" title="<a name=\"part7\">Fox</a>:" author-id="49" timestamp="2005-03-13 18:10:42 +0600" type="norm" dbname="box49018" last-modified-by="127" %}
+{% include box-open.html box-id="494" title="<a name=\"part7\">Fox</a>" author-id="49" timestamp="2005-03-14 00:10:42 +0000" type="norm" dbname="box49018" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #E39E27;"> 1-2 Punch Combo	</TD><TD STYLE="border: 1px dashed #E39E27;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #E39E27;">High Kick	</TD><TD STYLE="border: 1px dashed #E39E27;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -212,9 +212,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #E39E27;">Fire Charge	</TD><TD STYLE="border: 1px dashed #E39E27;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #E39E27;">Electric Shield	</TD><TD STYLE="border: 1px dashed #E39E27;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:12:10 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:12:10 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="495" title="<a name=\"part8\">Pikachu</a>:" author-id="49" timestamp="2005-03-13 18:30:58 +0600" type="norm" dbname="box53265" last-modified-by="127" %}
+{% include box-open.html box-id="495" title="<a name=\"part8\">Pikachu</a>" author-id="49" timestamp="2005-03-14 00:30:58 +0000" type="norm" dbname="box53265" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #FFFF00;"> Headbutt </TD><TD STYLE="border: 1px dashed #FFFF00;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #FFFF00;"> Overhead Tailslap </TD><TD STYLE="border: 1px dashed #FFFF00;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -232,9 +232,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #FFFF00;"> Quick Attack </TD><TD STYLE="border: 1px dashed #FFFF00;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #FFFF00;"> Thunder Bolt </TD><TD STYLE="border: 1px dashed #FFFF00;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:11:42 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:11:42 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="496" title="<a name=\"part9\">Luigi</a>:" author-id="49" timestamp="2005-03-13 18:32:05 +0600" type="norm" dbname="box15989" last-modified-by="127" %}
+{% include box-open.html box-id="496" title="<a name=\"part9\">Luigi</a>" author-id="49" timestamp="2005-03-14 00:32:05 +0000" type="norm" dbname="box15989" last-modified-by="127" %}
 <TABLE>
 <TR><TD STYLE="border: 1px dotted #36AA1F;">Punch-Punch-Kick Combo</TD><TD STYLE="border: 1px dashed #36AA1F;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #36AA1F;">Standing Uppercut</TD><TD STYLE="border: 1px dashed #36AA1F;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -252,9 +252,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #36AA1F;">Jumping Uppercut</TD><TD STYLE="border: 1px dashed #36AA1F;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #36AA1F;">Tornado Punch</TD><TD STYLE="border: 1px dashed #36AA1F;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:11:01 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:11:01 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="497" title="<a name=\"part10\">Captain Falcon</a>:" author-id="49" timestamp="2005-03-13 18:32:32 +0600" type="norm" dbname="box10777" last-modified-by="127" %}
+{% include box-open.html box-id="497" title="<a name=\"part10\">Captain Falcon</a>" author-id="49" timestamp="2005-03-14 00:32:32 +0000" type="norm" dbname="box10777" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #0045E3;"> 1-2 Kick Combo </TD><TD STYLE="border: 1px dashed #0045E3;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #0045E3;"> High Dropkick </TD><TD STYLE="border: 1px dashed #0045E3;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -272,9 +272,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #0045E3;"> Grab Attack </TD><TD STYLE="border: 1px dashed #0045E3;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #0045E3;"> Falcon Kick! </TD><TD STYLE="border: 1px dashed #0045E3;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:10:27 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:10:27 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="498" title="<a name=\"part11\">Ness</a>:" author-id="49" timestamp="2005-03-13 18:35:03 +0600" type="norm" dbname="box56432" last-modified-by="127" %}
+{% include box-open.html box-id="498" title="<a name=\"part11\">Ness</a>" author-id="49" timestamp="2005-03-14 00:35:03 +0000" type="norm" dbname="box56432" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #FF5D5D;"> 1-2 Kick Combo </TD><TD STYLE="border: 1px dashed #FF5D5D;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #FF5D5D;"> Jump Punch </TD><TD STYLE="border: 1px dashed #FF5D5D;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -292,9 +292,9 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #FF5D5D;"> PK Thunder </TD><TD STYLE="border: 1px dashed #FF5D5D;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #FF5D5D;"> PSI Magnet </TD><TD STYLE="border: 1px dashed #FF5D5D;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:09:45 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:09:45 +0000" last-modified-by-name="Firegirl" %}
 
-{% include box-open.html box-id="499" title="<a name=\"part12\">Jigglypuff</a>:" author-id="49" timestamp="2005-03-13 18:35:59 +0600" type="norm" dbname="box24979" last-modified-by="127" %}
+{% include box-open.html box-id="499" title="<a name=\"part12\">Jigglypuff</a>" author-id="49" timestamp="2005-03-14 00:35:59 +0000" type="norm" dbname="box24979" last-modified-by="127" %}
 <TABLE>				
 <TR><TD STYLE="border: 1px dotted #FABAD2;"> 1-2 Punch Combo </TD><TD STYLE="border: 1px dashed #FABAD2;" align="right"><IMG SRC="a.gif" /> </TD></TR>
 <TR><TD STYLE="border: 1px dotted #FABAD2;"> High Kick </TD><TD STYLE="border: 1px dashed #FABAD2;" align="right"><IMG SRC="up.gif" />, <IMG SRC="a.gif" /></TD></TR>
@@ -313,4 +313,4 @@ SRC="right.gif" /> + <IMG SRC="a.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #FABAD2;"> Sing </TD><TD STYLE="border: 1px dashed #FABAD2;" align="right"><IMG SRC="up.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 <TR><TD STYLE="border: 1px dotted #FABAD2;"> Rest </TD><TD STYLE="border: 1px dashed #FABAD2;" align="right"><IMG SRC="down.gif" /> + <IMG SRC="b.gif" /></TD></TR>
 </TABLE>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 04:09:04 +0600" last-modified-by-name="Firegirl" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-12-29 10:09:04 +0000" last-modified-by-name="Firegirl" %}

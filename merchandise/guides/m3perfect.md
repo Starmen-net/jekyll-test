@@ -2,9 +2,9 @@
 title: Mother 3 Perfect Guide
 categories:
   - merchandise
-date: 2007-04-21 16:09:16 +0500
+date: 2007-04-21 21:09:16 +0000
 ---
-{% include box-open.html box-id="2868" title="Mother 3 Perfect Guide:" author-id="45" timestamp="2007-04-21 16:09:16 +0500" type="norm" dbname="box39098" last-modified-by="45" %}
+{% include box-open.html box-id="2868" title="Mother 3 Perfect Guide" author-id="45" timestamp="2007-04-21 21:09:16 +0000" type="norm" dbname="box39098" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3perfect_title.jpg" border="0" alt="Mother 3 Perfect Guide" />
 	</center>
@@ -42,4 +42,4 @@ date: 2007-04-21 16:09:16 +0500
 	<a href="/merchandise/images/m3perfect_spine.jpg">Spine</a> - <a href="/merchandise/images/m3perfect_insert1.jpg">Insert (Front)</a> - <a href="/merchandise/images/m3perfect_insert2.jpg">Insert (Back)</a> - 
 	<a href="/merchandise/images/m3perfect_p020-021.jpg">Pages 1</a> - <a href="/merchandise/images/m3perfect_p024-025.jpg">Pages 2</a> - <a href="/merchandise/images/m3perfect_p086-087.jpg">Pages 3</a> - 
 	<a href="/merchandise/images/m3perfect_p182-183.jpg">Pages 4</a> - <a href="/merchandise/images/m3perfect_p208-209.jpg">Pages 5</a> - <a href="/merchandise/images/m3perfect_p240-241.jpg">Pages 6</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 17:55:41 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 22:55:41 +0000" last-modified-by-name="ShadowX" %}

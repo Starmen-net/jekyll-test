@@ -2,9 +2,9 @@
 title: Mother 1 Manga - Illusia
 categories:
   - merchandise
-date: 2005-01-03 19:29:43 +0600
+date: 2005-01-04 01:29:43 +0000
 ---
-{% include box-open.html box-id="277" title="Mother 1 Manga - Illusia:" author-id="45" timestamp="2005-01-03 19:29:43 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="277" title="Mother 1 Manga - Illusia" author-id="45" timestamp="2005-01-04 01:29:43 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/illusia_title.jpg" border="0" alt="Illusia" />
 	</center>
@@ -23,4 +23,4 @@ date: 2005-01-03 19:29:43 +0600
 	<b>Images</b>
 	<br />
 	<a href="/merchandise/images/illusia1.png">Front</a> - <a href="/merchandise/images/illusia2.png">Inside</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 19:29:57 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:29:57 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Super Smash Bros. Brawl
 categories:
   - ssbb
-date: 2018-06-14 19:56:30 +0500
+date: 2018-06-15 00:56:30 +0000
 ---
-{% include box-open.html box-id="5229" title="Super Smash Bros. Brawl:" author-id="28590" timestamp="2018-06-14 19:56:30 +0500" type="norm" dbname="box22005" last-modified-by="127" %}
+{% include box-open.html box-id="5229" title="Super Smash Bros. Brawl" author-id="28590" timestamp="2018-06-15 00:56:30 +0000" type="norm" dbname="box22005" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="Super Smash Bros. Brawl" />
 	<table valign="top">
@@ -55,16 +55,16 @@ date: 2018-06-14 19:56:30 +0500
 <br /><br />
 This section of the site is devoted to Brawl, namely the Mother-related info, but we'll be including other franchises as well! With this game so chalk full of things, we're still working on updating it at the time, but do still take a look!</p>
 <br  class="cleary" />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 20:24:04 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 01:24:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5230" title="SSB:B Control Style:" author-id="28590" timestamp="2018-06-14 19:58:05 +0500" type="norm" dbname="box49025" last-modified-by="127" %}
+{% include box-open.html box-id="5230" title="SSB:B Control Style" author-id="28590" timestamp="2018-06-15 00:58:05 +0000" type="norm" dbname="box49025" last-modified-by="127" %}
 <p>With the innovative new controller that comes with the Wii, a question is raised: how will Smash Bros. Brawl be played? Well, Sakurai has confirmed that there will be <b>four</b> different playing styles -- including support for the Gamecube controller!<br />
 <br />
 <center><img src="/ssbb/controllers.png" alt="Four kinds of control!" /></center></p>
 <br  class="cleary" />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:58:28 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:58:28 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5232" title="Recent Updates:" author-id="28590" timestamp="2018-06-14 20:37:31 +0500" type="norm" dbname="box22649" last-modified-by="127" %}
+{% include box-open.html box-id="5232" title="Recent Updates" author-id="28590" timestamp="2018-06-15 01:37:31 +0000" type="norm" dbname="box22649" last-modified-by="127" %}
 <b>June 14, 2018:</b>
 <ul><li>Artwork page was redone and includes all characters. Main Brawl page was redone.</li></ul>
 
@@ -73,12 +73,12 @@ This section of the site is devoted to Brawl, namely the Mother-related info, bu
 
 <b>April 23, 2018:</b>
 <ul><li>Items page was updated. Assist Trophies and Pokemon are complete. Stickers are complete, still working on other items. Slowly updating Characters page.</li></ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 20:43:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 01:43:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5231" title="Contact Info:" author-id="28590" timestamp="2018-06-14 19:58:34 +0500" type="norm" dbname="box13528" last-modified-by="127" %}
+{% include box-open.html box-id="5231" title="Contact Info" author-id="28590" timestamp="2018-06-15 00:58:34 +0000" type="norm" dbname="box13528" last-modified-by="127" %}
 <table1 />
 Section maintainer:<br />
 <table2 />
 <a href="https://forum.starmen.net/members/CerealQueen">CerealQue</a><a href="http://cerealqueen.weebly.com/super-secret.html" >e</a><a href="https://forum.starmen.net/members/CerealQueen">n</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2023-01-10 16:18:36 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2023-01-10 22:18:36 +0000" last-modified-by-name="CerealQueen" %}

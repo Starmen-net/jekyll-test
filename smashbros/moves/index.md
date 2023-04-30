@@ -2,9 +2,9 @@
 title: Moves
 categories:
   - smashbros
-date: 2018-04-24 18:48:48 +0500
+date: 2018-04-24 23:48:48 +0000
 ---
-{% include box-open.html box-id="5219" title="Characters:" author-id="28590" timestamp="2018-04-26 00:42:46 +0500" type="norm" dbname="box28552" last-modified-by="127" %}
+{% include box-open.html box-id="5219" title="Characters" author-id="28590" timestamp="2018-04-26 05:42:46 +0000" type="norm" dbname="box28552" last-modified-by="127" %}
 <center><a href="#captain falcon"><img src="Captain Falcon1.png" width="16" height="16" /> Captain Falcon</a> &nbsp;&nbsp;&nbsp;
 <a href="#donkey kong"><img src="Donkey Kong1.png" width="14" height="16" /> Donkey Kong</a> &nbsp;&nbsp;&nbsp;
 <a href="#fox"><img src="Fox1.png" width="16" height="20" /> Fox</a> &nbsp;&nbsp;&nbsp;
@@ -17,9 +17,9 @@ date: 2018-04-24 18:48:48 +0500
 <a href="#pikachu"><img src="Pikachu1.png" width="16" height="18" /> Pikachu</a> &nbsp;&nbsp;&nbsp;
 <a href="#samus"><img src="Samus1.png" width="16" height="16" /> Samus</a> &nbsp;&nbsp;&nbsp;
 <a href="#yoshi"><img src="Yoshi1.png" width="16" height="16" /> Yoshi</a> </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:51:33 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:51:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5206" title="<a name=\"captain falcon\">Captain Falcon</a>:" author-id="28590" timestamp="2018-04-24 18:48:48 +0500" type="norm" dbname="box12355" last-modified-by="127" %}
+{% include box-open.html box-id="5206" title="<a name=\"captain falcon\">Captain Falcon</a>" author-id="28590" timestamp="2018-04-24 23:48:48 +0000" type="norm" dbname="box12355" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -142,9 +142,9 @@ date: 2018-04-24 18:48:48 +0500
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:42:30 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:42:30 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5207" title="<a name=\"donkey kong\">Donkey Kong</a>:" author-id="28590" timestamp="2018-04-24 18:49:01 +0500" type="norm" dbname="box25349" last-modified-by="127" %}
+{% include box-open.html box-id="5207" title="<a name=\"donkey kong\">Donkey Kong</a>" author-id="28590" timestamp="2018-04-24 23:49:01 +0000" type="norm" dbname="box25349" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -267,9 +267,9 @@ date: 2018-04-24 18:48:48 +0500
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:43:35 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:43:35 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5208" title="<a name=\"fox\">Fox</a>:" author-id="28590" timestamp="2018-04-24 18:49:03 +0500" type="norm" dbname="box37220" last-modified-by="127" %}
+{% include box-open.html box-id="5208" title="<a name=\"fox\">Fox</a>" author-id="28590" timestamp="2018-04-24 23:49:03 +0000" type="norm" dbname="box37220" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -393,9 +393,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:44:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:44:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5209" title="<a name=\"jigglypuff\">Jigglypuff</a>:" author-id="28590" timestamp="2018-04-24 18:49:04 +0500" type="norm" dbname="box21398" last-modified-by="127" %}
+{% include box-open.html box-id="5209" title="<a name=\"jigglypuff\">Jigglypuff</a>" author-id="28590" timestamp="2018-04-24 23:49:04 +0000" type="norm" dbname="box21398" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -518,9 +518,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:44:38 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:44:38 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5210" title="<a name=\"kirby\">Kirby</a>:" author-id="28590" timestamp="2018-04-24 18:49:06 +0500" type="norm" dbname="box16325" last-modified-by="127" %}
+{% include box-open.html box-id="5210" title="<a name=\"kirby\">Kirby</a>" author-id="28590" timestamp="2018-04-24 23:49:06 +0000" type="norm" dbname="box16325" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -643,9 +643,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:44:59 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:44:59 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5211" title="<a name=\"link\">Link</a>:" author-id="28590" timestamp="2018-04-24 18:49:07 +0500" type="norm" dbname="box58579" last-modified-by="127" %}
+{% include box-open.html box-id="5211" title="<a name=\"link\">Link</a>" author-id="28590" timestamp="2018-04-24 23:49:07 +0000" type="norm" dbname="box58579" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -768,9 +768,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:45:21 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:45:21 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5212" title="<a name=\"luigi\">Luigi</a>:" author-id="28590" timestamp="2018-04-24 18:49:08 +0500" type="norm" dbname="box45506" last-modified-by="127" %}
+{% include box-open.html box-id="5212" title="<a name=\"luigi\">Luigi</a>" author-id="28590" timestamp="2018-04-24 23:49:08 +0000" type="norm" dbname="box45506" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -893,9 +893,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:45:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:45:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5213" title="<a name=\"mario\">Mario</a>:" author-id="28590" timestamp="2018-04-24 18:49:11 +0500" type="norm" dbname="box26104" last-modified-by="127" %}
+{% include box-open.html box-id="5213" title="<a name=\"mario\">Mario</a>" author-id="28590" timestamp="2018-04-24 23:49:11 +0000" type="norm" dbname="box26104" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1018,9 +1018,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:46:04 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:46:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5214" title="<a name=\"ness\">Ness</a>:" author-id="28590" timestamp="2018-04-24 18:49:17 +0500" type="norm" dbname="box38820" last-modified-by="127" %}
+{% include box-open.html box-id="5214" title="<a name=\"ness\">Ness</a>" author-id="28590" timestamp="2018-04-24 23:49:17 +0000" type="norm" dbname="box38820" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1143,9 +1143,9 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:46:39 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:46:39 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5215" title="<a name=\"pikachu\">Pikachu</a>:" author-id="28590" timestamp="2018-04-24 18:49:19 +0500" type="norm" dbname="box38835" last-modified-by="127" %}
+{% include box-open.html box-id="5215" title="<a name=\"pikachu\">Pikachu</a>" author-id="28590" timestamp="2018-04-24 23:49:19 +0000" type="norm" dbname="box38835" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1268,9 +1268,9 @@ too far with the leap, though!</th>
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:47:03 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:47:03 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5216" title="<a name=\"samus\">Samus</a>:" author-id="28590" timestamp="2018-04-24 18:49:41 +0500" type="norm" dbname="box50791" last-modified-by="127" %}
+{% include box-open.html box-id="5216" title="<a name=\"samus\">Samus</a>" author-id="28590" timestamp="2018-04-24 23:49:41 +0000" type="norm" dbname="box50791" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1394,9 +1394,9 @@ too far with the leap, though!</th>
 </table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:47:21 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:47:21 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5217" title="<a name=\"yoshi\">Yoshi</a>:" author-id="28590" timestamp="2018-04-24 18:49:44 +0500" type="norm" dbname="box64880" last-modified-by="127" %}
+{% include box-open.html box-id="5217" title="<a name=\"yoshi\">Yoshi</a>" author-id="28590" timestamp="2018-04-24 23:49:44 +0000" type="norm" dbname="box64880" last-modified-by="127" %}
 <table border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1519,4 +1519,4 @@ too far with the leap, though!</th>
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 14:47:40 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-03 19:47:40 +0000" last-modified-by-name="CerealQueen" %}

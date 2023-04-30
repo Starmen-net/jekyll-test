@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Unused Sprites
 categories:
   - mother2
-date: 2006-03-08 11:52:46 +0600
+date: 2006-03-08 17:52:46 +0000
 ---
-{% include box-open.html box-id="2065" title="The Mysterious Unused Sprites:" author-id="75" timestamp="2006-03-08 11:52:46 +0600" type="norm" dbname="box23689" last-modified-by="127" %}
+{% include box-open.html box-id="2065" title="The Mysterious Unused Sprites" author-id="75" timestamp="2006-03-08 17:52:46 +0000" type="norm" dbname="box23689" last-modified-by="127" %}
 These sprites were first discovered by people on this site in the Summer of 2000 when Tomato wrote his EB Sprite Viewer and Editor.  There have been many questions about why these sprites were never used in the game, so we've listed all the sprites here along with some insight as to where and when they might have been used.<br /><br />
 
 <table width="100%" cellpadding="0" border="1">
@@ -137,4 +137,4 @@ Maybe some romance sequences were planned, but didn't make it in.</td>
 This sprite was obviously supposed to be used when you won something.</td>
   </tr>
 </table>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2016-12-05 01:35:47 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2016-12-05 07:35:47 +0000" last-modified-by-name="CerealQueen" %}

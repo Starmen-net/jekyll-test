@@ -2,9 +2,9 @@
 title: 'Game Credits: About the Game Credits'
 categories:
   - credits
-date: 2005-09-23 15:10:51 +0500
+date: 2005-09-23 20:10:51 +0000
 ---
-{% include box-open.html box-id="1473" title="About the Game Credits:" author-id="2262" timestamp="2005-09-23 15:10:51 +0500" type="norm" dbname="box61958" last-modified-by="127" %}
+{% include box-open.html box-id="1473" title="About the Game Credits" author-id="2262" timestamp="2005-09-23 20:10:51 +0000" type="norm" dbname="box61958" last-modified-by="127" %}
 This section provides information about every person involved in creating the games in the Mother/Earthbound series. It features biographies, photos, other titles worked on by the game staff, and various other credits.
 <BR /><BR />
 Game Credits Format:<BR />
@@ -31,4 +31,4 @@ PC:   Personal Computer<BR />
 SNES: Super Nintendo Entertainment System<BR />
 VB:   Virtual Boy<BR />
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2005-09-23 15:11:03 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2005-09-23 20:11:03 +0000" last-modified-by-name="KingDarian" %}

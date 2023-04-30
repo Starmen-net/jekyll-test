@@ -2,9 +2,9 @@
 title: Mother 2 T-Shirts
 categories:
   - merchandise
-date: 2005-01-03 00:54:13 +0600
+date: 2005-01-03 06:54:13 +0000
 ---
-{% include box-open.html box-id="257" title="Mother 2 T-Shirts:" author-id="45" timestamp="2005-01-03 00:54:13 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="257" title="Mother 2 T-Shirts" author-id="45" timestamp="2005-01-03 06:54:13 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m2_tshirts_title.jpg" border="0" alt="Mother 2 T-Shirts" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 00:54:13 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m2_tshirt_black1.jpg"> Black Front 1 </a> - <a href="/merchandise/images/m2_tshirt_black2.jpg">Black Front 2 </a> - <a href="/merchandise/images/m2_tshirt_blue.jpg">Blue Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 00:54:24 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 06:54:24 +0000" last-modified-by-name="ShadowX" %}

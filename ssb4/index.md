@@ -2,9 +2,9 @@
 title: Super Smash Bros 4
 categories:
   - ssb4
-date: 2014-12-20 10:35:24 +0600
+date: 2014-12-20 16:35:24 +0000
 ---
-{% include box-open.html box-id="4727" title="Super Smash Bros. 3DS:" author-id="474" timestamp="2014-12-20 10:35:24 +0600" type="norm" dbname="box45917" last-modified-by="127" %}
+{% include box-open.html box-id="4727" title="Super Smash Bros. 3DS" author-id="474" timestamp="2014-12-20 16:35:24 +0000" type="norm" dbname="box45917" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="3dstitle.jpg" alt="Super Smash Bros. 3DS" width="254" height="154" />
 	<table valign="top">
@@ -59,9 +59,9 @@ This section of our site is devoted to both the 3DS and Wii U versions of the ga
 <br  class="cleary" />
 
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2017-03-22 00:25:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2017-03-22 05:25:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4877" title="Super Smash Bros. Wii U:" author-id="28590" timestamp="2016-11-27 00:10:00 +0600" type="norm" dbname="box19794" last-modified-by="127" %}
+{% include box-open.html box-id="4877" title="Super Smash Bros. Wii U" author-id="28590" timestamp="2016-11-27 06:10:00 +0000" type="norm" dbname="box19794" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="titlewiiu.jpg" alt="Super Smash Bros. Wii U" width="254" height="154" />
 	<table valign="top">
@@ -115,21 +115,21 @@ This title was released for the Wii U in late 2014, and there are 38 available c
 This part of the site is devoted to Smash 4 and all systems it appeared on. If you want to find game info, content from the Mother-series found in the games, listen to some tunes, etc., this place is for you! We're still working on filling this page with content, but if you see something missing, please let the Section Maintainer know!</p>
 <br  class="cleary" />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-14 23:09:57 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-06-15 04:09:57 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5233" title="Recent Updates:" author-id="28590" timestamp="2018-06-14 20:43:59 +0500" type="norm" dbname="box55187" last-modified-by="127" %}
+{% include box-open.html box-id="5233" title="Recent Updates" author-id="28590" timestamp="2018-06-15 01:43:59 +0000" type="norm" dbname="box55187" last-modified-by="127" %}
 <b>June 14, 2018:</b>
 <ul><li><a href="http://starmen.net/ssb4/images/" >Official Art page</a> was completed. Characters, alt. costumes, and thumbnails updated. Still missing DLC characters, however.</li></ul>
 
 <b>June 14, 2018:</b>
 <ul><li><a href="https://starmen.net/ssb4/music/" >Music page</a> was given a huge overhaul. Should be complete.</li></ul>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 20:49:02 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 01:49:02 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4987" title="Contact Info:" author-id="28590" timestamp="2017-01-22 13:14:45 +0600" type="norm" dbname="box42974" last-modified-by="127" %}
+{% include box-open.html box-id="4987" title="Contact Info" author-id="28590" timestamp="2017-01-22 19:14:45 +0000" type="norm" dbname="box42974" last-modified-by="127" %}
 <table1 />
 Section maintainer:<br />
 <table2 />
 <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-01-22 13:14:56 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-01-22 19:14:56 +0000" last-modified-by-name="CerealQueen" %}

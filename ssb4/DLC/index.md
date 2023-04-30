@@ -2,16 +2,16 @@
 title: DLC
 categories:
   - ssb4
-date: 2018-01-12 17:40:44 +0600
+date: 2018-01-12 23:40:44 +0000
 ---
-{% include box-open.html box-id="5115" title="Introduction:" author-id="28590" timestamp="2018-01-12 17:40:44 +0600" type="norm" dbname="box492" last-modified-by="127" %}
+{% include box-open.html box-id="5115" title="Introduction" author-id="28590" timestamp="2018-01-12 23:40:44 +0000" type="norm" dbname="box492" last-modified-by="127" %}
 Downloadable Content (or DLC), is additional content from the game's initial release, which are used in order to enhance the player’s experience in a game. In Super Smash Bros. for Wii U and Nintendo 3DS, DLC is divided in three categories: Fighters, Mii Fighter Costumes and Stages. <br /><br />
 
 DLC can be bought either as a bundle for both versions of the game, or for either the Wii U or Nintendo 3DS, depending on the player's choice. 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 17:46:15 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 23:46:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5116" title="Characters:" author-id="28590" timestamp="2018-01-12 17:46:17 +0600" type="norm" dbname="box53719" last-modified-by="127" %}
+{% include box-open.html box-id="5116" title="Characters" author-id="28590" timestamp="2018-01-12 23:46:17 +0000" type="norm" dbname="box53719" last-modified-by="127" %}
 Additional playable fighters can be bought for use in the game, both on single- and multi-player, despite the fact that they can be encountered without being purchased. 
 <br /><br />
 Mewtwo 
@@ -38,9 +38,9 @@ Corrin and Bayonetta were both officially unveiled on a Nintendo Direct on Decem
 <br />
 Corrin was added to the roster in order to promote the then-upcoming Fire Emblem Fates and was bundled with a music track for both versions of the game, while the 3DS version also included exclusive trophies and the Wii U version came with an additional music track. <br />
 Bayonetta was voted #1 overall during the Smash Ballot, an event where the community decided on which character they wanted to be added to the roster. She came first in Europe and was in the top 5 in the US. She was bundled with the Umbra Clock Tower stage. 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 17:52:22 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 23:52:22 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5117" title="Mii Fighter Costumes:" author-id="28590" timestamp="2018-01-12 17:52:11 +0600" type="norm" dbname="box45681" last-modified-by="127" %}
+{% include box-open.html box-id="5117" title="Mii Fighter Costumes" author-id="28590" timestamp="2018-01-12 23:52:11 +0000" type="norm" dbname="box45681" last-modified-by="127" %}
 A good amount of costumes for the customizable Mii Fighters are available and unlockable in the core game. However, more costumes and headgear can be purchased either standalone or in bundles. It should be noted that Headgear can be worn by any Mii Fighter, while the Body Gear can only be worn by a specific class.
  <br /><br />
 In the following lists, any clothing not belonging to any series will be italicized.
@@ -101,9 +101,9 @@ The sixth and final wave was released on February 2nd 2016 and includes the foll
 <ul>Ashley Wig & Ashley Outfit (Swordfighter)</ul>
 <ul>Tails Wig & Tails Outfit (Gunner)</ul>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 18:03:52 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-13 00:03:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5118" title="Stages:" author-id="28590" timestamp="2018-01-12 18:04:52 +0600" type="norm" dbname="box40703" last-modified-by="127" %}
+{% include box-open.html box-id="5118" title="Stages" author-id="28590" timestamp="2018-01-13 00:04:52 +0000" type="norm" dbname="box40703" last-modified-by="127" %}
 Additional stages were either bundled or included with their associated downloadable characters. <br /><br />
 Super Mario Maker<br />
 Super Mario Maker was released on September 10th 2015 for the Wii U. To help promote the new release, Nintendo announced a stage themed after the game on September 14th and released it on September 30th. <br />
@@ -111,9 +111,9 @@ Each time the stage is selected, a randomly designed layout is created and is co
 Miiverse<br />
 A stage based on the Miiverse social network featured on the Nintendo 3DS and Wii U systems was added to the game on June 14th 2015. <br />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-12 18:06:32 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-13 00:06:32 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5549" title="New Box, Edit me :(:" author-id="28590" timestamp="2022-08-20 08:56:27 +0500" type="norm" dbname="box45376" last-modified-by="127" %}
+{% include box-open.html box-id="5549" title="New Box, Edit me :(" author-id="28590" timestamp="2022-08-20 13:56:27 +0000" type="norm" dbname="box45376" last-modified-by="127" %}
 <table class="fixed" border=".5">
     <col width="100px" />
     <col width="200px" />
@@ -168,4 +168,4 @@ A stage based on the Miiverse social network featured on the Nintendo 3DS and Wi
 
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2022-08-20 08:59:58 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2022-08-20 13:59:58 +0000" last-modified-by-name="CerealQueen" %}

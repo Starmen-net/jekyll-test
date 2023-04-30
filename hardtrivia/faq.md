@@ -2,9 +2,9 @@
 title: FAQ
 categories:
   - hardtrivia
-date: 2012-05-11 20:32:18 +0500
+date: 2012-05-12 01:32:18 +0000
 ---
-{% include box-open.html box-id="4445" title="FAQ:" author-id="56" timestamp="2012-05-11 20:32:18 +0500" type="norm" dbname="box60970" last-modified-by="56" %}
+{% include box-open.html box-id="4445" title="FAQ" author-id="56" timestamp="2012-05-12 01:32:18 +0000" type="norm" dbname="box60970" last-modified-by="56" %}
 <p><b>Q:</b> What is Plo's HARD Trivia?<br/>
 <b>A:</b> It's a riddle based trivia game for EarthBound that I started it back in 1999. It began when reidman would use his IRC script called "AutoEB" to conduct trivia sessions in #earthbound. He'd ask simple trivia questions, but unfortunately the winners were usually decided by whoever could type the fastest and/or had the best internet connection. Being a crummy typer on AOL, I didn't fare so well. I decided to start another trivia game that would be slow, difficult, and would create long pauses of contemplation instead of frantic keyboard racing. It was on Starmen.Net for a long time, then it wasn't, and now it is again! Yay!</p>
 
@@ -69,4 +69,4 @@ date: 2012-05-11 20:32:18 +0500
 <b>A:</b> Feel free to send me an email: <a href="mailto:plo@starmen.net">plo@starmen.net</a> or PM me on the forum: <a href="http://forum.starmen.net/forum/newpm/56">Ploqazxswm</a>.</p>
 
 <p>NOW GO HAVE A TONLOAD OF FUN! :D</p>
-{% include box-close.html author-name="Ploqazxswm" last-modified-on="2012-05-11 22:10:06 +0500" last-modified-by-name="Ploqazxswm" %}
+{% include box-close.html author-name="Ploqazxswm" last-modified-on="2012-05-12 03:10:06 +0000" last-modified-by-name="Ploqazxswm" %}

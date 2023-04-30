@@ -2,9 +2,9 @@
 title: Hello! Orange Sunshine
 categories:
   - merchandise
-date: 2005-07-09 01:52:23 +0500
+date: 2005-07-09 06:52:23 +0000
 ---
-{% include box-open.html box-id="1010" title="Hello! Orange Sunshine:" author-id="45" timestamp="2005-07-09 01:52:23 +0500" type="norm" dbname="box25180" last-modified-by="45" %}
+{% include box-open.html box-id="1010" title="Hello! Orange Sunshine" author-id="45" timestamp="2005-07-09 06:52:23 +0000" type="norm" dbname="box25180" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/hos_title.jpg" border="0" alt="Hello! Orange Sunshine" />
 	</center>
@@ -22,4 +22,4 @@ date: 2005-07-09 01:52:23 +0500
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/hos_front.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-07-09 01:52:51 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-07-09 06:52:51 +0000" last-modified-by-name="ShadowX" %}

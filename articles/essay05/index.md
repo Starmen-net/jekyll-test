@@ -2,15 +2,15 @@
 title: The 2005 Starmen.Net Essay Contest
 categories:
   - articles
-date: 2005-09-19 17:28:44 +0500
+date: 2005-09-19 22:28:44 +0000
 ---
-{% include box-open.html box-id="1435" title="New Box, Edit me :(:" author-id="307" timestamp="2005-09-20 19:50:35 +0500" type="blank" dbname="box38961" last-modified-by="127" %}
+{% include box-open.html box-id="1435" title="New Box, Edit me :(" author-id="307" timestamp="2005-09-21 00:50:35 +0000" type="blank" dbname="box38961" last-modified-by="127" %}
 <div align="center">
 <img src="ec.png" alt="The 2005 Essay Contest: it took place in 2005. None of our competitors can make this claim." />
 </div>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2005-09-20 20:00:22 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2005-09-21 01:00:22 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="1436" title="The Entries:" author-id="307" timestamp="2005-09-20 19:52:34 +0500" type="norm" dbname="box14878" last-modified-by="127" %}
+{% include box-open.html box-id="1436" title="The Entries" author-id="307" timestamp="2005-09-21 00:52:34 +0000" type="norm" dbname="box14878" last-modified-by="127" %}
 <table>
 <tr>
 <td>
@@ -60,9 +60,9 @@ date: 2005-09-19 17:28:44 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2006-07-31 23:36:38 +0500" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2006-08-01 04:36:38 +0000" last-modified-by-name="sarsie" %}
 
-{% include box-open.html box-id="1429" title="The 2005 Starmen.Net Essay Contest:" author-id="307" timestamp="2005-09-19 17:28:44 +0500" type="norm" dbname="box12108" last-modified-by="127" %}
+{% include box-open.html box-id="1429" title="The 2005 Starmen.Net Essay Contest" author-id="307" timestamp="2005-09-19 22:28:44 +0000" type="norm" dbname="box12108" last-modified-by="127" %}
 <p>A few years ago, when Starmen.Net was launching a <em>different</em> (and decidedly less ornate) new site design, one of the events that kicked it off was the original essay contest.</p>
 <p>Well, we're a little late for <em>that</em>, but to commemorate the reborn articles section we're giving it another go. For those of you who don't know, the Essay Contest is all about writing the best article on a specific topic. The best essays will win any number of Possibly Awesome Prizes.</p>
 <ul>
@@ -74,11 +74,11 @@ date: 2005-09-19 17:28:44 +0500
 <p>If you have any questions, comments, or angry letters, PM me <a href="http://forum.starmen.net/?t=usrinfo&id=307">here</a> and I'll respond as fast as I can.</p>
 
 
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2005-09-20 20:56:35 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2005-09-21 01:56:35 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="1437" title="The Topics:" author-id="307" timestamp="2005-09-20 20:19:43 +0500" type="norm" dbname="box22227" last-modified-by="127" %}
+{% include box-open.html box-id="1437" title="The Topics" author-id="307" timestamp="2005-09-21 01:19:43 +0000" type="norm" dbname="box22227" last-modified-by="127" %}
 <ul type="disc">
 <li><i>EarthBound was a commercial failure in the US back in 1995; for EarthBound 2/Mother 3, what would you do (in terms of marketing or gameplay) to make it a success?</i></li>
 <li><i>Starmen.Net is extremely successful, as far as videogame fansites go; what, if anything, would you do to make it even better?</i></li>
 <li><i>When many of us first played EarthBound, our immediate reaction was to show it to all of our friends; how did yours react? How did you respond?</i></li></ul>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2005-09-24 22:16:15 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2005-09-25 03:16:15 +0000" last-modified-by-name="LiarXAgerate" %}

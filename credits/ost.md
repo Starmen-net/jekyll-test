@@ -2,9 +2,9 @@
 title: 'Game Credits: Original Soundtracks'
 categories:
   - credits
-date: 2005-05-03 23:44:19 +0500
+date: 2005-05-04 04:44:19 +0000
 ---
-{% include box-open.html box-id="1002" title="Mother Original Sountrack (2004 Reissue):" author-id="2262" timestamp="2005-05-03 23:44:19 +0500" type="norm" dbname="box17940" last-modified-by="127" %}
+{% include box-open.html box-id="1002" title="Mother Original Sountrack (2004 Reissue)" author-id="2262" timestamp="2005-05-04 04:44:19 +0000" type="norm" dbname="box17940" last-modified-by="127" %}
 <table width="100%">
 <tr valign="top">
 <td width="50%">
@@ -155,4 +155,4 @@ MOTHER RE-ISSUE STAFF<BR />
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2005-05-03 23:44:40 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2005-05-04 04:44:40 +0000" last-modified-by-name="KingDarian" %}

@@ -2,9 +2,9 @@
 title: MOTHER 2 iPhone 5 Case
 categories:
   - merchandise
-date: 2013-01-17 11:26:14 +0600
+date: 2013-01-17 17:26:14 +0000
 ---
-{% include box-open.html box-id="4574" title="MOTHER 2 iPhone 5 Case:" author-id="45" timestamp="2013-01-17 11:26:14 +0600" type="norm" dbname="box50397" last-modified-by="45" %}
+{% include box-open.html box-id="4574" title="MOTHER 2 iPhone 5 Case" author-id="45" timestamp="2013-01-17 17:26:14 +0000" type="norm" dbname="box50397" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -78,4 +78,4 @@ date: 2013-01-17 11:26:14 +0600
 <a href="/merchandise/images/m2_iphone5case_backinside.jpg" ><img src="/merchandise/images/m2_iphone5case_backinside.jpg" title="Back & Inside" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2_iphone5case_sides.jpg" ><img src="/merchandise/images/m2_iphone5case_sides.jpg" title="Sides" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2_iphone5case_use.jpg" ><img src="/merchandise/images/m2_iphone5case_use.jpg" title="Use" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2013-01-17 15:02:41 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2013-01-17 21:02:41 +0000" last-modified-by-name="ShadowX" %}

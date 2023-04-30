@@ -2,9 +2,9 @@
 title: Rules and Guidelines
 categories:
   - fanprograms
-date: 2007-07-16 17:07:17 +0500
+date: 2007-07-16 22:07:17 +0000
 ---
-{% include box-open.html box-id="3178" title="READ CAREFULLY:" author-id="3404" timestamp="2007-07-16 17:07:17 +0500" type="norm" dbname="box11412" last-modified-by="127" %}
+{% include box-open.html box-id="3178" title="READ CAREFULLY" author-id="3404" timestamp="2007-07-16 22:07:17 +0000" type="norm" dbname="box11412" last-modified-by="127" %}
 Please submit all programs <a href="/submit">here</a>.<br />
 <br />
 <font size="4" color="#E41B17"><b>--- Rules & Guidelines ---</b><br /></font>
@@ -27,4 +27,4 @@ Please submit all programs <a href="/submit">here</a>.<br />
 </ul>
 
 Having trouble submitting? You're probably still in need of a Starmen.net account. It's easy! Just go <a href="http://starmen.net/forum/?t=register">here</a> and create one.
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 19:36:12 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-19 00:36:12 +0000" last-modified-by-name="Capn Muffin" %}

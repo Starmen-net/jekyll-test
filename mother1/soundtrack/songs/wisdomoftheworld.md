@@ -2,9 +2,9 @@
 title: Wisdom of the World &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-24 21:27:06 +0600
+date: 2010-11-25 03:27:06 +0000
 ---
-{% include box-open.html box-id="3923" title="Production Credits:" author-id="307" timestamp="2010-11-24 21:27:06 +0600" type="norm" dbname="box40814" last-modified-by="127" %}
+{% include box-open.html box-id="3923" title="Production Credits" author-id="307" timestamp="2010-11-25 03:27:06 +0000" type="norm" dbname="box40814" last-modified-by="127" %}
 WISDOM OF THE WORLD
 
 <table>
@@ -29,9 +29,9 @@ WISDOM OF THE WORLD
 <td>DON CAMER</td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:28:21 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:28:21 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3924" title="Lyrics:" author-id="307" timestamp="2010-11-24 21:28:25 +0600" type="norm" dbname="box49601" last-modified-by="127" %}
+{% include box-open.html box-id="3924" title="Lyrics" author-id="307" timestamp="2010-11-25 03:28:25 +0000" type="norm" dbname="box49601" last-modified-by="127" %}
 Through ice and through fire<br />
 A wilderness of stone<br />
 With dreams and desires<br />
@@ -70,4 +70,4 @@ I am down on my knees<br />
 Begging now, begging please<br /><br />
 
 (* Repeat)
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:30:19 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:30:19 +0000" last-modified-by-name="LiarXAgerate" %}

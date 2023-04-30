@@ -2,9 +2,9 @@
 title: 'Game Credits: Hiroshi Yamauchi'
 categories:
   - credits
-date: 2005-09-23 15:36:36 +0500
+date: 2005-09-23 20:36:36 +0000
 ---
-{% include box-open.html box-id="1476" title="Hiroshi Yamauchi:" author-id="2262" timestamp="2005-09-23 15:36:36 +0500" type="norm" dbname="box40170" last-modified-by="127" %}
+{% include box-open.html box-id="1476" title="Hiroshi Yamauchi" author-id="2262" timestamp="2005-09-23 20:36:36 +0000" type="norm" dbname="box40170" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
    <LI><b>Donkey Kong(ARC 1981)</b><BR />
@@ -184,4 +184,4 @@ Executive Producer</LI>
    <LI><b>Star Fox Adventures(GCN 2002/2002)</b><BR />
 Executive Producer</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-06 22:06:20 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 03:06:20 +0000" last-modified-by-name="KingDarian" %}

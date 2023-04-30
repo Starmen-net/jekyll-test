@@ -2,9 +2,9 @@
 title: Synnr Cated Shirt
 categories:
   - merchandise
-date: 2009-05-10 22:07:39 +0500
+date: 2009-05-11 03:07:39 +0000
 ---
-{% include box-open.html box-id="3747" title="Synnr Cated Shirt:" author-id="45" timestamp="2009-05-10 22:07:39 +0500" type="norm" dbname="box28034" last-modified-by="45" %}
+{% include box-open.html box-id="3747" title="Synnr Cated Shirt" author-id="45" timestamp="2009-05-11 03:07:39 +0000" type="norm" dbname="box28034" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_synrr_title.png" border="0" alt="Synnr Cated Shirt" />
 	</center>
@@ -25,4 +25,4 @@ date: 2009-05-10 22:07:39 +0500
 	<br />
 	<a href="/merchandise/images/smn_synrr_black.jpg">Black</a> - <a href="/merchandise/images/smn_synrr_cardinal.jpg">Cardinal</a> - <a href="/merchandise/images/smn_synrr_navy.jpg">Navy</a>  - <a href="/merchandise/images/smn_synrr_royal.jpg">Royal</a> - <a href="/merchandise/images/smn_synrr_brown.jpg">Brown</a> - 
 	<a href="/merchandise/images/smn_synrr_kgreen.jpg">Kelly Green</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:15:21 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:15:21 +0000" last-modified-by-name="ShadowX" %}

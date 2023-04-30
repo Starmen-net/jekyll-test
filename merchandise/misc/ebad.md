@@ -2,9 +2,9 @@
 title: Nintendo Power Ads and Coupon
 categories:
   - merchandise
-date: 2005-01-03 21:19:25 +0600
+date: 2005-01-04 03:19:25 +0000
 ---
-{% include box-open.html box-id="343" title="Nintendo Power Ads and Coupon:" author-id="45" timestamp="2005-01-03 21:19:25 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="343" title="Nintendo Power Ads and Coupon" author-id="45" timestamp="2005-01-04 03:19:25 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/sc_title.jpg" border="0" alt="Nintendo Power Ads and Coupon" />
 	</center>
@@ -29,4 +29,4 @@ date: 2005-01-03 21:19:25 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smellyad1.jpg">1</a> - <a href="/merchandise/images/smellyad2.jpg">2</a> - <a href="/merchandise/images/smellycoupon.jpg">3</a> - <a href="/merchandise/images/smellyada1.jpg">4</a> - <a href="/merchandise/images/smellyada2.jpg">5</a> - <a href="/merchandise/images/smellycoupona1.jpg">6</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:19:36 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:19:36 +0000" last-modified-by-name="ShadowX" %}

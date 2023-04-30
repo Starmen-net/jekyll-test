@@ -2,13 +2,13 @@
 title: Theories - Magicants
 categories:
   - articles
-date: 2012-01-11 10:55:24 +0600
+date: 2012-01-11 16:55:24 +0000
 ---
-{% include box-open.html box-id="4167" title="Theories topic for the week of January 4 - January 11, 2012:" author-id="1419" timestamp="2012-01-11 10:55:24 +0600" type="norm" dbname="box48853" last-modified-by="127" %}
+{% include box-open.html box-id="4167" title="Theories topic for the week of January 4 - January 11, 2012" author-id="1419" timestamp="2012-01-11 16:55:24 +0000" type="norm" dbname="box48853" last-modified-by="127" %}
 <center>In the Mother series, there are two Magicants. One in Earthbound Zero, and one in Earthbound itself. I asked you, the community, to come up with a link between the two. Below are the fine answers I received:</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 10:56:41 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 16:56:41 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4168" title="Theory of the Week:" author-id="1419" timestamp="2012-01-11 10:56:43 +0600" type="norm" dbname="box44439" last-modified-by="127" %}
+{% include box-open.html box-id="4168" title="Theory of the Week" author-id="1419" timestamp="2012-01-11 16:56:43 +0000" type="norm" dbname="box44439" last-modified-by="127" %}
 "In the early 1900's, a dark shadow covered a small country town in rural America. At that time,
 a young married couple vanished mysteriously from their home. The man's name was George, the
 woman's name was Maria. Two years later, as suddenly as he left, George returned. He never told
@@ -62,17 +62,17 @@ shortly before a self realization occurs.<p/>
 These memories become active and influence elements around locations that were important to the person who's mind encapsulates this subconcious. Ness clearly was unconcious due to the scene that follows Ness' final battle with the Mani Mani statue, in which his three comrades are shown crowding around him, trying to awaken him. Upon his awakening, he realizes his soundstone is gone. As with Maria's awakening in Mother, in Mother 2 Ness' awakening destroys his Magicant also. This is the link between the two Magicants. <p/>
 
 - onakagapekopekodesu
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 11:01:27 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 17:01:27 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4169" title="On the name Magicant:" author-id="1419" timestamp="2012-01-11 10:56:54 +0600" type="norm" dbname="box45168" last-modified-by="127" %}
+{% include box-open.html box-id="4169" title="On the name Magicant" author-id="1419" timestamp="2012-01-11 16:56:54 +0000" type="norm" dbname="box45168" last-modified-by="127" %}
 Magicant is actually a place that exists in all of our minds, but it can only be tapped into by something incredible, like the alien sculpture in the first Mother game or the ultimate fulfillment of the Sound Stone, which allowed Ness to enter this manifestation of our own memories and imaginations. It is somewhat a place also to represent our racial memory, an idea concocted by Jung that claims we all have common history passed down genetically by our ancestors. The impossibility of us being able to tap into the knowledge and magic of the place gives it the simple name "Magic-can't." Our heroes lose access to the place once they rid it of what didn't belong there, aka Queen Mary and Ness's Nightmare.<p/>
 
 As for Queen Mary, she was sealed away into the mind of her son, or Ninten's grandfather in attempt to hide away from the evils of Giegue. She lived in a castle in the middle of the mind, thinking of the place as a reality, and she just continued into the minds of the "dynasty" or lineage of the family. <p/>
 
 - Absoltastic
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 11:02:11 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 17:02:11 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4170" title="The original inspiration!:" author-id="1419" timestamp="2012-01-11 11:02:31 +0600" type="norm" dbname="box5030" last-modified-by="127" %}
+{% include box-open.html box-id="4170" title="The original inspiration!" author-id="1419" timestamp="2012-01-11 17:02:31 +0000" type="norm" dbname="box5030" last-modified-by="127" %}
 This is basically just a bunch of ideas I came up with while playing EarthBound and reading about Mother 1. So yes, it’s half EarthBound stuff and the other half Mother stuff, but it all applies to both games and I am going to compare the two Magicants in them.<p/>
 
 I think Magicant is really a manifestation of a person’s mind, filled with thoughts and memories literally cluttered all over the place. I think a Magicant exists in everybody, but it can only be reached as a result of certain experiences. So how does Ness’ Magicant differ from Queen Mary’s (Maria’s)? Well, I think Ness’ Magicant is sort of a final test for Ness to unlock his mind once he has taken control of his Sanctuaries; he manually has to enter his own mind and purge it of evil thoughts and fears- personified as the Mani Mani Statue. However, I don’t think this necessarily means the Mani Mani statue’s influence actually existed in Ness, but it’s more of a symbol for evil. Once Ness destroys this evil and fear, his mind becomes free and he can tap in to the power hidden inside of him (which obviously would include PSI). Notice that Magicant also disappears after Ness realizes his true power. This is why I also think Magicant is a cloud or block in our minds that keeps us from unlocking our true potential through the evil existing in them. In other words, it’s keeping us from taking full control of our brains and posssibly becoming super humans with psychic powers (in EarthBound, at least)!! Ness was able to conquer Magicant, however. This may be simply because he is part of the Chosen Four, or because of the PSI powers he was born with, or it could just be some Apple of Enlightenment prophecy thing. But most importantly, Ness was able to defeat the evil inside him, clear the clouds away from his mind, and enlighten himself to greater power. That’s why Magicant disappears afterwards.<p/>
@@ -82,9 +82,9 @@ However, in Maria’s case, she could not conquer her Magicant without Ninten’
 So, that’s my interpretation of Magicant.<p/>
 
 - AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 11:03:12 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 17:03:12 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4171" title="A little different, and on the topic of Mother 3:" author-id="1419" timestamp="2012-01-11 11:03:54 +0600" type="norm" dbname="box13680" last-modified-by="127" %}
+{% include box-open.html box-id="4171" title="A little different, and on the topic of Mother 3" author-id="1419" timestamp="2012-01-11 17:03:54 +0000" type="norm" dbname="box13680" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This weeks question, Magicant, Ninten visits it in his dreams in Mother...and then Ness sees it in his in Earthbound, years later. And yet...they were different in some way. And as tired as I truly *yawn* am...I'm gonna *yawwwnnnn* tell you...tell you abou...zzzzzzzzz.<p/>
 From the ashened questions we let bur-wait a minute, didn't I already do the intro? Oh great, I'm sleep theorizing again. Ah well, This theory came from dreams, might as well be typed while in one.
 Now, Magicant is a land of dreams, that are said to disappear for good when the dreamer wakes up. Magicant is known to hold the well known flying men, and known to have some sort of music within them. Now, can you guess which Magicant I'm talking about? I'm talking about ALL of them. Yep, just like I've been saying, it's a land of dreams...and everyone has their own little Magicant in one point of their lives.<p/>
@@ -96,4 +96,4 @@ And thus, another *SNORT!* Gah! Dang it, fell asleep again. Huh? Oh yeah, my who
 Finish it in dream mode, that's always plan B. So, this is Dreaming Pheen-X saying...Keep Your Dreams.<p/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 11:04:37 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-11 17:04:37 +0000" last-modified-by-name="Captain Bozo" %}

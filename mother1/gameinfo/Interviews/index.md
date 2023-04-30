@@ -2,9 +2,9 @@
 title: Interviews
 categories:
   - mother1
-date: 2016-11-01 17:05:58 +0500
+date: 2016-11-01 22:05:58 +0000
 ---
-{% include box-open.html box-id="4837" title="Interviews:" author-id="28590" timestamp="2016-11-01 17:05:58 +0500" type="norm" dbname="box32603" last-modified-by="127" %}
+{% include box-open.html box-id="4837" title="Interviews" author-id="28590" timestamp="2016-11-01 22:05:58 +0000" type="norm" dbname="box32603" last-modified-by="127" %}
 <a href="https://yomuka.wordpress.com/2011/03/27/famicom-hisshou-hon-may-19-1989/">Interview in Famicom Hisshou Hon Vol. 10 – May 19, 1989</a>
 <ul> <br />
   <li type="square">Famicon Hisshou Hon sits down with Mother-series creator Shigesato Itoi three months prior to Mother's release in Japan.</li>
@@ -30,4 +30,4 @@ Itoi reveals the original title for MOTHER while talking with the producer of Mi
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 05:00:52 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-14 11:00:52 +0000" last-modified-by-name="CerealQueen" %}

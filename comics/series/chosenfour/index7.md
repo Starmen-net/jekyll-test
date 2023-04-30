@@ -2,23 +2,23 @@
 title: Fan Comics - Series - The Chosen Four - Page 7
 categories:
   - comics
-date: 2009-12-20 16:56:10 +0600
+date: 2009-12-20 22:56:10 +0000
 ---
-{% include box-open.html box-id="3812" title="Ban-hammer:" author-id="474" timestamp="2009-12-20 16:56:10 +0600" type="blank" dbname="box23085" last-modified-by="127" %}
+{% include box-open.html box-id="3812" title="Ban-hammer" author-id="474" timestamp="2009-12-20 22:56:10 +0000" type="blank" dbname="box23085" last-modified-by="127" %}
 <center>
 <img src="/comics/series/chosenfour/chosenfourbanner.jpg" />
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2009-12-20 16:56:25 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2009-12-20 22:56:25 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3813" title="The Chosen Four:" author-id="474" timestamp="2009-12-20 16:56:11 +0600" type="norm" dbname="box16697" last-modified-by="127" %}
+{% include box-open.html box-id="3813" title="The Chosen Four" author-id="474" timestamp="2009-12-20 22:56:11 +0000" type="norm" dbname="box16697" last-modified-by="127" %}
 <b><u>The Chosen Four</u></b> by <i>Darrow</i> - Straight from the mouth of a bee with big eyebrows comes a tale of courage, friendship, and the kind of silliness that will have you rolling on the floor!  Will Giygas prevail or will the world's last hope band together and strike this intergalactic foe down?  It all rests...upon <i>the Chosen Four!</i>
-{% include box-close.html author-name="Artemis251" last-modified-on="2009-12-20 16:56:42 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2009-12-20 22:56:42 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3814" title="Comics:" author-id="474" timestamp="2009-12-20 16:56:12 +0600" type="db" dbname="box49542" last-modified-by="127" %}
+{% include box-open.html box-id="3814" title="Comics" author-id="474" timestamp="2009-12-20 22:56:12 +0000" type="db" dbname="box49542" last-modified-by="127" %}
 <center><navigator search="`Content` LIKE 'Darrow%'" display="no" quantity="50" start="300" section="description" /><displaytor mode="twocolumnlist" /></center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2010-01-11 12:08:06 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2010-01-11 18:08:06 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3815" title="Navigation:" author-id="474" timestamp="2009-12-20 16:57:07 +0600" type="blank" dbname="box10386" last-modified-by="127" %}
+{% include box-open.html box-id="3815" title="Navigation" author-id="474" timestamp="2009-12-20 22:57:07 +0000" type="blank" dbname="box10386" last-modified-by="127" %}
 <center>
 <a href="http://starmen.net/comics/series/chosenfour/index.php"><font size="4">Page 1: Comics 1-50</font></a><br />
 <a href="http://starmen.net/comics/series/chosenfour/index2.php"><font size="4">Page 2: Comics 51-100</font></a><br />
@@ -38,4 +38,4 @@ date: 2009-12-20 16:56:10 +0600
 <br /><a href="http://starmen.net/comics/series/chosenfour/index10.php"><font size="4">Page 10: Comics 301+</font></a>
 -->
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2012-07-08 18:54:05 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2012-07-08 23:54:05 +0000" last-modified-by-name="Artemis251" %}

@@ -2,9 +2,9 @@
 title: Wii are Starmen
 categories:
   - wii
-date: 2007-06-28 20:11:04 +0500
+date: 2007-06-29 01:11:04 +0000
 ---
-{% include box-open.html box-id="3143" title="Wii are Starmen:" author-id="288" timestamp="2007-06-28 20:11:04 +0500" type="norm" dbname="box55284" last-modified-by="127" %}
+{% include box-open.html box-id="3143" title="Wii are Starmen" author-id="288" timestamp="2007-06-29 01:11:04 +0000" type="norm" dbname="box55284" last-modified-by="127" %}
 <center><img src="wiiarestarmen.png" /></center>
 
 <br /><br />
@@ -36,9 +36,9 @@ We're coming up with cool ideas that will light your hair on fire!</li>
 
 <br />
 So if you're a die-hard EarthBound fan and have a Nintendo Wii, sign up without delay! For those not good with stuff like this, follow the detailed steps listed below.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-29 03:37:52 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-29 08:37:52 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3144" title="How to Sign Up:" author-id="288" timestamp="2007-06-29 03:36:53 +0500" type="norm" dbname="box21130" last-modified-by="127" %}
+{% include box-open.html box-id="3144" title="How to Sign Up" author-id="288" timestamp="2007-06-29 08:36:53 +0000" type="norm" dbname="box21130" last-modified-by="127" %}
 <b><u>Directions on How to Sign Up:</u></b>
 <br /><br />
 <ul><li>Add the e-mail address "<font color="yellow"><b>wii@starmen.net</b></font>" to your Contact List.<br /><br />If you're not sure how to do this, check out the video below. It takes you through step-by-step:</li></ul>
@@ -50,4 +50,4 @@ Once you've signed up, you'll get confirmation within a week or so.
 
 <br /><br />
 Sign up now so we can turn your system's blue light on once in a while! <font color="#5555FF"><b>BLUE BLUE</b></font>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-10-30 11:04:11 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-10-30 16:04:11 +0000" last-modified-by-name="Tomato" %}

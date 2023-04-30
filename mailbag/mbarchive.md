@@ -2,14 +2,14 @@
 title: Mailbag Archive
 categories:
   - mailbag
-date: 2006-04-08 15:14:19 +0500
+date: 2006-04-08 20:14:19 +0000
 ---
-{% include box-open.html box-id="4636" title=":" author-id="4164" timestamp="2014-01-20 01:46:31 +0600" type="blank" dbname="box11412" last-modified-by="127" %}
+{% include box-open.html box-id="4636" author-id="4164" timestamp="2014-01-20 07:46:31 +0000" type="blank" dbname="box11412" last-modified-by="127" %}
 <br />
 <br />
-{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-20 01:47:57 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-20 07:47:57 +0000" last-modified-by-name="Strawberry Tofu" %}
 
-{% include box-open.html box-id="4628" title="Carparama's Mailbags:" author-id="4681" timestamp="2014-01-18 21:59:01 +0600" type="norm" dbname="box62591" last-modified-by="127" %}
+{% include box-open.html box-id="4628" title="Carparama's Mailbags" author-id="4681" timestamp="2014-01-19 03:59:01 +0000" type="norm" dbname="box62591" last-modified-by="127" %}
 Carparama (a.k.a. Carpainter, Duckarama, and enough other aliases to fill a phone book) stepped up to the Mailbag plate not long after his Radio PSI premiere. Though his stint was brief, his “throwback” prompts encouraged reflection on the games we knew and loved and produced some humorous “what-ifs” (see: Making the Band). He revived the co-responder system for his last update before leaving to manage the omnipresent “real-life” responsibilities. 
 <br /><br />
 <table1 />
@@ -28,9 +28,9 @@ Carparama (a.k.a. Carpainter, Duckarama, and enough other aliases to fill a phon
 10/29/2006<br />
 10/22/2006<br />
 <table3 />
-{% include box-close.html author-name="vid" last-modified-on="2014-01-19 01:38:00 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="vid" last-modified-on="2014-01-19 07:38:00 +0000" last-modified-by-name="Strawberry Tofu" %}
 
-{% include box-open.html box-id="4627" title="EBounding's Mailbags, Part Three:" author-id="4681" timestamp="2014-01-18 21:52:58 +0600" type="norm" dbname="box28269" last-modified-by="127" %}
+{% include box-open.html box-id="4627" title="EBounding's Mailbags, Part Three" author-id="4681" timestamp="2014-01-19 03:52:58 +0000" type="norm" dbname="box28269" last-modified-by="127" %}
 The prerelease hype surrounding MOTHER 3 brought a new wave of activity to starmen.net, prompting SimonBob to revive Mailbag once again as a platform for speculation and opinions. Following the game's release, Mailbag veteran EBounding quietly returned as Western fans played the waiting game. There was plenty to occupy the fanbase in the meantime: starmen.net became the primary resource on MOTHER 3's Japanese release, work began on shiny new walkthrough sections, and fans old and new revisited Earthbound during the latest (and final) EBFGP. Nonetheless, this “era” of Mailbag does a good job of representing the tension growing in the MOTHER fanbase at the time, and has preserved a few of starmen.net's users' earliest reactions to MOTHER 3 before the fan translation.
 <br /><br />
 <table1 />
@@ -59,9 +59,9 @@ The prerelease hype surrounding MOTHER 3 brought a new wave of activity to starm
 2/25/2006<br />
 4/2/2005<br />
 <table3 />
-{% include box-close.html author-name="vid" last-modified-on="2014-01-19 01:38:07 +0600" last-modified-by-name="Strawberry Tofu" %}
+{% include box-close.html author-name="vid" last-modified-on="2014-01-19 07:38:07 +0000" last-modified-by-name="Strawberry Tofu" %}
 
-{% include box-open.html box-id="2214" title="GuyInSummers' Mailbags:" author-id="6" timestamp="2006-04-08 15:14:19 +0500" type="norm" dbname="box61657" last-modified-by="127" %}
+{% include box-open.html box-id="2214" title="GuyInSummers' Mailbags" author-id="6" timestamp="2006-04-08 20:14:19 +0000" type="norm" dbname="box61657" last-modified-by="127" %}
 Perhaps best known for his work on PK Hack, GuyInSummers also held the Mailbag job during the second half of the Mother 3 Petition drive.He kept up the Letter of the Week award and the co-responders, and thought up some of the most creative Mailbag topics to date.
 <br /><br />
 <table1 />
@@ -113,9 +113,9 @@ Perhaps best known for his work on PK Hack, GuyInSummers also held the Mailbag j
 8/30/2002<br />
 8/23/2002<br />
 <table3 />
-{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-08 21:36:41 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-09 02:36:41 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2215" title="StarmanDX's Mailbags:" author-id="6" timestamp="2006-04-08 15:29:48 +0500" type="norm" dbname="box55934" last-modified-by="127" %}
+{% include box-open.html box-id="2215" title="StarmanDX's Mailbags" author-id="6" timestamp="2006-04-08 20:29:48 +0000" type="norm" dbname="box55934" last-modified-by="127" %}
 March of 2002.  EBounding had long since traded up to the more relaxing Polls job, the great Mother 3 Petition was gearing up, and some other stuff was happening.  What better time for StarmanDX to take on the Mailbag mantle?  He brought in the Letter of the Week award, which really upped the literacy rate.  It also turned a lot of letters into verbose epistles, which is a jolly good way to bother modern Mailbag staffers (more reading = more work.)
 <br /><br />
 <table1 />
@@ -135,9 +135,9 @@ March of 2002.  EBounding had long since traded up to the more relaxing Polls jo
 3/10/2002<br />
 3/3/2002
 <table3 />
-{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-08 21:41:32 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-09 02:41:32 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2216" title="EBounding's Mailbags, Part Two:" author-id="6" timestamp="2006-04-08 15:31:16 +0500" type="norm" dbname="box64535" last-modified-by="127" %}
+{% include box-open.html box-id="2216" title="EBounding's Mailbags, Part Two" author-id="6" timestamp="2006-04-08 20:31:16 +0000" type="norm" dbname="box64535" last-modified-by="127" %}
 Out of nowhere, dios disappeared, leaving only a crappy topic in his wake.  So EBounding showed up again.  Eventually he started doing the co-responder thing again, and then his Internet company started screwing with his access, hence no updates in September.
 <br /><br />
 <table1 />
@@ -186,9 +186,9 @@ Out of nowhere, dios disappeared, leaving only a crappy topic in his wake.  So E
 5/28/2001<br />
 5/21/2001
 <table3 />
-{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-08 21:42:23 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-09 02:42:23 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2217" title="diospadre's Mailbags:" author-id="6" timestamp="2006-04-08 15:31:30 +0500" type="norm" dbname="box14687" last-modified-by="127" %}
+{% include box-open.html box-id="2217" title="diospadre's Mailbags" author-id="6" timestamp="2006-04-08 20:31:30 +0000" type="norm" dbname="box14687" last-modified-by="127" %}
 diospadre took over from EBounding in September 2000.  His responses are pretty slick.  The cynical lamer-hating dios we all learned to love came later.  Also featured is the new co-responder system, wherein a different staffer or otherwise cool person would help respond to the letters each week.
 <br /><br />
 <table1 />
@@ -242,9 +242,9 @@ diospadre took over from EBounding in September 2000.  His responses are pretty 
 10/2/2000<br />
 9/24/2000
 <table3 />
-{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-08 21:45:01 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-09 02:45:01 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2218" title="EBounding's Mailbags:" author-id="6" timestamp="2006-04-08 15:31:31 +0500" type="norm" dbname="box50598" last-modified-by="127" %}
+{% include box-open.html box-id="2218" title="EBounding's Mailbags" author-id="6" timestamp="2006-04-08 20:31:31 +0000" type="norm" dbname="box50598" last-modified-by="127" %}
 EBounding became the sole staffer of the Mailbag in the later half of 1999.  His tenure saw the beginning of the Mailbag Submission Form, which increased the number of letters per week dramatically.
 <br /><br />
 <table1 />
@@ -312,9 +312,9 @@ EBounding became the sole staffer of the Mailbag in the later half of 1999.  His
 10/25/1999<br />
 10/18/1999
 <table3 />
-{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-08 21:46:16 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-09 02:46:16 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2219" title="Really Old Mailbags:" author-id="6" timestamp="2006-04-08 15:31:32 +0500" type="norm" dbname="box44540" last-modified-by="127" %}
+{% include box-open.html box-id="2219" title="Really Old Mailbags" author-id="6" timestamp="2006-04-08 20:31:32 +0000" type="norm" dbname="box44540" last-modified-by="127" %}
 These are the absolute oldest Mailbags in existence.  They're coanswered by the crack team of reidman, Tomato, and EBounding.  The actual dates have been lost to the mists of time, but they were probably written in the early part of 1999.  Maybe even as early as 1998!  It's a mystery!
 <br /><br />
 <table1 />
@@ -344,4 +344,4 @@ Number 3<br />
 Number 2<br />
 Number 1
 <table3 />
-{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-08 21:47:04 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="SimonBob" last-modified-on="2006-05-09 02:47:04 +0000" last-modified-by-name="EBounding" %}

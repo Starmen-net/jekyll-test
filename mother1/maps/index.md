@@ -2,9 +2,9 @@
 title: MOTHER/EarthBound Beginnings Maps
 categories:
   - mother1
-date: 2015-06-21 23:43:50 +0500
+date: 2015-06-22 04:43:50 +0000
 ---
-{% include box-open.html box-id="4733" title="MOTHER / EarthBound Beginnings Maps:" author-id="27298" timestamp="2015-06-21 23:43:50 +0500" type="norm" dbname="box55092" last-modified-by="127" %}
+{% include box-open.html box-id="4733" title="MOTHER / EarthBound Beginnings Maps" author-id="27298" timestamp="2015-06-22 04:43:50 +0000" type="norm" dbname="box55092" last-modified-by="127" %}
 <a href="/mother1/miscinfo/maps/eb0map_big.png">Full Map of MOTHER / EarthBound Zero</a> - (6.6 MB, 16384 x 14384) - Be careful, this is BIG!<br />
 <a href="/mother1/miscinfo/maps/eb0map_small.png">Smaller Map of MOTHER / EarthBound Zero</a> - (438 KB, 1024 x 896)
 
@@ -56,8 +56,8 @@ date: 2015-06-21 23:43:50 +0500
             <a href="/mother1/miscinfo/maps/itoipeak.png">Mt. Itoi: Peak</a><br />
             <a href="/mother1/miscinfo/maps/giegue.png">Mysterious Cave</a><br />
 <table3 />
-{% include box-close.html author-name="NorthofOnett" last-modified-on="2015-06-23 00:49:46 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="NorthofOnett" last-modified-on="2015-06-23 05:49:46 +0000" last-modified-by-name="NorthofOnett" %}
 
-{% include box-open.html box-id="4734" title="Map Tools and Utilities:" author-id="27298" timestamp="2015-06-22 00:07:42 +0500" type="norm" dbname="box52428" last-modified-by="127" %}
+{% include box-open.html box-id="4734" title="Map Tools and Utilities" author-id="27298" timestamp="2015-06-22 05:07:42 +0000" type="norm" dbname="box52428" last-modified-by="127" %}
 <a href="/mother1/maps/earthboundzeromapview.zip">EarthBound Zero Map Viewer</a> - Map viewer tool that was used in the creation of the walkthrough. Useful for old computers that can't load the 16384 x 14384 map file (6.6 MB as a super-compressed PNG).
-{% include box-close.html author-name="NorthofOnett" last-modified-on="2015-06-22 00:11:12 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="NorthofOnett" last-modified-on="2015-06-22 05:11:12 +0000" last-modified-by-name="NorthofOnett" %}

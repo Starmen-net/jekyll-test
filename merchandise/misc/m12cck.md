@@ -2,9 +2,9 @@
 title: Mother 1+2 Coca-Cola Keychains
 categories:
   - merchandise
-date: 2005-01-03 21:05:09 +0600
+date: 2005-01-04 03:05:09 +0000
 ---
-{% include box-open.html box-id="334" title="Mother 1+2 Coca-Cola Keychains:" author-id="45" timestamp="2005-01-03 21:05:09 +0600" type="norm" dbname="box64994" last-modified-by="127" %}
+{% include box-open.html box-id="334" title="Mother 1+2 Coca-Cola Keychains" author-id="45" timestamp="2005-01-04 03:05:09 +0000" type="norm" dbname="box64994" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -76,4 +76,4 @@ date: 2005-01-03 21:05:09 +0600
 <a href="/merchandise/images/m12cck_sizechart.jpg" ><img src="/merchandise/images/m12cck_sizechart.jpg" title="Size Chart" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m12cck_sizehand.jpg" ><img src="/merchandise/images/m12cck_sizehand.jpg" title="Size By Hand" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:20:33 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:20:33 +0000" last-modified-by-name="Tomato" %}

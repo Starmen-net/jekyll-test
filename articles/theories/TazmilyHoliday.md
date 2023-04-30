@@ -2,13 +2,13 @@
 title: Theories - Tazmily Holidays
 categories:
   - articles
-date: 2011-12-07 16:30:59 +0600
+date: 2011-12-07 22:30:59 +0000
 ---
-{% include box-open.html box-id="4142" title="Theories topic for the week of November 30 - December  7, 2011:" author-id="1419" timestamp="2011-12-07 16:30:59 +0600" type="norm" dbname="box24558" last-modified-by="127" %}
+{% include box-open.html box-id="4142" title="Theories topic for the week of November 30 - December  7, 2011" author-id="1419" timestamp="2011-12-07 22:30:59 +0000" type="norm" dbname="box24558" last-modified-by="127" %}
 <center><img src="http://i.imgur.com/WMRies.png" title="Let the celebrations begin!" /><p/>Tazmily is a secluded society, one that we don't know much about. We can only assume that they have SOME kind of regular celebration, though. That's what I asked you to clear up, and two of you came forward. Only one of you could've been Theory of the Week, though. Below is the winner, followed by the runner up!</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 16:44:03 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 22:44:03 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4143" title="Theory of the Week:" author-id="1419" timestamp="2011-12-07 16:44:17 +0600" type="norm" dbname="box57480" last-modified-by="127" %}
+{% include box-open.html box-id="4143" title="Theory of the Week" author-id="1419" timestamp="2011-12-07 22:44:17 +0000" type="norm" dbname="box57480" last-modified-by="127" %}
 Due to it's very nature, Tazmily doesn't celebrate any of the religious or other cultural holidays that we do today, but every civilization, no matter how small, has it's own traditions. Because of the intimate nature of the people of the village, no one's birthday goes unnoticed and every anniversary is remembered, usually marked with gifts and gatherings of friends and family. Of course, while they're very important days for the village, they're still familiar to us... but Tazmily has it's own special holidays as well.<p/>
 
 Founder's Day happens every year on the first day of Spring, and commemorates the birth of the village long ago. While it is viewed as a time of pride and respect by most of the adults in the village, children are given a map of the village marked with specific houses and shops to visit in a certain order. As a group of children arrives at each stop, someone who lives or works at that location will tell them a small bit of a story called The Great White Dove, and then give each child a small snack to eat 'on their great journey' before sending them on their way to the next spot on the map. Once a child has visited every location and heard the entire story, they will receive a white or black ribbon that they will use for the next game.<p/>
@@ -24,9 +24,9 @@ Dinner is meant to be a very simple affair, usually consisting only of raw fruit
 Tradition is simply an artifact of human nature, one that not even Tazmily Village can escape. And in the end, perhaps that's for the best... after all, history should always be remembered in some way.<p/>
 
 - vid
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 16:57:02 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 22:57:02 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4144" title="Dradragodon sounds like so much fun:" author-id="1419" timestamp="2011-12-07 16:57:16 +0600" type="norm" dbname="box53763" last-modified-by="127" %}
+{% include box-open.html box-id="4144" title="Dradragodon sounds like so much fun" author-id="1419" timestamp="2011-12-07 22:57:16 +0000" type="norm" dbname="box53763" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, what holidays do the Tazmilyites celebrate every year? Well, suffice to say, this jolly theorist has discovered many holidays the town loves to get together for, but we'll focus on 3 in particular.<p/>
 The first one we'll bring to topic takes place in the summer, during the time where the nuts start to sprout across the land. This holiday was refered to as, Nutvayosday. This holiday is when the town goes across the land and forest, grabbing any nuts they feel can be used to develop a large sculpture project or be used in the nut baking competition. This started about 3 years after the town's discovery on the Nowhere Islands, and has since become an annual holiday, and interesting thing to note...the most well known family of the holiday is the one that runs the nut bakery in Tazmilly. The great-great grandfather of the family actually built the home out of the nuts, and the great-great grandmother knew how to make one heck of a nut bread. And it's easy to say, those genes have certainly been passed down, trust me, you haven't lived until you've tried some Tazmilly Nut Pie! And, the family has won the competitions for pratically every year, but this holiday is what expresses the creativity and togetherness the town witholds.<p/>
 The next holiday takes place within mid-autumn during the drago migration. This day is refered to as, Dradragodon. This is when the dragos migrate to the lands near the town of Tazmilly and began upon the first migration discovery. This day helped represent the peace with the dragos, and after a few years of merely playing with the dragos that migrated, the festivities began when a little girl gave a small baby drago one of her own dolls, and upon the next year, the drago returned with a small cloth blanket it found upon its travels. This helped spread the sensation of not only giving amongst the town on this day, but it also helped spread the feeling of giving amongst two different species. And even though some people didn't like bones from a previous drago meal, or the dragos didn't have a specific taste for nut cookies, they still gather every year, just to enjoy each species company, and the migration is now indicated with fun games and events for both human and drago to participate in.<p/>
@@ -44,4 +44,4 @@ Now of course as I said there are other holidays, like the chicken chasing Cluko
 And thus, another question is allowed to...actually it really can't burn in a beautiful flame (you try lighting a fire in the snow filled winter, it's not easy) but instead, it can glitter in the snow shined beauty of a winter night's sky. This is Pheen-X saying...happy holidays, and warm wishes to all.<p/>
 
 - Firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 16:58:50 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 22:58:50 +0000" last-modified-by-name="Captain Bozo" %}

@@ -2,9 +2,9 @@
 title: MOTHER 2
 categories:
   - merchandise
-date: 2010-10-20 09:13:29 +0500
+date: 2010-10-20 14:13:29 +0000
 ---
-{% include box-open.html box-id="3898" title="MOTHER 2:" author-id="45" timestamp="2010-10-20 09:13:29 +0500" type="norm" dbname="box33754" last-modified-by="127" %}
+{% include box-open.html box-id="3898" title="MOTHER 2" author-id="45" timestamp="2010-10-20 14:13:29 +0000" type="norm" dbname="box33754" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -93,4 +93,4 @@ date: 2010-10-20 09:13:29 +0500
 	 - <a href="/merchandise/images/mother2_20.jpg">19</a> - <a href="/merchandise/images/mother2_21.jpg">20</a>
 	 - <a href="/merchandise/images/mother2_22.jpg">21</a> - <a href="/merchandise/images/mother2_23.jpg">22</a>
 	 - <a href="/merchandise/images/mother2_24.jpg">23</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 15:20:22 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 20:20:22 +0000" last-modified-by-name="Tomato" %}

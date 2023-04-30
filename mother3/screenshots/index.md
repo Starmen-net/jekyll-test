@@ -2,9 +2,9 @@
 title: MOTHER 3 Screenshots
 categories:
   - mother3
-date: 2008-11-04 12:15:31 +0600
+date: 2008-11-04 18:15:31 +0000
 ---
-{% include box-open.html box-id="3527" title="Prologue:" author-id="288" timestamp="2008-11-04 12:15:31 +0600" type="norm" dbname="box38182" last-modified-by="127" %}
+{% include box-open.html box-id="3527" title="Prologue" author-id="288" timestamp="2008-11-04 18:15:31 +0000" type="norm" dbname="box38182" last-modified-by="127" %}
 <a href="CH0/m3_LucasSleeping.png" title="Lucas is sleeping at Alec's House"><img src="CH0/m3_LucasSleepingt.png" width="50" height="50" alt="Lucas is sleeping at Alec's House" /></a>
 <a href="CH0/m3_TalkingChicken.png" title="You can talk to all kinds of animals"><img src="CH0/m3_TalkingChickent.png" width="50" height="50" alt="You can talk to all kinds of animals" /></a>
 <a href="CH0/m3_MemoryFrog.png" title="Frogs will record your memories, so you can resume your progress"><img src="CH0/m3_MemoryFrogt.png" width="50" height="50" alt="Frogs will record your memories, so you can resume your progress" /></a>
@@ -15,9 +15,9 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH0/m3_HeyYou.png" title="Sometimes the characters will give you direct advice"><img src="CH0/m3_HeyYout.png" width="50" height="50" alt="Sometimes the characters will give you direct advice" /></a>
 <a href="CH0/m3_DearFlint.png" title="Hinawa sends a Letter to Flint"><img src="CH0/m3_DearFlintt.png" width="50" height="50" alt="Hinawa's sends a Letter to Flint" /></a>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2008-11-04 13:54:11 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-11-04 19:54:11 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3528" title="Chapter 1:" author-id="2262" timestamp="2008-11-04 12:41:34 +0600" type="norm" dbname="box14158" last-modified-by="127" %}
+{% include box-open.html box-id="3528" title="Chapter 1" author-id="2262" timestamp="2008-11-04 18:41:34 +0000" type="norm" dbname="box14158" last-modified-by="127" %}
 <a href="CH1/m3_MysteriousPigmasks.png" title="A strange group of soldiers in Pig Masks have showed up in Sunshine Forest"><img src="CH1/m3_MysteriousPigmaskst.png" width="50" height="50" alt="A strange group of soldiers in Pig Masks have showed up in Sunshine Forest" /></a>
 <a href="CH1/m3_BrokenDoorknob.png" title="The doorknob seems to have broken off of this door"><img src="CH1/m3_BrokenDoorknobt.png" width="50" height="50" alt="The doorknob seems to have broken off of this door" /></a>
 <a href="CH1/m3_Stick.png" title="Make sure to equip the weapons you find"><img src="CH1/m3_Stickt.png" width="50" height="50" alt="Make sure to equip the weapons you find" /></a>
@@ -54,9 +54,9 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH1/m3_Tree.png" title="Not only animals, but plants will also attack at will"><img src="CH1/m3_Treet.png" width="50" height="50" alt="Not only animals, but plants will also attack at will" /></a>
 <a href="CH1/m3_discovery.png" title="What have we here...?"><img src="CH1/m3_discoveryt.png" width="50" height="50" alt="What have we here...?" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:53:01 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:53:01 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3529" title="Chapter 2:" author-id="2262" timestamp="2008-11-04 12:41:48 +0600" type="norm" dbname="box23229" last-modified-by="127" %}
+{% include box-open.html box-id="3529" title="Chapter 2" author-id="2262" timestamp="2008-11-04 18:41:48 +0000" type="norm" dbname="box23229" last-modified-by="127" %}
 <a href="CH2/m3_ItsTime.png" title="Wess sends Duster on a mission"><img src="CH2/m3_ItsTimet.png" width="50" height="50" alt="Wess sends Duster on a mission" /></a>
 <a href="CH2/m3_ThiefItems.png" title="Duster uses some unique items to aid him in battle"><img src="CH2/m3_ThiefItemst.png" width="50" height="50" alt="Duster uses some unique items to aid him in battle" /></a>
 <a href="CH2/m3_Bridge.png" title="Tazmily is very quiet at night"><img src="CH2/m3_Bridget.png" width="50" height="50" alt="Tazmily is very quiet at night" /></a>
@@ -91,9 +91,9 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH2/m3_HummingbirdEgg.png" title="So this is what Wess was after?"><img src="CH2/m3_HummingbirdEggt.png" width="50" height="50" alt="So this is what Wess was after?" /></a>
 <a href="CH2/m3_ButchWell.png" title="What's the commotion?"><img src="CH2/m3_ButchWellt.png" width="50" height="50" alt="What's the commotion?" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:52:00 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:52:00 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3530" title="Chapter 3:" author-id="2262" timestamp="2008-11-04 12:42:06 +0600" type="norm" dbname="box18476" last-modified-by="127" %}
+{% include box-open.html box-id="3530" title="Chapter 3" author-id="2262" timestamp="2008-11-04 18:42:06 +0000" type="norm" dbname="box18476" last-modified-by="127" %}
 <a href="CH3/m3_DesertShip.png" title="A strange airship lands in the desert"><img src="CH3/m3_DesertShipt.png" width="50" height="50" alt="A strange airship lands in the desert" /></a>
 <a href="CH3/m3_FassadZap.png" title="Fassad zaps poor Salsa quite often"><img src="CH3/m3_FassadZapt.png" width="50" height="50" alt="Fassad zaps poor Salsa quite often" /></a>
 <a href="CH3/m3_SalsaSkills.png" title="Salsa can woo its foes by dancing in battle"><img src="CH3/m3_SalsaSkillst.png" width="50" height="50" alt="Salsa can woo its foes by dancing in battle" /></a>
@@ -121,9 +121,9 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH3/m3_ForestTanks.png" title="This tank blocks the exit"><img src="CH3/m3_ForestTankst.png" width="50" height="50" alt="This tank blocks the exit" /></a>
 <a href="CH3/m3_TankBattle.png" title="This tank isn't so tough once its main canon is destroyed"><img src="CH3/m3_TankBattlet.png" width="50" height="50" alt="This tank isn't so tough once its main canon is destroyed" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:51:03 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:51:03 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3531" title="Chapter 4:" author-id="2262" timestamp="2008-11-04 12:42:22 +0600" type="norm" dbname="box13337" last-modified-by="127" %}
+{% include box-open.html box-id="3531" title="Chapter 4" author-id="2262" timestamp="2008-11-04 18:42:22 +0000" type="norm" dbname="box13337" last-modified-by="127" %}
 <a href="CH4/m3_ZappedSheep.png" title="Lightning strikes wherever there are no Happy Boxes"><img src="CH4/m3_ZappedSheept.png" width="50" height="50" alt="Lightning strikes wherever there are no Happy Boxes" /></a>
 <a href="CH4/m3_HotelWhisper.png" title="I wonder who's whispering inside this room"><img src="CH4/m3_HotelWhispert.png" width="50" height="50" alt="I wonder who's whispering inside this room" /></a>
 <a href="CH4/m3_MagicButterfly.png" title="The magic butterfly made Lucas relax"><img src="CH4/m3_MagicButterflyt.png" width="50" height="50" alt="The magic butterfly made Lucas relax" /></a>
@@ -149,9 +149,9 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH4/m3_DCMCfans.png" title="DCMC fans are enjoying the show"><img src="CH4/m3_DCMCfanst.png" width="50" height="50" alt="DCMC fans are enjoying the show" /></a>
 <a href="CH4/m3_DCMCPerforms.png" title="DCMC puts on a great show"><img src="CH4/m3_DCMCPerformst.png" width="50" height="50" alt="DCMC puts on a great show" /></a>
 <a href="CH4/m3_WeepingGuitar.png" title="What a rockin' foe"><img src="CH4/m3_WeepingGuitart.png" width="50" height="50" alt="What a rockin' foe" /></a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:50:50 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:50:50 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3532" title="Chapter 5:" author-id="2262" timestamp="2008-11-04 12:42:38 +0600" type="norm" dbname="box48186" last-modified-by="127" %}
+{% include box-open.html box-id="3532" title="Chapter 5" author-id="2262" timestamp="2008-11-04 18:42:38 +0000" type="norm" dbname="box48186" last-modified-by="127" %}
 <a href="CH5/m3_FullParty.png" title="Finally, a full party"><img src="CH5/m3_FullPartyt.png" width="50" height="50" alt="Finally, a full party" /></a>
 <a href="CH5/m3_MoleHoles.png" title="Moles have dug a large network of tunnels"><img src="CH5/m3_MoleHolest.png" width="50" height="50" alt="Moles have dug a large network of tunnels" /></a>
 <a href="CH5/m3_OldClayGuy.png" title="What's so special about this old Clay Guy?"><img src="CH5/m3_OldClayGuyt.png" width="50" height="50" alt="What's so special about this old Clay Guy?" /></a>
@@ -179,15 +179,15 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH5/m3_Newhehe.png" title="Fassad has our team cornered"><img src="CH5/m3_Newhehet.png" width="50" height="50" alt="Fassad has our team cornered" /></a>
 <a href="CH5/m3_MysteriousFigure.png" title="A mysterious figure appears"><img src="CH5/m3_MysteriousFiguret.png" width="50" height="50" alt="A mysterious figure appears" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:50:13 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:50:13 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3533" title="Chapter 6:" author-id="2262" timestamp="2008-11-04 12:42:55 +0600" type="norm" dbname="box35097" last-modified-by="127" %}
+{% include box-open.html box-id="3533" title="Chapter 6" author-id="2262" timestamp="2008-11-04 18:42:55 +0000" type="norm" dbname="box35097" last-modified-by="127" %}
 <a href="CH6/m3_SunflowerField.png" title="An endless field of sunflowers"><img src="CH6/m3_SunflowerFieldt.png" width="50" height="50" alt="An endless field of sunflowers" /></a>
 <a href="CH6/m3_Haystack.png" title="Wess and Alec have built a haystack"><img src="CH6/m3_Haystackt.png" width="50" height="50" alt="Wess and Alec have built a haystack" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:50:01 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:50:01 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3534" title="Chapter 7:" author-id="2262" timestamp="2008-11-04 12:43:15 +0600" type="norm" dbname="box29972" last-modified-by="127" %}
+{% include box-open.html box-id="3534" title="Chapter 7" author-id="2262" timestamp="2008-11-04 18:43:15 +0000" type="norm" dbname="box29972" last-modified-by="127" %}
 <a href="CH7/m3_RestingUp.png" title="Lucas is resting up in Wess's bed"><img src="CH7/m3_RestingUpt.png" width="50" height="50" alt="Lucas is resting up in Wess's bed" /></a>
 <a href="CH7/m3_BoneyScent.png" title="Boney picks up a familiar scent"><img src="CH7/m3_BoneyScentt.png" width="50" height="50" alt="Boney picks up a familiar scent" /></a>
 <a href="CH7/m3_TiedUp.png" title="Ionia is all tied up"><img src="CH7/m3_TiedUpt.png" width="50" height="50" alt="Ionia is all tied up" /></a>
@@ -271,9 +271,9 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH7/m3_MaskedManTemple.png" title="It seems you aren't the only ones trying to get inside"><img src="CH7/m3_MaskedManTemplet.png" width="50" height="50" alt="It seems you aren't the only ones trying to get inside" /></a>
 <a href="CH7/m3_Inscription.png" title="What could this inscription mean...?"><img src="CH7/m3_Inscriptiont.png" width="50" height="50" alt="What could this inscription mean...?" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:49:40 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:49:40 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3535" title="Chapter 8:" author-id="2262" timestamp="2008-11-04 12:43:34 +0600" type="norm" dbname="box7445" last-modified-by="127" %}
+{% include box-open.html box-id="3535" title="Chapter 8" author-id="2262" timestamp="2008-11-04 18:43:34 +0000" type="norm" dbname="box7445" last-modified-by="127" %}
 <a href="CH8/m3_NewPork.png" title="So this is it...New Pork City"><img src="CH8/m3_NewPorkt.png" width="50" height="50" alt="So this is it...New Pork City" /></a>
 <a href="CH8/m3_Arcade.png" title="The arcade has all the latest games" ><img src="CH8/m3_Arcadet.png" width="50" height="50" alt="The arcade has all the latest games" /></a>
 <a href="CH8/m3_SlotBros.png" title="There's nostalgia all around"><img src="CH8/m3_SlotBrost.png" width="50" height="50" alt="There's nostalgia all around" /></a>
@@ -308,4 +308,4 @@ date: 2008-11-04 12:15:31 +0600
 <a href="CH8/m3_Fenom.png" title="The strangest foes yet seem to be here"><img src="CH8/m3_Fenomt.png" width="50" height="50" alt="The strangest foes yet seem to be here" /></a>
 <a href="CH8/m3_End.png" title="I don't like the look of this place" ><img src="CH8/m3_Endt.png" width="50" height="50" alt="I don't like the look of this place" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 13:47:09 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-11-04 19:47:09 +0000" last-modified-by-name="KingDarian" %}

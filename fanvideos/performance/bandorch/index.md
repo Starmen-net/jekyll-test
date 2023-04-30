@@ -2,9 +2,9 @@
 title: 'Fan Videos: Performance - Band &amp; Orchestral'
 categories:
   - fanvideos
-date: 2007-06-04 23:07:32 +0500
+date: 2007-06-05 04:07:32 +0000
 ---
-{% include box-open.html box-id="2983" title="Performance: Band & Orchestra:" author-id="137" timestamp="2007-06-04 23:07:32 +0500" type="norm" dbname="box17061" last-modified-by="127" %}
+{% include box-open.html box-id="2983" title="Performance: Band & Orchestra" author-id="137" timestamp="2007-06-05 04:07:32 +0000" type="norm" dbname="box17061" last-modified-by="127" %}
 <ul class="pics">	
 <div style="float: left; padding: 0px 10px 0px 0px;"><li>
 		<youtube vid="RipSRQZLfag" height="250" width="300" />
@@ -59,4 +59,4 @@ by <a href="http://www.youtube.com/user/starmennet">Famicom Band</a></h3>
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
 
-{% include box-close.html author-name="Jonk" last-modified-on="2012-04-26 15:34:36 +0500" last-modified-by-name="stoicmani" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2012-04-26 20:34:36 +0000" last-modified-by-name="stoicmani" %}

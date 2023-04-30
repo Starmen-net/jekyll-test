@@ -2,9 +2,9 @@
 title: EarthBound on Virtual Console
 categories:
   - ebvc
-date: 2009-02-14 16:01:08 +0600
+date: 2009-02-14 22:01:08 +0000
 ---
-{% include box-open.html box-id="3609" title="The Sad Story of EarthBound on the Virtual Console:" author-id="49" timestamp="2009-02-14 16:01:08 +0600" type="norm" dbname="box62171" last-modified-by="8" %}
+{% include box-open.html box-id="3609" title="The Sad Story of EarthBound on the Virtual Console" author-id="49" timestamp="2009-02-14 22:01:08 +0000" type="norm" dbname="box62171" last-modified-by="8" %}
 <a rel="lightbox" style="float: right; width: 250px; margin: 0 0 10px 20px;" href="http://starmen.net/ebvc/eb-no-vc-2.jpg"><img src="http://starmen.net/ebvc/eb-no-vc-2.thumb.jpg" alt="Looks like you got your head handed to you, Ness." title="Looks like you got your head handed to you, Ness." /></a>
 <em>[Edit: Tomato posted <a href="http://earthboundcentral.com/2009/02/earthbound-legal-issues/">EarthBound & Legal Issues</a> over at his <a href="http://earthboundcentral.com">EarthBound Central Blog</a>. Consider it a postrequisite to this article!]</em>
 <p>Early in the summer of 2007 Starmen.Net received an unsolicited message:</p>
@@ -83,4 +83,4 @@ date: 2009-02-14 16:01:08 +0600
 <p>Reid Young -- Feb 16, 2009</p>
 
 <p>[2:30 PM -- added some additions links/information about lawyers not being TOTALLY evil, <a href="http://forum.starmen.net/forum/Site/Newsroom/44268/first">EarthBound's demo being removed from Brawl</a>, and a nod to <a href="http://en.wikipedia.org/wiki/StarTropics">crazy lawyers changing "yo-yo" to "star" for the VC release of StarTropics</a> -- submitted as evidence that lawyers do, indeed, pull the strings.]</p>
-{% include box-close.html author-name="ROFISH" last-modified-on="2009-02-18 05:46:06 +0600" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2009-02-18 11:46:06 +0000" last-modified-by-name="reidman" %}

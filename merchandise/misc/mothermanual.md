@@ -2,9 +2,9 @@
 title: Mother Complete Conquer Manual
 categories:
   - merchandise
-date: 2005-01-03 20:55:26 +0600
+date: 2005-01-04 02:55:26 +0000
 ---
-{% include box-open.html box-id="325" title="Mother Complete Conquer Manual:" author-id="45" timestamp="2005-01-03 20:55:26 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="325" title="Mother Complete Conquer Manual" author-id="45" timestamp="2005-01-04 02:55:26 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m1ccm_title.jpg" border="0" alt="Mother Complete Conquer Manual" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 20:55:26 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m1ccm1.jpg">1</a> - <a href="/merchandise/images/m1ccm2.jpg">2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:55:38 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:55:38 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - siteinfo
-date: 2006-04-02 13:52:52 +0500
+date: 2006-04-02 18:52:52 +0000
 ---
-{% include box-open.html box-id="2164" title="horizontal:" author-id="247" timestamp="2006-04-02 13:52:52 +0500" type="norm" dbname="box23128" last-modified-by="127" %}
+{% include box-open.html box-id="2164" title="horizontal" author-id="247" timestamp="2006-04-02 18:52:52 +0000" type="norm" dbname="box23128" last-modified-by="127" %}
 <p><img src="http://starmen.net/files/0000/2f3c/cappucino-horizontal.png" />
 <br />Cappucino - 3</p>
 <p><img src="http://starmen.net/files/0000/2f9e/kakashi0freak-horizontal.png" />
@@ -23,18 +23,18 @@ date: 2006-04-02 13:52:52 +0500
 <br /><strike>JeffMan</strike></p>
 <p><img src="http://starmen.net/files/0000/307a/redshadow13-horizontal.gif" />
 <br />RedShadow13 - 2</p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 18:57:36 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 23:57:36 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2165" title="vertical:" author-id="247" timestamp="2006-04-02 13:52:54 +0500" type="norm" dbname="box22552" last-modified-by="127" %}
+{% include box-open.html box-id="2165" title="vertical" author-id="247" timestamp="2006-04-02 18:52:54 +0000" type="norm" dbname="box22552" last-modified-by="127" %}
 <p><img src="http://starmen.net/files/0000/2f4d/bjeatles-vertical.gif" />
 <br />bjeatles - dq'ed</p>
 <p><img src="http://starmen.net/files/0000/3004/bannere.JPG" />
 <br />Stevesesy - 2</p>
 <p><img src="http://starmen.net/files/0000/3048/capnmuffin-vertical.png" />
 <br />Cap'n Muffin - 1</p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 18:09:53 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 23:09:53 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2166" title="button:" author-id="247" timestamp="2006-04-02 13:52:55 +0500" type="norm" dbname="box27926" last-modified-by="127" %}
+{% include box-open.html box-id="2166" title="button" author-id="247" timestamp="2006-04-02 18:52:55 +0000" type="norm" dbname="box27926" last-modified-by="127" %}
 <p><img src="http://starmen.net/files/0000/2f41/Steam-Button.gif" />
 <br />Steam</p>
 <p><img src="http://starmen.net/files/0000/2fe1/xfisjmg1-button.gif" />
@@ -43,9 +43,9 @@ date: 2006-04-02 13:52:52 +0500
 <br />FireGirl - 1</p>
 <p><img src="http://starmen.net/files/0000/3079/capncrunch-120x60.jpg" />
 <br />Cap'n Crunch - 3</p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 18:02:07 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 23:02:07 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2167" title="micro:" author-id="247" timestamp="2006-04-02 13:52:56 +0500" type="norm" dbname="box48192" last-modified-by="127" %}
+{% include box-open.html box-id="2167" title="micro" author-id="247" timestamp="2006-04-02 18:52:56 +0000" type="norm" dbname="box48192" last-modified-by="127" %}
 <p><img src="http://starmen.net/files/0000/2f86/Emperor_Bambi-micro.gif" />
 <br />Emperor_Bambi</p>
 <p><img src="http://starmen.net/files/0000/2fa0/smnet.bmp" />
@@ -56,9 +56,9 @@ date: 2006-04-02 13:52:52 +0500
 <br />FireGirl</p>
 <p><img src="http://starmen.net/files/0000/3021/Sonic65-micro.png" />
 <br />Sonic 65 - 2</p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 18:25:36 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 23:25:36 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2168" title="set:" author-id="247" timestamp="2006-04-02 13:52:57 +0500" type="norm" dbname="box14917" last-modified-by="127" %}
+{% include box-open.html box-id="2168" title="set" author-id="247" timestamp="2006-04-02 18:52:57 +0000" type="norm" dbname="box14917" last-modified-by="127" %}
 <p><img src="http://starmen.net/siteinfo/banners/AsbestosBlatant-vertical.png" /> <img src="http://starmen.net/siteinfo/banners/AsbestosBlatant-horizontal.png" /> <img src="http://starmen.net/siteinfo/banners/AsbestosBlatant-button.png" /> <img src="http://starmen.net/siteinfo/banners/AsbestosBlatant-micro.png" />
 <br /><strike>AsbestosBlatant</strike></p>
 <p><img src="http://starmen.net/siteinfo/banners/ambivalentiowa-vertical.jpg" /> <img src="http://starmen.net/siteinfo/banners/ambivalentiowa-horizontal.jpg" /> <img src="http://starmen.net/siteinfo/banners/ambivalentiowa-button.jpg" /> <img src="http://starmen.net/siteinfo/banners/ambivalentiowa-micro.jpg" />
@@ -77,4 +77,4 @@ date: 2006-04-02 13:52:52 +0500
 <br />PBalfredo - 2</p>
 <p><img src="http://starmen.net/siteinfo/banners/Spammy-Vertical.png.png" /> <img src="http://starmen.net/siteinfo/banners/Spammy-horizontal.png.png" /> <img src="http://starmen.net/siteinfo/banners/Spammy-button.png.png" /> <img src="http://starmen.net/siteinfo/banners/Spammy-micro.png.png" />
 <br /><strike>Spam_Man</strike></p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-03 19:14:44 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-04 00:14:44 +0000" last-modified-by-name="Mansion Maniac" %}

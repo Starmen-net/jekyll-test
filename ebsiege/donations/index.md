@@ -2,22 +2,22 @@
 title: EB Siege - Donations
 categories:
   - ebsiege
-date: 2007-06-19 20:58:20 +0500
+date: 2007-06-20 01:58:20 +0000
 ---
-{% include box-open.html box-id="3051" title="Donation Drive!:" author-id="8" timestamp="2007-06-19 20:58:20 +0500" type="blank" dbname="box42838" last-modified-by="8" %}
+{% include box-open.html box-id="3051" title="Donation Drive!" author-id="8" timestamp="2007-06-20 01:58:20 +0000" type="blank" dbname="box42838" last-modified-by="8" %}
 <div class="centered" style="position: relative; margin-bottom: -92px"><img style="position: relative; top: -92px;" class="subhead" alt="EB Siege Donations Logo" title="EB Siege Donations!" src="../banners/ebs_banner_donate_l.png" /></div>
-{% include box-close.html author-name="reidman" last-modified-on="2007-06-19 20:59:48 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2007-06-20 01:59:48 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3052" title="EB Siege - Donation Drive!:" author-id="8" timestamp="2007-06-19 20:59:51 +0500" type="norm" dbname="box2677" last-modified-by="8" %}
+{% include box-open.html box-id="3052" title="EB Siege - Donation Drive!" author-id="8" timestamp="2007-06-20 01:59:51 +0000" type="norm" dbname="box2677" last-modified-by="8" %}
 <img src="http://starmen.net/ebsiege/donations/keychain_sm.png" style="float: right; margin-left: 10px;" />
 <p>The most ambitious part of the Siege is a project Jonk has been quietly working on in the background -- we'll call it the uberSiege Project. We want to keep it a secret until after it has been launched; unfortunately, it will require lots of money to launch.</p>
 <p>So, we need some cash, and since we can't just phone it in we're asking you guys for help. Although we admit that it would be pretty fun to bother some Japanese businessmen until they gave us the money, we think we've come up with some good incentives:</p>
 <ul><li><strong>All donors</strong> will receive access to a secret forum where they can see some previews of the uberSiege project, as well as some other previews/news.</li>
 <li><strong>Donors who send in $25 or more</strong> can request a <a href="http://starmen.net/forum/?t=msg&prevloaded=1&th=34802&start=0#msg_num_40">Starmen.Net Keychain</a>, or several keychains if you donate more than $25 (i.e. if you donate $75, you can request 3 chains)</li>
 </ul>
-{% include box-close.html author-name="reidman" last-modified-on="2007-06-24 02:28:34 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2007-06-24 07:28:34 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3061" title="The Goal:" author-id="8" timestamp="2007-06-19 23:42:13 +0500" type="norm" dbname="box39013" last-modified-by="8" %}
+{% include box-open.html box-id="3061" title="The Goal" author-id="8" timestamp="2007-06-20 04:42:13 +0000" type="norm" dbname="box39013" last-modified-by="8" %}
 <p style="text-align: center; line-height: 1.25em;">Our lofty goal:<br />
 <s style="font-size: 1em;">$2,500</s><br />
 <s style="font-size: 1.5em;">$4,000</s><br />
@@ -43,9 +43,9 @@ date: 2007-06-19 20:58:20 +0500
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-{% include box-close.html author-name="reidman" last-modified-on="2007-07-05 23:39:19 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2007-07-06 04:39:19 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="3115" title="Donation FAQ:" author-id="8" timestamp="2007-06-24 04:20:35 +0500" type="norm" dbname="box46783" last-modified-by="8" %}
+{% include box-open.html box-id="3115" title="Donation FAQ" author-id="8" timestamp="2007-06-24 09:20:35 +0000" type="norm" dbname="box46783" last-modified-by="8" %}
 <dl class="faq">
 	<dt>Is there a deadline for this donation drive?</dt>
 		<dd>Yes -- July 3 at midnight!</dd>
@@ -80,4 +80,4 @@ date: 2007-06-19 20:58:20 +0500
 	<dt>Does Fundable kinda suck?</dt>
 		<dd>Yes. We stopped using them and switched to Paypal. If you had problems with your Fundable donation, please contact me so I can bust some kneecaps.</dd>
 </dl>
-{% include box-close.html author-name="reidman" last-modified-on="2007-06-24 04:27:18 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2007-06-24 09:27:18 +0000" last-modified-by-name="reidman" %}

@@ -2,15 +2,15 @@
 title: Theories - Frankystein Mk II
 categories:
   - articles
-date: 2012-03-21 19:15:32 +0500
+date: 2012-03-22 00:15:32 +0000
 ---
-{% include box-open.html box-id="4364" title="Theories topic for the week of March 14 - March 21, 2012:" author-id="1419" timestamp="2012-03-21 19:15:32 +0500" type="norm" dbname="box10259" last-modified-by="127" %}
+{% include box-open.html box-id="4364" title="Theories topic for the week of March 14 - March 21, 2012" author-id="1419" timestamp="2012-03-22 00:15:32 +0000" type="norm" dbname="box10259" last-modified-by="127" %}
 <center><img src="http://walkthrough.starmen.net/earthbound/image/screens/01/frankystein.png" title="It is most definitely not made out of potatoes." /><p/>
 
 Frank is the head of the local Onett gang, the Sharks. But he also owns his own attack robot! How is this possible? Did he build it or find it or something entirely different? </center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 19:19:27 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 00:19:27 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4365" title="Theory of the Week:" author-id="1419" timestamp="2012-03-21 19:20:09 +0500" type="norm" dbname="box58057" last-modified-by="127" %}
+{% include box-open.html box-id="4365" title="Theory of the Week" author-id="1419" timestamp="2012-03-22 00:20:09 +0000" type="norm" dbname="box58057" last-modified-by="127" %}
 Frank is a gang leader with a troubled past.
 He has no mother, and most importantly, no father. This caused many problems. Without a father, Frank had no way to save his game, and had to make money selling burgers from trash cans... Obviously, his gang members saw this is a problem; what if the power shut off? All the terrorizing of Onett's citizens of that day would be GONE. KAPUT. Wouldn't that be just awful...? So, the more tech-y members of the gang offered a solution!<p/>
 
@@ -23,15 +23,15 @@ Frank agreed to these terms, and thus, Frankystein Mark 2 was built, with the in
 Being a robot, Frankystein 1 could make very advanced calculations, such as two plus negative negative two. This allowed it to lockpick masterfully, and banks all around Eagleland forever have their banks drained due to this master-thief father.<p/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:01:22 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:01:22 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4366" title="Wedgiebot 9000:" author-id="1419" timestamp="2012-03-21 20:01:26 +0500" type="norm" dbname="box27008" last-modified-by="127" %}
+{% include box-open.html box-id="4366" title="Wedgiebot 9000" author-id="1419" timestamp="2012-03-22 01:01:26 +0000" type="norm" dbname="box27008" last-modified-by="127" %}
 Frank leader of Sharks wasn't always the handsome shark haired stud he is now. It may be hard to believe but Frank was once a nerd at Harvard's lesser known branch of robotics. There he worked with fellow nerds to create the ultimate robot. Franky being the wise guy he is, programed what he called Frankystien to give atomic wedgies to the other nerds and so it did. Franky was threaded to be expelled if he were to try it again. Franky didnt want to be expelled so he worked hard on the next robot. When the new robot powered up he called himself Frankystien II and started to insulted the nerd mother and they began to cry. Franky was expelled on the spot and as he look at the school he shook his fist saying he make a even better robot called Frankystien III that throw punches at them like there was no tomorrow and he went back to his home town Onett to start his new diabolical nerd punching machine... <p/>
 
 - Stardood
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:02:04 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:02:04 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4367" title="A lone wolf with everything to prove. Also he's not very alone:" author-id="1419" timestamp="2012-03-21 20:02:07 +0500" type="norm" dbname="box49748" last-modified-by="127" %}
+{% include box-open.html box-id="4367" title="A lone wolf with everything to prove. Also he's not very alone" author-id="1419" timestamp="2012-03-22 01:02:07 +0000" type="norm" dbname="box49748" last-modified-by="127" %}
 Believe it or not, there are plenty of misconceptions surrounding Frank Fly, the boss of the local Onett gang known as the Sharks. He is the victim of cruel and unfair prejudice, being marked as nothing more than a nasty gang leader and a thug. This theory will hopefully set the record straight:<p/>
 
 When he’s not hanging out at the arcade or burger shop with his friends, Frank spends his free time in the Onett library, reading his favorite magazine, Popular Mechanics. Frank’s dream is to become a famous inventor, so he spent days planning and searching for materials in order to make his robot, which he named “Frankystein,” which he formed out of his astounding mechanical prowess. Frank’s creation was designed to be a fail-proof fighting machine, hence why he named it after himself and modeled its face after his own. He knew that no one would dare challenge him, especially when he was supported by his super-strong contraption…<p/>
@@ -41,9 +41,9 @@ Unfortunately, Frankystein had a bit of a technical meltdown while Frank was tes
 It’s ALIIIIIIIVVVE!!<p/>
 
 -AmateurGamer
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:03:15 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:03:15 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4368" title="Pheen-X and Amp: SuperStar Saga in: Gangman Roboto:" author-id="1419" timestamp="2012-03-21 20:03:20 +0500" type="norm" dbname="box13965" last-modified-by="127" %}
+{% include box-open.html box-id="4368" title="Pheen-X and Amp: SuperStar Saga in: Gangman Roboto" author-id="1419" timestamp="2012-03-22 01:03:20 +0000" type="norm" dbname="box13965" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X (and Amp) tries to bring these questions back to life, with an inferno of answers. This week's question, Why the heck does a gang boss like Franky have a tank for his buisiness? Well, it was upon this question, Amp was able to show his specialty. Since he's spent his life out on the field, he knows many of the enemies we've faced before, and he's willing to give the dirt, so I left this one to him...partially.<p/>
 "thanks kid. Now, Franky certainly was one...interesting person. Constantly drawing kids in with pizza, hula hoops and arcade tokens. Well, funny thing is, the arcade was actually inhabited with the evil temptation of Giygas for the longest part, drawin the kids to take you down on arrival."<p/>
 But that's another story Amp<p/>
@@ -70,9 +70,9 @@ Nope, sums it up pretty good, not bad for your first job.<p/>
 Haha, very funny. And thus, another question is left to light that interesting barrel fire being lit for the hobo's down in the alley. So this is PheenX (and Amp!), saying, stay in arcades kids.<p/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:05:27 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:05:27 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4369" title="Rabid Dog's Robot Battle Epic:" author-id="1419" timestamp="2012-03-21 20:05:35 +0500" type="norm" dbname="box8228" last-modified-by="127" %}
+{% include box-open.html box-id="4369" title="Rabid Dog's Robot Battle Epic" author-id="1419" timestamp="2012-03-22 01:05:35 +0000" type="norm" dbname="box8228" last-modified-by="127" %}
 Since the dawn of time, man has dreamed of having a subservient metal man to do his bidding. This dream has been passed down from generation to generation. History is filled with examples. The Statue of Liberty. (Technically a metal woman) The Iron Giant. (If you wish hard enough, he might be real.) Even DaVinci's very first artists rendition of a Renaissance Era "Go-Bot". History has served as a marking point in all of these great achievement towards the human dream.<p/>
 
 Since the dawn of a few weeks ago, another bold step was taken by local Onett man, Francis "Frank Fly" Laird as he unveiled his automaton to the world. This is his "true" story.<p/>
@@ -102,9 +102,9 @@ To this very day, Frank Fly has been undefeated except for unsubstantiated rumor
 This has been "How They Became Mini-Bosses" with Joss Card. Tune in next week as we unmask the terrible back story of local Twoson citizen, Everdread.<p/>
 
 - Rabid Dog
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:07:00 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:07:00 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4370" title="Lean, Mean, Vidcon Machine:" author-id="1419" timestamp="2012-03-21 20:07:06 +0500" type="norm" dbname="box17363" last-modified-by="127" %}
+{% include box-open.html box-id="4370" title="Lean, Mean, Vidcon Machine" author-id="1419" timestamp="2012-03-22 01:07:06 +0000" type="norm" dbname="box17363" last-modified-by="127" %}
 Frank and his crew liked video games. They liked video games a LOT. It is with this in mind that we can view that group a few years back, all attending Onett's public school system and failing their classes miserably. Their acts of class disruption was what got the group together every day after school, and so Frank's "gang" was formed.<p/>
 
 Back then, the Onett Arcade was a new attraction. As one of the premier places for youths to spend their time and quarters, Frank's gang found the building as a second home after a long day in detention. However, every day, other kids would come in and hog the games the gang loved so much. This was the motive to Frank's gang overtaking the Arcade, but not of the Frankystein.<p/>
@@ -118,24 +118,24 @@ In order to finish the job, the gang broke into a nearby entertainment shack. In
 Around this time, the gang was getting notorious for their exploits, and the arcade was all but abandoned. This is also around when the fateful asteroid hit. Right when they finished their Frankystein Mark II and were contemplating ways to get it to fit through the door, Ness came by and trashed it completely. Perhaps the machine would have been better off sticking to the old arcade machines instead of taking on the NES?<p/>
 
 - Artemis251
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:07:57 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:07:57 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4371" title="Frogger Repurposed:" author-id="1419" timestamp="2012-03-21 20:08:00 +0500" type="norm" dbname="box42320" last-modified-by="127" %}
+{% include box-open.html box-id="4371" title="Frogger Repurposed" author-id="1419" timestamp="2012-03-22 01:08:00 +0000" type="norm" dbname="box42320" last-modified-by="127" %}
 I believe Frank made his robot (Frankystein Mark II) from broken arcade machines that have been thrown out of the arcade, it was a free material that was accessible to the growing street gang. he made it to steal money from the machines, but one of the members of the gang mentioned using it as a weapon (and of course, Frank agreed.) But his plans were foiled by Ness, and it all went down hill from there.<p/>
 
 - megameleeplus
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:08:44 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:08:44 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4372" title="Teddy has the worst luck:" author-id="1419" timestamp="2012-03-21 20:08:46 +0500" type="norm" dbname="box61749" last-modified-by="127" %}
+{% include box-open.html box-id="4372" title="Teddy has the worst luck" author-id="1419" timestamp="2012-03-22 01:08:46 +0000" type="norm" dbname="box61749" last-modified-by="127" %}
 Frank is actually Teddy from Mother. After the events of the game, he became good friends with Loid and attended a special academy for aspiring inventors with him, where he learned how to make useful inventions like rockets and robots (He only got by with a lot of help from Loid). However, he was still as violent and unruly as ever; he brutally assaulted one of the professors at the school with a sword, almost killing him, when he gave the class an especially difficult pop quiz. After this, Teddy ran away, and, to hide from the police, he changed his name and dyed his hair. Without Loid, he could never be a successful inventor, so he decided to do something he was more familiar with; e gathered together a gang of "sharks" and became their leader. However, he was still filled with remorse after all that he did, and tried his best to continue his studies. He struggled for a while, but finally managed to create a robot assistant of his own, naming it Franky Mark II. However, one day a familiar-looking young boy came to town and defeated both him and his robot; a young boy with a red cap and psychic powers. He knew it wasn't his old friend Ninten, but in honor of his forgotten friends, he disbanded his gang, who had been causing trouble for the boy, and did his best from then on to help him in his journey, healing him completely whenever he asked. He later decided to become a real inventor, and maybe go back and try to find his old friends again.<p/>
 
 - zoinkstation
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:09:27 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:09:27 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4373" title="THE PROPHETS PREDICT THAT YOU MUST BRING ME BURRITOS:" author-id="1419" timestamp="2012-03-21 20:09:32 +0500" type="norm" dbname="box16721" last-modified-by="127" %}
+{% include box-open.html box-id="4373" title="THE PROPHETS PREDICT THAT YOU MUST BRING ME BURRITOS" author-id="1419" timestamp="2012-03-22 01:09:32 +0000" type="norm" dbname="box16721" last-modified-by="127" %}
 I believe that Frank might be handy, like those gangsters who drive cars. I also think he got some Sharks to help with it. I think he made Frankystein Mark II to be his partner in crime.<p/>
 
 I also have another theory. I believe he might be the person, chosen by the Prophets, to test out who is the chosen boy. The cops and the Sharks all know, yet, Ness doesn’t, in my opinion. The Prophets may have given the robot to Frank. The reason I believe this is why he knows so much about the First Sanctuary point, and the way that he just sits there waiting for a challenge.<p/>
 
 - GrandOlClaus
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-21 20:10:03 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 01:10:03 +0000" last-modified-by-name="Captain Bozo" %}

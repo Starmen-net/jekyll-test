@@ -2,16 +2,16 @@
 title: Super Smash Bros. Brawl Trophies
 categories:
   - ssbb
-date: 2019-07-23 22:06:09 +0500
+date: 2019-07-24 03:06:09 +0000
 ---
-{% include box-open.html box-id="5338" title="Overview:" author-id="28590" timestamp="2019-07-23 22:18:30 +0500" type="norm" dbname="box54183" last-modified-by="127" %}
+{% include box-open.html box-id="5338" title="Overview" author-id="28590" timestamp="2019-07-24 03:18:30 +0000" type="norm" dbname="box54183" last-modified-by="127" %}
 <center>Listed below are all the trophies from Brawl and their descriptions.
 </center><br /><br />
 
 <center><a href="#animalcrossing">Animal Crossing</a> / <a href="#donkeykong">Donkey Kong</a> /   <a href="#fzero">F-Zero</a> / <a href="#iceclimbers">Ice Climbers</a> / <a href="#kidicarus">Kid Icarus</a> / <a href="#kirby">Kirby</a> / <a href="#metroid">Metroid</a> / <a href="#metalgear">Metal Gear</a> / <a href="#mother">Mother</a> / <a href="#pikmin">Pikmin</a> / <a href="#pokemon">Pokemon</a> / <a href="#sonicthehedgehog">Sonic the Hedgehog</a> / <a href="#starfox">Star Fox</a> / <a href="#supermario">Super Mario</a> / <a href="#supersmashbros">Super Smash Bros.</a> / <a href="#wario">Wario</a> <a href="#yoshisisland">Yoshi's Island</a> / <a href="#other">Other</a></center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:49:38 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:49:38 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5336" title="<a name=\"animalcrossing\" >Animal Crossing</a>:" author-id="28590" timestamp="2019-07-23 22:06:09 +0500" type="norm" dbname="box64150" last-modified-by="127" %}
+{% include box-open.html box-id="5336" title="<a name=\"animalcrossing\" >Animal Crossing</a>" author-id="28590" timestamp="2019-07-24 03:06:09 +0000" type="norm" dbname="box64150" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -137,9 +137,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>A mole wearing a hard hat who'll show up when you restart your game without having saved. He pops up and lets you know in no uncertain terms the importance of saving your game. The problem is, his speeches are entertaining enough to warrant breaking the rules at least once. In Animal Crossing, his brother Don appears too. He's the polar opposite of his sibling.</center></td>
   </tr>
   </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:02:46 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:02:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5337" title="<a name=\"donkeykong\" >Donkey Kong</a>:" author-id="28590" timestamp="2019-07-23 22:15:19 +0500" type="norm" dbname="box10867" last-modified-by="127" %}
+{% include box-open.html box-id="5337" title="<a name=\"donkeykong\" >Donkey Kong</a>" author-id="28590" timestamp="2019-07-24 03:15:19 +0000" type="norm" dbname="box10867" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -295,9 +295,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>An item that looks like regular barrels but becomes a rocket-powered jet pack when Diddy Kong straps them on his back. It's a convenient gadget to have when adventuring, but for whatever reason, Diddy also uses it when playing tennis and basketball. The moves he can pull off with the rocketbarrel pack are so cool that they're almost not fair. Almost.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:03:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:03:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5339" title="<a name=\"fireemblem\" >Fire Emblem</a>:" author-id="28590" timestamp="2019-07-23 22:26:17 +0500" type="norm" dbname="box12324" last-modified-by="127" %}
+{% include box-open.html box-id="5339" title="<a name=\"fireemblem\" >Fire Emblem</a>" author-id="28590" timestamp="2019-07-24 03:26:17 +0000" type="norm" dbname="box12324" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -348,9 +348,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>A skilled swordsman, thief, and member of the Dawn Brigade, a band of freedom fighters operating out of the old Daein capital, Nevassa. Although not related to Micaiah, the light-magic-dealing leader of the Dawn Brigade, he was raised like a brother and considers her safety his top priority. He grows from boy to young man between "Path of Radiance" and "Radiant Dawn."</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:03:32 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:03:32 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5340" title="<a name=\"fzero\" >F-Zero</a>:" author-id="28590" timestamp="2019-07-23 22:31:46 +0500" type="norm" dbname="box53041" last-modified-by="127" %}
+{% include box-open.html box-id="5340" title="<a name=\"fzero\" >F-Zero</a>" author-id="28590" timestamp="2019-07-24 03:31:46 +0000" type="norm" dbname="box53041" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -416,9 +416,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>Captain Falcon's speedy, midsized galactic cruiser, equipped with an onboard computer. Captain Falcon uses the Falcon Flyer mainly to track down criminals when he's plying his trade as a bounty hunter. Of course, it also comes in handy for transporting and maintaining the Blue Falcon. The Falcon Flyer is an exceedingly reliable partner.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:03:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:03:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5341" title="<a name=\"gamewatch\" >Game & Watch</a>:" author-id="28590" timestamp="2019-07-23 22:37:22 +0500" type="norm" dbname="box13331" last-modified-by="127" %}
+{% include box-open.html box-id="5341" title="<a name=\"gamewatch\" >Game & Watch</a>" author-id="28590" timestamp="2019-07-24 03:37:22 +0000" type="norm" dbname="box13331" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -434,9 +434,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>Mr. Game & Watch's Final Smash. He turns into the huge cephalopod that made its debut in the Game & Watch game Octopus. Of course, you can damage enemies by running into them, but you can do more damage by pressing the attack button to extend four arms and launch foes. In the original Octopus game, you had to avoid the octopus while salvaging treasure from the sea.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:04:16 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:04:16 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5342" title="<a name=\"iceclimbers\" >Ice Climbers</a>:" author-id="28590" timestamp="2019-07-23 22:38:23 +0500" type="norm" dbname="box60110" last-modified-by="127" %}
+{% include box-open.html box-id="5342" title="<a name=\"iceclimbers\" >Ice Climbers</a>" author-id="28590" timestamp="2019-07-24 03:38:23 +0000" type="norm" dbname="box60110" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -460,9 +460,9 @@ date: 2019-07-23 22:06:09 +0500
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:05:39 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:05:39 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5343" title="<a name=\"kidicarus\" >Kid Icarus</a>:" author-id="28590" timestamp="2019-07-23 22:39:31 +0500" type="norm" dbname="box3527" last-modified-by="127" %}
+{% include box-open.html box-id="5343" title="<a name=\"kidicarus\" >Kid Icarus</a>" author-id="28590" timestamp="2019-07-24 03:39:31 +0000" type="norm" dbname="box3527" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -490,9 +490,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>The bow Pit got from Palutena after the Medusa incident. As a standard bow, it's capable of firing arrows of light that can change direction. It can also be split to form two short swords--Pit holds one sword in his right hand in a standard grip and one in his left in a reverse grip. He may hold them like this so he can shift between bow and swords without losing a beat.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:04:35 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:04:35 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5344" title="<a name=\"kirby\" >Kirby</a>:" author-id="28590" timestamp="2019-07-23 22:40:53 +0500" type="norm" dbname="box59983" last-modified-by="127" %}
+{% include box-open.html box-id="5344" title="<a name=\"kirby\" >Kirby</a>" author-id="28590" timestamp="2019-07-24 03:40:53 +0000" type="norm" dbname="box59983" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -711,9 +711,9 @@ date: 2019-07-23 22:06:09 +0500
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:04:57 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:04:57 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5372" title="<a name=\"legendofzelda\" >Legend of Zelda</a>:" author-id="28590" timestamp="2019-08-26 16:13:23 +0500" type="norm" dbname="box2676" last-modified-by="127" %}
+{% include box-open.html box-id="5372" title="<a name=\"legendofzelda\" >Legend of Zelda</a>" author-id="28590" timestamp="2019-08-26 21:13:23 +0000" type="norm" dbname="box2676" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -958,9 +958,9 @@ date: 2019-07-23 22:06:09 +0500
   
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:06:50 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:06:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5345" title="<a name=\"metalgear\" >Metal Gear</a>:" author-id="28590" timestamp="2019-07-23 22:48:35 +0500" type="norm" dbname="box28136" last-modified-by="127" %}
+{% include box-open.html box-id="5345" title="<a name=\"metalgear\" >Metal Gear</a>" author-id="28590" timestamp="2019-07-24 03:48:35 +0000" type="norm" dbname="box28136" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1022,9 +1022,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>A common, run-of-the-mill cardboard box that is somehow very effective at preventing detection by enemies. Hide inside it and enemies will walk on by. But put it somewhere too odd and you'll be discovered. You can move while in the box, but if anyone sees the box moving, you're in trouble. Both Liquid and Solid Snake have a deep affection for cardboard.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:10:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:10:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5346" title="<a name=\"mother\" >Mother</a>:" author-id="28590" timestamp="2019-07-23 22:59:05 +0500" type="norm" dbname="box18689" last-modified-by="127" %}
+{% include box-open.html box-id="5346" title="<a name=\"mother\" >Mother</a>" author-id="28590" timestamp="2019-07-24 03:59:05 +0000" type="norm" dbname="box18689" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1076,9 +1076,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>A guardian statue standing inside New Pork City that's clearly based on Porky himself. Investigate it, and the statue will turn hostile and start a battle. And it has 100,000,000 HP! It has very high stats, so you'll never win if you attack it straight-on. Thankfully, there's an item called "New Year's Eve" that can reduce its HP to 1-- then you can defeat it with ease.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:10:25 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:10:25 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5347" title="<a name=\"pikmin\" >Pikmin</a>:" author-id="28590" timestamp="2019-07-24 22:38:35 +0500" type="norm" dbname="box325" last-modified-by="127" %}
+{% include box-open.html box-id="5347" title="<a name=\"pikmin\" >Pikmin</a>" author-id="28590" timestamp="2019-07-25 03:38:35 +0000" type="norm" dbname="box325" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1193,9 +1193,9 @@ date: 2019-07-23 22:06:09 +0500
   </tr>
   </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:12:08 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:12:08 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5348" title="<a name=\"pokemon\" >Pokémon</a>:" author-id="28590" timestamp="2019-07-24 22:41:30 +0500" type="norm" dbname="box40031" last-modified-by="127" %}
+{% include box-open.html box-id="5348" title="<a name=\"pokemon\" >Pokémon</a>" author-id="28590" timestamp="2019-07-25 03:41:30 +0000" type="norm" dbname="box40031" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1583,9 +1583,9 @@ date: 2019-07-23 22:06:09 +0500
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:11:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:11:37 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5349" title="<a name=\"sonicthehedgehog\" >Sonic the Hedgehog</a>:" author-id="28590" timestamp="2019-07-24 22:49:19 +0500" type="norm" dbname="box24883" last-modified-by="127" %}
+{% include box-open.html box-id="5349" title="<a name=\"sonicthehedgehog\" >Sonic the Hedgehog</a>" author-id="28590" timestamp="2019-07-25 03:49:19 +0000" type="norm" dbname="box24883" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1653,9 +1653,9 @@ date: 2019-07-23 22:06:09 +0500
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:12:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:12:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5350" title="<a name=\"starfox\" >Star Fox</a>:" author-id="28590" timestamp="2019-07-24 22:56:55 +0500" type="norm" dbname="box16499" last-modified-by="127" %}
+{% include box-open.html box-id="5350" title="<a name=\"starfox\" >Star Fox</a>" author-id="28590" timestamp="2019-07-25 03:56:55 +0000" type="norm" dbname="box16499" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1782,9 +1782,9 @@ date: 2019-07-23 22:06:09 +0500
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:13:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:13:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5371" title="<a name=\"supermario\" >Super Mario</a>:" author-id="28590" timestamp="2019-08-26 16:03:24 +0500" type="norm" dbname="box38829" last-modified-by="127" %}
+{% include box-open.html box-id="5371" title="<a name=\"supermario\" >Super Mario</a>" author-id="28590" timestamp="2019-08-26 21:03:24 +0000" type="norm" dbname="box38829" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -2119,9 +2119,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>Crabby enemies taken on by Mario and Luigi. One bump from below wouldn't flip them over, but rather angered them so they moved faster. These pests had to be bumped twice before they could be upended and kicked off the stage. If left alone after being turned upside down, or if there was one more left, their speed would increase. They went by the basic name of "crabs" in Japan.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:13:56 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:13:56 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5351" title="<a name=\"supersmashbros\" >Super Smash Bros.</a>:" author-id="28590" timestamp="2019-07-29 16:31:45 +0500" type="norm" dbname="box11982" last-modified-by="127" %}
+{% include box-open.html box-id="5351" title="<a name=\"supersmashbros\" >Super Smash Bros.</a>" author-id="28590" timestamp="2019-07-29 21:31:45 +0000" type="norm" dbname="box11982" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -2558,9 +2558,9 @@ date: 2019-07-23 22:06:09 +0500
     <td><center>In The Subspace Emissary, there are often locked doors. This key is the item you need to unlock these doors. You can touch a door while holding the key, or you can even throw the key at a door to unlock it. If you lose the key, it will return to the place you originally found it. This item is vital to your progress, so do your best not to lose it.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:18:00 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:18:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5373" title="<a name=\"wario\" >Wario</a>:" author-id="28590" timestamp="2019-08-26 16:19:52 +0500" type="norm" dbname="box46067" last-modified-by="127" %}
+{% include box-open.html box-id="5373" title="<a name=\"wario\" >Wario</a>" author-id="28590" timestamp="2019-08-26 21:19:52 +0000" type="norm" dbname="box46067" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -2588,9 +2588,9 @@ date: 2019-07-23 22:06:09 +0500
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:14:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:14:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5374" title="<a name=\"yoshisisland\" >Yoshi's Island</a>:" author-id="28590" timestamp="2019-08-26 16:21:41 +0500" type="norm" dbname="box42559" last-modified-by="127" %}
+{% include box-open.html box-id="5374" title="<a name=\"yoshisisland\" >Yoshi's Island</a>" author-id="28590" timestamp="2019-08-26 21:21:41 +0000" type="norm" dbname="box42559" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -2621,9 +2621,9 @@ date: 2019-07-23 22:06:09 +0500
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:15:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:15:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5375" title="<a name=\"other\" >Other</a>:" author-id="28590" timestamp="2019-08-26 16:50:42 +0500" type="norm" dbname="box61042" last-modified-by="127" %}
+{% include box-open.html box-id="5375" title="<a name=\"other\" >Other</a>" author-id="28590" timestamp="2019-08-26 21:50:42 +0000" type="norm" dbname="box61042" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -2808,4 +2808,4 @@ date: 2019-07-23 22:06:09 +0500
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 17:15:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-08-26 22:15:37 +0000" last-modified-by-name="CerealQueen" %}

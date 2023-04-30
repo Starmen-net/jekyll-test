@@ -2,9 +2,9 @@
 title: Mach Pizza Air Freshener
 categories:
   - merchandise
-date: 2005-01-03 21:23:21 +0600
+date: 2005-01-04 03:23:21 +0000
 ---
-{% include box-open.html box-id="347" title="Mach Pizza Air Freshener:" author-id="45" timestamp="2005-01-03 21:23:21 +0600" type="norm" dbname="box6216" last-modified-by="127" %}
+{% include box-open.html box-id="347" title="Mach Pizza Air Freshener" author-id="45" timestamp="2005-01-04 03:23:21 +0000" type="norm" dbname="box6216" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -65,4 +65,4 @@ http://starmen.net/merchandise/misc/scratchnsniff.php" >6 scratch-n-sniff cards<
 <a href="/merchandise/images/airfresh2.jpg" ><img src="/merchandise/images/airfresh2.jpg" title="Air Freshener (Packaged)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/airfresh3.jpg" ><img src="/merchandise/images/airfresh3.jpg" title="Congratulatory Note" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/indet-a-smell_card.jpg" ><img src="/merchandise/images/indet-a-smell_card.jpg" title="Indet-A-Smell Card" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:16:12 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:16:12 +0000" last-modified-by-name="Tomato" %}

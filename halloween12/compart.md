@@ -2,15 +2,15 @@
 title: Halloween Funfest 2012!
 categories:
   - halloween12
-date: 2012-10-01 18:57:41 +0500
+date: 2012-10-01 23:57:41 +0000
 ---
-{% include box-open.html box-id="4529" title="Compart!:" author-id="1419" timestamp="2012-10-01 18:57:41 +0500" type="norm" dbname="box29888" last-modified-by="127" %}
+{% include box-open.html box-id="4529" title="Compart!" author-id="1419" timestamp="2012-10-01 23:57:41 +0000" type="norm" dbname="box29888" last-modified-by="127" %}
 Compart is the spooky section for submitting your digital depictions of death and dread. Create something ghoulish in gimp or a frightening photoshop. Vector a vampire or create a pixelated piece to send your audience into a paralyzing panic. Set the scene for a seriously scary situation using your computer skills. Submit by November 5th to be considered for one of many prizes. The judges are on the edge of their seats to see what you come up with. Mind you don't look at your monitor for too long. You might not like what your periferal vision catches in the reflection.<p/>
 
 <a href="http://starmen.net/submit/?ForceSection=Halloween%20Funfest%202012">Submit something to the Compart section!</a>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-01 23:01:11 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 04:01:11 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4530" title="Submissions:" author-id="1419" timestamp="2012-10-01 18:57:53 +0500" type="norm" dbname="box15874" last-modified-by="127" %}
+{% include box-open.html box-id="4530" title="Submissions" author-id="1419" timestamp="2012-10-01 23:57:53 +0000" type="norm" dbname="box15874" last-modified-by="127" %}
 <div class="hr"><hr /></div>
 <ul class="submissions">
 	<li class="">
@@ -296,4 +296,4 @@ Compart is the spooky section for submitting your digital depictions of death an
 	</li>
 </ul>
 <div class="hr"><hr /></div>		
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 10:15:37 +0600" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 16:15:37 +0000" last-modified-by-name="Emily" %}

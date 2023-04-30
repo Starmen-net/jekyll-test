@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Screenshots
 categories:
   - mother2
-date: 2005-11-10 12:22:45 +0600
+date: 2005-11-10 18:22:45 +0000
 ---
-{% include box-open.html box-id="3055" title="Introduction:" author-id="5552" timestamp="2007-06-19 21:28:07 +0500" type="norm" dbname="box48030" last-modified-by="127" %}
+{% include box-open.html box-id="3055" title="Introduction" author-id="5552" timestamp="2007-06-20 02:28:07 +0000" type="norm" dbname="box48030" last-modified-by="127" %}
 Prepare yourself for an RPG adventure full of smiles and tears, EarthBound!<br />
 <br />
 <a href="title.png" title="Title Screen"><img src="titlet.png" alt="Title Screen" width="50" height="50" /></a>
@@ -17,9 +17,9 @@ Prepare yourself for an RPG adventure full of smiles and tears, EarthBound!<br /
 <a href="intro6.PNG" title="Favorite Food"><img src="intro6t.png" alt="Favorite Food" width="50" height="50" /></a>
 <a href="intro7.PNG" title="Favorite Thing"><img src="intro7t.png" alt="Favorite Thing" width="50" height="50" /></a>
 <a href="intro8.PNG" title="The Naming Screen"><img src="intro8t.png" alt="The Naming Screen" width="50" height="50" /></a>
-{% include box-close.html author-name="lewahi" last-modified-on="2007-09-25 21:19:38 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="lewahi" last-modified-on="2007-09-26 02:19:38 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="2001" title="Onett:" author-id="75" timestamp="2006-03-01 14:22:24 +0600" type="norm" dbname="box23922" last-modified-by="127" %}
+{% include box-open.html box-id="2001" title="Onett" author-id="75" timestamp="2006-03-01 20:22:24 +0000" type="norm" dbname="box23922" last-modified-by="127" %}
 A small suburban town located in the northern hills of Eagleland made famous for their... police road blocks.  Onett is the hometown of our hero Ness, as well as where our adventure begins.  Attractions include an extensive library, the stately town hall, and the occasional falling meteor carrying a bee from ten years in the future.<br /><br />
 
 <a href="onettmap.png" title="Onett"><img src="onettmapt.png" alt="Onett" width="50" height="50" /></a>
@@ -51,9 +51,9 @@ A small suburban town located in the northern hills of Eagleland made famous for
 <a href="onett23.png" title="Cops are weird"><img src="onett23t.png" alt="Cops are weird" width="50" height="50" /></a>
 <a href="onett24.png" title="Ness sticks it to the man!"><img src="onett24t.png" alt="Ness sticks it to the man!" width="50" height="50" /></a>
 <a href="onett26.png" title="Come with me"><img src="onett26t.png" alt="Come with me" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-20 00:27:57 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-20 05:27:57 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="2002" title="Twoson:" author-id="75" timestamp="2006-03-01 14:23:09 +0600" type="norm" dbname="box62571" last-modified-by="127" %}
+{% include box-open.html box-id="2002" title="Twoson" author-id="75" timestamp="2006-03-01 20:23:09 +0000" type="norm" dbname="box62571" last-modified-by="127" %}
 They got their name because they weren't first.  See a show at the Chaos Theater or visit the spacious Twoson Department Store.  Need some fresh air? Then be sure to check out the outdoor market at Burglin Park for all your ruler and banana purchasing needs.<br /><br /><a href="twosonmap.png" title="Twoson"><img src="twosonmapt.png" alt="TWOson, get it?" width="50" height="50" /></a>
 <a href="twoson.png" title="Uh oh"><img src="twosont.png" alt="uh-oh" width="50" height="50" /></a>
 <a href="twoson2.png" title="Yes! Get it off!"><img src="twoson2t.png" alt="Yes! Get it off." width="50" height="50" /></a>
@@ -66,9 +66,9 @@ They got their name because they weren't first.  See a show at the Chaos Theater
 <a href="twoson10.png" title="Come to our show!"><img src="twoson10t.png" alt="Come to our show!" width="50" height="50" /></a>
 <a href="twoson11.png" title="Posing as Ness' sister"><img src="twoson11t.png" alt="Posing as Ness' sister" width="50" height="50" /></a>
 <a href="twoson12.png" title="Let's blow this popsicle stand!"><img src="twoson12t.png" alt="Let's blow this popsicle stand!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 14:33:09 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 19:33:09 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2003" title="Peaceful Rest Valley / Happy Happy Village:" author-id="75" timestamp="2006-03-01 14:24:49 +0600" type="norm" dbname="box20124" last-modified-by="127" %}
+{% include box-open.html box-id="2003" title="Peaceful Rest Valley / Happy Happy Village" author-id="75" timestamp="2006-03-01 20:24:49 +0000" type="norm" dbname="box20124" last-modified-by="127" %}
 Nestled at the far end of Peaceful Rest Valley, this quaint village has been overrun by a crazed,  blue-worshiping cult!  Hopefully our man Ness can step in to quell these paintbrush weilding madmen and save the day.<br /><br /><a href="twoson7.png" title="What is the world coming to?"><img src="twoson7t.png" alt="What is the world coming to?" width="50" height="50" /></a>
 <a href="prv.png" title="A tree?!"><img src="prvt.png" alt="A tree?!" width="50" height="50" /></a>
 <a href="prv2.png" title="Those annoying robots!"><img src="prv2t.png" alt="Those annoying robots!" width="50" height="50" /></a>
@@ -81,9 +81,9 @@ Nestled at the far end of Peaceful Rest Valley, this quaint village has been ove
 <a href="hhvillage6.png" title="Take a bath!"><img src="hhvillage6t.png" alt="Sounds like a job for Ness" width="50" height="50" /></a>
 <a href="hhvillage7.png" title="Haha, you can't move now"><img src="hhvillage7t.png" alt="Haha, you can't move now" width="50" height="50" /></a>
 <a href="prv4.png" title="I'm nice now"><img src="prv4t.png" alt="I'm nice now" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-04 23:10:56 +0500" last-modified-by-name="Libra" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-05 04:10:56 +0000" last-modified-by-name="Libra" %}
 
-{% include box-open.html box-id="2004" title="Threed:" author-id="75" timestamp="2006-03-01 14:26:41 +0600" type="norm" dbname="box24025" last-modified-by="127" %}
+{% include box-open.html box-id="2004" title="Threed" author-id="75" timestamp="2006-03-01 20:26:41 +0000" type="norm" dbname="box24025" last-modified-by="127" %}
 Home to the year-round circus, Threed should definitely be a destination for children of all ages.  Unfortunately there's no fun for our heroes as the town has recently become infested with ghosts and zombies making any path of escape nearly imposible!  They're going to need some help with this one.<br /><br /> <a href="threedmap.png" title="Threed"><img src="threedmapt.png" alt="Threed" width="50" height="50" /></a>
 <a href="threed10.png" title="*insert creepy music*"><img src="threed10t.png" alt="*insert creepy music*" width="50" height="50" /></a>
 <a href="threed11.png" title="Ambush!"><img src="threed11t.png" alt="Ambush!" width="50" height="50" /></a>
@@ -101,9 +101,9 @@ Home to the year-round circus, Threed should definitely be a destination for chi
 <a href="threed14.png" title="A sign of things to come"><img src="threed14t.png" alt="A sign of things to come" width="50" height="50" /></a>
 <a href="threed15.png" title="Everything is good again!"><img src="threed15t.png" alt="Everything is good again!" width="50" height="50" /></a>
 <a href="threed16.png" title="Let's go to Fourside!"><img src="threed16t.png" alt="Let's go to Fourside!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 14:33:17 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 19:33:17 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2005" title="Winters:" author-id="75" timestamp="2006-03-01 14:28:37 +0600" type="norm" dbname="box34128" last-modified-by="127" %}
+{% include box-open.html box-id="2005" title="Winters" author-id="75" timestamp="2006-03-01 20:28:37 +0000" type="norm" dbname="box34128" last-modified-by="127" %}
 The small snow covered village that Jeff calls home.  In addition to the prestigious Snow Wood Boarding School, Winters features the mysterious rock arrangement of Stonehenge as well as Lake Tess where the legendary sea beast Tessie is said to live.<br /><br /><a href="winters.png" title="Jeff..."><img src="winterst.png" alt="Jeff..." width="50" height="50" /></a>
 <a href="winters2.png" title="Help me out, here"><img src="winters2t.png" alt="Help me out, here" width="50" height="50" /></a>
 <a href="winters3.png" title="Escaping!"><img src="winters3t.png" alt="Escaping!" width="50" height="50" /></a>
@@ -117,9 +117,9 @@ The small snow covered village that Jeff calls home.  In addition to the prestig
 <a href="winters11.png" title="Hey, it's that guy who gave me life"><img src="winters11t.png" alt="Hey, it's that guy who gave me life" width="50" height="50" /></a>
 <a href="winters13.png" title="Get this thing off my head!"><img src="winters13t.png" alt="Get this thing off my head!" width="50" height="50" /></a>
 <a href="winters14.png" title="Off to the beach!"><img src="winters14t.png" alt="Off to the beach!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-06 01:13:54 +0500" last-modified-by-name="Libra" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-06 06:13:54 +0000" last-modified-by-name="Libra" %}
 
-{% include box-open.html box-id="2006" title="Saturn Valley / Belch's Factory:" author-id="75" timestamp="2006-03-01 14:29:33 +0600" type="norm" dbname="box29485" last-modified-by="127" %}
+{% include box-open.html box-id="2006" title="Saturn Valley / Belch's Factory" author-id="75" timestamp="2006-03-01 20:29:33 +0000" type="norm" dbname="box29485" last-modified-by="127" %}
 After treking through the tunnels behind Threed, the most skilled adventurers will come upon a strange village inhabited by even stranger villagers.  And if it wasn't bizzare enough already, many of these villagers have been captured, forced to work in a factory headed by sentient piles of barf.<br /><br /><a href="saturn.png" title="Here we go again"><img src="saturnt.png" alt="Here we go again" width="50" height="50" /></a>
 <a href="saturn2.png" title="What interesting creatures..."><img src="saturn2t.png" alt="What interesting creatures..." width="50" height="50" /></a>
 <a href="saturn3.png" title="Rescue my friends first!"><img src="saturn3t.png" alt="Rescue my friends first!" width="50" height="50" /></a>
@@ -134,9 +134,9 @@ After treking through the tunnels behind Threed, the most skilled adventurers wi
 <a href="saturn8.png" title="Prickly!"><img src="saturn8t.png" alt="Prickly!" width="50" height="50" /></a>
 <a href="saturn9.png" title="Big pile of dirt?!"><img src="saturn9t.png" alt="Big pile of dirt?!" width="50" height="50" /></a>
 <a href="saturn10.png" title="Time for a heal!"><img src="saturn10t.png" alt="Time for a heal!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-18 21:05:50 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-19 02:05:50 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="2007" title="Dusty Dunes Desert:" author-id="75" timestamp="2006-03-01 14:31:10 +0600" type="norm" dbname="box22129" last-modified-by="127" %}
+{% include box-open.html box-id="2007" title="Dusty Dunes Desert" author-id="75" timestamp="2006-03-01 20:31:10 +0000" type="norm" dbname="box22129" last-modified-by="127" %}
 The DDD is a sweltering desert that spans the distance between Threed and Fourside.  The adventure gets even hotter than the sand when our party travels beneath the dunes to defeat a quintet of giant moles that have taken up residence in a gold miner's cave.<br /><br /><a href="ddd.png" title="Traffic jam of the century!"><img src="dddt.png" alt="Traffic jam of the century!" width="50" height="50" /></a>
 <a href="ddd2.png" title="Waah, poisonous!"><img src="ddd2t.png" alt="Waah, poisonous!" width="50" height="50" /></a>
 <a href="ddd4.png" title="What makes it so bad?"><img src="ddd4t.png" alt="What makes it so bad?" width="50" height="50" /></a>
@@ -148,9 +148,9 @@ The DDD is a sweltering desert that spans the distance between Threed and Foursi
 <a href="ddd10.png" title="How convenient!"><img src="ddd10t.png" alt="How convenient!" width="50" height="50" /></a>
 <a href="ddd11.png" title="What you say?!"><img src="ddd11t.png" alt="What you say?!" width="50" height="50" /></a>
 <a href="ddd12.png" title="We made it!"><img src="ddd12t.png" alt="We made it!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-06 01:23:55 +0500" last-modified-by-name="Libra" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-06 06:23:55 +0000" last-modified-by-name="Libra" %}
 
-{% include box-open.html box-id="2008" title="Fourside / Moonside:" author-id="75" timestamp="2006-03-01 14:32:17 +0600" type="norm" dbname="box11956" last-modified-by="127" %}
+{% include box-open.html box-id="2008" title="Fourside / Moonside" author-id="75" timestamp="2006-03-01 20:32:17 +0000" type="norm" dbname="box11956" last-modified-by="127" %}
 Welcome to the big city!  Be sure to catch one of the Toppolla Theater's famous live shows or maybe take some time to visit the Fourside Dinosaur Museum.  Be careful though, get too nosey and you might find yourself transported to the neon nightmare of Moonside.<br /><br /><a href="foursidemap.png" title="Fourside"><img src="foursidemapt.png" alt="Fourside" width="50" height="50" /></a>
 <a href="fourside4.png" title="We made it!"><img src="fourside4t.png" alt="We made it!" width="50" height="50" /></a>
 <a href="fourside.png" title="Help us out, kid!"><img src="foursidet.png" alt="Help us out, kid!" width="50" height="50" /></a>
@@ -180,9 +180,9 @@ Welcome to the big city!  Be sure to catch one of the Toppolla Theater's famous 
 <a href="fourside20.png" title="Yech!"><img src="fourside20t.png" alt="Yech!" width="50" height="50" /></a>
 <a href="fourside21.png" title="Hide me!"><img src="fourside21t.png" alt="Hide me!" width="50" height="50" /></a>
 <a href="foursideMeeting.png" title="Planning Meeting for EarthBound 2"><img src="foursideMeetingt.png" alt="Planning Meeting for EarthBound 2" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 14:33:28 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 19:33:28 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2009" title="Summers:" author-id="75" timestamp="2006-03-01 14:33:58 +0600" type="norm" dbname="box9669" last-modified-by="127" %}
+{% include box-open.html box-id="2009" title="Summers" author-id="75" timestamp="2006-03-01 20:33:58 +0000" type="norm" dbname="box9669" last-modified-by="127" %}
 Summers, the world's more expenisive tourist location.  There are many attractions to visit here as you stroll down the beachside strip including a cultural museum and a geode-musing philosophers club.  If you're feeling adventurous, head East to the port town of Toto and sail across the ocean.  Watch out for the Kraken though!<br /><br /><a href="summersmap.png" title="Summers"><img src="summersmapt.png" alt="Summers" width="50" height="50" /></a>
 <a href="bellhop.png" title="Mr. Ness"><img src="bellhopt.png" alt="Mr. Ness" width="50" height="50" /></a>
 <a href="summers.png" title="Feed me!"><img src="summerst.png" alt="Feed me!" width="50" height="50" /></a>
@@ -195,9 +195,9 @@ Summers, the world's more expenisive tourist location.  There are many attractio
 <a href="outrageous.png" title="It's outrageous!"><img src="outrageoust.png" alt="It's outrageous!" width="50" height="50" /></a>
 <a href="boatride.png" title="Boat Ride"><img src="boatridet.png" alt="Boat ride" width="50" height="50" /></a>
 <a href="summers9.png" title="Heeere it comes!"><img src="summers9t.png" alt="Heeere it comes!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-18 20:55:31 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-19 01:55:31 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="2011" title="Dalaam:" author-id="75" timestamp="2006-03-01 14:36:11 +0600" type="norm" dbname="box43942" last-modified-by="127" %}
+{% include box-open.html box-id="2011" title="Dalaam" author-id="75" timestamp="2006-03-01 20:36:11 +0000" type="norm" dbname="box43942" last-modified-by="127" %}
 Perched atop the clouds themselves, the eastern kingdom of Dalaam is where our fourth hero resides.  After completing his excruciating "mu" training, Prince Poo is called on to aid our party.<br /><br /><a href="dalaam.png" title="Prince Poo"><img src="dalaamt.png" alt="Prince Poo" width="50" height="50" /></a>
 <a href="dalaam2.png" title="Whoooooaaaa!"><img src="dalaam2t.png" alt="Whoooooaaaa!" width="50" height="50" /></a>
 <a href="dalaam3.png" title="Ninja Bunnies?!"><img src="dalaam3t.png" alt="Ninja Bunnies?!" width="50" height="50" /></a>
@@ -209,9 +209,9 @@ Perched atop the clouds themselves, the eastern kingdom of Dalaam is where our f
 <a href="dalaam9.png" title="Holes everywhere!"><img src="dalaam9t.png" alt="Holes everywhere!" width="50" height="50" /></a>
 <a href="dalaam10.png" title="Onos he has a leaf!"><img src="dalaam10t.png" alt="Onos he has a leaf!" width="50" height="50" /></a>
 <a href="dalaam11.png" title="Mmm, cotton candy!!"><img src="dalaam11t.png" alt="Mmm, cotton candy!!" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-06 14:27:08 +0500" last-modified-by-name="Libra" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-06 19:27:08 +0000" last-modified-by-name="Libra" %}
 
-{% include box-open.html box-id="2010" title="Scaraba / Deep Darkness / Tenda Village:" author-id="75" timestamp="2006-03-01 14:35:19 +0600" type="norm" dbname="box2524" last-modified-by="127" %}
+{% include box-open.html box-id="2010" title="Scaraba / Deep Darkness / Tenda Village" author-id="75" timestamp="2006-03-01 20:35:19 +0000" type="norm" dbname="box2524" last-modified-by="127" %}
 Across the sea from Toto awaits the desert city of Scaraba.  Adventurers and tourists alike should not pass up the opportunity to vist the pyramids south of the city.  The Sphinx holds the key to unlocking their secrets. When you finish your business there, stop by the Deep Darkness. Who knows, there may be a village hidden in the mucky swamp.<br /><br /><a href="scarabamap.png" title="Scaraba"><img src="scarabamapt.png" alt="Scaraba" width="50" height="50" /></a>
 <a href="criminalworm.png" title="Master Criminal Worm"><img src="criminalwormt.png" alt="Master Criminal Worm" width="50" height="50" /></a>
 <a href="sphinx.png" title="Sphinx"><img src="sphinxt.png" alt="Sphinx" width="50" height="50" /></a>
@@ -221,9 +221,9 @@ Across the sea from Toto awaits the desert city of Scaraba.  Adventurers and tou
 <a href="cashman.png" title="Cash dispenser man"><img src="cashmant.png" alt="Cash dispenser man" width="50" height="50" /></a>
 <a href="bubby.png" title="It's me, bubby!"><img src="bubbyt.png" alt="It's me, bubby!" width="50" height="50" /></a>
 <a href="fobbies.png" title="Fobby Army"><img src="fobbiest.png" alt="Fobby Army" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-18 21:15:25 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-19 02:15:25 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="1718" title="Lost Underworld:" author-id="2262" timestamp="2005-11-10 12:22:45 +0600" type="norm" dbname="box47638" last-modified-by="127" %}
+{% include box-open.html box-id="1718" title="Lost Underworld" author-id="2262" timestamp="2005-11-10 18:22:45 +0000" type="norm" dbname="box47638" last-modified-by="127" %}
 Deep below the Earth's surface exists a land in which huge dinosaurs roam free, rocks talk, and multicolered gysers burst up from the ground, this is The Lost Underworld.  Adventurers able to make it this far should have their sights set on the volcanic caves of Fire Springs.<br /><br /><a href="lostunder.png" title="*sniff sniff*"><img src="lostundert.png" alt="*sniff sniff*" width="50" height="50" /></a>
 <a href="lostunder2.png" title="Who am I?"><img src="lostunder2t.png" alt="Who am I?" width="50" height="50" /></a>
 <a href="lostunder6.png" title="Chomposaur"><img src="lostunder6t.png" alt="Jurassic Park" width="50" height="50" /></a>
@@ -233,4 +233,4 @@ Deep below the Earth's surface exists a land in which huge dinosaurs roam free, 
 <a href="lostunder10.png" title="Wheeee!"><img src="lostunder10t.png" alt="Wheeee!" width="50" height="50" /></a>
 <a href="doortrick.png" title="Fire Springs"><img src="doortrickt.png" alt="Fire Springs" width="50" height="50" /></a>
 <a href="lostunder11.png" title="What the...?!"><img src="lostunder11t.png" alt="What the...?!" width="50" height="50" /></a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2007-07-18 21:21:55 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2007-07-19 02:21:55 +0000" last-modified-by-name="lewahi" %}

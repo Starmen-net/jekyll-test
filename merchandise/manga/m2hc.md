@@ -2,9 +2,9 @@
 title: Mother 2 Happy Children Vol. 1
 categories:
   - merchandise
-date: 2005-01-03 19:25:55 +0600
+date: 2005-01-04 01:25:55 +0000
 ---
-{% include box-open.html box-id="275" title="Mother 2 Happy Children Vol. 1:" author-id="45" timestamp="2005-01-03 19:25:55 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="275" title="Mother 2 Happy Children Vol. 1" author-id="45" timestamp="2005-01-04 01:25:55 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m2hc_title.jpg" border="0" alt="Mother 2 Happy Children Vol. 1" />
 	</center>
@@ -23,4 +23,4 @@ date: 2005-01-03 19:25:55 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m2hc_front.jpg">Front</a> - <a href="/merchandise/images/m2hc_back.jpg">Back</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 19:26:11 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:26:11 +0000" last-modified-by-name="ShadowX" %}

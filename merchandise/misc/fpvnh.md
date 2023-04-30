@@ -2,9 +2,9 @@
 title: Famicom Perfect Video Nintendo History
 categories:
   - merchandise
-date: 2005-01-03 21:07:47 +0600
+date: 2005-01-04 03:07:47 +0000
 ---
-{% include box-open.html box-id="336" title="Famicom Perfect Video Nintendo History:" author-id="45" timestamp="2005-01-03 21:07:47 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="336" title="Famicom Perfect Video Nintendo History" author-id="45" timestamp="2005-01-04 03:07:47 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/fpvnh_title.png" border="0" alt="Famicom Perfect Video Nintendo History" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 21:07:47 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/fpvnh_front.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:08:00 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:08:00 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Mother 1+2 Perfect Guidebook
 categories:
   - merchandise
-date: 2005-01-03 20:19:27 +0600
+date: 2005-01-04 02:19:27 +0000
 ---
-{% include box-open.html box-id="303" title="Mother 1+2 Perfect Guidebook:" author-id="45" timestamp="2005-01-03 20:19:27 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="303" title="Mother 1+2 Perfect Guidebook" author-id="45" timestamp="2005-01-04 02:19:27 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m12pgb_title.jpg" border="0" alt="Mother 1+2 Perfect Guidebook" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 20:19:27 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m12pgb_front.jpg">Front</a> - <a href="/merchandise/images/m12pgb_front_cover.jpg">Front (With Cover)</a> -  <a href="/merchandise/images/m12pgb_front_nocover.jpg">Front (Without Cover)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:19:39 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:19:39 +0000" last-modified-by-name="ShadowX" %}

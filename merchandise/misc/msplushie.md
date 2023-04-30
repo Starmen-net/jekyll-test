@@ -2,9 +2,9 @@
 title: Mr. Saturn Plushie
 categories:
   - merchandise
-date: 2005-01-03 20:52:34 +0600
+date: 2005-01-04 02:52:34 +0000
 ---
-{% include box-open.html box-id="323" title="Mr. Saturn Plushie:" author-id="45" timestamp="2005-01-03 20:52:34 +0600" type="norm" dbname="box65030" last-modified-by="45" %}
+{% include box-open.html box-id="323" title="Mr. Saturn Plushie" author-id="45" timestamp="2005-01-04 02:52:34 +0000" type="norm" dbname="box65030" last-modified-by="45" %}
 	<center>
 	<imgAlphaPng src="/merchandise/images/neoplushie.png" border="0" width="236" height="262" alt="Mr. Saturn Plushie" />
 	</center>
@@ -59,4 +59,4 @@ date: 2005-01-03 20:52:34 +0600
 	<a href="/merchandise/images/ms_plushie_box_front.jpg">Front</a> - <a href="/merchandise/images/ms_plushie_box_back.jpg">Back</a> - <a href="/merchandise/images/ms_plushie_box_open.jpg">Open</a>
 	<br /><br />
 	Thanks to <a href="mailto:GotARiverFenixEP@aol.com">GotARiverFenixEP</a> for some of the Mr. Saturn pictures.
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-03-16 20:14:33 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-03-17 01:14:33 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Hosted Sites
 categories:
   - siteinfo
-date: 2005-08-20 16:10:29 +0500
+date: 2005-08-20 21:10:29 +0000
 ---
-{% include box-open.html box-id="1332" title="Sites Hosted at Starmen.Net:" author-id="57" timestamp="2005-08-20 16:10:29 +0500" type="norm" dbname="box3798" last-modified-by="57" %}
+{% include box-open.html box-id="1332" title="Sites Hosted at Starmen.Net" author-id="57" timestamp="2005-08-20 21:10:29 +0000" type="norm" dbname="box3798" last-modified-by="57" %}
 <a href="http://2015.fobby.net/">2015: A Starmen.Net Story</a><br />
 <a href="http://classic.starmen.net/">Classic Starmen.Net</a><br />
 <a href="http://eb0guide.fobby.net/">reid's EB0 Guide</a><br />
@@ -23,4 +23,4 @@ date: 2005-08-20 16:10:29 +0500
 <a href="http://pkhack.fobby.net/">PK Hack</a><br />
 <a href="http://radio.starmen.net/">Radio PSI</a><br />
 <a href="http://sentryrobot.fobby.net/">Sentry Robot's EB Site</a>
-{% include box-close.html author-name="Dragonair" last-modified-on="2005-08-20 17:10:12 +0500" last-modified-by-name="Dragonair" %}
+{% include box-close.html author-name="Dragonair" last-modified-on="2005-08-20 22:10:12 +0000" last-modified-by-name="Dragonair" %}

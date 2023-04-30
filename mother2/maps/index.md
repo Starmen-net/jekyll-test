@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Maps
 categories:
   - mother2
-date: 2007-06-19 11:40:26 +0500
+date: 2007-06-19 16:40:26 +0000
 ---
-{% include box-open.html box-id="3045" title="MOTHER 2 / EarthBound Maps:" author-id="288" timestamp="2007-06-19 11:40:26 +0500" type="norm" dbname="box22761" last-modified-by="127" %}
+{% include box-open.html box-id="3045" title="MOTHER 2 / EarthBound Maps" author-id="288" timestamp="2007-06-19 16:40:26 +0000" type="norm" dbname="box22761" last-modified-by="127" %}
 <a href="fullmap.png">Full EarthBound Map</a> (10.2 MB, 8192x10240)<br />
 <a href="fullmap_small.png">Smaller Full EarthBound Map</a> (359 KB, 950x1188)<br />
 
@@ -60,4 +60,4 @@ date: 2007-06-19 11:40:26 +0500
             <a href="caveofthepast.png">Cave of the Past</a><br />
             <a href="giygaslair.png">Giygas' Lair</a><br />
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-22 16:29:53 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-22 21:29:53 +0000" last-modified-by-name="Tomato" %}

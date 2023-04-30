@@ -2,9 +2,9 @@
 title: 'MOTHER 2 Figure Collection 3: Starmen &amp; Starman DX'
 categories:
   - merchandise
-date: 2011-02-02 14:22:45 +0600
+date: 2011-02-02 20:22:45 +0000
 ---
-{% include box-open.html box-id="3957" title="MOTHER 2 Figure Collection 3: Starmen & Starman DX:" author-id="45" timestamp="2011-02-02 14:22:45 +0600" type="norm" dbname="box63003" last-modified-by="127" %}
+{% include box-open.html box-id="3957" title="MOTHER 2 Figure Collection 3: Starmen & Starman DX" author-id="45" timestamp="2011-02-02 20:22:45 +0000" type="norm" dbname="box63003" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -61,4 +61,4 @@ In September of 2010 Banpresto started stocking UFO crane catching games with MO
 	<br />
 
 <a href="/merchandise/images/m2fc3_starmen_starmandx.jpg" ><img src="/merchandise/images/m2fc3_starmen_starmandx.jpg" title="MOTHER 2 Figure Collection 3: Starmen & Starman DX" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:07:28 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:07:28 +0000" last-modified-by-name="Tomato" %}

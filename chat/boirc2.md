@@ -2,9 +2,9 @@
 title: Chat - Best of IRC - BoIRC Version 2
 categories:
   - chat
-date: 2006-07-06 13:28:07 +0500
+date: 2006-07-06 18:28:07 +0000
 ---
-{% include box-open.html box-id="2444" title="The Best of IRC, Version 2:" author-id="247" timestamp="2006-07-06 13:28:07 +0500" type="norm" dbname="box39137" last-modified-by="127" %}
+{% include box-open.html box-id="2444" title="The Best of IRC, Version 2" author-id="247" timestamp="2006-07-06 18:28:07 +0000" type="norm" dbname="box39137" last-modified-by="127" %}
 <p>
 These later logs of Best of IRC date between 2001-2003, throughout the official channel's days in the Austnet IRC server as #Starmen, and then in the Dynastynet IRC server as #EarthBound.  You might recognize these guys a lot more than the older logs, but the antics are still as ridiculous.  So sit back, relax, and get ready to watch these guys make complete dorks out of themselves, in a manner completely restored to emulate IRC!
 </p>
@@ -29,9 +29,9 @@ These later logs of Best of IRC date between 2001-2003, throughout the official 
 </tr>
 </table>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-07 15:34:19 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-07 20:34:19 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2445" title="The Best of IRC, Version 2, Staffer's Editions:" author-id="247" timestamp="2006-07-06 13:37:10 +0500" type="norm" dbname="box854" last-modified-by="127" %}
+{% include box-open.html box-id="2445" title="The Best of IRC, Version 2, Staffer's Editions" author-id="247" timestamp="2006-07-06 18:37:10 +0000" type="norm" dbname="box854" last-modified-by="127" %}
 <p>
 These logs, dating around the same timeframe as Version 2 of BoIRC, take place in the supersecret IRC channels #Tomato, and #SMnet, which don't exist anymore, so don't try to find them.  Prepare to see the craziness that happens behind the scenes, between discussions of the staffing sort.
 </p>
@@ -60,9 +60,9 @@ These logs, dating around the same timeframe as Version 2 of BoIRC, take place i
 </tr>
 </table>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-07 15:37:04 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-07 20:37:04 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2446" title="The Best of IRC, Version 2, Special Editions:" author-id="247" timestamp="2006-07-06 13:37:12 +0500" type="norm" dbname="box59319" last-modified-by="127" %}
+{% include box-open.html box-id="2446" title="The Best of IRC, Version 2, Special Editions" author-id="247" timestamp="2006-07-06 18:37:12 +0000" type="norm" dbname="box59319" last-modified-by="127" %}
 <p>
 <table border="0">
 <tr>
@@ -79,4 +79,4 @@ These logs, dating around the same timeframe as Version 2 of BoIRC, take place i
 </tr>
 </table>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-07 01:07:15 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-07 06:07:15 +0000" last-modified-by-name="Mansion Maniac" %}

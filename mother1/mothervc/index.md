@@ -2,9 +2,9 @@
 title: Mother released on Virtual Console!
 categories:
   - mother1
-date: 2015-06-21 23:31:48 +0500
+date: 2015-06-22 04:31:48 +0000
 ---
-{% include box-open.html box-id="4732" title="EarthBound Beginnings:" author-id="27298" timestamp="2015-06-21 23:31:48 +0500" type="norm" dbname="box18497" last-modified-by="127" %}
+{% include box-open.html box-id="4732" title="EarthBound Beginnings" author-id="27298" timestamp="2015-06-22 04:31:48 +0000" type="norm" dbname="box18497" last-modified-by="127" %}
 Prior to the release of Earthbound Beginnings on Virtual Console on June 14th, 2015, the focus of the Earthbound Community and gamers alike seemed to be centralized on the possibility of the global release of Mother 3, due to the announcement that Lucas, the main protagonist of Mother 3, would be added to the roster of Super Smash Bros. for WiiU and 3DS weeks beforehand. As E3 approached, many waited with baited breath for any type of announcement regarding the Earthbound series, hoping for a what was believed to follow. Of course, what resulted was out of far left field, for many. <br /><br />
 On June 14th, 2015, a day before the scheduled digital event, Nintendo proudly held the first Nintendo World Championships in twenty-five years, subjecting internet personalities to multiple video game challenges, all of whom hoping to claim the prestigious title of Nintendo World Champion. The auditorium was lined with anxious spectators, who while waiting for the beginning of the competition, were shown a select number of games that would be appearing later on at the upcoming event. In the midst of it all, it was said that an announcement was to be made, and what followed for several moments was silence, and then…
 <br /><br />
@@ -24,4 +24,4 @@ Either way, the game as it is remains a staple of the Earthbound series. Despite
 
 
 
-{% include box-close.html author-name="NorthofOnett" last-modified-on="2016-11-23 12:31:30 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="NorthofOnett" last-modified-on="2016-11-23 18:31:30 +0000" last-modified-by-name="CerealQueen" %}

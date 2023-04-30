@@ -2,9 +2,9 @@
 title: Mother 3 / EarthBound 64 Translated Screenshots
 categories:
   - eb64
-date: 2006-03-20 17:26:21 +0600
+date: 2006-03-20 23:26:21 +0000
 ---
-{% include box-open.html box-id="2122" title="Mother 3 / EarthBound 64 Translated Screenshots:" author-id="288" timestamp="2006-03-20 17:26:21 +0600" type="norm" dbname="box29873" last-modified-by="127" %}
+{% include box-open.html box-id="2122" title="Mother 3 / EarthBound 64 Translated Screenshots" author-id="288" timestamp="2006-03-20 23:26:21 +0000" type="norm" dbname="box29873" last-modified-by="127" %}
 <CENTER><IMG SRC="flinttalk1.jpg" /></CENTER><br/><br/>
 
 Translation: I asked Thomas too, but do you suppose the Oouroko uproar is really true?<br/>
@@ -66,4 +66,4 @@ Translation: The lit up item in the menu says "hit"; the white box in the corner
 
 Translation: Drago's Kid's attack!<br/>
 <i>Note: The little box says "Salsa" as the player's name.</i>
-{% include box-close.html author-name="Tomato" last-modified-on="2006-04-23 14:54:55 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-04-23 19:54:55 +0000" last-modified-by-name="Tomato" %}

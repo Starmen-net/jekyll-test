@@ -2,9 +2,9 @@
 title: I ARADIO - DOWNLOADS - DJ NOT A DJ ARCHIVES
 categories:
   - radio
-date: 2007-09-23 14:47:14 +0500
+date: 2007-09-23 19:47:14 +0000
 ---
-{% include box-open.html box-id="3289" title="Downloadables!:" author-id="247" timestamp="2007-09-23 14:47:14 +0500" type="norm" dbname="box25912" last-modified-by="127" %}
+{% include box-open.html box-id="3289" title="Downloadables!" author-id="247" timestamp="2007-09-23 19:47:14 +0000" type="norm" dbname="box25912" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,8 +26,8 @@ DJ Not A DJ<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:48:03 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:48:03 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="3290" title="DJ Not A DJ's Archive Downloads!:" author-id="247" timestamp="2007-09-23 14:47:52 +0500" type="norm" dbname="box38631" last-modified-by="127" %}
+{% include box-open.html box-id="3290" title="DJ Not A DJ's Archive Downloads!" author-id="247" timestamp="2007-09-23 19:47:52 +0000" type="norm" dbname="box38631" last-modified-by="127" %}
 
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:48:32 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:48:32 +0000" last-modified-by-name="Mansion Maniac" %}

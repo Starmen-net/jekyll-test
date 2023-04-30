@@ -2,9 +2,9 @@
 title: 'Mother 3 Doujinshi #1'
 categories:
   - merchandise
-date: 2007-01-10 20:03:22 +0600
+date: 2007-01-11 02:03:22 +0000
 ---
-{% include box-open.html box-id="2787" title="Mother 3 Doujinshi #1:" author-id="45" timestamp="2007-01-10 20:03:22 +0600" type="norm" dbname="box27276" last-modified-by="45" %}
+{% include box-open.html box-id="2787" title="Mother 3 Doujinshi #1" author-id="45" timestamp="2007-01-11 02:03:22 +0000" type="norm" dbname="box27276" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/wt1_title.jpg" border="0" alt="Mother 3 Doujinshi #1" />
 	</center>
@@ -29,4 +29,4 @@ date: 2007-01-10 20:03:22 +0600
 	<br />
 	<a href="/merchandise/images/wt1_front.jpg">Front</a> - <a href="/merchandise/images/wt1_back.jpg">Back</a> - <a href="/merchandise/images/wt1_p4.jpg">Page 4</a> - 
 	<a href="/merchandise/images/wt1_p7.jpg">Page 7</a> - <a href="/merchandise/images/wt1_p10.jpg">Page 10</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-10 20:09:32 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-11 02:09:32 +0000" last-modified-by-name="ShadowX" %}

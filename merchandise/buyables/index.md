@@ -2,9 +2,9 @@
 title: Buyables
 categories:
   - merchandise
-date: 2005-01-04 02:00:34 +0600
+date: 2005-01-04 08:00:34 +0000
 ---
-{% include box-open.html box-id="455" title="Buyables:" author-id="45" timestamp="2005-01-04 02:00:34 +0600" type="norm" dbname="box18582" last-modified-by="45" %}
+{% include box-open.html box-id="455" title="Buyables" author-id="45" timestamp="2005-01-04 08:00:34 +0000" type="norm" dbname="box18582" last-modified-by="45" %}
 <center>
 <img src="http://www.starmen.net/merchandise/images/buyables.png" border="0" alt="Buyables" />
 </center>
@@ -36,13 +36,13 @@ date: 2005-01-04 02:00:34 +0600
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="http://www.play-asia.com/SOap-23-83-2u8w-71-8l-49-en-84-j-70-84p.html"><imgalphapng src="buyables_m1+2cd.gif" width="336" height="256" border="0" alt="Mother 1+2 Soundtrack" /></a>
 	</center>
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 08:47:44 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 13:47:44 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2567" title="Questions:" author-id="137" timestamp="2006-09-09 18:30:27 +0500" type="norm" dbname="box7577" last-modified-by="45" %}
+{% include box-open.html box-id="2567" title="Questions" author-id="137" timestamp="2006-09-09 23:30:27 +0000" type="norm" dbname="box7577" last-modified-by="45" %}
 	One of the reasons why Starmen.Net has affilated themselves with Play-Asia.com is 
 	because of their amazing customer service. They are very responsive and helpful if you
 	have a question about your order. Check out their 
 	<a href="http://www.play-asia.com/paOS-00-3-helpdesk-49-en.html">Help Desk</a> which 
 	should provide you the answer you're looking for. Still lost? Then contact their 
 	<a href="https://www.play-asia.com/paOScore/21-49-en.html">Customer Service</a>.
-{% include box-close.html author-name="Jonk" last-modified-on="2006-09-09 19:13:05 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2006-09-10 00:13:05 +0000" last-modified-by-name="ShadowX" %}

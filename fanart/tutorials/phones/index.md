@@ -2,9 +2,9 @@
 title: Tutorials - Cel Shading by Phones
 categories:
   - fanart
-date: 2008-12-04 18:23:27 +0600
+date: 2008-12-05 00:23:27 +0000
 ---
-{% include box-open.html box-id="3579" title="Cel Shading - Phones:" author-id="474" timestamp="2008-12-04 18:23:27 +0600" type="norm" dbname="box60125" last-modified-by="127" %}
+{% include box-open.html box-id="3579" title="Cel Shading - Phones" author-id="474" timestamp="2008-12-05 00:23:27 +0000" type="norm" dbname="box60125" last-modified-by="127" %}
 Hello, and welcome to Phones's cel shading tutorial! In this tutorial you will learn how to create a nice smooth cel shading.
 <br /><br />
 For this tutorial, you will need:
@@ -63,4 +63,4 @@ Now lower the opacity until it looks good...
 Now merge the layers by selecting them all and pressing Ctrl+E. Shrink the image down, save it, and you're done! All that's left to do is enjoy it! Thanks for reading the tutorial! If you have any questions, just PM them to me on the forums and I'll help you out! I hope this was helpful!
 
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2008-12-04 19:30:09 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2008-12-05 01:30:09 +0000" last-modified-by-name="Artemis251" %}

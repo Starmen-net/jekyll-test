@@ -2,9 +2,9 @@
 title: Ness Sound Effects
 categories:
   - ssb4
-date: 2016-11-23 22:22:54 +0600
+date: 2016-11-24 04:22:54 +0000
 ---
-{% include box-open.html box-id="4857" title="Battle:" author-id="28590" timestamp="2016-11-23 22:22:54 +0600" type="norm" dbname="box2873" last-modified-by="127" %}
+{% include box-open.html box-id="4857" title="Battle" author-id="28590" timestamp="2016-11-24 04:22:54 +0000" type="norm" dbname="box2873" last-modified-by="127" %}
 <table border="0" width="99%">
 <tr><td width="33%">
 <li><a href="Ness_Appeal_01.wav">Appeal 01</a><br /></li>
@@ -78,9 +78,9 @@ date: 2016-11-23 22:22:54 +0600
 <li><a href="Ness_Yoyo_Hold.wav">Yo-yo 02</a><br /></li>
 <li><a href="Ness_Yoyo_Swing.wav">Yo-yo 03</a><br /></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-25 23:19:52 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-26 05:19:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4858" title="Voice:" author-id="28590" timestamp="2016-11-25 22:07:48 +0600" type="norm" dbname="box2955" last-modified-by="127" %}
+{% include box-open.html box-id="4858" title="Voice" author-id="28590" timestamp="2016-11-26 04:07:48 +0000" type="norm" dbname="box2955" last-modified-by="127" %}
 Voice:<br /><br />
 <table1 />
 <li><a href="Ness_Voice_Appeal_01.wav">Appeal 01</a><br /></li>
@@ -118,4 +118,4 @@ Voice:<br /><br />
 <li><a href="Ness_Voice_Swim_Up.wav">Swim Up</a><br /></li>
 <table3 />
 <br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-25 23:20:03 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-11-26 05:20:03 +0000" last-modified-by-name="CerealQueen" %}

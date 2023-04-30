@@ -2,9 +2,9 @@
 title: MOTHER 3 Music
 categories:
   - mother3
-date: 2007-12-27 21:11:53 +0600
+date: 2007-12-28 03:11:53 +0000
 ---
-{% include box-open.html box-id="3336" title="MOTHER 3 Music:" author-id="2707" timestamp="2007-12-27 21:11:53 +0600" type="norm" dbname="box8720" last-modified-by="127" %}
+{% include box-open.html box-id="3336" title="MOTHER 3 Music" author-id="2707" timestamp="2007-12-28 03:11:53 +0000" type="norm" dbname="box8720" last-modified-by="127" %}
 <b>NOTE:</b> These OGG music files were taken from MOTHER 3's sound player using a special build of sarsie's <a href="http://mednafen.sourceforge.net/">Mednafen emulator</a>. The track titles use the <a href="http://mother3.fobby.net">MOTHER 3 Fan Translation's current titles</a>, but since that project isn't complete yet, the final song titles may wind up slightly different than what's listed here. But major changes aren't expected, so don't worry.
 
 <br /><br />
@@ -295,4 +295,4 @@ Most good media players these days support the OGG format, but if for some reaso
 
 <br />
 <a href="MOTHER3_Soundtrack.zip">.zip file containing all of the above music files!</a> (370+ MB)
-{% include box-close.html author-name="sarsie" last-modified-on="2016-10-21 20:55:03 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="sarsie" last-modified-on="2016-10-22 01:55:03 +0000" last-modified-by-name="CerealQueen" %}

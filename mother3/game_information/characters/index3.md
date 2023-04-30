@@ -2,9 +2,9 @@
 title: MOTHER 3 - Characters
 categories:
   - mother3
-date: 2016-10-13 19:25:09 +0500
+date: 2016-10-14 00:25:09 +0000
 ---
-{% include box-open.html box-id="4777" title="Characters:" author-id="28590" timestamp="2016-10-13 19:25:09 +0500" type="norm" dbname="box29837" last-modified-by="127" %}
+{% include box-open.html box-id="4777" title="Characters" author-id="28590" timestamp="2016-10-14 00:25:09 +0000" type="norm" dbname="box29837" last-modified-by="127" %}
 <center><font size="6">Warning! This section contains spoilers from the entirety of the game! </font></center>
 <br /><br />
 <br /><br />
@@ -1229,4 +1229,4 @@ Time travel demolishes life, it was said by Dr. Andonuts -- and it has left Pork
 Porky concentrates the entire population of the Nowhere Islands -- time-traveled or not -- into New Pork City, treating it like a game even as he glorifies it as a utopia. And he is intent on going the extra mile -- eliminating everyone who does not like him.
 <br /><br />
 Porky remains confident that defeating him is impossible, constantly pointing out the futility of the protagonists’ efforts. But although he can put up a fight, even his machine has its limits. Forced to retreat into the Absolutely Safe Capsule even as he taunts the party one last time, he does not seem to realize his own predicament -- seclusion for all eternity.
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-22 09:39:54 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-22 14:39:54 +0000" last-modified-by-name="CerealQueen" %}

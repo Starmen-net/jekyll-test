@@ -2,9 +2,9 @@
 title: 'Game Credits: Hirokazu Tanaka'
 categories:
   - credits
-date: 2005-05-01 14:51:44 +0500
+date: 2005-05-01 19:51:44 +0000
 ---
-{% include box-open.html box-id="956" title="Hirokazu Tanaka:" author-id="2262" timestamp="2005-05-01 14:51:44 +0500" type="norm" dbname="box8433" last-modified-by="127" %}
+{% include box-open.html box-id="956" title="Hirokazu Tanaka" author-id="2262" timestamp="2005-05-01 19:51:44 +0000" type="norm" dbname="box8433" last-modified-by="127" %}
 <img src="hirokazutanaka.JPG" align="right" />
 Hirokazu "Hip" Tanaka is a well-known musician due his many contributions to video game soundtracks. He worked for Nintendo from the early arcade days up until 1998 when he left Nintendo to work for Creatures, Inc. In 2000, when the president of Creatures resigned, Tanaka took over the position which he still holds today.<BR /><BR />
 
@@ -75,4 +75,4 @@ Music Composition</LI>
 <LI><b>Pokémon: Gotta Dance! (Japanese Animation 2004)</b><BR />
 Music Composition</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 18:50:18 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 23:50:18 +0000" last-modified-by-name="KingDarian" %}

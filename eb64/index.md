@@ -2,9 +2,9 @@
 title: Mother 3/Earthbound 64
 categories:
   - eb64
-date: 2004-12-04 17:24:08 +0600
+date: 2004-12-04 23:24:08 +0000
 ---
-{% include box-open.html box-id="75" title="Mother 3/Earthbound 64:" author-id="12" timestamp="2004-12-04 17:24:08 +0600" type="norm" dbname="box48853" last-modified-by="8" %}
+{% include box-open.html box-id="75" title="Mother 3/Earthbound 64" author-id="12" timestamp="2004-12-04 23:24:08 +0000" type="norm" dbname="box48853" last-modified-by="8" %}
 <div class="gameinfo">
 	<img src="title.png" alt="EarthBound 64 / Mother 3 (N64)" />
 	<table>
@@ -47,18 +47,18 @@ The playable demo at <a href="spaceworld">Spaceworld 1999</a> featured a wide va
 <br />
 In September 2002, <a href="http://starmen.net/siteinfo/image/smnetinegm3.jpg">EGM rumored that the game was being resurrected</a>. In the following months and years, the game's creator, Shigesato Itoi, began dropping hints on his personal website that he had indeed resumed work on the game, and in early 2006 he announced that the game, <a href="/mother3">Mother 3 on the Game Boy Advance</a>, had been completed.</p>
 
-{% include box-close.html author-name="Skulryk" last-modified-on="2006-11-07 05:57:13 +0600" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Skulryk" last-modified-on="2006-11-07 11:57:13 +0000" last-modified-by-name="reidman" %}
 
-{% include box-open.html box-id="5531" title="Credit:" author-id="28590" timestamp="2019-12-03 22:52:43 +0600" type="norm" dbname="box34346" last-modified-by="127" %}
+{% include box-open.html box-id="5531" title="Credit" author-id="28590" timestamp="2019-12-04 04:52:43 +0000" type="norm" dbname="box34346" last-modified-by="127" %}
 <p>Even in 2019, new content is still being found frequently and primarily due to the efforts of the EarthBound 64 Discord community. They have been a very big help in providing new content, better images, and brand new discoveries to the discontinued game, and they certainly deserve their due.
 <br /><br />
 So many thank yous to OkeijiDragon, DaEgg123, Sam the Salmon, Echoes, Andrew_Christoper_Horne, katie, NOKOLO, and many more for their help and their contributions to uncovering new items and research! Also, a personal thank you to those who helped work with me!
 <br /><br />
 They have a Discord server to discuss and share all that is EarthBound 64 as well, so if you're interested, consider <a href="https://discord.gg/mx6b7YG" >checking it out! </a>
 </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-03 22:57:28 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-04 04:57:28 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="76" title="Recent Updates:" author-id="12" timestamp="2004-12-04 17:31:24 +0600" type="norm" dbname="box14658" last-modified-by="127" %}
+{% include box-open.html box-id="76" title="Recent Updates" author-id="12" timestamp="2004-12-04 23:31:24 +0000" type="norm" dbname="box14658" last-modified-by="127" %}
 <b>Updated October 30, 2019:</b>
 <ul>
 <li>Added new screenshots and magazine scans found only a week ago.
@@ -95,12 +95,12 @@ They have a Discord server to discuss and share all that is EarthBound 64 as wel
 	<li>Updated with <a href="refresher.php">EB64 Info Refresher</a>.</li>
 </ul>
 
-{% include box-close.html author-name="Skulryk" last-modified-on="2019-10-30 18:27:19 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Skulryk" last-modified-on="2019-10-30 23:27:19 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="77" title="Contact Info:" author-id="12" timestamp="2004-12-04 17:31:59 +0600" type="norm" dbname="box12174" last-modified-by="127" %}
+{% include box-open.html box-id="77" title="Contact Info" author-id="12" timestamp="2004-12-04 23:31:59 +0000" type="norm" dbname="box12174" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
  <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a>
 <table3 />
-{% include box-close.html author-name="Skulryk" last-modified-on="2019-06-12 10:05:51 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Skulryk" last-modified-on="2019-06-12 15:05:51 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,15 +2,15 @@
 title: 'Starmen.Net : Site Information : Staff'
 categories:
   - siteinfo
-date: 2004-11-30 13:45:28 +0600
+date: 2004-11-30 19:45:28 +0000
 ---
-{% include box-open.html box-id="1383" title="Introduction:" author-id="57" timestamp="2005-08-29 19:13:10 +0500" type="norm" dbname="box46711" last-modified-by="18" %}
+{% include box-open.html box-id="1383" title="Introduction" author-id="57" timestamp="2005-08-30 00:13:10 +0000" type="norm" dbname="box46711" last-modified-by="18" %}
 Welcome to the Staff page! These are the brave folks who run the various sections of Starmen.Net. If you have questions for any of these people, go ahead send them a Private Message on the forum! Their names below should link to their forum account.
 
 For more general site questions, either contact one of the Staff Managers or email us at <a href="mailto:team@starmen.net">team@starmen.net</a>.
-{% include box-close.html author-name="Dragonair" last-modified-on="2014-02-02 16:16:03 +0600" last-modified-by-name="Fishsticks" %}
+{% include box-close.html author-name="Dragonair" last-modified-on="2014-02-02 22:16:03 +0000" last-modified-by-name="Fishsticks" %}
 
-{% include box-open.html box-id="72" title="Current Staff:" author-id="49" timestamp="2004-11-30 13:45:28 +0600" type="norm" dbname="box64223" last-modified-by="18" %}
+{% include box-open.html box-id="72" title="Current Staff" author-id="49" timestamp="2004-11-30 19:45:28 +0000" type="norm" dbname="box64223" last-modified-by="18" %}
 <ul class="staff">
 	<li class="games"><h3>Game Sections</h3>
 		<dl>All game sections staffed by <a href="http://forum.starmen.net/members/NorthofOnett">NorthofOnett</a>
@@ -133,9 +133,9 @@ For more general site questions, either contact one of the Staff Managers or ema
 	</li>
 </ul>
 <br class="cleary" />
-{% include box-close.html author-name="ROFISH" last-modified-on="2014-02-02 16:18:33 +0600" last-modified-by-name="Fishsticks" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2014-02-02 22:18:33 +0000" last-modified-by-name="Fishsticks" %}
 
-{% include box-open.html box-id="74" title="Starmen.Net Development Team:" author-id="49" timestamp="2004-11-30 14:10:55 +0600" type="norm" dbname="box35050" last-modified-by="18" %}
+{% include box-open.html box-id="74" title="Starmen.Net Development Team" author-id="49" timestamp="2004-11-30 20:10:55 +0000" type="norm" dbname="box35050" last-modified-by="18" %}
 <ul><li>Bobbobs</li>
 <li>DrAndonuts</li>
 <li><a href="http://forum.starmen.net/members/18">Fishsticks</a></li>
@@ -149,9 +149,9 @@ For more general site questions, either contact one of the Staff Managers or ema
 <li><a href="http://forum.starmen.net/members/Rhyselinn">Rhyselinn</a></li>
 <li><a href="http://forum.starmen.net/members/51">Kevin</a></li>
 </ul>
-{% include box-close.html author-name="ROFISH" last-modified-on="2013-06-13 22:47:24 +0500" last-modified-by-name="Fishsticks" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2013-06-14 03:47:24 +0000" last-modified-by-name="Fishsticks" %}
 
-{% include box-open.html box-id="73" title="Special Thanks!:" author-id="49" timestamp="2004-11-30 14:07:11 +0600" type="norm" dbname="box39923" last-modified-by="75" %}
+{% include box-open.html box-id="73" title="Special Thanks!" author-id="49" timestamp="2004-11-30 20:07:11 +0000" type="norm" dbname="box39923" last-modified-by="75" %}
 <ul><li>Amzrigh</li>
 <li>AoE</li>
 <li>Aquas</li>
@@ -218,4 +218,4 @@ For more general site questions, either contact one of the Staff Managers or ema
 <li>Yesman</li>
 <li>zushiba</li>
 </ul>
-{% include box-close.html author-name="ROFISH" last-modified-on="2009-01-06 13:52:07 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2009-01-06 19:52:07 +0000" last-modified-by-name="PoeTrader" %}

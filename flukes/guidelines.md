@@ -2,9 +2,9 @@
 title: Flukes - Guidelines
 categories:
   - flukes
-date: 2006-04-11 22:48:48 +0500
+date: 2006-04-12 03:48:48 +0000
 ---
-{% include box-open.html box-id="2226" title="Fluke Guidelines:" author-id="247" timestamp="2006-04-11 22:48:48 +0500" type="norm" dbname="box5306" last-modified-by="127" %}
+{% include box-open.html box-id="2226" title="Fluke Guidelines" author-id="247" timestamp="2006-04-12 03:48:48 +0000" type="norm" dbname="box5306" last-modified-by="127" %}
 <p>
 When making flukes, keep these new guidelines the center of your attention.  There are many situations where a fluke ends up falling on its face because of a huge error in making it, that causes it to be ridiculed.  If your flukes do not meet the guidelines when under review before the latest update, and are not added as a result, do not submit it again without the proper changes.
 </p><BR />
@@ -30,4 +30,4 @@ When making flukes, keep these new guidelines the center of your attention.  The
 <p>
 This isn't asking too much, for a section that's ridiculed as having the worst material on the site, the least you can do is combat it by following the new guidelines.  Now that you have them burned into the front row of your brain, make yourself some flukes and <a href="http://starmen.net/submit/">submit them to the flukes section</a>!
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-11-02 13:50:32 +0600" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-11-02 19:50:32 +0000" last-modified-by-name="Mansion Maniac" %}

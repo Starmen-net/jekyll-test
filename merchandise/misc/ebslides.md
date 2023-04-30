@@ -2,9 +2,9 @@
 title: EarthBound Slides
 categories:
   - merchandise
-date: 2005-01-03 21:12:41 +0600
+date: 2005-01-04 03:12:41 +0000
 ---
-{% include box-open.html box-id="340" title="EarthBound Slides:" author-id="45" timestamp="2005-01-03 21:12:41 +0600" type="norm" dbname="box11924" last-modified-by="127" %}
+{% include box-open.html box-id="340" title="EarthBound Slides" author-id="45" timestamp="2005-01-04 03:12:41 +0000" type="norm" dbname="box11924" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/eb_slides_title.jpg" border="0" alt="EarthBound Slides" />
 	</center>
@@ -43,4 +43,4 @@ date: 2005-01-03 21:12:41 +0600
 	<br /><br />
 	Special thanks to <a href="mailto:GotARiverFenixEP@aol.com">GotARiverFenixEP</a> for 
 	the info and pic on this very rare item.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:19:15 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:19:15 +0000" last-modified-by-name="Tomato" %}

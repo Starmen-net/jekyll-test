@@ -2,9 +2,9 @@
 title: Orchestral Game Concert 2
 categories:
   - merchandise
-date: 2005-01-02 23:58:59 +0600
+date: 2005-01-03 05:58:59 +0000
 ---
-{% include box-open.html box-id="243" title="Orchestral Game Concert 2:" author-id="45" timestamp="2005-01-02 23:58:59 +0600" type="norm" dbname="box10652" last-modified-by="127" %}
+{% include box-open.html box-id="243" title="Orchestral Game Concert 2" author-id="45" timestamp="2005-01-03 05:58:59 +0000" type="norm" dbname="box10652" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ogc2_title.jpg" border="0" alt="Orchestral Game Concert 2" />
 	</center>
@@ -69,4 +69,4 @@ date: 2005-01-02 23:58:59 +0600
 	<br /><br />
 	Special thanks toward <a href="http://www.rpgfan.com">RPGFan</a> for the
 	pic and .ram files.
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-07-29 22:48:17 +0500" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-07-30 03:48:17 +0000" last-modified-by-name="sarsie" %}

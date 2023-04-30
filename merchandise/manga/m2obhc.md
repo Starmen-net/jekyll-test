@@ -2,9 +2,9 @@
 title: 'Mother 2 Only: Happy Children'
 categories:
   - merchandise
-date: 2006-06-23 22:47:25 +0500
+date: 2006-06-24 03:47:25 +0000
 ---
-{% include box-open.html box-id="2422" title="Mother 2 Only: Happy Children:" author-id="45" timestamp="2006-06-23 22:47:25 +0500" type="norm" dbname="box31290" last-modified-by="45" %}
+{% include box-open.html box-id="2422" title="Mother 2 Only: Happy Children" author-id="45" timestamp="2006-06-24 03:47:25 +0000" type="norm" dbname="box31290" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m2obhc_title.png" width="500" height="253" border="0" alt="Mother 2 Only: Happy Children" />
 	</center>
@@ -25,4 +25,4 @@ date: 2006-06-23 22:47:25 +0500
 	<br />
 	<a href="/merchandise/images/m2obhc_v1_front.jpg">Vol. 1 Front</a> - <a href="/merchandise/images/m2obhc_v1_back.jpg">Vol. 1 Back</a> - <a href="/merchandise/images/m2obhc_v6_front.jpg">Vol. 6 Front</a> - 
 	<a href="/merchandise/images/m2obhc_v7_front.jpg">Vol. 7 Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-06-23 22:50:49 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-06-24 03:50:49 +0000" last-modified-by-name="ShadowX" %}

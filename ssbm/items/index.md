@@ -2,15 +2,15 @@
 title: 'Super Smash Bros. Melee: Items'
 categories:
   - ssbm
-date: 2018-04-23 14:18:01 +0500
+date: 2018-04-23 19:18:01 +0000
 ---
-{% include box-open.html box-id="5322" title="Overview:" author-id="28590" timestamp="2018-10-27 03:31:18 +0500" type="norm" dbname="box29962" last-modified-by="127" %}
+{% include box-open.html box-id="5322" title="Overview" author-id="28590" timestamp="2018-10-27 08:31:18 +0000" type="norm" dbname="box29962" last-modified-by="127" %}
 Listed below are the various items used in the game, their function, and a few useful tips.<br /><br />
 
 If you want to view a full list of trophies, you can do so <a href="https://starmen.net/ssbm/items/trophies/">here.</a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-27 03:34:27 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-27 08:34:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5133" title="Items:" author-id="28590" timestamp="2018-04-23 14:18:01 +0500" type="norm" dbname="box54758" last-modified-by="127" %}
+{% include box-open.html box-id="5133" title="Items" author-id="28590" timestamp="2018-04-23 19:18:01 +0000" type="norm" dbname="box54758" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -176,4 +176,4 @@ Other: 42% - A lot of 4 random items will appear</center></td>
     <td><center>Upon picking this up, the player boards the star and shoots off into the sky. While offscreen, the player can aim for their starting location and attempt to plummet it into opponents, but does so blindly, so it is possible to overshoots and slam off stage.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-27 03:29:04 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-27 08:29:04 +0000" last-modified-by-name="CerealQueen" %}

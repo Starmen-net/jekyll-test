@@ -2,9 +2,9 @@
 title: ALL THAT I NEEDED (WAS YOU) &mdash; MOTHER Original Soundtrack
 categories:
   - mother1
-date: 2010-11-24 21:42:13 +0600
+date: 2010-11-25 03:42:13 +0000
 ---
-{% include box-open.html box-id="3928" title="Production Credits:" author-id="307" timestamp="2010-11-24 21:42:13 +0600" type="norm" dbname="box51637" last-modified-by="127" %}
+{% include box-open.html box-id="3928" title="Production Credits" author-id="307" timestamp="2010-11-25 03:42:13 +0000" type="norm" dbname="box51637" last-modified-by="127" %}
 ALL THAT I NEEDED (WAS YOU)
 
 <table>
@@ -45,9 +45,9 @@ ALL THAT I NEEDED (WAS YOU)
 <td>DAVID MOTION</td>
 </tr>
 </table>
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:44:18 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:44:18 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3929" title="Lyrics:" author-id="307" timestamp="2010-11-24 21:44:21 +0600" type="norm" dbname="box49363" last-modified-by="127" %}
+{% include box-open.html box-id="3929" title="Lyrics" author-id="307" timestamp="2010-11-25 03:44:21 +0000" type="norm" dbname="box49363" last-modified-by="127" %}
 I used to think I was so smart<br />
 But I couldn't hide the hole in my heart<br />
 Sad as it seems none of my dreams<br />
@@ -98,4 +98,4 @@ Here in my arms, here in my heart<br />
 All that I needed was you<br /><br />
 (*Repeat)<br />   (**Repeat)<br /><br />(Chorus)
 
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-24 21:47:54 +0600" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-11-25 03:47:54 +0000" last-modified-by-name="LiarXAgerate" %}

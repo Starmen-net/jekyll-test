@@ -2,17 +2,17 @@
 title: 'Stores:'
 categories:
   - merchandise
-date: 2007-02-04 22:49:37 +0600
+date: 2007-02-05 04:49:37 +0000
 ---
-{% include box-open.html box-id="2837" title="Description:" author-id="45" timestamp="2007-02-04 22:49:37 +0600" type="norm" dbname="box34647" last-modified-by="45" %}
+{% include box-open.html box-id="2837" title="Description" author-id="45" timestamp="2007-02-05 04:49:37 +0000" type="norm" dbname="box34647" last-modified-by="45" %}
 	Listed here are a variety of online stores where you can import various Mother related 
 	merchandise like games, cds, and more!
 	<br /><br />
 	Know of a great website not listed here? Then let 
 	<a href="http://forum.starmen.net/?t=ppost&toi=45">us know</a>!
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-04 22:50:10 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-05 04:50:10 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2838" title="Stores:" author-id="45" timestamp="2007-02-04 22:50:37 +0600" type="norm" dbname="box17666" last-modified-by="45" %}
+{% include box-open.html box-id="2838" title="Stores" author-id="45" timestamp="2007-02-05 04:50:37 +0000" type="norm" dbname="box17666" last-modified-by="45" %}
 <table1 />
 	<center>
 	<a href="http://www.play-asia.com/"><img src="/merchandise/importing/playasia.jpg" border="1" alt="Play-Asia.com" /><br />www.Play-Asia.com</a>
@@ -78,10 +78,10 @@ date: 2007-02-04 22:49:37 +0600
 	This site provides a special importing service. They contact the Japanese website of your 
 	choice, then purchase and receive the item! Extra shipping costs and commission fees apply.
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-14 21:30:59 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-15 03:30:59 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2839" title="Disclaimer:" author-id="45" timestamp="2007-02-04 22:58:00 +0600" type="norm" dbname="box18004" last-modified-by="45" %}
+{% include box-open.html box-id="2839" title="Disclaimer" author-id="45" timestamp="2007-02-05 04:58:00 +0000" type="norm" dbname="box18004" last-modified-by="45" %}
 	Please note that Starmen.Net is not responsible for any transactions made though any 
 	of these services. If you are having problems, or have a question, please contact the 
 	service you are using.
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-04 22:58:20 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-05 04:58:20 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: EarthBound 64 Trivia
 categories:
   - eb64
-date: 2019-09-19 13:36:14 +0500
+date: 2019-09-19 18:36:14 +0000
 ---
-{% include box-open.html box-id="5436" title="Trivia:" author-id="28590" timestamp="2019-09-19 13:36:14 +0500" type="norm" dbname="box28448" last-modified-by="127" %}
+{% include box-open.html box-id="5436" title="Trivia" author-id="28590" timestamp="2019-09-19 18:36:14 +0000" type="norm" dbname="box28448" last-modified-by="127" %}
 <li>Lucas had an ability named ‘Call’, where supposedly he would call forest animals to help him in battle.</li>
 <li>Gift boxes were present in the game. They can be seen in several <a  href="https://www.starmen.net/eb64/images/1996/n_Trees_3.jpg">screenshots.</a></li>
 <li>When a playable character would faint, they would become a ghost, like in MOTHER 1 & 2. This was not seen in the final version of MOTHER 3 on the GBA.</li>
@@ -24,4 +24,4 @@ date: 2019-09-19 13:36:14 +0500
 <li>Despite the appearance and rumors, Ness was never planned for the game. Early screenshots, which showed a Ness look-a-like, featured an early design for Claus.</li>
 <li>There was a contest held during Spaceworld '97 and the winner would be featured in EB64. The winner was a child named Hiroki, but his role in the story is unknown. There was <a  href="https://starmen.net/eb64/images/1998/Hiroki-Chan.jpg">a screenshot</a> featuring his likeness and Dengeki had featured his missing persons poster in their <a  href="https://starmen.net/eb64/publications/Dengeki_Nintendo_64_Issue_19_December_1997_PG94.png">magazine</a> as well.</li>
 <li>According to the segment, MOTHER 3 Times, in <a  href="https://starmen.net/eb64/publications/Dengeki_Nintendo_64_18_November_1997-PG86.jpg">issue 18 Dengeki Nintendo 64</a>, the song "Bon Voyage Amigo" was confirmed to be in this version of the game.</li>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-11 01:22:53 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-11-11 07:22:53 +0000" last-modified-by-name="CerealQueen" %}

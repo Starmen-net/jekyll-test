@@ -2,9 +2,9 @@
 title: Ninten Speaks
 categories:
   - fanvideos
-date: 2009-03-21 19:15:59 +0500
+date: 2009-03-22 00:15:59 +0000
 ---
-{% include box-open.html box-id="3714" title="Ninten Speaks:" author-id="266" timestamp="2009-03-21 19:15:59 +0500" type="norm" dbname="box13750" last-modified-by="127" %}
+{% include box-open.html box-id="3714" title="Ninten Speaks" author-id="266" timestamp="2009-03-22 00:15:59 +0000" type="norm" dbname="box13750" last-modified-by="127" %}
 <center><img src="http://starmen.net/fanvideos/thumbs/nslogo.png" /></center>
 <br /><br />
 Ninten Speaks is a weekly 3-4 minute show that features Ninten of <a href="http://fobbiesareborange.com"><i>Loids are not Christmas</i></a> fame talking openly and freely about whatever subject he chooses. All of the weekly episodes are filmed in high definition.
@@ -167,4 +167,4 @@ by <a href="http://www.youtube.com/user/NintenSpeaks">xfisjmg1</a></h3>
 
 </ul><span class="left"></span><span class="right"></span>
 					<br /><br />
-{% include box-close.html author-name="xfisjmg1" last-modified-on="2010-01-03 01:51:02 +0600" last-modified-by-name="xfisjmg1" %}
+{% include box-close.html author-name="xfisjmg1" last-modified-on="2010-01-03 07:51:02 +0000" last-modified-by-name="xfisjmg1" %}

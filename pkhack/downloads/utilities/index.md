@@ -2,15 +2,15 @@
 title: 'PK Hack: Tools and Programs'
 categories:
   - pkhack
-date: 2012-08-14 10:29:03 +0500
+date: 2012-08-14 15:29:03 +0000
 ---
-{% include box-open.html box-id="4495" title="Hacking Utilities:" author-id="6189" timestamp="2012-08-14 10:29:03 +0500" type="norm" dbname="box48088" last-modified-by="127" %}
+{% include box-open.html box-id="4495" title="Hacking Utilities" author-id="6189" timestamp="2012-08-14 15:29:03 +0000" type="norm" dbname="box48088" last-modified-by="127" %}
 Welcome all! On this page you will find many of the key programs used for hacking all games in the EarthBound series. Along with the latest versions of PK Hack and CoilSnake, you will also find links to websites where you can download Super Nintendo emulators and other nifty tools such as the EarthBound Music Editor and PSI Animation Editor.<br /><br />
 
 If you find a problem with any of these programs, please send a message on the forums to their respective creators. Keep in mind that some of these programs, such as the Music Editor, are no longer being worked on or the creators don't show their faces often, so chances are your question may go unanswered. If you need to contact someone ASAP, your best bet is to join us on the #pkhax IRC channel on the Thinstack IRC server.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-08-14 10:34:25 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-08-14 15:34:25 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4496" title="All-In-One Editing Suites:" author-id="6189" timestamp="2012-08-14 10:35:01 +0500" type="norm" dbname="box51869" last-modified-by="18" %}
+{% include box-open.html box-id="4496" title="All-In-One Editing Suites" author-id="6189" timestamp="2012-08-14 15:35:01 +0000" type="norm" dbname="box51869" last-modified-by="18" %}
 <font size="4"><b><a href="http://forum.starmen.net/forum/Community/PKHack/CoilSnake-v1-0-Cool-Fish-Type-Edition/page/1#post1850806">CoilSnake</a></b></font> (Recommended!)<br /><hr /> version 1.3<hr />Author: <a href="http://forum.starmen.net/members/361">Mr. Tenda</a> • <a href="http://forum.starmen.net/forum/Community/PKHack/CoilSnake-v1-0-Cool-Fish-Type-Edition/page/1#post1850806">Official Forum Topic</a><br /><hr />
 CoilSnake is a new data extraction/insertion utility for EarthBound written in Python. As its description would imply, CoilSnake can extract and insert data from the EarthBound ROM, such as images and table data. CoilSnake avoids PK Hack's data overwriting by just taking the data out of the ROM. You can then edit this data with your favorite text and image editors. When done, you can import the data back into the ROM. CoilSnake automatically takes care of sorting the new data through the ROM and changing pointers to refer to the new data. This basically allows for bigger, yet cleaner modifications to the EarthBound ROM, and it’s all neatly placed in a project folder. Be sure to check out the Tutorials section below for information on just how to use this thing.
 <br /><br />
@@ -18,17 +18,17 @@ In order to do any tile and map editing with CoilSnake, you will also need to do
 
 <font size="4"><b><a href="http://starmen.net/pkhack/downloads/utilities/JHack.05e.jar.zip">PK Hack</a></b></font><br /><hr /> version 0.5.14 • 898 KB compressed • .zip<br /><hr />Author: <a href="http://forum.starmen.net/members/120">AnyoneEB</a> • <a href="http://forum.starmen.net/forum/Community/PKHack/9348/first/">Official Forum Topic</a><br /><hr />
 PK Hack was the premier EarthBound hacking utility available anywhere. This tool, written in Java, allows you to edit almost all data available in the EarthBound ROM. The problem with the tool, sadly, is that it is highly unstable and most of its usefulness has been outdone by CoilSnake, which we recommend you use. PK Hack isn't entirely useless, however: CoilSnake does not have labels for many of its arguments. (such as battle actions, music, and other such things) PK Hack does, so use PK Hack in conjunction with CoilSnake to figure out which arguments correlate to which actions, music, and such.
-{% include box-close.html author-name="NESluver" last-modified-on="2014-01-01 11:32:40 +0600" last-modified-by-name="Fishsticks" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2014-01-01 17:32:40 +0000" last-modified-by-name="Fishsticks" %}
 
-{% include box-open.html box-id="4623" title="Tutorials:" author-id="18" timestamp="2014-01-01 11:09:07 +0600" type="norm" dbname="box27782" last-modified-by="18" %}
+{% include box-open.html box-id="4623" title="Tutorials" author-id="18" timestamp="2014-01-01 17:09:07 +0000" type="norm" dbname="box27782" last-modified-by="18" %}
 <font size="4"><b><a href="http://www.lyros.net/files/EBHack101Latest.pdf">EarthBound Hacking 101</a></b></font><br /><hr />Author: <a href="http://forum.starmen.net/members/Lyrositor">Lyrositor</a><hr />
 Starmen.Net Mirror: <a href="http://starmen.net/pkhack/documentation/EBHack101Latest.pdf">EBHack101Latest.pdf</a><br/><br/>
 
 
 <font size="4"><b><a href="http://web.archive.org/web/20120707014055/http://datacrystal.romhacking.net/wiki/CoilSnake_Tutorial">CoilSnake Tutorial</a></b></font><br /><hr />Author: <a href="http://forum.starmen.net/members/Yokuba">Reg</a><hr />
-{% include box-close.html author-name="Fishsticks" last-modified-on="2014-01-01 11:24:25 +0600" last-modified-by-name="Fishsticks" %}
+{% include box-close.html author-name="Fishsticks" last-modified-on="2014-01-01 17:24:25 +0000" last-modified-by-name="Fishsticks" %}
 
-{% include box-open.html box-id="4497" title="SNES Emulators:" author-id="6189" timestamp="2012-08-14 10:40:42 +0500" type="norm" dbname="box42785" last-modified-by="127" %}
+{% include box-open.html box-id="4497" title="SNES Emulators" author-id="6189" timestamp="2012-08-14 15:40:42 +0000" type="norm" dbname="box42785" last-modified-by="127" %}
 In order to run the EarthBound ROM, you'll need an emulation program that simulates the hardware in an SNES console.  Because the programmers of said programs are always updating them, and we're too lazy to host all of the ports they've made, here are some links to the ones we reccommend.<br /><br />
 
 <font size="4"><b><a href="http://www.zsnes.com/" target="blank">zSNES</a></b></font> (Recommended!)<br /><hr />
@@ -39,9 +39,9 @@ The jury's still out on which is better, SNES9X or zSNES.  More than anything it
 
 <font size="4"><b><a href="http://geigercount.net/crypt/" target="blank">Geiger's SNES9X Debugger</a></b></font> (Recommended for ASM hacking!)<br /><hr />
 Geiger's SNES9X Debugger is basically SNES9X with an added debugging program. If you are doing some in-depth ASM hacking and need to figure out how things work in-game, then you'll DEFINITELY need to use this emulator.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-08-27 21:15:20 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-08-28 02:15:20 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4504" title="Other Useful Tools:" author-id="6189" timestamp="2012-08-27 18:38:49 +0500" type="norm" dbname="box57563" last-modified-by="127" %}
+{% include box-open.html box-id="4504" title="Other Useful Tools" author-id="6189" timestamp="2012-08-27 23:38:49 +0000" type="norm" dbname="box57563" last-modified-by="127" %}
 <font size="4"><b><a href="http://starmen.net/pkhack/downloads/utilities/ebmused201.zip">EarthBound Music Editor</a></b></font><br /><hr /> version 2.01 • 31 KB compressed • .zip<br /><hr />Author: <a href="http://forum.starmen.net/members/Goplat">Goplat</a> • <a href="http://forum.starmen.net/forum/Community/PKHack/19071/first/">Official Forum Topic</a><br /><hr />
 "Whoa wait, what the hey is this? A music editor for EarthBound? Surely you jest?" That may be what you're thinking right now, but we assure you, this is reality. This little program will allow you to edit the music files in EarthBound. It's a bit complicated to use, however, but maybe some day one lucky PK Hacker will write up a music editor tutorial...? ;D
 <br /><br />
@@ -51,9 +51,9 @@ The PSI Animation editor is a fun tool that allows you to edit most of the PSI A
 <font size="4"><b><a href="http://starmen.net/pkhack/downloads/utilities/ebsavestate31.exe">EarthBound Save State Editor</a></b></font><br /><hr /> version 3.1 •  629 KB • .exe<br /><hr />Author: Unknown<br /><hr />
 The EB Save State Editor is a handy tool that allows you to open and modify the save states created by the ZSNES emulator. Change names, stats, items, and toggle event flags at will! Also supports custom event-flag descriptions for assisting in debugging the event flow of your hacks. There are a lot of hidden easter eggs stashed away in this program too, so look hard enough and you might find something amusing.
 
-{% include box-close.html author-name="NESluver" last-modified-on="2012-08-27 19:41:21 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-08-28 00:41:21 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4505" title="Editing Tools for Mother 1 and Mother 3:" author-id="6189" timestamp="2012-08-27 19:02:05 +0500" type="norm" dbname="box47369" last-modified-by="18" %}
+{% include box-open.html box-id="4505" title="Editing Tools for Mother 1 and Mother 3" author-id="6189" timestamp="2012-08-28 00:02:05 +0000" type="norm" dbname="box47369" last-modified-by="18" %}
 Wait, what's this? Editing tools for Mother 3 and Mother 1? You can't be serious! Well mysterious disembodied voice, yes, we are completely 100% serious about 50% of the time, and you can bet that this time we are 100% serious. Although editing of Mother/Earthbound Zero is fairly limited due to lack of interest, and Mother 3 editing is severely limited by just how dense and tightly-woven the ROM is, it's entirely possible to get your editing on with these fabulous tools:<br /><br />
 
 <font size="4"><b><a href="http://starmen.net/pkhack/downloads/utilities/BBHack%20v1.0.zip">BBHack</a></b></font><br /><hr />
@@ -112,4 +112,4 @@ A long-lost gem created by n42, this little program allows you to edit the text 
 Author: <a href="http://forum.starmen.net/members/vince94">vince94</a><br /><hr />
 
 A program to calculate EarthBound Zero pointers, making text editing a lot easier.
-{% include box-close.html author-name="NESluver" last-modified-on="2013-12-30 19:08:03 +0600" last-modified-by-name="Fishsticks" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2013-12-31 01:08:03 +0000" last-modified-by-name="Fishsticks" %}

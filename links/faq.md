@@ -2,9 +2,9 @@
 title: Link Submission FAQ
 categories:
   - links
-date: 2004-12-25 21:15:18 +0600
+date: 2004-12-26 03:15:18 +0000
 ---
-{% include box-open.html box-id="186" title="Link Submission FAQ:" author-id="288" timestamp="2004-12-25 21:15:18 +0600" type="norm" dbname="box61569" last-modified-by="57" %}
+{% include box-open.html box-id="186" title="Link Submission FAQ" author-id="288" timestamp="2004-12-26 03:15:18 +0000" type="norm" dbname="box61569" last-modified-by="57" %}
 The following is a list of guidelines each site must follow in order to be placed on our links page.  However, this list is by no means complete.  If you have questions, please e-mail the links maintainer.
 <br /><br />
 <UL>
@@ -17,4 +17,4 @@ The following is a list of guidelines each site must follow in order to be place
 </UL>
 <BR /><BR />
 The evaluation of submitted links is done by the links section staffy guy.
-{% include box-close.html author-name="Tomato" last-modified-on="2006-03-28 17:34:31 +0600" last-modified-by-name="Dragonair" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-28 23:34:31 +0000" last-modified-by-name="Dragonair" %}

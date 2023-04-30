@@ -2,9 +2,9 @@
 title: 'Dragon of the Sea: Poster'
 categories:
   - merchandise
-date: 2005-01-04 01:05:31 +0600
+date: 2005-01-04 07:05:31 +0000
 ---
-{% include box-open.html box-id="428" title="Dragon of the Sea: Poster:" author-id="45" timestamp="2005-01-04 01:05:31 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="428" title="Dragon of the Sea: Poster" author-id="45" timestamp="2005-01-04 07:05:31 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_dotsp_title.jpg" border="0" alt="Dragon of the Sea: Poster" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 01:05:31 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_dotsp_poster.jpg">Poster</a> - <a href="/merchandise/images/smn_dotsp_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:05:40 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:05:40 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: EarthBound Anthology
 categories:
   - ebanthology
-date: 2007-08-01 17:26:23 +0500
+date: 2007-08-01 22:26:23 +0000
 ---
-{% include box-open.html box-id="3250" title="The EarthBound Anthology:" author-id="8" timestamp="2007-08-01 17:26:23 +0500" type="norm" dbname="box58033" last-modified-by="8" %}
+{% include box-open.html box-id="3250" title="The EarthBound Anthology" author-id="8" timestamp="2007-08-01 22:26:23 +0000" type="norm" dbname="box58033" last-modified-by="8" %}
 <div class="gameinfo">
 	<img src="http://starmen.net/ebanthology/newspost/anthology_pic.jpg" alt="EarthBound Anthology" />
 	<table>
@@ -75,4 +75,4 @@ date: 2007-08-01 17:26:23 +0500
 
 <a class="picleft" href="http://digg.com/gaming_news/DIY_Devotion_Starmen_net_s_EarthBound_Anthology_260_pages_of_awesome"><img src="http://starmen.net/ebanthology/newspost/180x35-digg-button.png" /></a>
 <p>Of course, the importance of the <a href="http://starmen.net/ebsiege/pkcalln">Call'N</a> and the <a href="http://starmen.net/ebsiege/pkmailn">Mail'N</a> can't be diminished -- Nintendo must understand that there is a real fan base for this game, and it is 100% up to you guys, the fans, to make sure that happens. Neither the staff nor our media contacts have any control over that, so we're all counting on you!</p>
-{% include box-close.html author-name="reidman" last-modified-on="2009-09-10 16:41:55 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2009-09-10 21:41:55 +0000" last-modified-by-name="reidman" %}

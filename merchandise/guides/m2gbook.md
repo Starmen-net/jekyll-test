@@ -2,9 +2,9 @@
 title: Mother 2 Guidebook
 categories:
   - merchandise
-date: 2005-01-03 20:11:26 +0600
+date: 2005-01-04 02:11:26 +0000
 ---
-{% include box-open.html box-id="297" title="Mother 2 Guidebook:" author-id="45" timestamp="2005-01-03 20:11:26 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="297" title="Mother 2 Guidebook" author-id="45" timestamp="2005-01-04 02:11:26 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m2gbook_title.jpg" border="0" alt="Mother 2 Guidebook" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 20:11:26 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m2gbook_front.jpg">Front</a> - <a href="/merchandise/images/m2gbook_inside1.jpg">Inside 1</a> - <a href="/merchandise/images/m2g_inside2book.jpg">Inside 2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:11:41 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:11:41 +0000" last-modified-by-name="ShadowX" %}

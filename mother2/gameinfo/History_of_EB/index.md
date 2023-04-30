@@ -2,9 +2,9 @@
 title: History of EB
 categories:
   - mother2
-date: 2016-11-23 09:36:47 +0600
+date: 2016-11-23 15:36:47 +0000
 ---
-{% include box-open.html box-id="4850" title="Mother 2's History:" author-id="28590" timestamp="2016-11-23 09:36:47 +0600" type="norm" dbname="box41253" last-modified-by="127" %}
+{% include box-open.html box-id="4850" title="Mother 2's History" author-id="28590" timestamp="2016-11-23 15:36:47 +0000" type="norm" dbname="box41253" last-modified-by="127" %}
 <center><img src="boxcomp.png" title="Giygas Strikes Back" /></center>
 
 <br /><br />
@@ -188,4 +188,4 @@ Useful Links:<br />
 <a href="http://www.nintendo.com/games/detail/82s5n1dbV4gstayVNhVYtOneSXTIXACS">Wii U eShop page</a> <br />
 <a href="http://www.nintendo.com/games/detail/earthbound-3ds">3DS eShop page</a>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 00:20:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 05:20:07 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Music
 categories:
   - mother2
-date: 2007-06-19 12:17:23 +0500
+date: 2007-06-19 17:17:23 +0000
 ---
-{% include box-open.html box-id="3047" title="MOTHER 2 / EarthBound Music:" author-id="288" timestamp="2007-06-19 12:17:23 +0500" type="norm" dbname="box58891" last-modified-by="127" %}
+{% include box-open.html box-id="3047" title="MOTHER 2 / EarthBound Music" author-id="288" timestamp="2007-06-19 17:17:23 +0000" type="norm" dbname="box58891" last-modified-by="127" %}
 <b>NOTE:</b> These MP3 files were made from SPC rips, so they're not 100% accurate, but they should be close enough for most people to enjoy. The SPCs originated from SNESMusic.org.
 
 <br /><br />
@@ -186,4 +186,4 @@ date: 2007-06-19 12:17:23 +0500
 <table3 />
 <br /><br />
 <a href="EarthBound_Music_Archive.zip">.zip file containing all the above MP3s!</a> (164 MB)
-{% include box-close.html author-name="Tomato" last-modified-on="2007-11-08 13:20:10 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-11-08 19:20:10 +0000" last-modified-by-name="Tomato" %}

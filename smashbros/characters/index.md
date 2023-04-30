@@ -2,15 +2,15 @@
 title: Characters
 categories:
   - smashbros
-date: 2016-11-26 17:04:57 +0600
+date: 2016-11-26 23:04:57 +0000
 ---
-{% include box-open.html box-id="5218" title="Characters:" author-id="28590" timestamp="2018-04-24 19:14:34 +0500" type="norm" dbname="box9053" last-modified-by="127" %}
+{% include box-open.html box-id="5218" title="Characters" author-id="28590" timestamp="2018-04-25 00:14:34 +0000" type="norm" dbname="box9053" last-modified-by="127" %}
 <center><a href="#captain falcon"><img src="Captain Falconicon.png" width="100" height="93" /></a> <a href="#donkey kong"><img src="Donkey Kongicon.png" width="100" height="93" /></a> <a href="#fox"><img src="Foxicon.png" width="100" height="93" /></a> <a href="#jigglypuff"><img src="Jigglypufficon.png" width="100" height="93" /></a> <a href="#kirby"><img src="Kirbyicon.png" width="100" height="93" /></a> <a href="#link"><img src="Linkicon.png" width="100" height="93" /></a> 
 <br />
 <a href="#luigi"><img src="Luigiicon.png" width="100" height="93" /></a> <a href="#mario"><img src="Marioicon.png" width="100" height="93" /></a> <a href="#ness"><img src="Nessicon.png" width="100" height="93" /></a> <a href="#pikachu"><img src="Pikachuicon.png" width="100" height="93" /></a> <a href="#samus"><img src="Samusicon.png" width="100" height="93" /></a> <a href="#yoshi"><img src="Yoshiicon.png" width="100" height="93" /></a> </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 02:12:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-25 07:12:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4863" title="<a name=\"captain falcon\">Captain Falcon</a>:" author-id="28590" timestamp="2016-11-26 17:04:57 +0600" type="norm" dbname="box31033" last-modified-by="127" %}
+{% include box-open.html box-id="4863" title="<a name=\"captain falcon\">Captain Falcon</a>" author-id="28590" timestamp="2016-11-26 23:04:57 +0000" type="norm" dbname="box31033" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -26,9 +26,9 @@ Works:
 </td></tr></table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:33:33 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:33:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4864" title="<a name=\"donkey kong\">Donkey Kong</a>:" author-id="28590" timestamp="2016-11-26 17:06:10 +0600" type="norm" dbname="box60372" last-modified-by="127" %}
+{% include box-open.html box-id="4864" title="<a name=\"donkey kong\">Donkey Kong</a>" author-id="28590" timestamp="2016-11-26 23:06:10 +0000" type="norm" dbname="box60372" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -44,9 +44,9 @@ Works:
 
 </td></tr></table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:28:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:28:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4865" title="<a name=\"fox\">Fox</a>:" author-id="28590" timestamp="2016-11-26 17:06:48 +0600" type="norm" dbname="box44113" last-modified-by="127" %}
+{% include box-open.html box-id="4865" title="<a name=\"fox\">Fox</a>" author-id="28590" timestamp="2016-11-26 23:06:48 +0000" type="norm" dbname="box44113" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -63,9 +63,9 @@ Works:
 
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:28:52 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:28:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4866" title="<a name=\"jigglypuff\">Jigglypuff</a>:" author-id="28590" timestamp="2016-11-26 17:07:19 +0600" type="norm" dbname="box51631" last-modified-by="127" %}
+{% include box-open.html box-id="4866" title="<a name=\"jigglypuff\">Jigglypuff</a>" author-id="28590" timestamp="2016-11-26 23:07:19 +0000" type="norm" dbname="box51631" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -79,9 +79,9 @@ Works:
 <li>Pokémon Blue, Red, & Yellow (GB)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:29:20 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:29:20 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4867" title="<a name=\"kirby\">Kirby</a>:" author-id="28590" timestamp="2016-11-26 17:07:52 +0600" type="norm" dbname="box3238" last-modified-by="127" %}
+{% include box-open.html box-id="4867" title="<a name=\"kirby\">Kirby</a>" author-id="28590" timestamp="2016-11-26 23:07:52 +0000" type="norm" dbname="box3238" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -96,9 +96,9 @@ Works:
 <li>Kirby Super Star (SNES)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:29:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:29:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4868" title="<a name=\"link\">Link</a>:" author-id="28590" timestamp="2016-11-26 17:08:26 +0600" type="norm" dbname="box21782" last-modified-by="127" %}
+{% include box-open.html box-id="4868" title="<a name=\"link\">Link</a>" author-id="28590" timestamp="2016-11-26 23:08:26 +0000" type="norm" dbname="box21782" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -113,9 +113,9 @@ Works:
 <li>The Legend of Zelda: Ocarina of Time (N64)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:30:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:30:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4869" title="<a name=\"luigi\">Luigi</a>:" author-id="28590" timestamp="2016-11-26 17:08:46 +0600" type="norm" dbname="box54939" last-modified-by="127" %}
+{% include box-open.html box-id="4869" title="<a name=\"luigi\">Luigi</a>" author-id="28590" timestamp="2016-11-26 23:08:46 +0000" type="norm" dbname="box54939" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -130,9 +130,9 @@ Works:
 <li>Mario Kart 64 (N64)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:30:38 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:30:38 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4870" title="<a name=\"mario\">Mario</a>:" author-id="28590" timestamp="2016-11-26 17:09:07 +0600" type="norm" dbname="box32234" last-modified-by="127" %}
+{% include box-open.html box-id="4870" title="<a name=\"mario\">Mario</a>" author-id="28590" timestamp="2016-11-26 23:09:07 +0000" type="norm" dbname="box32234" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -147,9 +147,9 @@ Works:
 <li>Mario Kart 64 (N64)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:31:09 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:31:09 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4871" title="<a name=\"ness\">Ness</a>:" author-id="28590" timestamp="2016-11-26 17:09:28 +0600" type="norm" dbname="box43565" last-modified-by="127" %}
+{% include box-open.html box-id="4871" title="<a name=\"ness\">Ness</a>" author-id="28590" timestamp="2016-11-26 23:09:28 +0000" type="norm" dbname="box43565" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -173,9 +173,9 @@ Works:
 <a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_4.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_4.png" width="127.5" height="93.1" border="1" /></a>
 &nbsp; &nbsp;
 <a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_5.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_5.png" width="127.5" height="93.1" border="1" /></a> </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:31:48 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:31:48 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4872" title="<a name=\"pikachu\">Pikachu</a>:" author-id="28590" timestamp="2016-11-26 17:09:46 +0600" type="norm" dbname="box62380" last-modified-by="127" %}
+{% include box-open.html box-id="4872" title="<a name=\"pikachu\">Pikachu</a>" author-id="28590" timestamp="2016-11-26 23:09:46 +0000" type="norm" dbname="box62380" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -190,9 +190,9 @@ Works:
 
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:32:17 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:32:17 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4873" title="<a name=\"samus\">Samus</a>:" author-id="28590" timestamp="2016-11-26 17:10:12 +0600" type="norm" dbname="box30474" last-modified-by="127" %}
+{% include box-open.html box-id="4873" title="<a name=\"samus\">Samus</a>" author-id="28590" timestamp="2016-11-26 23:10:12 +0000" type="norm" dbname="box30474" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -207,9 +207,9 @@ Works:
 <li>Metroid II: The Return of Samus (GB)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:32:46 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:32:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4874" title="<a name=\"yoshi\">Yoshi</a>:" author-id="28590" timestamp="2016-11-26 17:10:37 +0600" type="norm" dbname="box35430" last-modified-by="127" %}
+{% include box-open.html box-id="4874" title="<a name=\"yoshi\">Yoshi</a>" author-id="28590" timestamp="2016-11-26 23:10:37 +0000" type="norm" dbname="box35430" last-modified-by="127" %}
 <table class="fixed" >
     <col width="150px" />
     <col width="1000px" />
@@ -225,4 +225,4 @@ Works:
 <li>Yoshi’s Story (N64)</li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:33:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:33:10 +0000" last-modified-by-name="CerealQueen" %}

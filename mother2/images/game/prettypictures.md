@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Game Sprites
 categories:
   - mother2
-date: 2007-06-25 22:08:29 +0500
+date: 2007-06-26 03:08:29 +0000
 ---
-{% include box-open.html box-id="3134" title="Enemy Overworld Sprites:" author-id="2262" timestamp="2007-06-25 22:08:29 +0500" type="norm" dbname="box56520" last-modified-by="127" %}
+{% include box-open.html box-id="3134" title="Enemy Overworld Sprites" author-id="2262" timestamp="2007-06-26 03:08:29 +0000" type="norm" dbname="box56520" last-modified-by="127" %}
 <a href="AbstractArt.png" title="Abstract Art"><img src="AbstractArtT.png" width="50" height="50" /></a>
 <a href="Arachnid.png" title="Arachnid!!"><img src="ArachnidT.png" width="50" height="50" /></a>
 <a href="ArmoredFrog.png" title="Armored Frog"><img src="ArmoredFrogT.png" width="50" height="50" /></a>
@@ -75,9 +75,9 @@ date: 2007-06-25 22:08:29 +0500
 <a href="ZapEel.png" title="Zap Eel"><img src="ZapEelT.png" width="50" height="50" /></a>
 <a href="Zombie.png" title="Zombie"><img src="ZombieT.png" width="50" height="50" /></a>
 <a href="ZombieDog.png" title="Zombie Dog"><img src="ZombieDogT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2007-06-25 22:37:50 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2007-06-26 03:37:50 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3135" title="ALL THE REST:" author-id="2262" timestamp="2007-06-25 22:27:27 +0500" type="norm" dbname="box28444" last-modified-by="127" %}
+{% include box-open.html box-id="3135" title="ALL THE REST" author-id="2262" timestamp="2007-06-26 03:27:27 +0000" type="norm" dbname="box28444" last-modified-by="127" %}
 
 <a href="Aloysius.png" title="Aloysius"><img src="AloysiusT.png" width="50" height="50" /></a>
 <a href="AppleKid.png" title="AppleKid"><img src="AppleKidT.png" width="50" height="50" /></a>
@@ -370,4 +370,4 @@ date: 2007-06-25 22:08:29 +0500
 <a href="YellowGirl.png" title="YellowGirl"><img src="YellowGirlT.png" width="50" height="50" /></a>
 <a href="YellowSubmarine.png" title="YellowSubmarine"><img src="YellowSubmarineT.png" width="50" height="50" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2007-06-25 22:36:48 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2007-06-26 03:36:48 +0000" last-modified-by-name="KingDarian" %}

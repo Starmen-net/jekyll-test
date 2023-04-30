@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Factoids &amp; Trivia
 categories:
   - mother2
-date: 2007-06-28 15:28:42 +0500
+date: 2007-06-28 20:28:42 +0000
 ---
-{% include box-open.html box-id="3138" title="MOTHER 2 / EarthBound Factoids & Trivia:" author-id="288" timestamp="2007-06-28 15:28:42 +0500" type="norm" dbname="box8496" last-modified-by="127" %}
+{% include box-open.html box-id="3138" title="MOTHER 2 / EarthBound Factoids & Trivia" author-id="288" timestamp="2007-06-28 20:28:42 +0000" type="norm" dbname="box8496" last-modified-by="127" %}
 Only the ultimate MOTHER 2/EB fans know this stuff... so learn it! There'll be a test on it at the end of the semester!
 
 <ul>
@@ -49,9 +49,9 @@ This is <b>NOT</b> a porno movie. But it's clearly a movie children should not s
 
 For a detailed English summary of this movie that includes pics, <a href="http://tomato.fobby.net/?p=257">see this</a>.</li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2008-04-17 16:28:44 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-04-17 21:28:44 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3139" title="The Missing Old Man in Threed:" author-id="288" timestamp="2007-06-28 15:32:24 +0500" type="norm" dbname="box5046" last-modified-by="127" %}
+{% include box-open.html box-id="3139" title="The Missing Old Man in Threed" author-id="288" timestamp="2007-06-28 20:32:24 +0000" type="norm" dbname="box5046" last-modified-by="127" %}
 At the eastern edge of Threed is an old man with a hat. He's always there when the town is filled with zombies and other baddies, but he disappears after you defeat Master Belch. Where does he go? Was he with the zombies? Did he die?
 
 <br /><br />
@@ -59,9 +59,9 @@ The truth is that his disappearance is a bug. He was supposed to stay in Threed 
 
 <br /><br />
 <center><img src="threedguy1.png" /> <img src="threedguy2.png" /></center>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-28 15:37:20 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-28 20:37:20 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3140" title="The Missing Detective in Threed:" author-id="288" timestamp="2007-06-28 15:41:52 +0500" type="norm" dbname="box4773" last-modified-by="127" %}
+{% include box-open.html box-id="3140" title="The Missing Detective in Threed" author-id="288" timestamp="2007-06-28 20:41:52 +0000" type="norm" dbname="box4773" last-modified-by="127" %}
 There's yet another guy missing in Threed! They must've been in a hurry when making this section of the game, or maybe things just got lost in the shuffle between developers. This particular character is supposed to appear before or after a certain event in the game, but that event never happens or used to happen but was cut out at some point. Because of this, the guy never appears in Threed. Most likely, he was meant to appear sometime after defeating Master Belch.
 
 <br /><br />
@@ -86,9 +86,9 @@ Again, using the power of hacking, we were able to get some screenshots of this 
     </tr>
  </table>
 </center>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-28 16:23:39 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-28 21:23:39 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3141" title="Interesting & Rare Text:" author-id="288" timestamp="2007-06-28 15:52:09 +0500" type="norm" dbname="box27883" last-modified-by="127" %}
+{% include box-open.html box-id="3141" title="Interesting & Rare Text" author-id="288" timestamp="2007-06-28 20:52:09 +0000" type="norm" dbname="box27883" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft"><img src="cows_n_carrots.png" align="center" /></a>
@@ -126,9 +126,9 @@ Again, using the power of hacking, we were able to get some screenshots of this 
 </li>
 
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-29 16:11:07 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-29 21:11:07 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3142" title="Missing / Unused Text:" author-id="288" timestamp="2007-06-28 16:17:44 +0500" type="norm" dbname="box48532" last-modified-by="127" %}
+{% include box-open.html box-id="3142" title="Missing / Unused Text" author-id="288" timestamp="2007-06-28 21:17:44 +0000" type="norm" dbname="box48532" last-modified-by="127" %}
 Deep within EarthBound's programming and data are some snippets of text that appear to never be used or referenced. Here is some of it.
 
 <br /><br /><hr width="70%" /><br />
@@ -161,4 +161,4 @@ It looks like this text was meant to be said by someone near the pyramid if you 
 <b>If you say yes:</b> @Then, you should be able to solve the mystery somehow.<br />
 <b>If you say no:</b> @Well, that means that you must go back, read it and then come back here.</blockquote>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-30 01:40:38 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-30 06:40:38 +0000" last-modified-by-name="Tomato" %}

@@ -2,9 +2,9 @@
 title: Smaaaash Ball Tees
 categories:
   - merchandise
-date: 2005-01-03 23:42:14 +0600
+date: 2005-01-04 05:42:14 +0000
 ---
-{% include box-open.html box-id="379" title="Smaaaash Ball Tees:" author-id="45" timestamp="2005-01-03 23:42:14 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="379" title="Smaaaash Ball Tees" author-id="45" timestamp="2005-01-04 05:42:14 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_sbts_title.png" border="0" alt="Smaaaash Ball Tees" />
 	</center>
@@ -29,4 +29,4 @@ date: 2005-01-03 23:42:14 +0600
 	<a href="/merchandise/images/smn_sbtr_front.jpg">Back Design (Red)</a> - <a href="/merchandise/images/smn_sbtbk_front.jpg">Front (Black)</a> - <a href="/merchandise/images/smn_sbtbk_front.jpg">Back (Black)</a> - 
 	<a href="/merchandise/images/smn_sbtbk_front.jpg">Front Design (Black)</a> - <a href="/merchandise/images/smn_sbtbk_front.jpg">Back Design (Black)</a> - <a href="/merchandise/images/smn_sbtb_front.jpg">Front (Blue)</a> - 
 	<a href="/merchandise/images/smn_sbtb_front.jpg">Back (Blue)</a> - <a href="/merchandise/images/smn_sbtb_front.jpg">Front Design (Blue)</a> - <a href="/merchandise/images/smn_sbtb_front.jpg">Back Design (Blue)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:42:23 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:42:23 +0000" last-modified-by-name="ShadowX" %}

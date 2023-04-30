@@ -2,9 +2,9 @@
 title: MOTHER 3 Poster
 categories:
   - merchandise
-date: 2007-06-23 21:27:48 +0500
+date: 2007-06-24 02:27:48 +0000
 ---
-{% include box-open.html box-id="3104" title="MOTHER 3 Poster:" author-id="45" timestamp="2007-06-23 21:27:48 +0500" type="norm" dbname="box7920" last-modified-by="45" %}
+{% include box-open.html box-id="3104" title="MOTHER 3 Poster" author-id="45" timestamp="2007-06-24 02:27:48 +0000" type="norm" dbname="box7920" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m3poster_title.png" width="220" height="380" border="0" alt="MOTHER 3 Poster" />
 	</center>
@@ -28,4 +28,4 @@ date: 2007-06-23 21:27:48 +0500
 	<a href="/merchandise/images/m3poster_small.jpg">Poster (Small)</a> - <a href="/merchandise/images/m3poster_medium.jpg">Poster (Medium)</a> - <a href="/merchandise/images/m3poster_large.jpg">Poster (Large)</a> - 
 	<a href="/merchandise/images/m3poster_store1.jpg">Store 1</a> - <a href="/merchandise/images/m3poster_store2.jpg">Store 2</a> - <a href="/merchandise/images/m3poster_store3.jpg">Store 3</a>
 	<br /><br />Store pictures provided by <a href="http://forum.starmen.net/?t=usrinfo&id=338">Chewy</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2008-02-23 01:03:46 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2008-02-23 07:03:46 +0000" last-modified-by-name="ShadowX" %}

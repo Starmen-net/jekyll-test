@@ -2,9 +2,9 @@
 title: Fanart Guidelines
 categories:
   - fanart
-date: 2005-09-19 18:19:56 +0500
+date: 2005-09-19 23:19:56 +0000
 ---
-{% include box-open.html box-id="1430" title="Fan Art Guidelines:" author-id="75" timestamp="2005-09-19 18:19:56 +0500" type="norm" dbname="box38743" last-modified-by="75" %}
+{% include box-open.html box-id="1430" title="Fan Art Guidelines" author-id="75" timestamp="2005-09-19 23:19:56 +0000" type="norm" dbname="box38743" last-modified-by="75" %}
 Here are a few basic guidelines to keep in mind when submitting fan art:<br />
 <ul>
 <li><b>Only .jpg, .gif, and .png files are accepted</b>. Any .bmps received will be deleted.</li><br />
@@ -21,4 +21,4 @@ Here are a few basic guidelines to keep in mind when submitting fan art:<br />
 In order to submit anything to Starmen.Net, you need to create a <a href="http://forum.starmen.net/">forum account</a>. This site is integrated with the forums to create gigantic database that makes for easier navigation and editing (good for both visitors and staffers). Don't be shy!  We always love to meet new EarthBound fans. (You don't need to post on the forums to submit anything to the site.)<br /><br />
 
 Please go <a href="http://starmen.net/submit/">here</a> to submit your fan art.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2013-12-02 23:52:37 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2013-12-03 05:52:37 +0000" last-modified-by-name="PoeTrader" %}

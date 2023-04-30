@@ -2,9 +2,9 @@
 title: Radio PSI - Segments
 categories:
   - radio
-date: 2012-10-10 13:40:38 +0500
+date: 2012-10-10 18:40:38 +0000
 ---
-{% include box-open.html box-id="4545" title="Meet the Segments:" author-id="5884" timestamp="2012-10-10 13:40:38 +0500" type="norm" dbname="box47601" last-modified-by="127" %}
+{% include box-open.html box-id="4545" title="Meet the Segments" author-id="5884" timestamp="2012-10-10 18:40:38 +0000" type="norm" dbname="box47601" last-modified-by="127" %}
 Radio shows just wouldn't be the same without segments. This is a non-exhaustive list of the segments you can find on Radio PSI's programming.
 
 <p>Most segments, unless otherwise noted, offer a voice (+v) on IRC.
@@ -31,9 +31,9 @@ Radio shows just wouldn't be the same without segments. This is a non-exhaustive
 <td style="padding:0px 0px 0px 10px;"><a href="#seasonal">Seasonal Segments</a></td>
 </tr>
 </table>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 11:37:35 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 16:37:35 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4546" title="The Radio PSI Participation Award:" author-id="5884" timestamp="2012-10-10 13:44:07 +0500" type="norm" dbname="box21149" last-modified-by="127" %}
+{% include box-open.html box-id="4546" title="The Radio PSI Participation Award" author-id="5884" timestamp="2012-10-10 18:44:07 +0000" type="norm" dbname="box21149" last-modified-by="127" %}
 The Radio PSI Participation Award (or RPPA for short) is an all encompassing award for participating in and around Radio PSI. Participation Points can be awarded for segments, <a href="http://forum.starmen.net/forum/Community/RadioPSI/Badges">making things for Radio PSI</a>, or simply being awesome in the <a href="http://starmen.net/radio/miscellaneous/onirc.php">IRC channel</a>.
 
 <p>Rewards:
@@ -53,9 +53,9 @@ The Radio PSI Participation Award (or RPPA for short) is an all encompassing awa
 </table>
 
 <div id="djmon"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:55:46 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:55:46 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4547" title="DJ Mon - Digital Monsters:" author-id="5884" timestamp="2012-10-10 13:48:42 +0500" type="norm" dbname="box22507" last-modified-by="127" %}
+{% include box-open.html box-id="4547" title="DJ Mon - Digital Monsters" author-id="5884" timestamp="2012-10-10 18:48:42 +0000" type="norm" dbname="box22507" last-modified-by="127" %}
 <font size="+1">Name the Thing That the Ring is From Thing</font>
 
 <p>DJ Mon will play a track that may or may not come from his Nokia 3390b cell phone. Your job is to tell him what it comes from, as quickly, accurately, and specifically as possible. It can be from pretty much anything (a game, a movie, a TV show, or just a song) but you can count on it always being music since a phone this old can't do speech.
@@ -169,9 +169,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="amztrak"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2013-09-29 01:15:57 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2013-09-29 06:15:57 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4551" title="DJ Amztrak's Shows:" author-id="5884" timestamp="2012-10-11 09:06:51 +0500" type="norm" dbname="box23275" last-modified-by="127" %}
+{% include box-open.html box-id="4551" title="DJ Amztrak's Shows" author-id="5884" timestamp="2012-10-11 14:06:51 +0000" type="norm" dbname="box23275" last-modified-by="127" %}
 <font size="+1">This Week In History</font> (Thursdays 8-10pm ET)
 <p>DJ Amztrak takes historical and current events that occurred during the week and matches them to music. Birthdays, deaths, releases, strange occurrences, and actual important stuff: if he can find music for it, he’ll feature it.
 </p>
@@ -188,9 +188,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="aquazition"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:56:46 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:56:46 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4549" title="DJ Aquazition:" author-id="5884" timestamp="2012-10-11 08:41:32 +0500" type="norm" dbname="box40108" last-modified-by="127" %}
+{% include box-open.html box-id="4549" title="DJ Aquazition" author-id="5884" timestamp="2012-10-11 13:41:32 +0000" type="norm" dbname="box40108" last-modified-by="127" %}
 <font size="+1">Player’s Guide Prophecies</font>
 <p>In homage to a segment featured on gaming TV show Game Center CX. DJ Aquazition is a wise monk at a shrine who has bits of wisdom to bestow from various Player’s Guides upon the listener. Out of context, these passages are often oddly profound.</p>
 
@@ -228,9 +228,9 @@ Things that generally don't count as more specific:
 </ul>
 
 <div id="kame"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:57:11 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:57:11 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4550" title="Miss Kame:" author-id="5884" timestamp="2012-10-11 08:53:24 +0500" type="norm" dbname="box46228" last-modified-by="127" %}
+{% include box-open.html box-id="4550" title="Miss Kame" author-id="5884" timestamp="2012-10-11 13:53:24 +0000" type="norm" dbname="box46228" last-modified-by="127" %}
 <font size="+1">RadioPSI Talk with Miss Kame</font>
 
 <p>One of two main features Miss Kame does every other week; a discussion with guests about the topic at hand. Topics varies from the silly and nerdy to the hard hitting and poignant. Suggestions for topic discussion can be made via PM through the forums or IRC.
@@ -281,9 +281,9 @@ Things that generally don't count as more specific:
 </ul>
 
 <div id="eggstreme"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:57:23 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:57:23 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4552" title="The DJ Eggstreme Program:" author-id="5884" timestamp="2012-10-11 09:10:21 +0500" type="norm" dbname="box15900" last-modified-by="127" %}
+{% include box-open.html box-id="4552" title="The DJ Eggstreme Program" author-id="5884" timestamp="2012-10-11 14:10:21 +0000" type="norm" dbname="box15900" last-modified-by="127" %}
 <font size="+1">Radio Medley</font>
 <p>Listeners will be given a clue to a song, a 10-second section of the song and 30 seconds to guess the title of the song in a PM to DJ Eggstreme. Correct answers are awarded a point and get to guess at the next song. Wrong answers result in elimination from that week’s game, though eliminated players keep whatever points they earned up to that point.
 
@@ -344,9 +344,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="edo"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:57:44 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:57:44 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4553" title="Edo the DJ Alchemist:" author-id="5884" timestamp="2012-10-11 09:32:10 +0500" type="norm" dbname="box1604" last-modified-by="127" %}
+{% include box-open.html box-id="4553" title="Edo the DJ Alchemist" author-id="5884" timestamp="2012-10-11 14:32:10 +0000" type="norm" dbname="box1604" last-modified-by="127" %}
 <font size="+1">Video Game of the Week</font>
 <p>Doesn’t everybody love Video Games? Edo certainly does! Edo gives a review on a game of either her choice or perhaps by request and talks about the pros and cons of the game as well as some nostalgia moments in her childhood life in the video game world. Usually it runs for around 10 minutes, with the video game music playing in the background. Mostly Edo reviews old school games but does review newer ones every now and then.
 </p>
@@ -391,9 +391,9 @@ Things that generally don't count as more specific:
 </table>
 
 <div id="umbra"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:57:59 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:57:59 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4554" title="DJ Umbra's Shadow Waves of Radio:" author-id="5884" timestamp="2012-10-11 10:51:54 +0500" type="norm" dbname="box37212" last-modified-by="127" %}
+{% include box-open.html box-id="4554" title="DJ Umbra's Shadow Waves of Radio" author-id="5884" timestamp="2012-10-11 15:51:54 +0000" type="norm" dbname="box37212" last-modified-by="127" %}
 <font size="+1">Radio PSI Flashbacks</font>
 
 <p>This is when DJ Umbra take you back to the past of Radio PSI to make you listen to some of the most memorable moments of its history. If you can’t search the archives for gems, this is your best bet to find them.
@@ -422,9 +422,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="pollyanna"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:58:22 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:58:22 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4556" title="DJ Pollyanna:" author-id="5884" timestamp="2012-10-11 11:23:26 +0500" type="norm" dbname="box52706" last-modified-by="127" %}
+{% include box-open.html box-id="4556" title="DJ Pollyanna" author-id="5884" timestamp="2012-10-11 16:23:26 +0000" type="norm" dbname="box52706" last-modified-by="127" %}
 <font size="+1">MOTHER Party</font>
 
 <p>Love the MOTHER series? Don’t we all? DJ Pollyanna takes you back to your EarthBound-playing youth (if applicable) with a healthy dose of EarthBound/MOTHER content, including music, remixes, trivia, Did You Know? and stories. No matter how long you’ve been around this community, there’s always something new to discover about these games!
@@ -442,9 +442,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="buddies"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-17 11:57:06 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-17 16:57:06 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4555" title="Backup Buddies:" author-id="5884" timestamp="2012-10-11 11:00:12 +0500" type="norm" dbname="box46834" last-modified-by="127" %}
+{% include box-open.html box-id="4555" title="Backup Buddies" author-id="5884" timestamp="2012-10-11 16:00:12 +0000" type="norm" dbname="box46834" last-modified-by="127" %}
 <font size="+1"><i>Buddy Squire's Segments</i></font>
 
 <p><font size="+1">Movie Mashup</font> (crazy people like DJ Mon call it Before and After the Credits)
@@ -468,9 +468,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="seasonal"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 13:48:41 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 18:48:41 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4557" title="Seasonal or Periodic Segments:" author-id="5884" timestamp="2012-10-15 09:08:59 +0500" type="norm" dbname="box35097" last-modified-by="127" %}
+{% include box-open.html box-id="4557" title="Seasonal or Periodic Segments" author-id="5884" timestamp="2012-10-15 14:08:59 +0000" type="norm" dbname="box35097" last-modified-by="127" %}
 <font size="+1">DJ Mon's Food For Thought</font>
 
 <p>DJ Mon and The_Crew try something unusual, interesting, or strange ... sounding.
@@ -512,9 +512,9 @@ Things that generally don't count as more specific:
 </p>
 
 <div id="retired"></div>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 10:59:24 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-16 15:59:24 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4548" title="(Temporarily) Retired Segments:" author-id="5884" timestamp="2012-10-11 08:39:40 +0500" type="norm" dbname="box41942" last-modified-by="127" %}
+{% include box-open.html box-id="4548" title="(Temporarily) Retired Segments" author-id="5884" timestamp="2012-10-11 13:39:40 +0000" type="norm" dbname="box41942" last-modified-by="127" %}
 <font size="+1">Miss Kame's Name That Movie (with SimonBob)</font>
 
 <p>Using his suave voice, SimonBob read quotes from various movies and listeners try to guess which movie he’s doing. As time progresses, hints are given until someone finally gets the correct answer. Answers are sent via PM on IRC.
@@ -527,4 +527,4 @@ Things that generally don't count as more specific:
 
 <p>It came to my attention that some songs has different versions of itself. Not sure original and covers or length differences, but truly different songs with the same lyrics or even base melody. However, which takes it? Whose version will reign supreme!? It’s up to you to find out!
 </p>
-{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 13:42:23 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2012-10-31 18:42:23 +0000" last-modified-by-name="cyan683" %}

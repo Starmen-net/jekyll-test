@@ -2,9 +2,9 @@
 title: Unused Content
 categories:
   - mother1
-date: 2018-04-22 08:59:20 +0500
+date: 2018-04-22 13:59:20 +0000
 ---
-{% include box-open.html box-id="5130" title="Unused Sprites:" author-id="28590" timestamp="2018-04-22 08:59:20 +0500" type="norm" dbname="box29918" last-modified-by="127" %}
+{% include box-open.html box-id="5130" title="Unused Sprites" author-id="28590" timestamp="2018-04-22 13:59:20 +0000" type="norm" dbname="box29918" last-modified-by="127" %}
 <table width="100%" cellpadding="0" border="1">
   <tr>
     <td bgcolor="white"><center><img src="unused_pillow.png" /></center></td>
@@ -28,4 +28,4 @@ Pippi also has an unsed enemy sprite, though she never appeared as a foe in the 
 There is one unused NPC sprite found in the game's data. It's a variant of the Guitar Man sprite, this one featuring the same design, but with no guitar.</td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-22 09:17:11 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-04-22 14:17:11 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: Starmen.Net Mousepad
 categories:
   - merchandise
-date: 2005-01-03 23:15:57 +0600
+date: 2005-01-04 05:15:57 +0000
 ---
-{% include box-open.html box-id="370" title="Starmen.Net Mousepad:" author-id="45" timestamp="2005-01-03 23:15:57 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="370" title="Starmen.Net Mousepad" author-id="45" timestamp="2005-01-04 05:15:57 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_mp_title.png" border="0" alt="Starmen.Net Mousepad" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-03 23:15:57 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_mp.jpg">Mousepad</a> - <a href="/merchandise/images/smn_mousepad.jpg">Detail</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:16:06 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:16:06 +0000" last-modified-by-name="ShadowX" %}

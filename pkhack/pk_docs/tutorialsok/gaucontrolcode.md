@@ -2,9 +2,9 @@
 title: Sweet, Sweet, Control Code Love
 categories:
   - pkhack
-date: 2006-08-23 15:14:34 +0500
+date: 2006-08-23 20:14:34 +0000
 ---
-{% include box-open.html box-id="2543" title="This is the entire tutorial:" author-id="473" timestamp="2006-08-23 15:14:34 +0500" type="norm" dbname="box7501" last-modified-by="127" %}
+{% include box-open.html box-id="2543" title="This is the entire tutorial" author-id="473" timestamp="2006-08-23 20:14:34 +0000" type="norm" dbname="box7501" last-modified-by="127" %}
 <font size="3"><b>Your First Hack</b></font><br />
 <i>By Gau</i><br /><br />
 
@@ -56,8 +56,8 @@ To USE the Expanded Meg, first our ROM has to HAVE an Expanded Meg. (If you are 
 @This arcade doesn't have a Dance Dance Revolution machine. [03 00] @How am I supposed to get my groove on? [13 02] <br /><br />
 
 Now, after we've clicked 'Apply Changes', go to the Tools menu, and select View current details. You'll see that the SNES address is $F00000. Now, go back to the Pointer table listing and find the old line. In the Tools menu, select 'Edit TPT entry' and, in the 'SNES Address pointed to', type F00000. Voila, your text should be displayed as typed.
-{% include box-close.html author-name="Radiation" last-modified-on="2006-08-23 15:23:04 +0500" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2006-08-23 20:23:04 +0000" last-modified-by-name="Radiation" %}
 
-{% include box-open.html box-id="2544" title="generic box!:" author-id="473" timestamp="2006-08-23 15:15:24 +0500" type="norm" dbname="box62894" last-modified-by="127" %}
+{% include box-open.html box-id="2544" title="generic box!" author-id="473" timestamp="2006-08-23 20:15:24 +0000" type="norm" dbname="box62894" last-modified-by="127" %}
 Okay, that was a pretty sweet tutorial. Click <a href="http://starmen.net/pkhack/documentation.php">here</a> to be brought back. Click <a href="http://pkhack.fobby.net/misc/txt/lexicon.txt">here</a> to be brought to the latest control code listings, since you're a big boy now.
-{% include box-close.html author-name="Radiation" last-modified-on="2006-08-23 15:20:49 +0500" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2006-08-23 20:20:49 +0000" last-modified-by-name="Radiation" %}

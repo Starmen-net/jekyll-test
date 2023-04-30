@@ -2,9 +2,9 @@
 title: Mother 1+2 Stickers
 categories:
   - merchandise
-date: 2005-01-03 20:59:40 +0600
+date: 2005-01-04 02:59:40 +0000
 ---
-{% include box-open.html box-id="329" title="Mother 1+2 Stickers:" author-id="45" timestamp="2005-01-03 20:59:40 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="329" title="Mother 1+2 Stickers" author-id="45" timestamp="2005-01-04 02:59:40 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m12_stickers_title.jpg" border="0" alt="Mother 1+2 Stickers" />
 	</center>
@@ -24,4 +24,4 @@ date: 2005-01-03 20:59:40 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m12_stickers_sheet.jpg">Stickers (Sheet)</a> - <a href="/merchandise/images/m12_stickers_m.jpg">Stickers (M1+2)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:59:52 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:59:52 +0000" last-modified-by-name="ShadowX" %}

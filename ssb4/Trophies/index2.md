@@ -2,17 +2,17 @@
 title: Trophies (UK)
 categories:
   - ssb4
-date: 2017-04-03 00:30:01 +0500
+date: 2017-04-03 05:30:01 +0000
 ---
-{% include box-open.html box-id="5040" title="Introduction:" author-id="28590" timestamp="2017-04-03 00:30:01 +0500" type="norm" dbname="box35242" last-modified-by="127" %}
+{% include box-open.html box-id="5040" title="Introduction" author-id="28590" timestamp="2017-04-03 05:30:01 +0000" type="norm" dbname="box35242" last-modified-by="127" %}
 <center>Listed below are all the trophies on the Wii U version of the 4th installment of Super Smash Bros. 
 <br /><br />
 The trophies' names and descriptions are taken from the PAL release of the game. <br />To view the North American version's page, <a href="http://staff.starmen.net/ssb4/Trophies/index.php"><b>click here.</b></a></center><br /><br />
 
 <center><a href="#animalcrossing">Animal Crossing</a> / <a href="#bayonetta">Bayonetta</a> / <a href="#donkeykong">Donkey Kong</a> / <a href="#duckhunt">Duck Hunt</a> / <a href="#finalfantasy">Final Fantasy</a> / <a href="#fzero">F-Zero</a> / <a href="#kidicarus">Kid Icarus</a> / <a href="#kirby">Kirby</a> / <a href="#megaman">Mega Man</a> / <a href="#metroid">Metroid</a> / <a href="#mother">Mother</a> / <a href="#pacman">PAC-MAN</a> / <a href="#pikmin">Pikmin</a> / <a href="#pokemon">Pokemon</a> / <a href="#punchout">Punch-Out</a> / <a href="#sonicthehedgehog">Sonic the Hedgehog</a> / <a href="#starfox">Star Fox</a> / <a href="#supermario">Super Mario</a> / <a href="#supersmashbros">Super Smash Bros.</a> / <a href="#wario">Wario</a> / <a href="#wiifit">Wii Fit</a> / <a href="#xenobladechronicles">Xenoblade Chronicles</a> / <a href="#yoshisisland">Yoshi's Island</a> / <a href="#other">Other</a></center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 14:17:38 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 19:17:38 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5041" title="<a name=\"animalcrossing\" >Animal Crossing</a>:" author-id="28590" timestamp="2017-04-03 00:30:35 +0500" type="norm" dbname="box53360" last-modified-by="127" %}
+{% include box-open.html box-id="5041" title="<a name=\"animalcrossing\" >Animal Crossing</a>" author-id="28590" timestamp="2017-04-03 05:30:35 +0000" type="norm" dbname="box53360" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -204,9 +204,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <td><center>When cute lil Wisp shows up in the first Animal Crossing, he shyly asks players to help him collect five spirits before dawn. Surprisingly, you can just use any old bug net for the job! In Animal Crossing: Let's Go to the City, he appears as a lamp spirit with a fear of ghosts. Odd thing for a spirit to be scared of, don't you think?</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-08-02 15:27:27 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-08-02 20:27:27 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5042" title="<a name=\"bayonetta\" >Bayonetta</a>:" author-id="28590" timestamp="2017-04-03 00:49:40 +0500" type="norm" dbname="box9957" last-modified-by="127" %}
+{% include box-open.html box-id="5042" title="<a name=\"bayonetta\" >Bayonetta</a>" author-id="28590" timestamp="2017-04-03 05:49:40 +0000" type="norm" dbname="box9957" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -247,9 +247,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>This shady figure owns the Gates of Hell bar and runs a side business in mysterious objects and powerful weaponry made from the souls of demons. He's known for being a talented gunsmith and counts Bayonetta as a loyal customer, but it's said that if any human uses his wares, they'll suffer a terrible fate...</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 00:50:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 05:50:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5043" title="<a name=\"donkeykong\" >Donkey Kong</a>:" author-id="28590" timestamp="2017-04-03 00:50:59 +0500" type="norm" dbname="box32977" last-modified-by="127" %}
+{% include box-open.html box-id="5043" title="<a name=\"donkeykong\" >Donkey Kong</a>" author-id="28590" timestamp="2017-04-03 05:50:59 +0000" type="norm" dbname="box32977" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -435,9 +435,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>It'd be great if you could fly through the sky on a Zinger - too bad they're covered in spikes and far too nasty to let you. The yellow ones fly up and down while the red ones go round in circles. Want to know more? Go and check them out yourself, then. No promises you'll come back in one piece, though!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:05:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:05:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5044" title="<a name=\"duckhunt\" >Duck Hunt</a>:" author-id="28590" timestamp="2017-04-03 01:06:16 +0500" type="norm" dbname="box13593" last-modified-by="127" %}
+{% include box-open.html box-id="5044" title="<a name=\"duckhunt\" >Duck Hunt</a>" author-id="28590" timestamp="2017-04-03 06:06:16 +0000" type="norm" dbname="box13593" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -483,9 +483,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>A group of five quick-drawin' outlaws from the American frontier. The second they hear "FIRE!", they'll whip out their trusty pistols and start shooting. A member of the gang'll show up whenever the Duck Hunt Duo uses a down special move. Keep an eye out for the fastest of these rapscallions - that one's their boss!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:08:23 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:08:23 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5045" title="***<a name=\"finalfantasy\" >Final Fantasy</a>:" author-id="28590" timestamp="2017-04-03 01:08:36 +0500" type="norm" dbname="box5919" last-modified-by="127" %}
+{% include box-open.html box-id="5045" title="***<a name=\"finalfantasy\" >Final Fantasy</a>" author-id="28590" timestamp="2017-04-03 06:08:36 +0000" type="norm" dbname="box5919" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -507,9 +507,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>Filling the Limit Gauge allows Cloud to perform a Limit Break, supercharging his next special move. His down special becomes Finishing Touch. With a huge swing of his sword, Cloud summons a whirlwind that inflicts only 1% damage, but boasts brutal launch power. Go for a KO while foes' damage is still low!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:09:31 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:09:31 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5046" title="<a name=\"fireemblem\" >Fire Emblem</a>:" author-id="28590" timestamp="2017-04-03 01:09:40 +0500" type="norm" dbname="box2210" last-modified-by="127" %}
+{% include box-open.html box-id="5046" title="<a name=\"fireemblem\" >Fire Emblem</a>" author-id="28590" timestamp="2017-04-03 06:09:40 +0000" type="norm" dbname="box2210" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -630,9 +630,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>Corrin blasts two columns of light on either side. If one hits an enemy, Corrin transforms into a fearsome dragon and unleashes a maelstrom that launches anyone unlucky enough to be caught. The light columns shoot straight up for a short moment, so using this move high up after knocking or throwing enemies overhead is very effective!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:16:52 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:16:52 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5047" title="<a name=\"fzero\" >F-Zero</a>:" author-id="28590" timestamp="2017-04-03 01:17:35 +0500" type="norm" dbname="box9585" last-modified-by="127" %}
+{% include box-open.html box-id="5047" title="<a name=\"fzero\" >F-Zero</a>" author-id="28590" timestamp="2017-04-03 06:17:35 +0000" type="norm" dbname="box9585" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -713,9 +713,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>With his body modified by the evil Black Shadow and his twisted adrenaline-based powers, he's the very picture of a vicious invader of the Earth. But every villain needs a heroic nemesis, and Zoda's plans tend to be foiled by the mighty Super Arrow. Since he has a bounty on his head, he clashes with Captain Falcon now and again too.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:20:35 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:20:35 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5048" title="<a name=\"gamewatch\" >Game & Watch</a>:" author-id="28590" timestamp="2017-04-03 01:21:21 +0500" type="norm" dbname="box64718" last-modified-by="127" %}
+{% include box-open.html box-id="5048" title="<a name=\"gamewatch\" >Game & Watch</a>" author-id="28590" timestamp="2017-04-03 06:21:21 +0000" type="norm" dbname="box64718" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -766,9 +766,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>The Game & Watch Multi Screen series is the big, big brother of the Nintendo DS. One classic title was Oil Panic, which puts you in charge of a petrol station that's sprung a leak. As oil drips down on the upper screen, you've got to catch it in buckets on the lower screen or risk an angry customer with a face full of oil!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:23:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:23:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5049" title="<a name=\"kidicarus\" >Kid Icarus</a>:" author-id="28590" timestamp="2017-04-03 01:24:05 +0500" type="norm" dbname="box64" last-modified-by="127" %}
+{% include box-open.html box-id="5049" title="<a name=\"kidicarus\" >Kid Icarus</a>" author-id="28590" timestamp="2017-04-03 06:24:05 +0000" type="norm" dbname="box64" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -869,9 +869,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>This grenade-like weapon explodes soon after being thrown, making an X-shaped blast that tears through anything in its way. It's a powerful weapon and a lot of fun, but don't make a habit of just blowing up everything in your path. You'll never get anywhere in life that way.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:31:44 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:31:44 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5050" title="<a name=\"kirby\" >Kirby</a>:" author-id="28590" timestamp="2017-04-03 01:34:39 +0500" type="norm" dbname="box60937" last-modified-by="127" %}
+{% include box-open.html box-id="5050" title="<a name=\"kirby\" >Kirby</a>" author-id="28590" timestamp="2017-04-03 06:34:39 +0000" type="norm" dbname="box60937" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1088,9 +1088,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>Kirby doesn't need to copy abilities to bop through the air, but actually having wings gives his aerial skills a definite boost. They even let him use some extra attacks, like the acrobatic Shuttle Loop and the mighty Condor Head. He can also fire at foes with his Feather Gun! Thought Kirby was just a squishy puffball? Think again!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 01:49:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 06:49:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5051" title="<a name=\"legendofzelda\" >Legend of Zelda</a>:" author-id="28590" timestamp="2017-04-03 11:42:04 +0500" type="norm" dbname="box41775" last-modified-by="127" %}
+{% include box-open.html box-id="5051" title="<a name=\"legendofzelda\" >Legend of Zelda</a>" author-id="28590" timestamp="2017-04-03 16:42:04 +0000" type="norm" dbname="box41775" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1341,9 +1341,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>Princess Zelda has had quite a variety of incarnations, but this one doesn't even know she's a princess! When Link meets her, she's a wild and fearless pirate. In a certain sealed land, this Zelda discovers her true identity, but doesn't act like a princess for very long, and even fights alongside Link in the final showdown!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 12:07:32 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 17:07:32 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5052" title="<a name=\"megaman\" >Mega Man</a>:" author-id="28590" timestamp="2017-04-03 12:09:58 +0500" type="norm" dbname="box51243" last-modified-by="127" %}
+{% include box-open.html box-id="5052" title="<a name=\"megaman\" >Mega Man</a>" author-id="28590" timestamp="2017-04-03 17:09:58 +0000" type="norm" dbname="box51243" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1449,9 +1449,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>A powerful SA-rank Maverick Hunter who can instantly learn new moves from his enemies. Zero first made an appearance in Mega Man X, and is a close friend and mentor of X, that game's protagonist. He believes in X's hidden potential, and together they fight to take down Sigma and his renegade forces.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 12:16:01 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 17:16:01 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5053" title="<a name=\"metroid\" >Metroid</a>:" author-id="28590" timestamp="2017-04-03 13:39:42 +0500" type="norm" dbname="box52709" last-modified-by="127" %}
+{% include box-open.html box-id="5053" title="<a name=\"metroid\" >Metroid</a>" author-id="28590" timestamp="2017-04-03 18:39:42 +0000" type="norm" dbname="box52709" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1602,9 +1602,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>Zero Suit Samus's Boost Kick up special finishes with a swift sideways kick. If you start the move close to an opponent, you can hit them up to eight times and launch them sideways! Her main down special, Flip Jump, buries opponents if you land on them at the end of it. Alternatively, press the button again mid-flip for a drop kick.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 13:49:56 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-04-03 18:49:56 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5280" title="<a name=\"mother\" >Mother</a>:" author-id="28590" timestamp="2018-06-15 12:03:24 +0500" type="norm" dbname="box24235" last-modified-by="127" %}
+{% include box-open.html box-id="5280" title="<a name=\"mother\" >Mother</a>" author-id="28590" timestamp="2018-06-15 17:03:24 +0000" type="norm" dbname="box24235" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1680,9 +1680,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>If you ever find yourself faced with this thing, run! Don't even stop to ask yourself, "which two species were mashed up to to create THIS?!", or you'll be the one getting mashed up. It's so insanely out of control, even the people at the Chimera Laboratory wish they'd never even made it. Eek!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 12:08:38 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 17:08:38 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5281" title="<a name=\"pacman\" >PAC-MAN</a>:" author-id="28590" timestamp="2018-06-15 12:09:12 +0500" type="norm" dbname="box62585" last-modified-by="127" %}
+{% include box-open.html box-id="5281" title="<a name=\"pacman\" >PAC-MAN</a>" author-id="28590" timestamp="2018-06-15 17:09:12 +0000" type="norm" dbname="box62585" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1753,9 +1753,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>PAC-MAN's Final Smash turns him into this huge form that appeared in the arcade game also called Super PAC-MAN. In this form, PAC-MAN can eat his foes to deal damage to them and reduce them just a pair of eyes. He can move freely in all four directions, loop around the screen, and... obtain a score of up to 7,650 points!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 12:15:56 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 17:15:56 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5282" title="<a name=\"pikmin\" >Pikmin</a>:" author-id="28590" timestamp="2018-06-16 02:31:06 +0500" type="norm" dbname="box50605" last-modified-by="127" %}
+{% include box-open.html box-id="5282" title="<a name=\"pikmin\" >Pikmin</a>" author-id="28590" timestamp="2018-06-16 07:31:06 +0000" type="norm" dbname="box50605" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -1891,9 +1891,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>A frog-like creature from the Pikmin series with a strangely egg-shaped body. Though its legs are short and stubby, it is nevertheless capable of gigantic leaps, which prove deadly to any unfortunate Pikmin that happen to be nearby when it lands. Despite typically being found near water, it's not much of a swimmer.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 02:40:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 07:40:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5283" title="<a name=\"pokemon\" >Pokémon</a>:" author-id="28590" timestamp="2018-06-16 02:40:35 +0500" type="norm" dbname="box60956" last-modified-by="127" %}
+{% include box-open.html box-id="5283" title="<a name=\"pokemon\" >Pokémon</a>" author-id="28590" timestamp="2018-06-16 07:40:35 +0000" type="norm" dbname="box60956" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -2379,9 +2379,9 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>This Dark-type Pokémon is a powerful illusionist, and uses its power to confuse any that would threaten its home and loved ones. When it uses its Fury Swipes attack, it vanishes, then reappears next to an opponent and sends them flying into the air. It then slashes at them furiously before slamming them into the ground.</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-17 14:21:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-17 19:21:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5303" title="<a name=\"punchout\" >Punch-Out</a>:" author-id="28590" timestamp="2018-08-02 15:10:52 +0500" type="norm" dbname="box32560" last-modified-by="127" %}
+{% include box-open.html box-id="5303" title="<a name=\"punchout\" >Punch-Out</a>" author-id="28590" timestamp="2018-08-02 20:10:52 +0000" type="norm" dbname="box32560" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="100px" />
@@ -2454,4 +2454,4 @@ The trophies' names and descriptions are taken from the PAL release of the game.
     <th>At 42, this German boxer is the oldest on the circuit. He may have changed is haircut, but nothing's changed about his habit of shaking his head right before he throws a punch. If you knock him down he'll come back at you with a spinning punch as soon as he gets up again, so stay on your toes!</th>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-08-02 15:18:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-08-02 20:18:10 +0000" last-modified-by-name="CerealQueen" %}

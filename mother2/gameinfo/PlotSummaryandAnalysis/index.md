@@ -2,9 +2,9 @@
 title: Summary
 categories:
   - mother2
-date: 2016-10-28 14:40:16 +0500
+date: 2016-10-28 19:40:16 +0000
 ---
-{% include box-open.html box-id="4807" title="Brief Overview:" author-id="28590" timestamp="2016-10-28 14:40:16 +0500" type="norm" dbname="box25733" last-modified-by="127" %}
+{% include box-open.html box-id="4807" title="Brief Overview" author-id="28590" timestamp="2016-10-28 19:40:16 +0000" type="norm" dbname="box25733" last-modified-by="127" %}
 In the year 199X, a boy named Ness awakens to a meteorite crash in Onett. In the excitement that follows, his neighbour Pokey Minch loses his younger brother Picky somewhere. While helping Pokey find him, Ness encounters an insect-like being called Buzz Buzz, hailing from ten years in the future, who warns him about an alien threat known as Giygas -- and establishes that Ness, with the help of two other boys and a girl, is the only one who can stop him.
 
 <br /><br />
@@ -66,9 +66,9 @@ Fighting through Giygas’s forces, the party finally faces him and Pokey in bat
 <br /><br />
 
 Although their robotic bodies are destroyed in the process, the spirits of Ness and his friends travel through time, back into their original bodies. With their adventure finally over, they part ways, Poo leaving for Dalaam, and Jeff deciding to stay with his father. Paula asks Ness to escort her home.    
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 15:11:22 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 20:11:22 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4808" title="Detailed Overview:" author-id="28590" timestamp="2016-10-28 14:42:46 +0500" type="norm" dbname="box36438" last-modified-by="127" %}
+{% include box-open.html box-id="4808" title="Detailed Overview" author-id="28590" timestamp="2016-10-28 19:42:46 +0000" type="norm" dbname="box36438" last-modified-by="127" %}
 <img src="I.a..png" /> <font size="3"> &nbsp; <b>I.a. Buzz Buzz’s Warning</b></font>
 
 <br /><br />
@@ -718,4 +718,4 @@ That night, however, there is an oddly familiar knock on the door at night. Inve
 <br /><br />
 
 In the letter, Pokey taunts Ness one last time.              
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-19 06:47:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-19 11:47:07 +0000" last-modified-by-name="CerealQueen" %}

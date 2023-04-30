@@ -2,9 +2,9 @@
 title: 'Game Credits: Ape'
 categories:
   - credits
-date: 2005-09-21 20:16:03 +0500
+date: 2005-09-22 01:16:03 +0000
 ---
-{% include box-open.html box-id="1467" title="APE, Inc.:" author-id="2262" timestamp="2005-09-21 20:16:03 +0500" type="norm" dbname="box25651" last-modified-by="127" %}
+{% include box-open.html box-id="1467" title="APE, Inc." author-id="2262" timestamp="2005-09-22 01:16:03 +0000" type="norm" dbname="box25651" last-modified-by="127" %}
 <b>Bio</b><BR />
 <img src="http://starmen.net/credits/APE.png" align="right" />
 Ape was started as a development team to work on Shigesato Itoi's Famicom(NES) RPG Mother. Tsunekazu
@@ -23,4 +23,4 @@ Soon after Mother 2's development ended APE disbanded. Ishihara and a large port
     <LI><b>Mario no Super Picross(SNES 1995) Japan Only</b><BR />
     Developer</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-06 21:11:47 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 02:11:47 +0000" last-modified-by-name="KingDarian" %}

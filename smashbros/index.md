@@ -2,9 +2,9 @@
 title: Super Smash Brothers
 categories:
   - smashbros
-date: 2005-01-04 17:51:53 +0600
+date: 2005-01-04 23:51:53 +0000
 ---
-{% include box-open.html box-id="457" title="Super Smash Brothers:" author-id="288" timestamp="2005-01-04 17:51:53 +0600" type="norm" dbname="box6267" last-modified-by="127" %}
+{% include box-open.html box-id="457" title="Super Smash Brothers" author-id="288" timestamp="2005-01-04 23:51:53 +0000" type="norm" dbname="box6267" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="Super Smash Bros" />
 	<table valign="top">
@@ -56,9 +56,9 @@ But what about Ness, our Earthbound hero? Ness turned out to be one of the best 
 <img class="picleft" src="screenshots/nessvslink.gif" alt="Ness vs. Link" />
 What really made this game a blast was its multiplayer capabilities. Featuring battles of up to four players, you and your friends could vent all your burning rage together in a battle of the best. The multiplayer action is fun for the family and even the pet goldfish. Or whoever can hold a controller.</p>
 <br  class="cleary" />
-{% include box-close.html author-name="Tomato" last-modified-on="2007-07-04 20:51:03 +0500" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-07-05 01:51:03 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="1373" title="Recent Updates:" author-id="1594" timestamp="2005-08-26 00:33:50 +0500" type="norm" dbname="box43040" last-modified-by="127" %}
+{% include box-open.html box-id="1373" title="Recent Updates" author-id="1594" timestamp="2005-08-26 05:33:50 +0000" type="norm" dbname="box43040" last-modified-by="127" %}
 <b>April 25, 2018:</b>
 <ul><li>Characters page was completed and cleaned up. Movesets went through a huge overhaul and are now complete.<br />--CerealQueen</li></ul>
 
@@ -75,12 +75,12 @@ What really made this game a blast was its multiplayer capabilities. Featuring b
 <li>Vital Stats added</li>
 <li>Minimal text information changes</li>
 </ul>
-{% include box-close.html author-name="Firegirl" last-modified-on="2018-06-14 20:33:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Firegirl" last-modified-on="2018-06-15 01:33:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="1371" title="Contact Info:" author-id="1594" timestamp="2005-08-26 00:31:07 +0500" type="norm" dbname="box10061" last-modified-by="127" %}
+{% include box-open.html box-id="1371" title="Contact Info" author-id="1594" timestamp="2005-08-26 05:31:07 +0000" type="norm" dbname="box10061" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
  <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a>
 <table3 />
-{% include box-close.html author-name="Firegirl" last-modified-on="2017-01-22 13:12:16 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Firegirl" last-modified-on="2017-01-22 19:12:16 +0000" last-modified-by-name="CerealQueen" %}

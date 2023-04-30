@@ -2,9 +2,9 @@
 title: Items
 categories:
   - ssb4
-date: 2017-03-22 04:09:53 +0500
+date: 2017-03-22 09:09:53 +0000
 ---
-{% include box-open.html box-id="5006" title="New Box, Edit me :(:" author-id="28590" timestamp="2017-03-22 04:09:53 +0500" type="norm" dbname="box60578" last-modified-by="127" %}
+{% include box-open.html box-id="5006" title="New Box, Edit me :(" author-id="28590" timestamp="2017-03-22 09:09:53 +0000" type="norm" dbname="box60578" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="75px" />
     <col width="100px" />
@@ -97,4 +97,4 @@ date: 2017-03-22 04:09:53 +0500
     <th>e</th>
 </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-12-14 05:08:05 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-12-14 11:08:05 +0000" last-modified-by-name="CerealQueen" %}

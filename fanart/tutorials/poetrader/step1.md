@@ -2,9 +2,9 @@
 title: Fan Art - Art Tutorials - Watercolor Pencils - Drawing and Coloring
 categories:
   - fanart
-date: 2007-07-25 14:44:40 +0500
+date: 2007-07-25 19:44:40 +0000
 ---
-{% include box-open.html box-id="3245" title="Step One - Drawing and Coloring:" author-id="75" timestamp="2007-07-25 14:44:40 +0500" type="norm" dbname="box57830" last-modified-by="75" %}
+{% include box-open.html box-id="3245" title="Step One - Drawing and Coloring" author-id="75" timestamp="2007-07-25 19:44:40 +0000" type="norm" dbname="box57830" last-modified-by="75" %}
 The first, and probably most important step is the drawing and coloring. You might already have your own techniques for this one since it's not that different from coloring with regular colored pencils, but here are a few tips:<br /><br />
 
 
@@ -18,9 +18,9 @@ The first, and probably most important step is the drawing and coloring. You mig
 
 <li><b>Wait to add black eyes or other darker details.</b> If your subject has black eyes or if there are small black or dark details that you intend to have in your painting, wait until you've already added water to the entire thing and let it dry. Then you can color in the eyes and whatnot and add water to those. If you put in the dark details before you do the initial adding of the water, the same mess-ups that can happen with the black outlines can occur here.</li>
 </ul>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-25 20:44:44 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-26 01:44:44 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="3247" title="Demonstration:" author-id="75" timestamp="2007-07-25 15:14:19 +0500" type="norm" dbname="box50454" last-modified-by="75" %}
+{% include box-open.html box-id="3247" title="Demonstration" author-id="75" timestamp="2007-07-25 20:14:19 +0000" type="norm" dbname="box50454" last-modified-by="75" %}
 I took photos of the latest painting I worked on during various steps in the process (sorry it's not EarthBound-related). They help to illustrate the tips listed above. Click the thumbnails to see a bigger version of the picture.<br /><br />
 
 <a href="keaton1.jpg" target="_new">
@@ -63,4 +63,4 @@ I took photos of the latest painting I worked on during various steps in the pro
 <img src="keaton8_thumb.jpg" border="0" align="left" hspace="13" target="_blank" /></a>
 
 <br /><br /><br /><br />Here is how everything looks after adding the water (there are no lighting changes). You'll note that the eyes and nose were not present in the previous picture; that's because I waited for the water to dry before adding in the eyes and nose, and then added water to that. You'll want to leave little details like that 'til the very end so that the dark colors don't bleed into your lighter ones.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-25 20:48:33 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-26 01:48:33 +0000" last-modified-by-name="PoeTrader" %}

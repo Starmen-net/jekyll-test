@@ -2,9 +2,9 @@
 title: SSB:B Artwork
 categories:
   - ssbb
-date: 2018-06-13 03:02:56 +0500
+date: 2018-06-13 08:02:56 +0000
 ---
-{% include box-open.html box-id="5223" title="Character Art:" author-id="28590" timestamp="2018-06-13 03:02:56 +0500" type="norm" dbname="box61159" last-modified-by="127" %}
+{% include box-open.html box-id="5223" title="Character Art" author-id="28590" timestamp="2018-06-13 08:02:56 +0000" type="norm" dbname="box61159" last-modified-by="127" %}
 <center><a href="http://starmen.net/ssbb/artwork/Bowser.png"><img src="http://starmen.net/ssbb/artwork/Bowserthumb.png" width="100" height="100" border="1" /></a>
 
 <a href="http://starmen.net/ssbb/artwork/Captain Falcon.png"><img src="http://starmen.net/ssbb/artwork/Captain Falconthumb.png" width="100" height="100" border="1" /></a> 
@@ -88,10 +88,10 @@ date: 2018-06-13 03:02:56 +0500
 
 
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-13 03:59:36 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-13 08:59:36 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5224" title="Logo Art:" author-id="28590" timestamp="2018-06-13 03:59:39 +0500" type="norm" dbname="box37605" last-modified-by="127" %}
+{% include box-open.html box-id="5224" title="Logo Art" author-id="28590" timestamp="2018-06-13 08:59:39 +0000" type="norm" dbname="box37605" last-modified-by="127" %}
 <center><a href="http://starmen.net/ssbb/artwork/logo_whitebkgd.jpg"><img src="http://starmen.net/ssbb/artwork/previews/preview_logo_whitebkgd.jpg" border="1" /></a>
 <a href="http://starmen.net/ssbb/artwork/logo_blackbkgd.jpg"><img src="http://starmen.net/ssbb/artwork/previews/preview_logo_blackbkgd.jpg" border="1" /></a>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-13 04:00:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-13 09:00:14 +0000" last-modified-by-name="CerealQueen" %}

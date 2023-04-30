@@ -2,9 +2,9 @@
 title: Mother 3 Script / Text Dump
 categories:
   - mother3
-date: 2017-03-19 07:51:41 +0500
+date: 2017-03-19 12:51:41 +0000
 ---
-{% include box-open.html box-id="5002" title="Mother 3 Script / Text Dump:" author-id="28590" timestamp="2017-03-19 07:51:41 +0500" type="norm" dbname="box2852" last-modified-by="127" %}
+{% include box-open.html box-id="5002" title="Mother 3 Script / Text Dump" author-id="28590" timestamp="2017-03-19 12:51:41 +0000" type="norm" dbname="box2852" last-modified-by="127" %}
 <b>Chapter 3</b>
 <ul>
  <li><a href="Chapter 3 Part 2.txt">Part 2</a> - (20.2 KB, .txt)</li>
@@ -46,8 +46,8 @@ date: 2017-03-19 07:51:41 +0500
 </ul>
 
 <p>You can download all the scripts in a more clean formatted .rtf form <a href="Mother 3 Scripts.zip" >here.</a> It includes both the cleaned up and edited chapters as listed above and the full original script.</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2021-02-24 10:32:30 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2021-02-24 16:32:30 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5548" title="Special Thanks:" author-id="28590" timestamp="2021-02-24 10:18:39 +0600" type="norm" dbname="box32387" last-modified-by="127" %}
+{% include box-open.html box-id="5548" title="Special Thanks" author-id="28590" timestamp="2021-02-24 16:18:39 +0000" type="norm" dbname="box32387" last-modified-by="127" %}
 <p>A very special thanks to <b>StarstorMew</b> for organizing and compiling these scripts!</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2021-02-24 10:33:15 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2021-02-24 16:33:15 +0000" last-modified-by-name="CerealQueen" %}

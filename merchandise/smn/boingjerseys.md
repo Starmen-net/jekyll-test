@@ -2,9 +2,9 @@
 title: Boing Jerseys
 categories:
   - merchandise
-date: 2009-05-10 20:44:04 +0500
+date: 2009-05-11 01:44:04 +0000
 ---
-{% include box-open.html box-id="3733" title="Boing Jerseys:" author-id="45" timestamp="2009-05-10 20:44:04 +0500" type="norm" dbname="box58162" last-modified-by="45" %}
+{% include box-open.html box-id="3733" title="Boing Jerseys" author-id="45" timestamp="2009-05-11 01:44:04 +0000" type="norm" dbname="box58162" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_boing_title.png" border="0" alt="Boing Jerseys" />
 	</center>
@@ -25,4 +25,4 @@ date: 2009-05-10 20:44:04 +0500
 	<br />
 	<a href="/merchandise/images/smn_boing_sky_front.jpg">Sky (Front)</a> - <a href="/merchandise/images/smn_boing_sky_back.jpg">Sky (Back)</a> - <a href="/merchandise/images/smn_boing_pink_front.jpg">Pink (Front)</a> - 
 	<a href="/merchandise/images/smn_boing_pink_back.jpg">Pink (Back)</a> - <a href="/merchandise/images/smn_boing_black_front.jpg">Black (Front)</a> - <a href="/merchandise/images/smn_boing_black_back.jpg">Black (Back)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:20:05 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:20:05 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Tricks - Dusty Dunes Desert EXP Trick
 categories:
   - mother2
-date: 2006-04-02 12:15:09 +0500
+date: 2006-04-02 17:15:09 +0000
 ---
-{% include box-open.html box-id="2161" title="Dusty Dunes Desert EXP Trick:" author-id="75" timestamp="2006-04-02 12:15:09 +0500" type="norm" dbname="box37620" last-modified-by="75" %}
+{% include box-open.html box-id="2161" title="Dusty Dunes Desert EXP Trick" author-id="75" timestamp="2006-04-02 17:15:09 +0000" type="norm" dbname="box37620" last-modified-by="75" %}
 <i>The following is a great method on getting HUGE and quick amounts of
       EXP. while in Dusty Dunes Desert.  This was taken off of the EBFGP
       Board by someone known as MagicCakeIsGood.
@@ -162,4 +162,4 @@ This enemy is very strong if you
       your game and I have led you on, but I share with the world for all of
       mankind, not just you. Be happy for everyone else in the world who do
       have it.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 12:25:21 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-04-02 17:25:21 +0000" last-modified-by-name="PoeTrader" %}

@@ -2,9 +2,9 @@
 title: EarthBound Prototype
 categories:
   - merchandise
-date: 2010-10-20 08:56:03 +0500
+date: 2010-10-20 13:56:03 +0000
 ---
-{% include box-open.html box-id="3892" title="EarthBound Prototype:" author-id="45" timestamp="2010-10-20 08:56:03 +0500" type="norm" dbname="box53998" last-modified-by="45" %}
+{% include box-open.html box-id="3892" title="EarthBound Prototype" author-id="45" timestamp="2010-10-20 13:56:03 +0000" type="norm" dbname="box53998" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -65,4 +65,4 @@ date: 2010-10-20 08:56:03 +0500
 <a href="/merchandise/images/ebprotosnes_internal.jpg" ><img src="/merchandise/images/ebprotosnes_internal.jpg" title="Internal" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/ebprotosnes_internal_focus.jpg" ><img src="/merchandise/images/ebprotosnes_internal_focus.jpg" title="Internal (Focus)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/ebprotosnes_internal_sod.jpg" ><img src="/merchandise/images/ebprotosnes_internal_sod.jpg" title="Internal (Soldering Marks)" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 08:56:14 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 13:56:14 +0000" last-modified-by-name="ShadowX" %}

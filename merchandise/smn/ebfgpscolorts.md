@@ -2,9 +2,9 @@
 title: EBFGPS Color T-Shirts
 categories:
   - merchandise
-date: 2005-01-04 01:01:08 +0600
+date: 2005-01-04 07:01:08 +0000
 ---
-{% include box-open.html box-id="425" title="EBFGPS Color T-Shirts:" author-id="45" timestamp="2005-01-04 01:01:08 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="425" title="EBFGPS Color T-Shirts" author-id="45" timestamp="2005-01-04 07:01:08 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/ebfgps_colorts_title.png" border="0" alt="EBFGPS Color T-Shirts" />
 	</center>
@@ -31,4 +31,4 @@ date: 2005-01-04 01:01:08 +0600
 	<a href="/merchandise/images/ebfgps_ys_fdesign.jpg">Front Design (Yellow)</a> - <a href="/merchandise/images/ebfgps_ys_bdesign.jpg">Back Design (Yellow)</a> - <a href="/merchandise/images/ebfgps_gs_front.jpg">Front (Grey)</a> - 
 	<a href="/merchandise/images/ebfgps_gs_back.jpg">Back (Grey)</a> - <a href="/merchandise/images/ebfgps_gs_fdesign.jpg">Front Design (Grey)</a> - <a href="/merchandise/images/ebfgps_gs_bdesign.jpg">Back Design (Grey)</a> - 
 	<a href="/merchandise/images/green_detail.jpg">Green Detail</a> - <a href="/merchandise/images/yellow_detail.jpg">Yellow Detail</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:01:54 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:01:54 +0000" last-modified-by-name="ShadowX" %}

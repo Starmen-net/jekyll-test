@@ -2,9 +2,9 @@
 title: JOIN THE FIGHT!
 categories:
   - merchandise
-date: 2005-01-04 00:28:40 +0600
+date: 2005-01-04 06:28:40 +0000
 ---
-{% include box-open.html box-id="401" title="JOIN THE FIGHT!:" author-id="45" timestamp="2005-01-04 00:28:40 +0600" type="norm" dbname="box14164" last-modified-by="45" %}
+{% include box-open.html box-id="401" title="JOIN THE FIGHT!" author-id="45" timestamp="2005-01-04 06:28:40 +0000" type="norm" dbname="box14164" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_jtf_title.jpg" border="0" alt="JOIN THE FIGHT!" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-04 00:28:40 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_jtf_poster.jpg">Poster</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 01:05:00 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 06:05:00 +0000" last-modified-by-name="ShadowX" %}

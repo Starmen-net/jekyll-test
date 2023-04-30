@@ -2,9 +2,9 @@
 title: RADIO - MISCELLANEOUS - CHANNELS
 categories:
   - radio
-date: 2006-03-24 05:18:00 +0600
+date: 2006-03-24 11:18:00 +0000
 ---
-{% include box-open.html box-id="2127" title="The Tutorial:" author-id="247" timestamp="2006-03-24 05:18:00 +0600" type="norm" dbname="box52428" last-modified-by="127" %}
+{% include box-open.html box-id="2127" title="The Tutorial" author-id="247" timestamp="2006-03-24 11:18:00 +0000" type="norm" dbname="box52428" last-modified-by="127" %}
 <p>
 Channels was an extremely popular game for DJ Fly-Boi Mathyz's Saturday Night Radio PSI.  Games used for Channels were often from Super Nintendo, Nintendo, or Game Boy.
 </p><br />
@@ -24,9 +24,9 @@ The object of the game, of course, was to correctly guess which game the song co
 <p>
 The number of actual channels, and number of channels unmuted at 20 second intervals depended on the system, and ease of recognition.
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2009-07-31 01:41:42 +0500" last-modified-by-name="ozwalled" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2009-07-31 06:41:42 +0000" last-modified-by-name="ozwalled" %}
 
-{% include box-open.html box-id="2789" title="The Rules:" author-id="247" timestamp="2007-01-11 21:18:58 +0600" type="norm" dbname="box47536" last-modified-by="127" %}
+{% include box-open.html box-id="2789" title="The Rules" author-id="247" timestamp="2007-01-12 03:18:58 +0000" type="norm" dbname="box47536" last-modified-by="127" %}
 <p>
 <li>Guess the video game the song comes from before the music fades out.</li>
 <li>Your latest guess is the only one that will count.  The reasoning behind this rule is to discourage people from randomly guessing dozens of games before Channels is over.</li>
@@ -39,9 +39,9 @@ I.E. "Teenage Mutant Ninja Turtles IV: Turtles in Time".  NOT "Turtles In Time",
 <p>
 The third rule is concluded by seeing what the full title is on the box art.
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-03-20 00:02:21 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-03-20 05:02:21 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2790" title="The List of Winners:" author-id="247" timestamp="2007-01-11 21:25:47 +0600" type="norm" dbname="box45725" last-modified-by="127" %}
+{% include box-open.html box-id="2790" title="The List of Winners" author-id="247" timestamp="2007-01-12 03:25:47 +0000" type="norm" dbname="box45725" last-modified-by="127" %}
 <p>
 <font size="3">
 <table border="0">
@@ -228,4 +228,4 @@ The third rule is concluded by seeing what the full title is on the box art.
 </table>
 </font>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-22 23:27:10 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 04:27:10 +0000" last-modified-by-name="Mansion Maniac" %}

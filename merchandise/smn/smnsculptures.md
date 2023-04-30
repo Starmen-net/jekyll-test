@@ -2,9 +2,9 @@
 title: SMN Resin Sculptures
 categories:
   - merchandise
-date: 2005-08-28 17:41:44 +0500
+date: 2005-08-28 22:41:44 +0000
 ---
-{% include box-open.html box-id="1380" title="SMN Resin Sculptures:" author-id="45" timestamp="2005-08-28 17:41:44 +0500" type="norm" dbname="box35664" last-modified-by="45" %}
+{% include box-open.html box-id="1380" title="SMN Resin Sculptures" author-id="45" timestamp="2005-08-28 22:41:44 +0000" type="norm" dbname="box35664" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/smnsculptures_title.png" width="282" height="225" border="0" alt="SMN Resin Sculptures" />
 	</center>
@@ -41,4 +41,4 @@ date: 2005-08-28 17:41:44 +0500
 	<br />
 	<a href="/merchandise/images/smnsculptures_mrs_front.jpg">Front</a> - <a href="/merchandise/images/smnsculptures_mrs_back.jpg">Back</a> - <a href="/merchandise/images/smnsculptures_mrs_side.jpg">Side</a> - 
 	<a href="/merchandise/images/smnsculptures_mrs_size.jpg">Size</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-08-28 17:50:24 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-08-28 22:50:24 +0000" last-modified-by-name="ShadowX" %}

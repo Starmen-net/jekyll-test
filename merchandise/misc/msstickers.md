@@ -2,9 +2,9 @@
 title: Mr. Saturn Stickers
 categories:
   - merchandise
-date: 2005-01-03 20:50:16 +0600
+date: 2005-01-04 02:50:16 +0000
 ---
-{% include box-open.html box-id="321" title="Mr. Saturn Stickers:" author-id="45" timestamp="2005-01-03 20:50:16 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="321" title="Mr. Saturn Stickers" author-id="45" timestamp="2005-01-04 02:50:16 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/ms_stickers_title.jpg" border="0" alt="Mr. Saturn Stickers" />
 	</center>
@@ -28,4 +28,4 @@ date: 2005-01-03 20:50:16 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/ms_stickers.jpg">Mr. Saturn Stickers</a> - <a href="/merchandise/images/ms_stickers_sheet.jpg">Sticker Sheet</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:50:27 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:50:27 +0000" last-modified-by-name="ShadowX" %}

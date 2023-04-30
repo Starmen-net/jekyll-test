@@ -2,9 +2,9 @@
 title: MOTHER 3 - Patent
 categories:
   - mother3
-date: 2009-03-18 10:55:03 +0500
+date: 2009-03-18 15:55:03 +0000
 ---
-{% include box-open.html box-id="3663" title="Patent:" author-id="2262" timestamp="2009-03-18 10:55:03 +0500" type="norm" dbname="box34105" last-modified-by="127" %}
+{% include box-open.html box-id="3663" title="Patent" author-id="2262" timestamp="2009-03-18 15:55:03 +0000" type="norm" dbname="box34105" last-modified-by="127" %}
 Thanks to <a href="http://mother-jp.net">mother-jp.net</a> a patent that may be a key in the link between Shigesato Itoi and Brownie Brown was unearthed. In April of 2003, before Mother 1+2 was even announced, this patent was filed. The patent itself involves how a character encounters an enemy and then enters a unique battle system found in Mother 3 where proper timing to the music ensured greater damage in battle.<BR /><BR />
 <a href="http://www4.ipdl.inpit.go.jp/Tokujitu/tjftermenz.ipdl">Japanese Patent Database</a><BR />
 To access the original patent, use the following data:<BR />
@@ -13,9 +13,9 @@ Publication Date: 20041118 (in both to and from boxes)<BR />
 FI/F-term: AA16<BR />
 <BR />
 The information provided below is a translation provided by the Japanese Patent Office.
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:29:11 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:29:11 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3676" title="Data:" author-id="2262" timestamp="2009-03-18 12:11:11 +0500" type="norm" dbname="box40097" last-modified-by="127" %}
+{% include box-open.html box-id="3676" title="Data" author-id="2262" timestamp="2009-03-18 17:11:11 +0000" type="norm" dbname="box40097" last-modified-by="127" %}
 Patent Number: JP,2004-321362,A<BR />
 Publication Number: 2004-321362<BR />
 Date of publication of application: 18.11.2004<BR />
@@ -29,9 +29,9 @@ GAME DEVICE AND GAME PROGRAM<BR />
 (57)Abstract:<BR />
 PROBLEM TO BE SOLVED: To feed back the controlling ability of a player to the content of a game, and to increase the game property and the amusement property.<BR />
 SOLUTION: This game device 12 is constituted in such a manner that a CPU 36 is included, the CPU 36 executes a game process, and a battle screen is displayed on a monitor 34 when a player character meets an enemy character in a game world. In the battle screen, an indication image conforming to a control timing pattern which is recorded to cope with the enemy character is displayed, and at the same time, a BGM in response to the pattern is output from a speaker 34a. The player contrives the control timing by the indication image and the performance of the BGM (the drum part). When the coincidence degree between the control timing of the player and the timing of the pattern is high, damages applied to the enemy character by the player character and an experience value to be acquired are made larger.
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:20:51 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:20:51 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3665" title="Claims:" author-id="2262" timestamp="2009-03-18 11:24:30 +0500" type="norm" dbname="box61529" last-modified-by="127" %}
+{% include box-open.html box-id="3665" title="Claims" author-id="2262" timestamp="2009-03-18 16:24:30 +0000" type="norm" dbname="box61529" last-modified-by="127" %}
 [Claim 1]<BR />
 The characters in the game world are the game devices which display a battle scene attacked mutually,<BR />
 The 1st memory measure that memorizes a parameter for every character which appears in said game world,<BR />
@@ -107,9 +107,9 @@ The degree of coincidence of operation timing of a player detected by said opera
 [Claim 24]<BR />
 Said battle scene makes characters fight by repeating an attack turn and a defense turn by turns.<BR />
 Till a time of said coincidence degree becoming low exceeding a predetermined value, The game program according to claim 22 or 23 as which said computer is further operated as a turn exchange means to replace said attack turn and said defense turn when continuous operation of said player is permitted and it becomes low exceeding the predetermined value concerned.<BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:27:53 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:27:53 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3666" title="Detailed Description:" author-id="2262" timestamp="2009-03-18 11:27:58 +0500" type="norm" dbname="box22463" last-modified-by="127" %}
+{% include box-open.html box-id="3666" title="Detailed Description" author-id="2262" timestamp="2009-03-18 16:27:58 +0000" type="norm" dbname="box22463" last-modified-by="127" %}
 [Detailed Description of the Invention]<BR />
 [0001]<BR />
 [Industrial Application]<BR />
@@ -462,15 +462,15 @@ Also in other examples, like an above-mentioned example, the manipulative capabi
 42 -- GPU<BR />
 54 -- ARAM<BR />
 62 -- Audio I/F<BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:40:00 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:40:00 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3668" title="Technical Field:" author-id="2262" timestamp="2009-03-18 11:42:39 +0500" type="norm" dbname="box1516" last-modified-by="127" %}
+{% include box-open.html box-id="3668" title="Technical Field" author-id="2262" timestamp="2009-03-18 16:42:39 +0000" type="norm" dbname="box1516" last-modified-by="127" %}
 [Industrial Application]<BR />
 Especially this invention relates to the game device and game program which display the battle scene which the characters in for example, the game world attack mutually about a game device and a game program.<BR />
 [0002]
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:44:32 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:44:32 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3669" title="Prior Art:" author-id="2262" timestamp="2009-03-18 11:43:11 +0500" type="norm" dbname="box11009" last-modified-by="127" %}
+{% include box-open.html box-id="3669" title="Prior Art" author-id="2262" timestamp="2009-03-18 16:43:11 +0000" type="norm" dbname="box11009" last-modified-by="127" %}
 [Description of the Prior Art]<BR />
 An example of this conventional kind of game device is indicated by the patent documents 1. In the video game device indicated by these patent documents 1, an attack turn is given by turns between a player character and an enemy character. In the attack turn of a player character, when a player chooses a specific command, it can attack to an enemy character. On the other hand, in the attack turn of an enemy character, an attack according to the kind of the enemy character concerned is delivered to a player character. For example, when the hit points according to the attack concerned were subtracted from HP of an enemy character when the player character attacked the enemy character, and HP was set to zero, the enemy character concerned had disappeared from the screen.<BR />
 [0003]<BR />
@@ -481,9 +481,9 @@ Patent No. 2794230<BR />
 [Patent documents 2]<BR />
 JP,11-179055,A<BR />
 [0005]<BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:44:14 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:44:14 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3670" title="Effect of the Invention:" author-id="2262" timestamp="2009-03-18 11:45:51 +0500" type="norm" dbname="box3203" last-modified-by="127" %}
+{% include box-open.html box-id="3670" title="Effect of the Invention" author-id="2262" timestamp="2009-03-18 16:45:51 +0000" type="norm" dbname="box3203" last-modified-by="127" %}
 [Effect of the Invention]<BR />
 In this invention, the parameter of a character can be changed according to the operation timing of a player.<BR />
 Therefore, the manipulative capability of a player can be reflected in a game content.
@@ -542,9 +542,9 @@ Since concrete processing of CPU36 in other examples is almost the same as the p
 In the reproduction of BGM and pendulum display start processing (Step S11) which were shown in drawing 10, Step S31 differs from an above-mentioned example, The kind of player character is grasped (specific), and it is Step S33, and is the point which has read the operation timing pattern information 404c corresponding to the specified player character, and the data of BGM.<BR />
 [0147]<BR />
 Also in other examples, like an above-mentioned example, the manipulative capability of a player can be made to be able to reflect in a game content, and game nature can be raised.
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:47:12 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:47:12 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3671" title="Technical Problem:" author-id="2262" timestamp="2009-03-18 11:47:20 +0500" type="norm" dbname="box17998" last-modified-by="127" %}
+{% include box-open.html box-id="3671" title="Technical Problem" author-id="2262" timestamp="2009-03-18 16:47:20 +0000" type="norm" dbname="box17998" last-modified-by="127" %}
 [Problem(s) to be Solved by the Invention]<BR />
 However, in the case of the former, the attack to an enemy character, . [ whether the hit points beforehand set up by the selected command are given as it is, and ] The hit points produced by multiplying by the rate determined as the hit points concerned by random numbers are only given, the skill (skill) of the attack of a player did not influence aggressivity, and game nature and fun were missing.<BR />
 [0006]<BR />
@@ -552,9 +552,9 @@ In the case of the latter as well as the case of the former, the aggressivity ac
 [0007]<BR />
 So, the main purpose of this invention is to provide the game device and game program of a new idea which can reflect the skill of a player in a game.<BR />
 [0008] 
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:48:13 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:48:13 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3672" title="Means:" author-id="2262" timestamp="2009-03-18 11:50:20 +0500" type="norm" dbname="box40028" last-modified-by="127" %}
+{% include box-open.html box-id="3672" title="Means" author-id="2262" timestamp="2009-03-18 16:50:20 +0000" type="norm" dbname="box40028" last-modified-by="127" %}
 [Means for Solving the Problem]<BR />
 Claim 1 is a game device which displays a battle scene which the characters in the game world attack mutually. The 1st memory measure this game device remembers a parameter for every character which appears in the game world to be, When the 2nd memory measure and a battle scene which associate and memorize an operation timing pattern for timing which should be operated to a player to be shown for every character are displayed, Based on an operation timing pattern related with a character which appears in the battle scene concerned which displays an indication image and is memorized by the 2nd memory measure, An indication image change means to change a display mode of the indication image concerned, an operation detection means which detects operation of a player inputted according to change of an indication image, According to a coincidence degree of operation timing of a player at the time of being detected by an operation detection means, and timing of an operation timing pattern corresponding to the time concerned, Based on a variation value computed by a variation value calculating means which computes a variation value for changing a parameter of a character, and variation value calculating means, it has a parameter update means which updates a parameter of a character which has appeared in a battle scene.<BR />
 [0009]<BR />
@@ -604,9 +604,9 @@ Claim 23 is subordinate to claim 22, and a variation value calculating means ope
 [0031]<BR />
 Claim 24 is subordinate to claim 22 or 23, and a battle scene, Till a time of making characters fight and a coincidence degree exceeding a predetermined value by repeating an attack turn and a defense turn by turns, Continuous operation of a player is permitted, and when the predetermined value concerned is exceeded, a computer is further operated as a turn exchange means to replace an attack turn and a defense turn.<BR />
 [0032]
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:50:29 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:50:29 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3673" title="Operation:" author-id="2262" timestamp="2009-03-18 11:50:40 +0500" type="norm" dbname="box10435" last-modified-by="127" %}
+{% include box-open.html box-id="3673" title="Operation" author-id="2262" timestamp="2009-03-18 16:50:40 +0000" type="norm" dbname="box10435" last-modified-by="127" %}
 [Function]<BR />
 A game device of an invention of claim 1 (12: reference number corresponding in the example.) Hereafter, it is the same. The characters in the game world display the battle scene attacked mutually. The 1st memory measure (40) memorizes the parameter for every character which appears in the game world, and, as for the 2nd memory measure (40), the account of character (72, 74) every ********** fears the operation timing pattern for directing the timing which should be operated to a player. When a battle scene (80) is displayed, an indication image change means (36, S11), The display mode of a display image (78) is changed based on the timing pattern related with the character (72, 74) which appears in the battle scene (80) which displays an indication image (78) and is memorized by the 2nd memory measure (40). A player plans timing of operation (attack), seeing this display image (78). Operation of a player is detected by an operation detection means (36, S53). Then, a variation value calculating means (36, S19, S77) computes the variation value for changing the parameter of a character (72, 74) according to the coincidence degree of the operation timing of the player at the time of being detected, and the operation timing pattern corresponding to the time concerned. And a parameter update means (36, S15, S19) updates the parameter of the character (72, 74) which has appeared in a battle scene (80) based on the variation value of the computed parameter.<BR />
 [0033]<BR />
@@ -644,9 +644,9 @@ The degree of coincidence of the operation timing of a player and the timing of 
 [0048]<BR />
 The manipulative capability of a player can be made to reflect in a game content like claim 1 also in claim 14.<BR />
 [0049] 
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:51:46 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:51:46 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3674" title="Example:" author-id="2262" timestamp="2009-03-18 11:51:50 +0500" type="norm" dbname="box4823" last-modified-by="127" %}
+{% include box-open.html box-id="3674" title="Example" author-id="2262" timestamp="2009-03-18 16:51:50 +0000" type="norm" dbname="box4823" last-modified-by="127" %}
 [Example]<BR />
 With reference to drawing 1, the video game system 10 of this example contains the video game device 12. Although a power supply is given to this video game device 12, this power supply may be a common AC adapter (not shown) in an example. An AC adapter is inserted in a standard wall socket for home use, and changes a household power supply into a low DC voltage signal suitable for driving the video game device 12. As other examples, a battery may be used as a power supply.<BR />
 [0052]<BR />
@@ -805,9 +805,9 @@ In continuing Step S59, the difference of the counted value and the timing value
 If the difference of the counted value and the timing value which were got blocked and acquired on the other hand when it was "YES" at Step S61 is three or less frames, it will judge that both values are in a prescribed range, and it will be judged at Step S63 whether it is a smash hit. Here, a smash hit means the attack at the time of both the values of counted value and a timing value being thoroughly in agreement, and filling predetermined probability. Predetermined probability is determined by the formula or random number which the designer and programmer of the game concerned set up beforehand.<BR />
 [0122]<BR />
 If it is "YES" at Step S63 (i.e., if it is a smash hit), it is a showy effect at Step S65.
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:56:11 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:56:11 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3675" title="Description of Drawings:" author-id="2262" timestamp="2009-03-18 11:56:26 +0500" type="norm" dbname="box50719" last-modified-by="127" %}
+{% include box-open.html box-id="3675" title="Description of Drawings" author-id="2262" timestamp="2009-03-18 16:56:26 +0000" type="norm" dbname="box50719" last-modified-by="127" %}
 [Brief Description of the Drawings]<BR />
 [Drawing 1]It is an illustration figure showing an example of the game system of this invention.<BR />
 [Drawing 2]It is a block diagram showing the electric composition of the video game device shown in the drawing 1 example.<BR />
@@ -836,9 +836,9 @@ If it is "YES" at Step S63 (i.e., if it is a smash hit), it is a showy effect at
 42 -- GPU<BR />
 54 -- ARAM<BR />
 62 -- Audio I/F 
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 11:59:14 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 16:59:14 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3664" title="Drawings:" author-id="2262" timestamp="2009-03-18 10:55:46 +0500" type="norm" dbname="box22999" last-modified-by="127" %}
+{% include box-open.html box-id="3664" title="Drawings" author-id="2262" timestamp="2009-03-18 15:55:46 +0000" type="norm" dbname="box22999" last-modified-by="127" %}
 [Representative Drawing]<BR />
 <img src="20051118095319283839.gif" /><BR /><BR />
 [Drawing 1]<BR />
@@ -869,4 +869,4 @@ If it is "YES" at Step S63 (i.e., if it is a smash hit), it is a showy effect at
 <img src="20051118095533824404.gif" /><BR /><BR />
 [Drawing 14]<BR />
 <img src="20051118095540945148.gif" /><BR /><BR />
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:09:02 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:09:02 +0000" last-modified-by-name="KingDarian" %}

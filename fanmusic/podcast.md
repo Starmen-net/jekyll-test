@@ -2,9 +2,9 @@
 title: Fan Music Podcasts
 categories:
   - fanmusic
-date: 2006-12-18 20:18:08 +0600
+date: 2006-12-19 02:18:08 +0000
 ---
-{% include box-open.html box-id="2774" title="I'm very delighted to announce this:" author-id="257" timestamp="2006-12-18 20:18:08 +0600" type="norm" dbname="box13592" last-modified-by="127" %}
+{% include box-open.html box-id="2774" title="I'm very delighted to announce this" author-id="257" timestamp="2006-12-19 02:18:08 +0000" type="norm" dbname="box13592" last-modified-by="127" %}
 Many of you might remember, that I had a short stint being a Radio PSI Podcaster. I was greeted with staunch opposition to the format that I had decided to use, which was the iPod Podcasting enhanced .mp4 format. 
 <p />
 I axed the project after only three editions, I didn't really think it fit the site. After all, we have great archives of live Radio PSI programming. 
@@ -16,4 +16,4 @@ It's the podcast Starmen.net should have! I plan on making the first editions of
 Keep submitting to Fan Music, 
 <p />
 Erik
-{% include box-close.html author-name="Erik" last-modified-on="2006-12-18 20:34:31 +0600" last-modified-by-name="Erik" %}
+{% include box-close.html author-name="Erik" last-modified-on="2006-12-19 02:34:31 +0000" last-modified-by-name="Erik" %}

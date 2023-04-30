@@ -2,9 +2,9 @@
 title: Theories
 categories:
   - articles
-date: 2011-10-08 17:17:21 +0500
+date: 2011-10-08 22:17:21 +0000
 ---
-{% include box-open.html box-id="3987" title="Theories!:" author-id="1419" timestamp="2011-10-08 17:17:21 +0500" type="norm" dbname="box32453" last-modified-by="127" %}
+{% include box-open.html box-id="3987" title="Theories!" author-id="1419" timestamp="2011-10-08 22:17:21 +0000" type="norm" dbname="box32453" last-modified-by="127" %}
 <center><img src="/articles/TheoriesBannerWhite.png" alt="Theories!" title="BLOOP BLOOP THEORIES"></img></center>
 
 Theories is the biweekly contest for the <a href="/articles/index.php">Articles</a> section! Home to some of the silliest writings on the website, Theories can be thought provoking, or it can simply be a laugh. Every two weeks, a new topic is chosen to write about, and fellow members send in responses! My absolute favorite will be dubbed <b>Theory of the Week</b>! All of the past Theory of the Week winners will be recorded on the <a href="/articles/theories/TheoriesHOF.php">Theories Hall of Fame</a>! So get thinking, and send in some amazing theories!<p/>
@@ -29,15 +29,15 @@ If you get 7 Theory of the Week wins, you get THIS badge!<p/>
 <center><img src="http://starmen.net/articles/theories/Giygas_Theory_Badge.png" title="big mac?" /></center>
 
 <p>Check the <a href="http://starmen.net/articles/theories/TheoriesHOF.php">Hall of Fame</a> to see all of the winning theories, and see <a href="http://starmen.net/articles/theories/TheoriesTally.php">this page</a> for a count of all the progress towards the Giygas participation badge!</p>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2015-07-10 20:53:32 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2015-07-11 01:53:32 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4024" title="Theories has a new home!:" author-id="1419" timestamp="2011-10-09 15:16:56 +0500" type="norm" dbname="box61714" last-modified-by="127" %}
+{% include box-open.html box-id="4024" title="Theories has a new home!" author-id="1419" timestamp="2011-10-09 20:16:56 +0000" type="norm" dbname="box61714" last-modified-by="127" %}
 <p><b>Go check out the <a href="https://forum.starmen.net/forum/Fan/Writing">Writing Section</a> of the forums for the new Theories prompts!</b></p>
 
 <p>They're stickied right at the top for your convenience!</p>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2016-06-23 15:00:37 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2016-06-23 20:00:37 +0000" last-modified-by-name="J_Spade" %}
 
-{% include box-open.html box-id="4025" title="Past Theories Topics:" author-id="1419" timestamp="2011-10-09 15:17:30 +0500" type="norm" dbname="box5588" last-modified-by="127" %}
+{% include box-open.html box-id="4025" title="Past Theories Topics" author-id="1419" timestamp="2011-10-09 20:17:30 +0000" type="norm" dbname="box5588" last-modified-by="127" %}
 <table border="0" width="100%"><tbody><tr><td valign="top">
 <a href="https://forum.starmen.net/forum/Fan/Writing/Theories-9-20-10-4-The-Happiest-Box-You-ll-Ever-See/page/1">The Happiest Box You'll Ever See</a><br />
 <a href="https://forum.starmen.net/forum/Fan/Writing/Theories-9-2-9-16-The-Eye-of-the-Hawk/page/1">The Eye of the Hawk</a><br />
@@ -188,4 +188,4 @@ If you get 7 Theory of the Week wins, you get THIS badge!<p/>
 08/25/2003<br></br>
 <br></br>
 </td></tr></tbody></table>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2016-09-29 12:32:52 +0500" last-modified-by-name="J_Spade" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2016-09-29 17:32:52 +0000" last-modified-by-name="J_Spade" %}

@@ -2,9 +2,9 @@
 title: 'MOTHER 2 Mini Figure Collection 5: Mr. Saturns &amp; Master Belch'
 categories:
   - merchandise
-date: 2011-02-02 14:03:48 +0600
+date: 2011-02-02 20:03:48 +0000
 ---
-{% include box-open.html box-id="3956" title="MOTHER 2 Mini Figure Collection 5: Mr. Saturns & Master Belch:" author-id="45" timestamp="2011-02-02 14:03:48 +0600" type="norm" dbname="box44318" last-modified-by="127" %}
+{% include box-open.html box-id="3956" title="MOTHER 2 Mini Figure Collection 5: Mr. Saturns & Master Belch" author-id="45" timestamp="2011-02-02 20:03:48 +0000" type="norm" dbname="box44318" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -62,4 +62,4 @@ In September of 2010 Banpresto started stocking UFO crane catching games with MO
 	<br />
 
 <a href="/merchandise/images/m2mfc5_mrsaturns_masterbelch.jpg" ><img src="/merchandise/images/m2mfc5_mrsaturns_masterbelch.jpg" title="MOTHER 2 Mini Figure Collection 5: Mr. Saturns & Master Belch" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:07:08 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:07:08 +0000" last-modified-by-name="Tomato" %}

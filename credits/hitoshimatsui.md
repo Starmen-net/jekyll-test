@@ -2,9 +2,9 @@
 title: 'Game Credits: Hitoshi Matsui'
 categories:
   - credits
-date: 2005-05-03 02:13:51 +0500
+date: 2005-05-03 07:13:51 +0000
 ---
-{% include box-open.html box-id="981" title="Hitoshi Matsui:" author-id="2262" timestamp="2005-05-03 02:13:51 +0500" type="norm" dbname="box40130" last-modified-by="127" %}
+{% include box-open.html box-id="981" title="Hitoshi Matsui" author-id="2262" timestamp="2005-05-03 07:13:51 +0000" type="norm" dbname="box40130" last-modified-by="127" %}
 <img src="hitoshimitsui.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -13,4 +13,4 @@ Message Data Manager<BR />
 Assistant Game Designer<BR />
 Chief Debugger</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-06 22:16:49 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 03:16:49 +0000" last-modified-by-name="KingDarian" %}

@@ -2,16 +2,16 @@
 title: MOTHER 2 / EarthBound Official Game Art
 categories:
   - mother2
-date: 2005-11-09 22:20:09 +0600
+date: 2005-11-10 04:20:09 +0000
 ---
-{% include box-open.html box-id="2666" title="EarthBound Cart, Box, and Player's Guide:" author-id="8" timestamp="2006-11-07 15:05:55 +0600" type="norm" dbname="box23523" last-modified-by="127" %}
+{% include box-open.html box-id="2666" title="EarthBound Cart, Box, and Player's Guide" author-id="8" timestamp="2006-11-07 21:05:55 +0000" type="norm" dbname="box23523" last-modified-by="127" %}
 <a href="newBox_Art_-_front.jpg" title="EarthBound Box - Front"><img src="ebBoxt.jpg" alt="EarthBound Box - Front" /></a> 
 <a href="newBox_Art_-_back.jpg" title="EarthBound Box - Back"><img src="ebBox2t.jpg" alt="EarthBound Box - Back" /></a> 
 <a href="newPlayer_s_Guide.jpg" title="EarthBound Player's Guide"><img src="ebGuidet.jpg" alt="EarthBound Player's Guide" /></a> 
 <a href="ebCart.jpg" title="EarthBound Cart"><img src="ebCartt.jpg" alt="EarthBound Cart" /></a> 
-{% include box-close.html author-name="reidman" last-modified-on="2018-04-23 18:48:25 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="reidman" last-modified-on="2018-04-23 23:48:25 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="1713" title="MOTHER 2 / EarthBound Clay Models:" author-id="2262" timestamp="2005-11-09 22:20:09 +0600" type="norm" dbname="box1886" last-modified-by="127" %}
+{% include box-open.html box-id="1713" title="MOTHER 2 / EarthBound Clay Models" author-id="2262" timestamp="2005-11-10 04:20:09 +0000" type="norm" dbname="box1886" last-modified-by="127" %}
 <a href="clay_abstractart.png" title="Abstract Art"><img src="clay_abstractartt.png" alt="Abstract Art" width="50" height="50" /></a>
 <a href="clay_aopman_.png" title="Annoying Old Party Man"><img src="clay_aopmant.png" alt="Annoying Old Party Man" width="50" height="50" /></a>
 <a href="clay_applekid.png" title="Apple Kid"><img src="clay_applekidt.png" alt="Apple Kid" width="50" height="50" /></a>
@@ -85,15 +85,15 @@ date: 2005-11-09 22:20:09 +0600
 <a href="clay_posessor.png" title="Zombie Posessor"><img src="clay_posessort.png" alt="Zombie Posessor" width="50" height="50" /></a><a href="violentroach.jpg" title="Violent Roach"><img src="violentroacht.jpg" alt="Violent Roach" width="50" height="50" /></a>
 <br /><br />
 <a href="EarlyM2Paulaclaymodel.png" title="Early Mother 2 Paula Clay Model"><img src="oldpaulaclayT.png" alt="Old Paula Mother 2 Clay Model" width="50" height="50" /></a><a href="http://starmen.net/vote/vote.php?id=27988">Old Paula Model</a> (courtesy of BottleRocket)
-{% include box-close.html author-name="KingDarian" last-modified-on="2017-07-11 16:58:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2017-07-11 21:58:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="1715" title="EarthBound Logos:" author-id="2262" timestamp="2005-11-10 11:16:37 +0600" type="norm" dbname="box31284" last-modified-by="127" %}
+{% include box-open.html box-id="1715" title="EarthBound Logos" author-id="2262" timestamp="2005-11-10 17:16:37 +0000" type="norm" dbname="box31284" last-modified-by="127" %}
 <a href="eblogo2.gif" title="EarthBound Logo"><img src="eblogo2t.png" alt="EarthBound Logo" width="50" height="50" /></a>
 <a href="oeblogo.gif" title="Old EarthBound Logo"><img src="oeblogot.png" alt="Old EarthBound Logo" width="50" height="50" /></a>
 <a href="ebvector.png" title="Jonk's Sexy EarthBound Logo"><img src="ebvectort.png" alt="Jonk's Sexy EarthBound Logo" width="50" height="50" /></a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2007-06-19 11:54:27 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2007-06-19 16:54:27 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3046" title="MOTHER 2 / EarthBound Concept Art:" author-id="288" timestamp="2007-06-19 11:49:04 +0500" type="norm" dbname="box55961" last-modified-by="127" %}
+{% include box-open.html box-id="3046" title="MOTHER 2 / EarthBound Concept Art" author-id="288" timestamp="2007-06-19 16:49:04 +0000" type="norm" dbname="box55961" last-modified-by="127" %}
 In June 2003 the <a href="/merchandise/misc/m12artbook.php">MOTHER 1+2 Art Book</a> was published to go along with the release of MOTHER 1+2 for the Game Boy Advance. This book contains many concept sketches and pictures from the early stages of MOTHER 2's production and locations such as Dalaam and Winters can be viewed here as they once existed in the minds of the game developers.  It is interesting to compare the concepts with that which was ultimately included in the game as some of the sketches are very different.
 <ul class="pics">
 	<li>
@@ -158,4 +158,4 @@ In June 2003 the <a href="/merchandise/misc/m12artbook.php">MOTHER 1+2 Art Book<
 	</li>
 </ul>
 <p>Remember kids, if you would like more information on the <a href="/merchandise/misc/m12artbook.php">MOTHER 1+2 Art Book</a>  or ways to get some of your very own MOTHER 2 publications, head on over to our great <a href="/merchandise/">merchandise</a> secion.  Also, a big thank you to Jonk for providing the scans.</p>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-30 22:19:58 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-07-01 03:19:58 +0000" last-modified-by-name="Tomato" %}

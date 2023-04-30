@@ -2,15 +2,15 @@
 title: Rock Candy - 1st Album
 categories:
   - rockcandy
-date: 2007-05-19 20:11:39 +0500
+date: 2007-05-20 01:11:39 +0000
 ---
-{% include box-open.html box-id="2882" title="Rock Candy - 1st Album:" author-id="137" timestamp="2007-05-19 20:11:39 +0500" type="norm" dbname="box39466" last-modified-by="127" %}
+{% include box-open.html box-id="2882" title="Rock Candy - 1st Album" author-id="137" timestamp="2007-05-20 01:11:39 +0000" type="norm" dbname="box39466" last-modified-by="127" %}
 <center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_banner_album_1.png" /></center><center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_separator.png" /></center>
 <center><a href="http://jonk.fobby.net/smn/rockcandy/release/rc1.1.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part1.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc1.2.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part2.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc1.3.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part3.png" border="0" /></a></center>
 
-{% include box-close.html author-name="Jonk" last-modified-on="2007-05-19 23:59:31 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-05-20 04:59:31 +0000" last-modified-by-name="Jonk" %}
 
-{% include box-open.html box-id="2883" title="RC1 Playlist:" author-id="137" timestamp="2007-05-19 20:12:04 +0500" type="norm" dbname="box42921" last-modified-by="127" %}
+{% include box-open.html box-id="2883" title="RC1 Playlist" author-id="137" timestamp="2007-05-20 01:12:04 +0000" type="norm" dbname="box42921" last-modified-by="127" %}
 <table class="album" cellspacing="0">
 	<thead>
 		<tr>
@@ -203,4 +203,4 @@ date: 2007-05-19 20:11:39 +0500
 		</tr>
 	</tbody>
 </table>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-05-26 22:07:23 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-05-27 03:07:23 +0000" last-modified-by-name="Jonk" %}

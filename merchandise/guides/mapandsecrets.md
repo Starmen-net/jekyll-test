@@ -2,9 +2,9 @@
 title: Mother Map and Secrets Compilation
 categories:
   - merchandise
-date: 2005-01-03 19:56:38 +0600
+date: 2005-01-04 01:56:38 +0000
 ---
-{% include box-open.html box-id="294" title="Mother Map and Secrets Compilation:" author-id="45" timestamp="2005-01-03 19:56:38 +0600" type="norm" dbname="box10506" last-modified-by="127" %}
+{% include box-open.html box-id="294" title="Mother Map and Secrets Compilation" author-id="45" timestamp="2005-01-04 01:56:38 +0000" type="norm" dbname="box10506" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/commap_title.jpg" border="0" alt="Mother Map and Secrets Compilation" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 19:56:38 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/commap1.jpg">Front</a> - <a href="/merchandise/images/commap2.jpg">Inside</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:43:36 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:43:36 +0000" last-modified-by-name="Tomato" %}

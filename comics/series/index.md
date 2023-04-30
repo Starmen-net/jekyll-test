@@ -2,15 +2,15 @@
 title: Fan Comics - Series
 categories:
   - comics
-date: 2005-10-02 17:38:43 +0500
+date: 2005-10-02 22:38:43 +0000
 ---
-{% include box-open.html box-id="1519" title="Series:" author-id="474" timestamp="2005-10-02 17:38:43 +0500" type="norm" dbname="box19845" last-modified-by="127" %}
+{% include box-open.html box-id="1519" title="Series" author-id="474" timestamp="2005-10-02 22:38:43 +0000" type="norm" dbname="box19845" last-modified-by="127" %}
 <b><u>Fan Series</u></b> - From a multitude of the site's great artists comes a variety of EarthBoundy tales guaranteed to awe you!  From serious stories of tragedy and duty to silly quips of hilarity and the bizarre, you'll always find something to get hooked on here!  Keep an eye out for new comics in the updates!
 
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2006-07-16 17:55:33 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2006-07-16 22:55:33 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="1520" title="Live Series:" author-id="474" timestamp="2005-10-02 17:38:44 +0500" type="norm" dbname="box36150" last-modified-by="127" %}
+{% include box-open.html box-id="1520" title="Live Series" author-id="474" timestamp="2005-10-02 22:38:44 +0000" type="norm" dbname="box36150" last-modified-by="127" %}
 <center>
 <a href="birdychimera/index.php"><img src="birdychimera/birdychimerabutton.gif" title="Adventures of Birdy and Chimera" border="0" /></a>
 <a href="chosenfour/"><img src="chosenfour/chosenfourbutton.gif" title="The Chosen Four" border="0" /></a>
@@ -24,9 +24,9 @@ date: 2005-10-02 17:38:43 +0500
 
 
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2013-08-12 17:12:21 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2013-08-12 22:12:21 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="2399" title="Classic Series:" author-id="474" timestamp="2006-06-18 15:04:18 +0500" type="norm" dbname="box64047" last-modified-by="127" %}
+{% include box-open.html box-id="2399" title="Classic Series" author-id="474" timestamp="2006-06-18 20:04:18 +0000" type="norm" dbname="box64047" last-modified-by="127" %}
 <center>
 <a href="weakdef/index.php"><img src="weakdef/weakdefbutton.gif" title="A Weak Defense" border="0" /></a>
 <a href="ambience/index.php"><img src="ambience/ambiencebutton.gif" title="Ambience" border="0" /></a>
@@ -73,9 +73,9 @@ date: 2005-10-02 17:38:43 +0500
 
 
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2012-07-22 12:32:34 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2012-07-22 17:32:34 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="1521" title="Want to make your own?:" author-id="474" timestamp="2005-10-02 17:51:42 +0500" type="norm" dbname="box27771" last-modified-by="127" %}
+{% include box-open.html box-id="1521" title="Want to make your own?" author-id="474" timestamp="2005-10-02 22:51:42 +0000" type="norm" dbname="box27771" last-modified-by="127" %}
 Interested in seeing your own comic here?  It's no surprise that what sets the series apart from the rest is quantity.  If you have an idea for an ongoing comic series and plan to make several follow-ups to it (preferably around 12+ comics at least, over the span of a month), PM the comics staffer on the forums expressing your interest and go from there.  Remember, the best qualities you can have for you and your comic are:
 <ul><li>A steady stream of updates</li>
 <li>A good storyline</li>
@@ -85,4 +85,4 @@ Interested in seeing your own comic here?  It's no surprise that what sets the s
 Remember, comics aren't supposed to be all work, either.  Have fun with what you make; that's the most important rule!
 
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2010-02-18 18:51:28 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2010-02-19 00:51:28 +0000" last-modified-by-name="Artemis251" %}

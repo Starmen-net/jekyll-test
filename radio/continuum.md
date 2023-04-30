@@ -2,9 +2,9 @@
 title: RADIO - MISCELLANEOUS - RADIO PSI CONTINUUM LEAGUE TOURNAMENTS
 categories:
   - radio
-date: 2007-01-27 17:17:23 +0600
+date: 2007-01-27 23:17:23 +0000
 ---
-{% include box-open.html box-id="2816" title="Radio PSI Continuum League Tournaments:" author-id="247" timestamp="2007-01-27 17:17:23 +0600" type="norm" dbname="box52137" last-modified-by="127" %}
+{% include box-open.html box-id="2816" title="Radio PSI Continuum League Tournaments" author-id="247" timestamp="2007-01-27 23:17:23 +0000" type="norm" dbname="box52137" last-modified-by="127" %}
 <P><DIV ALIGN="center"><img src="http://starmen.net/radio/images/continuum.png" /></DIV></P><br />
 
 <p>
@@ -126,4 +126,4 @@ The Leviathan Tournament will take place at 12:30 AM through 1:00 AM, EST, on Fe
 </td>
 </tr>
 </p></table>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-02-03 22:51:26 +0600" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-02-04 04:51:26 +0000" last-modified-by-name="Mansion Maniac" %}

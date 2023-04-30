@@ -2,9 +2,9 @@
 title: Sanctuary Raglan
 categories:
   - merchandise
-date: 2005-01-03 23:47:17 +0600
+date: 2005-01-04 05:47:17 +0000
 ---
-{% include box-open.html box-id="382" title="Sanctuary Raglan:" author-id="45" timestamp="2005-01-03 23:47:17 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="382" title="Sanctuary Raglan" author-id="45" timestamp="2005-01-04 05:47:17 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_sanrag_title.png" border="0" alt="Sanctuary Raglan" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-03 23:47:17 +0600
 	<br />
 	<a href="/merchandise/images/smn_sanrag_front.jpg">Front</a> - <a href="/merchandise/images/smn_sanrag_back.jpg">Back</a> - <a href="/merchandise/images/smn_sanrag_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_sanrag_bdesign.jpg">Back Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:47:26 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:47:26 +0000" last-modified-by-name="ShadowX" %}

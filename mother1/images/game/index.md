@@ -2,9 +2,9 @@
 title: MOTHER / EarthBound Zero Game Sprites
 categories:
   - mother1
-date: 2006-03-01 19:31:45 +0600
+date: 2006-03-02 01:31:45 +0000
 ---
-{% include box-open.html box-id="2016" title="People:" author-id="474" timestamp="2006-03-02 22:05:02 +0600" type="norm" dbname="box61834" last-modified-by="127" %}
+{% include box-open.html box-id="2016" title="People" author-id="474" timestamp="2006-03-03 04:05:02 +0000" type="norm" dbname="box61834" last-modified-by="127" %}
 <a href="ana.png" title="Ana"><img src="anaT.png" width="50" height="50" /></a>
 <a href="ana(dead).png" title="Ana (Dead)"><img src="ana(dead)T.png" width="50" height="50" /></a>
 <a href="anamom.png" title="Ana's Mom"><img src="anamomT.png" width="50" height="50" /></a>
@@ -95,9 +95,9 @@ date: 2006-03-01 19:31:45 +0600
 <a href="teddy.png" title="Teddy"><img src="teddyT.png" width="50" height="50" /></a>
 <a href="teddy(dead).png" title="Teddy (Dead)"><img src="teddy(dead)T.png" width="50" height="50" /></a>
 <a href="teleportcrash.png" title="Teleport Crash"><img src="teleportcrashT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="Artemis251" last-modified-on="2016-10-12 15:07:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2016-10-12 20:07:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4768" title="Animals:" author-id="28590" timestamp="2016-10-12 12:18:37 +0500" type="norm" dbname="box20251" last-modified-by="127" %}
+{% include box-open.html box-id="4768" title="Animals" author-id="28590" timestamp="2016-10-12 17:18:37 +0000" type="norm" dbname="box20251" last-modified-by="127" %}
 <a href="bluefish.png" title="Blue Fish"><img src="bluefishT.png" width="50" height="50" /></a>
 <a href="canary.png" title="Canary"><img src="canaryT.png" width="50" height="50" /></a>
 <a href="dog.png" title="Dog"><img src="dogT.png" width="50" height="50" /></a>
@@ -112,9 +112,9 @@ date: 2006-03-01 19:31:45 +0600
 <a href="rabbit.png" title="Rabbit"><img src="rabbitT.png" width="50" height="50" /></a>
 <a href="redfish.png" title="Red Fish"><img src="redfishT.png" width="50" height="50" /></a>
 <a href="swimmingcat.png" title="Swimming Cat"><img src="swimmingcatT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-12 12:41:47 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-12 17:41:47 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4769" title="Miscellaneous Objects and Effects:" author-id="28590" timestamp="2016-10-12 12:57:09 +0500" type="norm" dbname="box42515" last-modified-by="127" %}
+{% include box-open.html box-id="4769" title="Miscellaneous Objects and Effects" author-id="28590" timestamp="2016-10-12 17:57:09 +0000" type="norm" dbname="box42515" last-modified-by="127" %}
 <a href="atm.png" title="ATM"><img src="atmT.png" width="50" height="50" /></a>
 <a href="blackphone.png" title="Black Phone"><img src="blackphoneT.png" width="50" height="50" /></a>
 <a href="boat.png" title="Boat"><img src="boatT.png" width="50" height="50" /></a>
@@ -169,9 +169,9 @@ date: 2006-03-01 19:31:45 +0600
 <a href="whitemonument.png" title="White Monument"><img src="whitemonumentT.png" width="50" height="50" /></a>
 <a href="xxstone.png" title="XX Stone"><img src="xxstoneT.png" width="50" height="50" /></a>
 <a href="zoogate.png" title="Zoo Gate"><img src="zoogateT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-12 14:53:21 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-12 19:53:21 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2012" title="Enemies:" author-id="474" timestamp="2006-03-01 19:31:45 +0600" type="norm" dbname="box11927" last-modified-by="127" %}
+{% include box-open.html box-id="2012" title="Enemies" author-id="474" timestamp="2006-03-02 01:31:45 +0000" type="norm" dbname="box11927" last-modified-by="127" %}
 <a href="alarmghost.gif" title="Alarm Ghost"><img src="alarmghostT.png" width="50" height="50" /></a>
 <a href="alligator.gif" title="Alligator"><img src="alligatorT.png" width="50" height="50" /></a>
 <a href="armor.gif" title="Armor"><img src="armorT.png" width="50" height="50" /></a>
@@ -268,9 +268,9 @@ date: 2006-03-01 19:31:45 +0600
 <a href="woodoh.gif" title="Woodoh"><img src="woodohT.png" width="50" height="50" /></a>
 <a href="zombie.gif" title="Zombie"><img src="zombieT.png" width="50" height="50" /></a>
 
-{% include box-close.html author-name="Artemis251" last-modified-on="2016-10-12 12:07:12 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2016-10-12 17:07:12 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2021" title="Bosses:" author-id="474" timestamp="2006-03-02 22:12:56 +0600" type="norm" dbname="box19590" last-modified-by="127" %}
+{% include box-open.html box-id="2021" title="Bosses" author-id="474" timestamp="2006-03-03 04:12:56 +0000" type="norm" dbname="box19590" last-modified-by="127" %}
 <a href="doll.gif" title="Doll"><img src="dollT.png" width="50" height="50" /></a>
 <a href="starmanjr.gif" title="Starman Jr."><img src="starmanjrT.png" width="50" height="50" /></a>
 <a href="fish.gif" title="Fish"><img src="fishT.png" width="50" height="50" /></a>
@@ -280,9 +280,9 @@ date: 2006-03-01 19:31:45 +0600
 <a href="r7308.gif" title="R7308"><img src="r7038T.png" width="50" height="50" /></a>
 <a href="r7308xx.gif" title="R7308xx"><img src="r7038xxT.png" width="50" height="50" /></a>
 <a href="giegue.gif" title="Giegue"><img src="Gieguet.png" width="50" height="50" /></a>
-{% include box-close.html author-name="Artemis251" last-modified-on="2016-10-12 07:01:51 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2016-10-12 12:01:51 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4767" title="Uncensored:" author-id="28590" timestamp="2016-10-12 11:43:38 +0500" type="norm" dbname="box36068" last-modified-by="127" %}
+{% include box-open.html box-id="4767" title="Uncensored" author-id="28590" timestamp="2016-10-12 16:43:38 +0000" type="norm" dbname="box36068" last-modified-by="127" %}
 <a href="bbboss_uncensored.png" title="BB Boss (Uncensored)"><img src="bbbossT_uncensored.png" width="50" height="50" /></a>
 <a href="bbgangmember_uncensored.png" title="BB Gang Member (Uncensored)"><img src="bbgangmemberT_uncensored.png" width="50" height="50" /></a>
 <a href="crow_uncensored.png" title="Crow (Uncensored)"><img src="crowT_uncensored.png" width="50" height="50" /></a>
@@ -293,23 +293,23 @@ date: 2006-03-01 19:31:45 +0600
 <a href="nancy_uncensored.png" title="Nancy (Uncensored)"><img src="nancyT_uncensored.png" width="50" height="50" /></a>
 <a href="nastyzombie_uncensored.png" title="Nasty Zombie (Uncensored)"><img src="nastyzombieT_uncensored.png" width="50" height="50" /></a>
 <a href="shroudley_uncensored.png" title="Shroudly (Uncensored)"><img src="shroudlyT_uncensored.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-12 12:02:14 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-12 17:02:14 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2179" title="Unused:" author-id="474" timestamp="2006-04-06 13:47:23 +0500" type="norm" dbname="box63795" last-modified-by="127" %}
+{% include box-open.html box-id="2179" title="Unused" author-id="474" timestamp="2006-04-06 18:47:23 +0000" type="norm" dbname="box63795" last-modified-by="127" %}
 <b>Unused NPC</b><br/><br/>
 <a href="unusedguitarman.png" title="Unused Guitar Man"><img src="unusedguitarmanT.png" width="50" height="50" /></a>
 <br/><br/>
 <b>Unused: Enemies</b><br/><br/>
 <a href="pillow251.png" title="Pillow?"><img src="Unused_PillowT.png" width="50" height="50" /></a>
 <a href="pippi251.png" title="Pippi?"><img src="Unused_pippiT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="Artemis251" last-modified-on="2016-11-15 06:24:29 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2016-11-15 12:24:29 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2017" title="Other:" author-id="474" timestamp="2006-03-02 22:07:15 +0600" type="norm" dbname="box50693" last-modified-by="127" %}
+{% include box-open.html box-id="2017" title="Other" author-id="474" timestamp="2006-03-03 04:07:15 +0000" type="norm" dbname="box50693" last-modified-by="127" %}
 <a href="earthspin.gif" title="Earth Spinning (Mother Logo)"><img src="earthspint.png" width="50" height="50" /></a>
 <a href="GiegueShip.png" title="Giegue's Ship"><img src="GiegueShipt.png" width="50" height="50" /></a>
-{% include box-close.html author-name="Artemis251" last-modified-on="2006-03-02 22:21:15 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2006-03-03 04:21:15 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="2013" title="Miscellaneous:" author-id="474" timestamp="2006-03-01 20:45:07 +0600" type="norm" dbname="box56224" last-modified-by="127" %}
+{% include box-open.html box-id="2013" title="Miscellaneous" author-id="474" timestamp="2006-03-02 02:45:07 +0000" type="norm" dbname="box56224" last-modified-by="127" %}
 <table1 />
 <a href="http://starmen.net/mother1/images/game/eb0sprites.zip">A bunch of character sprites</a><br />
 <a href="http://starmen.net/mother1/images/game/m1sprite.zip">A bunch of sprites</a>
@@ -319,4 +319,4 @@ submitted by EvilGiegue<br />
 submitted by Eggy
 
 <table3 />
-{% include box-close.html author-name="Artemis251" last-modified-on="2006-04-06 13:54:44 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2006-04-06 18:54:44 +0000" last-modified-by-name="Artemis251" %}

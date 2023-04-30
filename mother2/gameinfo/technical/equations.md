@@ -2,13 +2,13 @@
 title: MOTHER 2 / EarthBound Technical Info &amp; Equations
 categories:
   - mother2
-date: 2007-01-21 12:31:49 +0600
+date: 2007-01-21 18:31:49 +0000
 ---
-{% include box-open.html box-id="2798" title="MOTHER 2 / EarthBound Game Equations:" author-id="288" timestamp="2007-01-21 12:31:49 +0600" type="norm" dbname="box3376" last-modified-by="127" %}
+{% include box-open.html box-id="2798" title="MOTHER 2 / EarthBound Game Equations" author-id="288" timestamp="2007-01-21 18:31:49 +0000" type="norm" dbname="box3376" last-modified-by="127" %}
 Until recently, the algorithms and equations used in EarthBound have been shrouded in scary machine code and undocumented assembly code dumps. But luckily, a few awesome people have showed up to save the day and provide us with some very cool and interesting info. The following are how the game makes its decisions and/or makes its various calculations.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-22 15:02:56 +0500" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-22 20:02:56 +0000" last-modified-by-name="Ninten1" %}
 
-{% include box-open.html box-id="3074" title="General Battle Equations & Algorithms:" author-id="849" timestamp="2007-06-20 16:21:09 +0500" type="norm" dbname="box46430" last-modified-by="127" %}
+{% include box-open.html box-id="3074" title="General Battle Equations & Algorithms" author-id="849" timestamp="2007-06-20 21:21:09 +0000" type="norm" dbname="box46430" last-modified-by="127" %}
 <u><b>Instant Wins</b></u>
 <br /><br />
 In some cases, when you get into a fight with a weak enemy, you automatically win without going into battle. This is based on your speed, offense, and status. Only the chosen four matter for this; NPCs such as Flying Man are not counted.
@@ -102,9 +102,9 @@ Enemies will run away from you out of battle under the following circumstances:
 <br /><br />
 Whenever numbers are adjusted by +/- 25% or +/- 50%, the result follows a pyramid-shaped distribution. The number is more likely to be near the middle of the range than near either end, when considering intervals of equal length.
 <br /><br />
-{% include box-close.html author-name="Ninten1" last-modified-on="2017-01-17 05:45:35 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2017-01-17 11:45:35 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2799" title="Bash/Shoot and Defend Equations & Algorithms:" author-id="288" timestamp="2007-01-21 12:33:46 +0600" type="norm" dbname="box12433" last-modified-by="127" %}
+{% include box-open.html box-id="2799" title="Bash/Shoot and Defend Equations & Algorithms" author-id="288" timestamp="2007-01-21 18:33:46 +0000" type="norm" dbname="box12433" last-modified-by="127" %}
 <u><b>Physical Attacks</b></u>: Attacks are dealt with as follows:
 <br /><br />
 <b>1. Miss</b>
@@ -167,9 +167,9 @@ When it says "Ness dodged swiftly!", it's due to speed.
 When it says "...narrowly missed hitting the target!", it's due to miss rate from Shoot or a similar attack.
 <br/>
 When it says "Just missed!", it's due to miss rate from Bash or a similar attack.
-{% include box-close.html author-name="Tomato" last-modified-on="2010-07-15 04:34:00 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2010-07-15 09:34:00 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3075" title="PSI Equations & Algorithms:" author-id="849" timestamp="2007-06-20 16:26:16 +0500" type="norm" dbname="box60868" last-modified-by="127" %}
+{% include box-open.html box-id="3075" title="PSI Equations & Algorithms" author-id="849" timestamp="2007-06-20 21:26:16 +0000" type="norm" dbname="box60868" last-modified-by="127" %}
 <u><b>PSI Rockin' Miss Rate:</b></u> Ness's PSI Rockin' (or whatever you named your favorite thing) misses sometimes. The probability it'll miss is calculated by:
 <br /><br />
 <center><b>(((2 * target's speed) - Ness's speed) / 5)%</b></center>
@@ -244,9 +244,9 @@ Defense down will fail with probability luck/80, or always if it targets a NPC. 
 <u><b>Healing gamma</b></u>
 <br /><br />
 Healing gamma has a 3/4 chance of reviving an unconscious character.
-{% include box-close.html author-name="Ninten1" last-modified-on="2007-06-20 16:47:06 +0500" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2007-06-20 21:47:06 +0000" last-modified-by-name="Ninten1" %}
 
-{% include box-open.html box-id="3079" title="Pray Formulas & Algorithms:" author-id="849" timestamp="2007-06-20 17:10:22 +0500" type="norm" dbname="box40262" last-modified-by="127" %}
+{% include box-open.html box-id="3079" title="Pray Formulas & Algorithms" author-id="849" timestamp="2007-06-20 22:10:22 +0000" type="norm" dbname="box40262" last-modified-by="127" %}
 Praying has one of several random effects:
 <br /><br />
 5/16: subtle light, heals each PC by 1/16 of maximum HP, rounded down
@@ -272,9 +272,9 @@ Praying has one of several random effects:
 The mysterious aroma and heaven rending sound ignore resistance to Hypnosis and Brainshock respectively.
 <br/><br/>
 The rainbow-colored light will revive not only all defeated enemies that were present at the start of the battle, but also any enemies that were called to battle and later defeated.
-{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 04:45:27 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 09:45:27 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3862" title="Mirror:" author-id="8286" timestamp="2010-07-15 05:34:05 +0500" type="norm" dbname="box58269" last-modified-by="127" %}
+{% include box-open.html box-id="3862" title="Mirror" author-id="8286" timestamp="2010-07-15 10:34:05 +0000" type="norm" dbname="box58269" last-modified-by="127" %}
 Mirror copies every byte of the enemy's data except:
 <br/>
 - HP (current/rolling/maximum)
@@ -308,9 +308,9 @@ Mirror wears off naturally after 16 turns, if the Neutralizer (or equivalent att
 <br/><br/>
 
 The failure-rate for Mirror depends on the enemy.  It never works on bosses and some other enemies, and never has a success-rate higher than 50%.  Mirror will always fail if the target isn't an enemy or if the target is a NPC.
-{% include box-close.html author-name="Floogal" last-modified-on="2010-07-15 05:36:39 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2010-07-15 10:36:39 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3076" title="Item Equations and Algorithms:" author-id="849" timestamp="2007-06-20 16:28:01 +0500" type="norm" dbname="box48037" last-modified-by="127" %}
+{% include box-open.html box-id="3076" title="Item Equations and Algorithms" author-id="849" timestamp="2007-06-20 21:28:01 +0000" type="norm" dbname="box48037" last-modified-by="127" %}
 <u><b>Bottle Rockets:</b></u><br/><br/>A standard bottle rocket will miss with probability (2*target's speed - Jeff's speed)%. If it hits, it will deal (120 +/- 25%) damage.
 <br/>Big bottle rockets and Multi bottle rockets will try to hit 5 and 20 times respectively, with the same miss rate. When they hit, they deal ((120*number of hits) +/- 25%) damage.
 <br /><br /><br /><hr width="50%"/><br /><br />
@@ -354,9 +354,9 @@ full HP: 19% (9/48)<br/>
 5 PP: 6% (3/48)<br/>
 20 PP: 4% (2/48)<br/>
 full HP+PP: 2% (1/48)
-{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 05:31:34 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 10:31:34 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3863" title="Resistences:" author-id="8286" timestamp="2010-07-15 05:40:16 +0500" type="norm" dbname="box6005" last-modified-by="127" %}
+{% include box-open.html box-id="3863" title="Resistences" author-id="8286" timestamp="2010-07-15 10:40:16 +0000" type="norm" dbname="box6005" last-modified-by="127" %}
 Every playable character, NPC, and enemy has a unique resistence to fire, freeze, flash, paralysis, and hypnosis, ranging from 0 to 3.  For fire & freeze, the corresponding resistences to damage from such attacks are: 0 -> 0%, 1 -> 30%, 2 -> 60%, 3 -> 95%.  For flash & paralysis & hypnosis, the corresponding evasion to the attacks are: 0 -> 1%, 1 -> 50%, 2 -> 90%, 3 -> 100%.
 <br/><br/>
 There is no brainshock resistence stat stored for anyone.  Instead, it is calculated at the start of battle to be (3 - (hypnosis resistence)).  Thus, it is impossible for anything to be immune to both hypnosis & brainshock -- one of the two will always work with at least a 50% success-rate.
@@ -390,9 +390,9 @@ There is no brainshock resistence stat stored for anyone.  Instead, it is calcul
 <tr><td>Cloak of Kings</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>everything else/unarmed</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 </table></center></b>
-{% include box-close.html author-name="Floogal" last-modified-on="2010-07-15 06:00:14 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2010-07-15 11:00:14 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3077" title="Status Equations & Algorithms:" author-id="849" timestamp="2007-06-20 16:50:52 +0500" type="norm" dbname="box54938" last-modified-by="127" %}
+{% include box-open.html box-id="3077" title="Status Equations & Algorithms" author-id="849" timestamp="2007-06-20 21:50:52 +0000" type="norm" dbname="box54938" last-modified-by="127" %}
 <b><u>Overwriting statuses</u></b>
 <br /><br />
 Some combinations of statuses can't coexist. When an effect tries to add a status to someone who already has a status of the same type, the one with the lower number wins. The statuses are:
@@ -479,9 +479,9 @@ An immobilized character can't use weapons or items, much like being paralyzed. 
 <u><b>Solidification</b></u>
 <br /><br />
 A solidified character can't do anything. A solidified character will always become able to move on his/her/its turn.
-{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 04:47:36 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 09:47:36 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3861" title="NPCs:" author-id="8286" timestamp="2010-07-15 04:36:30 +0500" type="norm" dbname="box19398" last-modified-by="127" %}
+{% include box-open.html box-id="3861" title="NPCs" author-id="8286" timestamp="2010-07-15 09:36:30 +0000" type="norm" dbname="box19398" last-modified-by="127" %}
 NPCs ("Non-playable Characters") are everyone that appear on your team at one point, but are not one of the Chosen 4, and are not controllable.  This includes Teddy Bears, Super Plush Bears, and Tiny Li'l Ghosts.
 <br /><br /><br /><hr width="50%"/><br /><br />
 <b><u>Damage to NPCs</u></b><br/><br/>
@@ -497,9 +497,9 @@ Most NPCs are non-targettable, meaning that enemies won't choose to attack them,
 By contrast, targettable NPCs (Flying Man, Teddy Bear, Super Plush Bear) are targetted by enemies 75% of the time, while a random party member is chosen the remaining 25% of the time.
 <br/><br/>
 Multi-target attacks will hit all playable characters & NPCs normally, regardless if the NPCs are targettable or not.
-{% include box-close.html author-name="Floogal" last-modified-on="2010-07-15 04:42:18 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Floogal" last-modified-on="2010-07-15 09:42:18 +0000" last-modified-by-name="Floogal" %}
 
-{% include box-open.html box-id="3078" title="Stat Equations & Algorithms:" author-id="849" timestamp="2007-06-20 16:59:59 +0500" type="norm" dbname="box57749" last-modified-by="127" %}
+{% include box-open.html box-id="3078" title="Stat Equations & Algorithms" author-id="849" timestamp="2007-06-20 21:59:59 +0000" type="norm" dbname="box57749" last-modified-by="127" %}
 <u><b>Level Up</b></u>
 <br /><br />
 When you gain a level, the increase of stats other than HP and PP is given by the formula:
@@ -547,4 +547,4 @@ After completing Magicant, Ness gets a boost to his stats as follows:<br/>
 +15 IQ<br/>
 +20 Luck<br/><br/>
 Stat boosts from items (capsules and Rock Candy), Magicant, and equipment are ignored in the level-up formula (exluding HP/PP).
-{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 05:44:46 +0500" last-modified-by-name="Floogal" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2010-07-15 10:44:46 +0000" last-modified-by-name="Floogal" %}

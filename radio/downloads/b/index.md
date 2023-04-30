@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ &szlig; ARCHIVES
 categories:
   - radio
-date: 2006-05-27 08:33:02 +0500
+date: 2006-05-27 13:33:02 +0000
 ---
-{% include box-open.html box-id="2358" title="Downloadables!:" author-id="247" timestamp="2006-05-27 08:33:02 +0500" type="norm" dbname="box26957" last-modified-by="127" %}
+{% include box-open.html box-id="2358" title="Downloadables!" author-id="247" timestamp="2006-05-27 13:33:02 +0000" type="norm" dbname="box26957" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ ß<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:49:04 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:49:04 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2359" title="DJ ß's Archive Downloads!:" author-id="247" timestamp="2006-05-27 08:44:47 +0500" type="norm" dbname="box16028" last-modified-by="127" %}
+{% include box-open.html box-id="2359" title="DJ ß's Archive Downloads!" author-id="247" timestamp="2006-05-27 13:44:47 +0000" type="norm" dbname="box16028" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/b/radiopsidumpdjb20070916.ogg">September 16th, 2007</a>
 </p>
@@ -196,4 +196,4 @@ DJ ß<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/b/radiopsidumpdjb20060519.ogg">May 19th, 2006</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:49:14 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:49:14 +0000" last-modified-by-name="Mansion Maniac" %}

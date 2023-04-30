@@ -2,9 +2,9 @@
 title: RADIO PSI - SCHEDULE
 categories:
   - radio
-date: 2006-09-07 14:47:03 +0500
+date: 2006-09-07 19:47:03 +0000
 ---
-{% include box-open.html box-id="2565" title="Radio PSI Schedule:" author-id="247" timestamp="2006-09-07 14:47:03 +0500" type="norm" dbname="box18767" last-modified-by="127" %}
+{% include box-open.html box-id="2565" title="Radio PSI Schedule" author-id="247" timestamp="2006-09-07 19:47:03 +0000" type="norm" dbname="box18767" last-modified-by="127" %}
 <p><div align="center"><font size="7">Radio PSI Schedule</font><br /><br />
 
 
@@ -61,4 +61,4 @@ When life and work allow it, DJ Mon will call upon one of his crew once a week t
 </div></p><br /><br /><br />
 
 <p><div align="center"><font size="3">Radio PSI: Music For Your Mind!</font></div></p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-25 01:37:17 +0600" last-modified-by-name="nightshade" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-25 07:37:17 +0000" last-modified-by-name="nightshade" %}

@@ -2,9 +2,9 @@
 title: Soundtrack
 categories:
   - ssbm
-date: 2016-10-30 20:05:32 +0500
+date: 2016-10-31 01:05:32 +0000
 ---
-{% include box-open.html box-id="4832" title="Soundtrack:" author-id="28590" timestamp="2016-10-30 20:05:32 +0500" type="norm" dbname="box61793" last-modified-by="127" %}
+{% include box-open.html box-id="4832" title="Soundtrack" author-id="28590" timestamp="2016-10-31 01:05:32 +0000" type="norm" dbname="box61793" last-modified-by="127" %}
 <table1 />
 <a href="Achievement Fanfare.mp3">Achievement Fanfare</a><br />
 <a href="Adventure Intro.mp3">Adventure Intro</a><br />
@@ -89,4 +89,4 @@ date: 2016-10-30 20:05:32 +0500
 <a href="Yoshi's Victory.mp3">Yoshi's Victory</a><br />
 <a href="Zelda Team Victory.mp3">Zelda Team Victory</a><br />
 <table3 />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-30 20:17:57 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-31 01:17:57 +0000" last-modified-by-name="CerealQueen" %}

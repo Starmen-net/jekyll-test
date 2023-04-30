@@ -2,18 +2,18 @@
 title: Funfest 05
 categories:
   - funfest05
-date: 2005-10-22 12:45:02 +0500
+date: 2005-10-22 17:45:02 +0000
 ---
-{% include box-open.html box-id="1841" title="Funfest '05 Winners:" author-id="75" timestamp="2006-02-12 13:05:01 +0600" type="norm" dbname="box47932" last-modified-by="75" %}
+{% include box-open.html box-id="1841" title="Funfest '05 Winners" author-id="75" timestamp="2006-02-12 19:05:01 +0000" type="norm" dbname="box47932" last-modified-by="75" %}
 <a href="/funfest05/winnars.php">Check out who won!</a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2006-02-12 13:06:05 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2006-02-12 19:06:05 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="1681" title="Recent Additions:" author-id="13" timestamp="2005-11-01 21:41:31 +0600" type="norm" dbname="box6093" last-modified-by="13" %}
+{% include box-open.html box-id="1681" title="Recent Additions" author-id="13" timestamp="2005-11-02 03:41:31 +0000" type="norm" dbname="box6093" last-modified-by="13" %}
 <navigator search="`Timestamp` GREATERTHANSIGN '1135382400'" quantity="30" group="funfest" display="no" /><displaytor mode="list" /><br /><a href="http://mestephen.com/Videos/pages/ebnomatsuri.html">EB No Matsuri Video by xfisjmg1</a><br />
 <a href="http://starmen.net/funfest05/entries.php">Funfest Entry Directory</a>
-{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-01-06 09:10:43 +0600" last-modified-by-name="JamesPicard_007" %}
+{% include box-close.html author-name="JamesPicard_007" last-modified-on="2006-01-06 15:10:43 +0000" last-modified-by-name="JamesPicard_007" %}
 
-{% include box-open.html box-id="1665" title="Funfest 05:" author-id="49" timestamp="2005-10-22 12:45:02 +0500" type="norm" dbname="box54799" last-modified-by="13" %}
+{% include box-open.html box-id="1665" title="Funfest 05" author-id="49" timestamp="2005-10-22 17:45:02 +0000" type="norm" dbname="box54799" last-modified-by="13" %}
 <p>The Funfest is an event that used to be held at Starmen.Net multiple times yearly. This year for the holiday season we've decided to bring it back! The Funfest is, basically, a chance for people to be creative and show off their abilities. Anyone may participate, and may submit as many items as they come up with. The idea is for you to do what you're best at and what you have fun doing. For example, artists may want to draw a cool picture. People with decent writing skills may want to try their hand at a fanfic.</p>
 <p><b>This Years Theme:</b></p>
 <p>ALL WINTER/FALL HOLIDAYS! Celebrate Halloween, Thanksgiving, New Years Day, <a href="/matsuri">Earthbound no Matsuri</a>, or even Canadian Boxing Day, anything you like!</p>
@@ -47,4 +47,4 @@ date: 2005-10-22 12:45:02 +0500
 Your submission will not be accepted if it is over 5MB as well as files that have the extension BMP(Windows bitmap files; they are excessively large). To convert from BMP to another format, use a utility like <A href="http://www.irfanview.com/">IrfanView</A> or <A href="http://gimp.org/">GIMP</A>. </P>
 <p><b>How to Submit:</b></p>
 <p>All you have to do is select <a href="/submit">Submit</a> on your right and select Funfest 2005 as the section you are uploading to. Don't forget a title and description!</p>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-11-03 19:24:28 +0600" last-modified-by-name="JamesPicard_007" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-11-04 01:24:28 +0000" last-modified-by-name="JamesPicard_007" %}

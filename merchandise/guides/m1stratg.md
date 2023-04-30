@@ -2,9 +2,9 @@
 title: Mother 1 Strategy Guide
 categories:
   - merchandise
-date: 2005-01-03 20:14:18 +0600
+date: 2005-01-04 02:14:18 +0000
 ---
-{% include box-open.html box-id="299" title="Mother 1 Strategy Guide:" author-id="45" timestamp="2005-01-03 20:14:18 +0600" type="norm" dbname="box8097" last-modified-by="127" %}
+{% include box-open.html box-id="299" title="Mother 1 Strategy Guide" author-id="45" timestamp="2005-01-04 02:14:18 +0000" type="norm" dbname="box8097" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/m1stratg_title.jpg" border="0" alt="Mother 1 Strategy Guide" />
 	</center>
@@ -32,4 +32,4 @@ date: 2005-01-03 20:14:18 +0600
 	<br />
 	<a href="/merchandise/images/m1stratg1.jpg">Front 1</a> - <a href="/merchandise/images/m1stratg2.jpg">Front 2</a> - <a href="/merchandise/images/m1stratg3.jpg">Map</a> - 
 	<a href="/merchandise/images/m1stratg4.jpg">Inside 1</a> - <a href="/merchandise/images/m1stratg5.jpg">Inside 2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:42:07 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:42:07 +0000" last-modified-by-name="Tomato" %}

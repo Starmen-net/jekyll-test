@@ -2,9 +2,9 @@
 title: Mother 1 Novel
 categories:
   - merchandise
-date: 2005-04-03 20:30:30 +0500
+date: 2005-04-04 01:30:30 +0000
 ---
-{% include box-open.html box-id="887" title="Mother Novel: The Original Story:" author-id="45" timestamp="2005-04-03 20:30:30 +0500" type="norm" dbname="box41272" last-modified-by="127" %}
+{% include box-open.html box-id="887" title="Mother Novel: The Original Story" author-id="45" timestamp="2005-04-04 01:30:30 +0000" type="norm" dbname="box41272" last-modified-by="127" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m1_novel_title.png" width="200" height="250" border="0" alt="Mother Novel: The Original Story" />
 	</center>
@@ -34,4 +34,4 @@ date: 2005-04-03 20:30:30 +0500
 	<br />
 <a href="/merchandise/images/m1_novel_front1.jpg">Front 1</a> - <a href="/merchandise/images/m1_novel_front2.jpg">Front 2</a> - <a href="/merchandise/images/m1_novel_front3.jpg">Front 3</a> - 
 	<a href="/merchandise/images/m1_novel_front4.jpg">Front 4</a> - <a href="/merchandise/images/m1_novel_back.jpg">Back</a> - <a href="/merchandise/images/m1_novel_spine.jpg">Spine</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:49:17 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:49:17 +0000" last-modified-by-name="Tomato" %}

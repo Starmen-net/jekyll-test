@@ -2,9 +2,9 @@
 title: MOTHER 3 - Fact Sheet
 categories:
   - mother3
-date: 2009-03-18 12:43:15 +0500
+date: 2009-03-18 17:43:15 +0000
 ---
-{% include box-open.html box-id="3685" title="Fact Sheet:" author-id="2262" timestamp="2009-03-18 12:43:15 +0500" type="norm" dbname="box7537" last-modified-by="127" %}
+{% include box-open.html box-id="3685" title="Fact Sheet" author-id="2262" timestamp="2009-03-18 17:43:15 +0000" type="norm" dbname="box7537" last-modified-by="127" %}
 Not much was known about this third (some might say fourth) game in the MOTHER/EarthBound series before the game's release, but below we list everything we were able to find out. Shigesato Itoi said that he would not release anything too early for fear of getting people's hopes up.<BR /><BR />
 
 <B>I. MOTHER 3's release date is set for April 20, 2006 in Japan</B>
@@ -42,4 +42,4 @@ Not much was known about this third (some might say fourth) game in the MOTHER/E
   <LI>Nearly two and a half years have passed since MOTHER 1+2 was released in Japan but it still has not seen an English-language release.</LI>
   <LI>However, Miyamoto was made aware of <A HREF="http://classic.starmen.net/petition/index.php">Starmen.Net's MOTHER 3 petition</A> (which had over 30,000 signatures) and was impressed enough to mention that Nintendo fans are "really solid."</LI>
  </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 12:43:21 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 17:43:21 +0000" last-modified-by-name="KingDarian" %}

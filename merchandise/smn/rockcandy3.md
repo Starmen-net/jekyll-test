@@ -2,9 +2,9 @@
 title: Rock Candy Soundtrack 3
 categories:
   - merchandise
-date: 2005-01-03 23:48:36 +0600
+date: 2005-01-04 05:48:36 +0000
 ---
-{% include box-open.html box-id="383" title="Rock Candy Soundtrack 3:" author-id="45" timestamp="2005-01-03 23:48:36 +0600" type="norm" dbname="box4537" last-modified-by="127" %}
+{% include box-open.html box-id="383" title="Rock Candy Soundtrack 3" author-id="45" timestamp="2005-01-04 05:48:36 +0000" type="norm" dbname="box4537" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/rc_cd3_title.gif" border="0" alt="Rock Candy Soundtrack 3" />
 	</center>
@@ -250,4 +250,4 @@ date: 2005-01-03 23:48:36 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/rc_all30flavors.jpg">All 30 Flavors</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-08-08 23:43:53 +0500" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-08-09 04:43:53 +0000" last-modified-by-name="sarsie" %}

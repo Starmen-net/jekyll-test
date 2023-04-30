@@ -2,9 +2,9 @@
 title: MOTHER 2 Figure Strap
 categories:
   - merchandise
-date: 2014-01-31 15:34:48 +0600
+date: 2014-01-31 21:34:48 +0000
 ---
-{% include box-open.html box-id="4643" title="MOTHER 2 Figure Strap:" author-id="45" timestamp="2014-01-31 15:34:48 +0600" type="norm" dbname="box9355" last-modified-by="45" %}
+{% include box-open.html box-id="4643" title="MOTHER 2 Figure Strap" author-id="45" timestamp="2014-01-31 21:34:48 +0000" type="norm" dbname="box9355" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -85,4 +85,4 @@ INFO SOON
 <a href="/merchandise/images/m2_figurestrap_.jpg" ><img src="/merchandise/images/m2_figurestrap_.jpg" title="MOTHER 2 Figure Strap" border="1" width="100" height="100" hspace="1" /></a>
 
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2014-01-31 15:40:02 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2014-01-31 21:40:02 +0000" last-modified-by-name="ShadowX" %}

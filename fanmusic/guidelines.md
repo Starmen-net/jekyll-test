@@ -2,15 +2,15 @@
 title: 'Fan Music: Guidelines'
 categories:
   - fanmusic
-date: 2006-05-03 16:08:29 +0500
+date: 2006-05-03 21:08:29 +0000
 ---
-{% include box-open.html box-id="2264" title="Guidelines Overview:" author-id="257" timestamp="2006-05-03 16:08:29 +0500" type="norm" dbname="box9366" last-modified-by="127" %}
+{% include box-open.html box-id="2264" title="Guidelines Overview" author-id="257" timestamp="2006-05-03 21:08:29 +0000" type="norm" dbname="box9366" last-modified-by="127" %}
 Welcome to Fan Music, and I'm looking forward to music that people send in! 
 
 If you're new to the site, and wonder why you can't submit your Fan Music, it's because you need to <a href="http://forum.starmen.net/?t=register">register on Starmen.net's FUD forum.</a> You have to hand it to our site development team; the site is intergrated with our forums, and it makes navigating easier for you and the staffers. 
-{% include box-close.html author-name="Erik" last-modified-on="2006-08-07 01:40:16 +0500" last-modified-by-name="Tansunn" %}
+{% include box-close.html author-name="Erik" last-modified-on="2006-08-07 06:40:16 +0000" last-modified-by-name="Tansunn" %}
 
-{% include box-open.html box-id="2265" title="Fan Music Guidelines:" author-id="257" timestamp="2006-05-03 16:09:17 +0500" type="norm" dbname="box25827" last-modified-by="75" %}
+{% include box-open.html box-id="2265" title="Fan Music Guidelines" author-id="257" timestamp="2006-05-03 21:09:17 +0000" type="norm" dbname="box25827" last-modified-by="75" %}
 Audio Fan Music has a couple of guidelines that need to be followed. Any submissions not following these guidelines will not be accepted.
 <p />
 <ul>
@@ -26,9 +26,9 @@ Audio Fan Music has a couple of guidelines that need to be followed. Any submiss
 </ul>
 
  
-{% include box-close.html author-name="Erik" last-modified-on="2006-05-03 18:10:52 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="Erik" last-modified-on="2006-05-03 23:10:52 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="2266" title="Fan Sheet/TAB Music Guidelines:" author-id="257" timestamp="2006-05-03 16:21:58 +0500" type="norm" dbname="box43201" last-modified-by="127" %}
+{% include box-open.html box-id="2266" title="Fan Sheet/TAB Music Guidelines" author-id="257" timestamp="2006-05-03 21:21:58 +0000" type="norm" dbname="box43201" last-modified-by="127" %}
 Sheet/TAB Music has a couple of guidelines that need to be followed also. Any submissions not following these guidelines will not be accepted. You know the scoop! 
 <p />
 <ul>
@@ -42,4 +42,4 @@ Sheet/TAB Music has a couple of guidelines that need to be followed also. Any su
 </ul>
 
  
-{% include box-close.html author-name="Erik" last-modified-on="2007-02-08 19:58:29 +0600" last-modified-by-name="Erik" %}
+{% include box-close.html author-name="Erik" last-modified-on="2007-02-09 01:58:29 +0000" last-modified-by-name="Erik" %}

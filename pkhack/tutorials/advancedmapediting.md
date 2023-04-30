@@ -2,9 +2,9 @@
 title: Hyperbound&#039;s Advanced Map Editing Tutorial
 categories:
   - pkhack
-date: 2012-01-29 19:25:33 +0600
+date: 2012-01-30 01:25:33 +0000
 ---
-{% include box-open.html box-id="4194" title="Advanced Map Editing with Hyperbound:" author-id="6189" timestamp="2012-01-29 19:25:33 +0600" type="norm" dbname="box322" last-modified-by="127" %}
+{% include box-open.html box-id="4194" title="Advanced Map Editing with Hyperbound" author-id="6189" timestamp="2012-01-30 01:25:33 +0000" type="norm" dbname="box322" last-modified-by="127" %}
 <font size="3"><b>Advanced Map Editing In The EarthBound ROM</b></font><br />
 <i>By HyperBound</i><br /><br />
 
@@ -99,9 +99,9 @@ Anyways, I hope that this tutorial was useful for everyone out there. Map editin
 <br /><br />
 <a href="http://www.theworldissquare.com">Tutorial by HyperBound</a>
 
-{% include box-close.html author-name="NESluver" last-modified-on="2012-01-29 19:25:54 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-01-30 01:25:54 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4195" title="Attachments:" author-id="6189" timestamp="2012-01-29 19:26:15 +0600" type="norm" dbname="box25968" last-modified-by="127" %}
+{% include box-open.html box-id="4195" title="Attachments" author-id="6189" timestamp="2012-01-30 01:26:15 +0000" type="norm" dbname="box25968" last-modified-by="127" %}
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/rawdecompressed.zip" target="_blank">rawdecompressed.zip</a>
 <br />
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/OnettDayPAL.act" target="_blank">OnettDayPAL.act</a>
@@ -109,4 +109,4 @@ Anyways, I hope that this tutorial was useful for everyone out there. Map editin
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/OnettDAYGFX.jpg" target="_blank">OnettDAYGFX.jpg</a>
 <br />
 <a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hbimages/Map%20Info.txt" target="_blank">Map Info.txt</a>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-01-29 19:26:29 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-01-30 01:26:29 +0000" last-modified-by-name="NESluver" %}

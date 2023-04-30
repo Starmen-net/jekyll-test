@@ -2,16 +2,16 @@
 title: Soundtrack
 categories:
   - ssb4
-date: 2016-10-21 19:26:36 +0500
+date: 2016-10-22 00:26:36 +0000
 ---
-{% include box-open.html box-id="5228" title="Overview:" author-id="28590" timestamp="2018-06-14 19:20:35 +0500" type="norm" dbname="box20622" last-modified-by="127" %}
+{% include box-open.html box-id="5228" title="Overview" author-id="28590" timestamp="2018-06-15 00:20:35 +0000" type="norm" dbname="box20622" last-modified-by="127" %}
 Due to the large number of music tracks in these games, the music will be divided into series. 
 <br /><br />
 
 <center><a href="#animalcrossing">Animal Crossing</a> / <a href="#bayonetta">Bayonetta</a> / <a href="#donkeykong">Donkey Kong</a>  / <a href="#fzero">F-Zero</a> / <a href="#kidicarus">Kid Icarus</a> / <a href="#kirby">Kirby</a> / <a href="#megaman">Mega Man</a> / <a href="#metroid">Metroid</a> / <a href="#mother">Mother</a> / <a href="#pacman">PAC-MAN</a> / <a href="#pikmin">Pikmin</a> / <a href="#pokemon">Pokemon</a> / <a href="#punchout">Punch-Out</a> / <a href="#sonicthehedgehog">Sonic the Hedgehog</a> / <a href="#starfox">Star Fox</a> / <a href="#supermario">Super Mario</a> / <a href="#supersmashbros">Super Smash Bros.</a> / <a href="#wario">Wario</a> / <a href="#wiifit">Wii Fit</a> / <a href="#xenoblade">Xenoblade</a> / <a href="#yoshi">Yoshi</a> / <a href="#misc">Miscellaneous</a></center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:37:41 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:37:41 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4887" title="<a name=\"animalcrossing\" >Animal Crossing</a>:" author-id="28590" timestamp="2016-12-08 01:59:48 +0600" type="norm" dbname="box11841" last-modified-by="127" %}
+{% include box-open.html box-id="4887" title="<a name=\"animalcrossing\" >Animal Crossing</a>" author-id="28590" timestamp="2016-12-08 07:59:48 +0000" type="norm" dbname="box11841" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -40,9 +40,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Town Hall and Tom Nook's Store (AC Wild World).mp3">Town Hall and Tom Nook's Store</a></li>
            <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:23:12 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:23:12 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4895" title="<a name=\"bayonetta\" >Bayonetta</a>:" author-id="28590" timestamp="2016-12-08 16:15:12 +0600" type="norm" dbname="box45540" last-modified-by="127" %}
+{% include box-open.html box-id="4895" title="<a name=\"bayonetta\" >Bayonetta</a>" author-id="28590" timestamp="2016-12-08 22:15:12 +0000" type="norm" dbname="box45540" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -65,9 +65,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Time for the Climax! (Bayonetta 2).mp3">Time for the Climax!</a></li>
 <li><a href="Tomorrow is Mine (Bayonetta 2 Theme) (Instrumental).mp3">Tomorrow is Mine (Instrumental)</a></li><br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:23:29 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:23:29 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4787" title="<a name=\"donkeykong\" >Donkey Kong</a>:" author-id="28590" timestamp="2016-10-22 01:24:29 +0500" type="norm" dbname="box62081" last-modified-by="127" %}
+{% include box-open.html box-id="4787" title="<a name=\"donkeykong\" >Donkey Kong</a>" author-id="28590" timestamp="2016-10-22 06:24:29 +0000" type="norm" dbname="box62081" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -95,9 +95,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Stickerbush Symphony (Donkey Kong Country 2).mp3">Stickerbush Symphony</a></li>
 <li><a href="Swinger Flinger (Donkey Kong Tropical Freeze).mp3">Swinger Flinger</a></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:23:50 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:23:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4876" title="<a name=\"fireemblem\" >Fire Emblem</a>:" author-id="28590" timestamp="2016-11-26 23:50:13 +0600" type="norm" dbname="box15012" last-modified-by="127" %}
+{% include box-open.html box-id="4876" title="<a name=\"fireemblem\" >Fire Emblem</a>" author-id="28590" timestamp="2016-11-27 05:50:13 +0000" type="norm" dbname="box15012" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -131,9 +131,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Winning Road Roy's Hope (FE The Binding Blade).mp3">Winning Road Roy's Hope</a></li>
 <li><a href="With Mila's Divine Protection (Fire Emblem Gaiden).mp3">With Mila's Divine Protection</a><br /><br /></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:24:13 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:24:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4791" title="<a name=\"fzero\" >F-Zero</a>:" author-id="28590" timestamp="2016-10-22 22:17:30 +0500" type="norm" dbname="box25418" last-modified-by="127" %}
+{% include box-open.html box-id="4791" title="<a name=\"fzero\" >F-Zero</a>" author-id="28590" timestamp="2016-10-23 03:17:30 +0000" type="norm" dbname="box25418" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -158,9 +158,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Shotgun Kiss (F-Zero GX).mp3">Shotgun Kiss</a></li>
 <li><a href="White Land (F-Zero).mp3">White Land</a></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:24:31 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:24:31 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4881" title="<a name=\"kidicarus\" >Kid Icarus</a>:" author-id="28590" timestamp="2016-11-27 15:13:11 +0600" type="norm" dbname="box19217" last-modified-by="127" %}
+{% include box-open.html box-id="4881" title="<a name=\"kidicarus\" >Kid Icarus</a>" author-id="28590" timestamp="2016-11-27 21:13:11 +0000" type="norm" dbname="box19217" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -184,9 +184,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Wrath of the Reset Bomb (Kid Icarus Uprising).mp3">Wrath of the Reset Bomb</a></li><br /><br />
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:24:49 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:24:49 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4792" title="<a name=\"kirby\" >Kirby</a>:" author-id="28590" timestamp="2016-10-22 22:30:17 +0500" type="norm" dbname="box18918" last-modified-by="127" %}
+{% include box-open.html box-id="4792" title="<a name=\"kirby\" >Kirby</a>" author-id="28590" timestamp="2016-10-23 03:30:17 +0000" type="norm" dbname="box18918" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -220,9 +220,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Through the Forest (Kirby's Return to Dream Land).mp3">Through the Forest</a></li>
 <li><a href="Vs. Marx (Kirby Super Star).mp3">Vs. Marx</a></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:25:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:25:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4788" title="<a name=\"legendofzelda\" >Legend of Zelda</a>:" author-id="28590" timestamp="2016-10-22 01:49:53 +0500" type="norm" dbname="box12896" last-modified-by="127" %}
+{% include box-open.html box-id="4788" title="<a name=\"legendofzelda\" >Legend of Zelda</a>" author-id="28590" timestamp="2016-10-22 06:49:53 +0000" type="norm" dbname="box12896" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -266,9 +266,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Village of the Blue Maiden (Four Swords Adventures).mp3">Village of the Blue Maiden </a></li>
 <li><a href="Yuga Battle Hyrule Castle (A Link Between Worlds).mp3">Yuga Battle Hyrule Castle</a></li><br /><br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:25:30 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:25:30 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4888" title="<a name=\"megaman\" >Mega Man</a>:" author-id="28590" timestamp="2016-12-08 02:31:02 +0600" type="norm" dbname="box41973" last-modified-by="127" %}
+{% include box-open.html box-id="4888" title="<a name=\"megaman\" >Mega Man</a>" author-id="28590" timestamp="2016-12-08 08:31:02 +0000" type="norm" dbname="box41973" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -289,9 +289,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Spark Man Stage (Mega Man 3).mp3">Spark Man Stage</a></li>
 <br /><br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:25:51 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:25:51 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4793" title="<a name=\"metroid\" >Metroid</a>:" author-id="28590" timestamp="2016-10-22 23:08:14 +0500" type="norm" dbname="box18641" last-modified-by="127" %}
+{% include box-open.html box-id="4793" title="<a name=\"metroid\" >Metroid</a>" author-id="28590" timestamp="2016-10-23 04:08:14 +0000" type="norm" dbname="box18641" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -319,9 +319,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Vs. Ridley (Super Metroid).mp3">Vs. Ridley</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:26:16 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:26:16 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4879" title="<a name=\"mother\" >Mother</a>:" author-id="28590" timestamp="2016-11-27 14:58:55 +0600" type="norm" dbname="box14264" last-modified-by="127" %}
+{% include box-open.html box-id="4879" title="<a name=\"mother\" >Mother</a>" author-id="28590" timestamp="2016-11-27 20:58:55 +0000" type="norm" dbname="box14264" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -341,9 +341,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Unfounded Revenge (Mother 3).mp3">Unfounded Revenge</a></li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:26:34 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:26:34 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4889" title="<a name=\"pacman\" >PAC-MAN</a>:" author-id="28590" timestamp="2016-12-08 02:44:15 +0600" type="norm" dbname="box7918" last-modified-by="127" %}
+{% include box-open.html box-id="4889" title="<a name=\"pacman\" >PAC-MAN</a>" author-id="28590" timestamp="2016-12-08 08:44:15 +0000" type="norm" dbname="box7918" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -363,9 +363,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Yokai Dochuki Retro Medley.mp3">Yokai Dochuki Retro Medley</a></li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:26:54 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:26:54 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4890" title="<a name=\"pikmin\" >Pikmin</a>:" author-id="28590" timestamp="2016-12-08 12:39:37 +0600" type="norm" dbname="box51735" last-modified-by="127" %}
+{% include box-open.html box-id="4890" title="<a name=\"pikmin\" >Pikmin</a>" author-id="28590" timestamp="2016-12-08 18:39:37 +0000" type="norm" dbname="box51735" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -384,9 +384,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="World Map (Pikmin 2).mp3">World Map</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:27:59 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:27:59 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4830" title="<a name=\"pokemon\" >Pokémon</a>:" author-id="28590" timestamp="2016-10-28 23:40:51 +0500" type="norm" dbname="box6576" last-modified-by="127" %}
+{% include box-open.html box-id="4830" title="<a name=\"pokemon\" >Pokémon</a>" author-id="28590" timestamp="2016-10-29 04:40:51 +0000" type="norm" dbname="box6576" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -420,9 +420,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Victory Road (X & Y).mp3">Victory Road</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:27:34 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:27:34 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4893" title="<a name=\"punchout\" >Punch-Out!</a>:" author-id="28590" timestamp="2016-12-08 13:56:55 +0600" type="norm" dbname="box25948" last-modified-by="127" %}
+{% include box-open.html box-id="4893" title="<a name=\"punchout\" >Punch-Out!</a>" author-id="28590" timestamp="2016-12-08 19:56:55 +0000" type="norm" dbname="box25948" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -438,9 +438,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="World Circuit Theme (Punch-Out! Wii).mp3">World Circuit Theme</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:28:42 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:28:42 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4894" title="<a name=\"sonicthehedgehog\" >Sonic the Hedgehog</a>:" author-id="28590" timestamp="2016-12-08 14:10:49 +0600" type="norm" dbname="box3986" last-modified-by="127" %}
+{% include box-open.html box-id="4894" title="<a name=\"sonicthehedgehog\" >Sonic the Hedgehog</a>" author-id="28590" timestamp="2016-12-08 20:10:49 +0000" type="norm" dbname="box3986" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -466,9 +466,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <br />
 </td></tr></table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:29:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:29:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4829" title="<a name=\"starfox\" >Star Fox</a>:" author-id="28590" timestamp="2016-10-28 23:22:31 +0500" type="norm" dbname="box60517" last-modified-by="127" %}
+{% include box-open.html box-id="4829" title="<a name=\"starfox\" >Star Fox</a>" author-id="28590" timestamp="2016-10-29 04:22:31 +0000" type="norm" dbname="box60517" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -493,9 +493,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Venom (Star Fox 64).mp3">Venom</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:30:13 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:30:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4786" title="<a name=\"supermario\" >Super Mario</a>:" author-id="28590" timestamp="2016-10-21 19:26:36 +0500" type="norm" dbname="box11909" last-modified-by="127" %}
+{% include box-open.html box-id="4786" title="<a name=\"supermario\" >Super Mario</a>" author-id="28590" timestamp="2016-10-22 00:26:36 +0000" type="norm" dbname="box11909" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -577,9 +577,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Yoshi Island (Melee).mp3">Yoshi Island (Melee)</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:30:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:30:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4897" title="<a name=\"supersmashbros\" >Super Smash Bros.</a>:" author-id="28590" timestamp="2016-12-08 19:14:55 +0600" type="norm" dbname="box47694" last-modified-by="127" %}
+{% include box-open.html box-id="4897" title="<a name=\"supersmashbros\" >Super Smash Bros.</a>" author-id="28590" timestamp="2016-12-09 01:14:55 +0000" type="norm" dbname="box47694" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -631,9 +631,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Trophy Gallery (Brawl).mp3">Trophy Gallery (Brawl)</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:31:02 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:31:02 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4880" title="<a name=\"wario\" >Wario</a>:" author-id="28590" timestamp="2016-11-27 15:08:02 +0600" type="norm" dbname="box43031" last-modified-by="127" %}
+{% include box-open.html box-id="4880" title="<a name=\"wario\" >Wario</a>" author-id="28590" timestamp="2016-11-27 21:08:02 +0000" type="norm" dbname="box43031" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -649,9 +649,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="WarioWare, Inc. Medley.mp3">WarioWare, Inc. Medley</a></li>
 <li><a href="WarioWare, Inc. Theme.mp3">WarioWare, Inc. Theme</a></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:31:20 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:31:20 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4892" title="<a name=\"wiifit\" >Wii Fit</a>:" author-id="28590" timestamp="2016-12-08 13:04:22 +0600" type="norm" dbname="box36619" last-modified-by="127" %}
+{% include box-open.html box-id="4892" title="<a name=\"wiifit\" >Wii Fit</a>" author-id="28590" timestamp="2016-12-08 19:04:22 +0000" type="norm" dbname="box36619" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -667,9 +667,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Super Hoop (Wii Fit).mp3">Super Hoop (Wii Fit)</a></li>
 <li><a href="Wii Fit Plus Medley.mp3">Wii Fit Plus Medley</a></li>
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:31:42 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:31:42 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4891" title="<a name=\"xenoblade\" >Xenoblade</a>:" author-id="28590" timestamp="2016-12-08 12:49:11 +0600" type="norm" dbname="box2879" last-modified-by="127" %}
+{% include box-open.html box-id="4891" title="<a name=\"xenoblade\" >Xenoblade</a>" author-id="28590" timestamp="2016-12-08 18:49:11 +0000" type="norm" dbname="box2879" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -689,9 +689,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="You Will Know Our Names (Xenoblade Chronicles).mp3">You Will Know Our Names</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-18 16:50:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-18 21:50:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4790" title="<a name=\"yoshi\" >Yoshi</a>:" author-id="28590" timestamp="2016-10-22 22:11:00 +0500" type="norm" dbname="box62401" last-modified-by="127" %}
+{% include box-open.html box-id="4790" title="<a name=\"yoshi\" >Yoshi</a>" author-id="28590" timestamp="2016-10-23 03:11:00 +0000" type="norm" dbname="box62401" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -714,9 +714,9 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Yoshi's Woolly World Remix.mp3">Yoshi's Woolly World Remix</a></li>
 
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:32:42 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:32:42 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4896" title="<a name=\"misc\" >Miscellaneous</a>:" author-id="28590" timestamp="2016-12-08 16:43:41 +0600" type="norm" dbname="box8525" last-modified-by="127" %}
+{% include box-open.html box-id="4896" title="<a name=\"misc\" >Miscellaneous</a>" author-id="28590" timestamp="2016-12-08 22:43:41 +0000" type="norm" dbname="box8525" last-modified-by="127" %}
 <table class="fixed">
     <col width="400px" />
     <col width="400px" />
@@ -801,4 +801,4 @@ Due to the large number of music tracks in these games, the music will be divide
 <li><a href="Wrecking Crew Retro Medley.mp3">Wrecking Crew Retro Medley</a></li>
 <br />
 </td></tr></table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 19:34:40 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-15 00:34:40 +0000" last-modified-by-name="CerealQueen" %}

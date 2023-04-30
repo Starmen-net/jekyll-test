@@ -2,9 +2,9 @@
 title: A Shounen Oh Comics &#039;Game Comic Vol. 2
 categories:
   - merchandise
-date: 2005-01-03 18:57:00 +0600
+date: 2005-01-04 00:57:00 +0000
 ---
-{% include box-open.html box-id="263" title="A Shounen Oh Comics &#039;Game Comic Vol. 2:" author-id="45" timestamp="2005-01-03 18:57:00 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="263" title="A Shounen Oh Comics &#039;Game Comic Vol. 2" author-id="45" timestamp="2005-01-04 00:57:00 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/asohgcv2_title.jpg" border="0" alt="A Shounen Oh Comics 'Game Comic Vol. 2" />
 	</center>
@@ -35,4 +35,4 @@ date: 2005-01-03 18:57:00 +0600
 	<a href="/merchandise/images/asohgcv2_page4.jpg">Page 4</a> - <a href="/merchandise/images/asohgcv2_page5.jpg">Page 5</a>
 	<br /><br />
 	Scans provided by <a href="mailto:shadowx@starmen.net">ShadowX</a>.
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 18:57:14 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:57:14 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Mother 2 Essential Strategies
 categories:
   - merchandise
-date: 2005-01-03 20:12:42 +0600
+date: 2005-01-04 02:12:42 +0000
 ---
-{% include box-open.html box-id="298" title="Mother 2 Essential Strategies:" author-id="45" timestamp="2005-01-03 20:12:42 +0600" type="norm" dbname="box18374" last-modified-by="127" %}
+{% include box-open.html box-id="298" title="Mother 2 Essential Strategies" author-id="45" timestamp="2005-01-04 02:12:42 +0000" type="norm" dbname="box18374" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/m2esse_title.jpg" border="0" alt="Mother 2 Essential Strategies" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-03 20:12:42 +0600
 	<b>Imagess:</b>
 	<br />
 	<a href="/merchandise/images/m2esse1.jpg">Front</a> - <a href="/merchandise/images/m2esse2.jpg">Inside</a> (<a href="http://www.otaku.com">Otaku.com</a>)
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:48:25 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:48:25 +0000" last-modified-by-name="Tomato" %}

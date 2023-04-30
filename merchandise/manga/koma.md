@@ -2,9 +2,9 @@
 title: Mother 2 4-Koma Manga Series
 categories:
   - merchandise
-date: 2005-01-03 19:20:14 +0600
+date: 2005-01-04 01:20:14 +0000
 ---
-{% include box-open.html box-id="273" title="Mother 2 4-Koma Manga Series:" author-id="45" timestamp="2005-01-03 19:20:14 +0600" type="norm" dbname="box57266" last-modified-by="45" %}
+{% include box-open.html box-id="273" title="Mother 2 4-Koma Manga Series" author-id="45" timestamp="2005-01-04 01:20:14 +0000" type="norm" dbname="box57266" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/komamanga_title.jpg" border="0" alt="4-Koma Manga Series" />
 	</center>
@@ -80,4 +80,4 @@ date: 2005-01-03 19:20:14 +0600
 	<ul>
 	<li><a href="http://www.ebay.com">eBay</a></li>
 	</ul>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-04-03 01:03:00 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-04-03 07:03:00 +0000" last-modified-by-name="ShadowX" %}

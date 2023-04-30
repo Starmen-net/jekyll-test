@@ -2,9 +2,9 @@
 title: 'BOING: Aerophase Distortions: T-Shirt'
 categories:
   - merchandise
-date: 2005-01-04 01:25:57 +0600
+date: 2005-01-04 07:25:57 +0000
 ---
-{% include box-open.html box-id="445" title="BOING: Aerophase Distortions: T-Shirt:" author-id="45" timestamp="2005-01-04 01:25:57 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="445" title="BOING: Aerophase Distortions: T-Shirt" author-id="45" timestamp="2005-01-04 07:25:57 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_bad_title.png" border="0" alt="BOING: Aerophase Distortions: T-Shirt" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-04 01:25:57 +0600
 	<br />
 	<a href="/merchandise/images/smn_bad_front.jpg">Front</a> - <a href="/merchandise/images/smn_bad_back.jpg">Back</a> - <a href="/merchandise/images/smn_bad_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_bad_bdesign.jpg">Back Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:26:07 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:26:07 +0000" last-modified-by-name="ShadowX" %}

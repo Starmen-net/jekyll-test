@@ -2,9 +2,9 @@
 title: Getting Connected
 categories:
   - chat
-date: 2004-12-31 01:57:18 +0600
+date: 2004-12-31 07:57:18 +0000
 ---
-{% include box-open.html box-id="204" title="How to get into IRC:" author-id="118" timestamp="2004-12-31 01:57:18 +0600" type="norm" dbname="box16432" last-modified-by="127" %}
+{% include box-open.html box-id="204" title="How to get into IRC" author-id="118" timestamp="2004-12-31 07:57:18 +0000" type="norm" dbname="box16432" last-modified-by="127" %}
 <p>
 Here's how to join:
 </p>
@@ -20,9 +20,9 @@ You'll know if the nick you chose is already used, if someone's already using it
 <p>
 That should be it! If you follow those steps it should be fine, and hopefully there shouldn't be that much trouble. Have fun in IRC!
 </p>
-{% include box-close.html author-name="zushiba" last-modified-on="2012-02-29 16:19:07 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="zushiba" last-modified-on="2012-02-29 22:19:07 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="2465" title="Basic IRC commands:" author-id="247" timestamp="2006-07-12 20:37:24 +0500" type="norm" dbname="box17213" last-modified-by="127" %}
+{% include box-open.html box-id="2465" title="Basic IRC commands" author-id="247" timestamp="2006-07-13 01:37:24 +0000" type="norm" dbname="box17213" last-modified-by="127" %}
 <p>
 To get a feel for how IRC works and the commands you'll find yourself often using, look below to see the basic commands.<BR /><BR />
 </p>
@@ -46,10 +46,10 @@ To get a feel for how IRC works and the commands you'll find yourself often usin
 <p>
 For these and more commands, check out the list of commands available to mIRC users <a href="http://mirc.com/cmds.html">here</a>.  When on Thinstack, you can also use <b>/msg ChanServ HELP</b> or <b>/msg NickServ HELP</b> for more information.
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-02-21 22:08:53 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2012-02-22 04:08:53 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="205" title="Need Help?:" author-id="118" timestamp="2004-12-31 02:01:56 +0600" type="norm" dbname="box13867" last-modified-by="127" %}
+{% include box-open.html box-id="205" title="Need Help?" author-id="118" timestamp="2004-12-31 08:01:56 +0000" type="norm" dbname="box13867" last-modified-by="127" %}
 <p>
 If you have any questions or do not understand any part of this, or experience any problems, please <a href="http://forum.starmen.net/members/5884">send a PM to Cyan</a>.
 </p>
-{% include box-close.html author-name="zushiba" last-modified-on="2012-12-04 15:48:54 +0600" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="zushiba" last-modified-on="2012-12-04 21:48:54 +0000" last-modified-by-name="cyan683" %}

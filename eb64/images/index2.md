@@ -2,9 +2,9 @@
 title: Mother 3 / EarthBound 64 Screenshots and Images
 categories:
   - eb64
-date: 2006-03-20 17:10:24 +0600
+date: 2006-03-20 23:10:24 +0000
 ---
-{% include box-open.html box-id="2118" title="Mother 3 / EarthBound 64 Screenshots:" author-id="288" timestamp="2006-03-20 17:10:24 +0600" type="norm" dbname="box3379" last-modified-by="127" %}
+{% include box-open.html box-id="2118" title="Mother 3 / EarthBound 64 Screenshots" author-id="288" timestamp="2006-03-20 23:10:24 +0000" type="norm" dbname="box3379" last-modified-by="127" %}
 <a href="titlescreen.jpg"><img src="titlescreen.png" /></a>
 <a href="ad.jpg"><img src="ad.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="auction.jpg"><img src="auction.png" WIDTH="50" HEIGHT="50" /></a>
@@ -82,17 +82,17 @@ date: 2006-03-20 17:10:24 +0600
 <a href="water.jpg"><img src="water.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="weirdangel.jpg"><img src="weirdangel.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="zapped.jpg"><img src="zapped.png" WIDTH="50" HEIGHT="50" /></a>
-{% include box-close.html author-name="Tomato" last-modified-on="2018-02-23 18:01:26 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2018-02-24 00:01:26 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2119" title="Mother 3 / EarthBound 64 Battle Screenshots:" author-id="288" timestamp="2006-03-20 17:10:34 +0600" type="norm" dbname="box33762" last-modified-by="127" %}
+{% include box-open.html box-id="2119" title="Mother 3 / EarthBound 64 Battle Screenshots" author-id="288" timestamp="2006-03-20 23:10:34 +0000" type="norm" dbname="box33762" last-modified-by="127" %}
 <a href="battle/boarbattle.jpg"><img src="battle/boarbattle.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="battle/dragokid.jpg"><img src="battle/dragokid.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="battle/dragon.jpg"><img src="battle/dragon.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="battle/pigbattle1.jpg"><img src="battle/pigbattle1.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="battle/pigbattle2.jpg"><img src="battle/pigbattle2.png" WIDTH="50" HEIGHT="50" /></a>
-{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 17:32:29 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 23:32:29 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2120" title="Mother 3 / EarthBound 64 Cast & Characters:" author-id="288" timestamp="2006-03-20 17:11:26 +0600" type="norm" dbname="box62458" last-modified-by="127" %}
+{% include box-open.html box-id="2120" title="Mother 3 / EarthBound 64 Cast & Characters" author-id="288" timestamp="2006-03-20 23:11:26 +0000" type="norm" dbname="box62458" last-modified-by="127" %}
 <a href="characters/family.jpg"><img src="characters/family.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="characters/castnew.png"><img src="characters/cast.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="characters/andonuts.jpg"><img src="characters/andonuts.png" WIDTH="50" HEIGHT="50" /></a>
@@ -110,9 +110,9 @@ date: 2006-03-20 17:10:24 +0600
 <a href="characters/mrsaturn.jpg"><img src="characters/mrsaturn.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="characters/salsa.jpg"><img src="characters/salsa.png" WIDTH="50" HEIGHT="50" /></a>
 <a href="characters/yosaku.jpg"><img src="characters/yosaku.png" WIDTH="50" HEIGHT="50" /></a>
-{% include box-close.html author-name="Tomato" last-modified-on="2018-02-23 15:52:47 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2018-02-23 21:52:47 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2121" title="Mother 3 / EarthBound 64 Concept Sketches:" author-id="288" timestamp="2006-03-20 17:11:50 +0600" type="norm" dbname="box9424" last-modified-by="127" %}
+{% include box-open.html box-id="2121" title="Mother 3 / EarthBound 64 Concept Sketches" author-id="288" timestamp="2006-03-20 23:11:50 +0000" type="norm" dbname="box9424" last-modified-by="127" %}
 <a href="sketches/art1.jpg"><img src="sketches/art1.png" WIDTH="150" HEIGHT="150" /></a>
 <a href="sketches/art2.jpg"><img src="sketches/art2.png" WIDTH="150" HEIGHT="150" /></a>
 <a href="sketches/art3.jpg"><img src="sketches/art3.png" WIDTH="150" HEIGHT="150" /></a>
@@ -124,9 +124,9 @@ date: 2006-03-20 17:10:24 +0600
 <a href="sketches/eatyerboot.jpg"><img src="sketches/eatyerboot.png" WIDTH="150" HEIGHT="150" /></a>
 <a href="sketches/kraken.jpg"><img src="sketches/kraken.png" WIDTH="150" HEIGHT="150" /></a>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 17:32:55 +0600" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2006-03-20 23:32:55 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="2123" title="Mother 3 / EarthBound 64 Publication Scans:" author-id="288" timestamp="2006-03-20 17:38:28 +0600" type="norm" dbname="box19899" last-modified-by="127" %}
+{% include box-open.html box-id="2123" title="Mother 3 / EarthBound 64 Publication Scans" author-id="288" timestamp="2006-03-20 23:38:28 +0000" type="norm" dbname="box19899" last-modified-by="127" %}
 <a href="scans/npscan1.png"><img src="scans/npscan1_t.png" WIDTH="150" HEIGHT="150" /></a>
 <a href="scans/npscan2.png"><img src="scans/npscan2_t.png" WIDTH="150" HEIGHT="150" /></a>
 <a href="scans/npscan3.png"><img src="scans/npscan3_t.png" WIDTH="150" HEIGHT="150" /></a>
@@ -136,17 +136,17 @@ date: 2006-03-20 17:10:24 +0600
 <a href="scans/sw1999.jpg"><img src="scans/sw1999_t.png" WIDTH="150" HEIGHT="150" /></a>
 <a href="e64scan_1.jpg"><img src="e64scan_1.jpg" width="150" height="150" /></a>
 <a href="e64scan_2.jpg"><img src="e64scan_2.jpg" width="150" height="150" /></a>
-{% include box-close.html author-name="Tomato" last-modified-on="2016-10-17 14:29:29 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2016-10-17 19:29:29 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4782" title="Marukatsu Shonen - Vol. 3 1997:" author-id="28590" timestamp="2016-10-19 13:52:53 +0500" type="norm" dbname="box48076" last-modified-by="127" %}
+{% include box-open.html box-id="4782" title="Marukatsu Shonen - Vol. 3 1997" author-id="28590" timestamp="2016-10-19 18:52:53 +0000" type="norm" dbname="box48076" last-modified-by="127" %}
 <a href="marukatsu-1997-vol-3-zelda-64-mother-3-3.jpg"><img src="marukatsu-1997-vol-3-zelda-64-mother-3-3.jpg" WIDTH="150" HEIGHT="200" /></a>
 <a href="marukatsu-1997-vol-3-zelda-64-mother-3-4.jpg"><img src="marukatsu-1997-vol-3-zelda-64-mother-3-4.jpg" WIDTH="150" HEIGHT="200" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-19 13:57:53 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-19 18:57:53 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5121" title="N64 Magazine:" author-id="28590" timestamp="2018-02-23 16:53:10 +0600" type="norm" dbname="box19528" last-modified-by="127" %}
+{% include box-open.html box-id="5121" title="N64 Magazine" author-id="28590" timestamp="2018-02-23 22:53:10 +0000" type="norm" dbname="box19528" last-modified-by="127" %}
 
 <a href="N64_Magazine_scan3.jpg"><img src="N64_Magazine_scan3.jpg" WIDTH="355" HEIGHT="200" title="Issue 1 - April 1997" /></a>
 <a href="N64_Magazine_scan2.jpg"><img src="N64_Magazine_scan2.jpg" WIDTH="110" HEIGHT="200" title="Issue 5 - August 1997" /></a>
 <a href="N64_Magazine_Scan.jpg"><img src="N64_Magazine_Scan.jpg" WIDTH="150" HEIGHT="200" title="Issue 6 - September 1997" /></a> 
 <a href="N64_Magazine_Scan4.jpg"><img src="N64_Magazine_Scan4.jpg" WIDTH="251" HEIGHT="200" title="Issue 11 - January 1998" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-02-24 16:34:34 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-02-24 22:34:34 +0000" last-modified-by-name="CerealQueen" %}

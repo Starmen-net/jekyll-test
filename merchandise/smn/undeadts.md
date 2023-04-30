@@ -2,9 +2,9 @@
 title: Undead Shirt
 categories:
   - merchandise
-date: 2009-05-10 22:10:14 +0500
+date: 2009-05-11 03:10:14 +0000
 ---
-{% include box-open.html box-id="3748" title="Undead Shirt:" author-id="45" timestamp="2009-05-10 22:10:14 +0500" type="norm" dbname="box38317" last-modified-by="45" %}
+{% include box-open.html box-id="3748" title="Undead Shirt" author-id="45" timestamp="2009-05-11 03:10:14 +0000" type="norm" dbname="box38317" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_undeadts_title.png" border="0" alt="Undead Shirt" />
 	</center>
@@ -27,4 +27,4 @@ date: 2009-05-10 22:10:14 +0500
 	<a href="/merchandise/images/smn_undeadts_royal.jpg">Royal</a> - <a href="/merchandise/images/smn_undeadts_brown.jpg">Brown</a> - <a href="/merchandise/images/smn_undeadts_charcoal.jpg">Charcoal</a> - 
 	<a href="/merchandise/images/smn_undeadts_kgreen.jpg">Kelly Green</a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-10 22:11:53 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-11 03:11:53 +0000" last-modified-by-name="ShadowX" %}

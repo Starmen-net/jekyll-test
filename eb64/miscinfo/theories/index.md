@@ -2,9 +2,9 @@
 title: EarthBound 64 - Theories
 categories:
   - eb64
-date: 2019-09-25 06:51:53 +0500
+date: 2019-09-25 11:51:53 +0000
 ---
-{% include box-open.html box-id="5439" title="All but Confirmed Theories:" author-id="28590" timestamp="2019-09-25 06:51:53 +0500" type="norm" dbname="box48932" last-modified-by="127" %}
+{% include box-open.html box-id="5439" title="All but Confirmed Theories" author-id="28590" timestamp="2019-09-25 11:51:53 +0000" type="norm" dbname="box48932" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="http://staff.starmen.net/eb64/images/1996/n_Tazmily_Crossroads.jpg"><img src="http://staff.starmen.net/eb64/images/1996/n_Tazmily_Crossroads.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
@@ -22,9 +22,9 @@ There are a couple screenshots showing an NPC, dubbed "Hippie" by fans, in a mob
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 08:26:26 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 13:26:26 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5440" title="Plausible Theories:" author-id="28590" timestamp="2019-09-25 06:59:02 +0500" type="norm" dbname="box35328" last-modified-by="127" %}
+{% include box-open.html box-id="5440" title="Plausible Theories" author-id="28590" timestamp="2019-09-25 11:59:02 +0000" type="norm" dbname="box35328" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="https://starmen.net/eb64/images/2000/n_Pork_Trooper.JPG"><img src="https://starmen.net/eb64/images/2000/n_Pork_Trooper.JPG" border="1" height="150" align="center" /></a>
 <br />
@@ -61,9 +61,9 @@ There are a few visuals of the Claymen we have and one can be spotted emerging f
 </center>
 </li></ul>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 08:26:36 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 13:26:36 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5441" title="Kinda-Out-There Theories:" author-id="28590" timestamp="2019-09-25 12:12:52 +0500" type="norm" dbname="box5164" last-modified-by="127" %}
+{% include box-open.html box-id="5441" title="Kinda-Out-There Theories" author-id="28590" timestamp="2019-09-25 17:12:52 +0000" type="norm" dbname="box5164" last-modified-by="127" %}
 <ul class="pics"><li>
 <center><a class="picleft" href="orangekid.jpg"><img src="orangekid.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
@@ -90,9 +90,9 @@ The idea of this theory comes from the image pictured to the left. Due to the si
 <br />
 </center>
 </li></ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-25 12:38:11 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-25 17:38:11 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5452" title="Quick Theories & Ideas:" author-id="28590" timestamp="2019-09-26 12:02:41 +0500" type="norm" dbname="box30390" last-modified-by="127" %}
+{% include box-open.html box-id="5452" title="Quick Theories & Ideas" author-id="28590" timestamp="2019-09-26 17:02:41 +0000" type="norm" dbname="box30390" last-modified-by="127" %}
 <li>The songs on the jukebox in the highway cafe from the GBA version of Mother 3 were all initially in EB64 and is a reference to the cancelled game.</li>
 <li>Like the other main cast, Boney's model may have changed sometime during the switch from the 64DD and the 64.</li>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 12:40:58 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-26 17:40:58 +0000" last-modified-by-name="CerealQueen" %}

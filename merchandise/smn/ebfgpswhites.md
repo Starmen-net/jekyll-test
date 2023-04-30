@@ -2,9 +2,9 @@
 title: EBFGPS White Shirts
 categories:
   - merchandise
-date: 2005-01-04 00:55:22 +0600
+date: 2005-01-04 06:55:22 +0000
 ---
-{% include box-open.html box-id="421" title="EBFGPS White Shirts:" author-id="45" timestamp="2005-01-04 00:55:22 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="421" title="EBFGPS White Shirts" author-id="45" timestamp="2005-01-04 06:55:22 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/ebfgps_whites_title.png" border="0" alt="EBFGPS White Shirts" />
 	</center>
@@ -29,4 +29,4 @@ date: 2005-01-04 00:55:22 +0600
 	<a href="/merchandise/images/ebfgps_ws_front.jpg">Front (Regular)</a> - <a href="/merchandise/images/ebfgps_ws_back.jpg">Back (Regular)</a> - <a href="/merchandise/images/ebfgps_ws_fdesign.jpg">Front Design (Regular)</a> - 
 	<a href="/merchandise/images/ebfgps_ws_bdesign.jpg">Back Design (Regular)</a> - <a href="/merchandise/images/value_detail.jpg">Value Detail</a> - <a href="/merchandise/images/lady_detail.jpg">Lady Detail</a> - 
 	<a href="/merchandise/images/white_detail.jpg">Regular Detail</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:55:33 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:55:33 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Mother 1 Complete Guidebook
 categories:
   - merchandise
-date: 2005-01-03 20:16:30 +0600
+date: 2005-01-04 02:16:30 +0000
 ---
-{% include box-open.html box-id="301" title="Mother 1 Complete Guidebook:" author-id="45" timestamp="2005-01-03 20:16:30 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="301" title="Mother 1 Complete Guidebook" author-id="45" timestamp="2005-01-04 02:16:30 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m1gbook_title.jpg" border="0" alt="Mother 1 Complete Guidebook" />
 	</center>
@@ -23,4 +23,4 @@ date: 2005-01-03 20:16:30 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/m1gbook.jpg">Front</a> - <a href="/merchandise/images/m1gbookmap.jpg">Map</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:17:24 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:17:24 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Protractor ~Saturnian Go Home~
 categories:
   - merchandise
-date: 2008-06-27 18:00:02 +0500
+date: 2008-06-27 23:00:02 +0000
 ---
-{% include box-open.html box-id="3479" title="Protractor ~Saturnian Go Home~:" author-id="45" timestamp="2008-06-27 18:00:02 +0500" type="norm" dbname="box16366" last-modified-by="45" %}
+{% include box-open.html box-id="3479" title="Protractor ~Saturnian Go Home~" author-id="45" timestamp="2008-06-27 23:00:02 +0000" type="norm" dbname="box16366" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/saturniangohome_title.png" border="0" alt="Protractor ~Saturnian Go Home~" />
 	</center>
@@ -116,4 +116,4 @@ date: 2008-06-27 18:00:02 +0500
 	<br />
 	<a href="/merchandise/images/saturniangohome_front.jpg">Front</a> - <a href="/merchandise/images/saturniangohome_jacket.png">Jacket</a> - <a href="/merchandise/images/saturniangohome_cd.png">CD</a> - 
 	<a href="/merchandise/images/saturniangohome_bonus2.jpg">Bonus Image 1</a> - <a href="/merchandise/images/saturniangohome_bonus1.jpg">Bonus Image 2</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2008-06-28 02:20:55 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2008-06-28 07:20:55 +0000" last-modified-by-name="ShadowX" %}

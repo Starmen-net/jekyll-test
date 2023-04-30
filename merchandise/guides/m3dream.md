@@ -2,9 +2,9 @@
 title: Mother 3 Nintendo Dream Guide
 categories:
   - merchandise
-date: 2007-04-21 16:01:45 +0500
+date: 2007-04-21 21:01:45 +0000
 ---
-{% include box-open.html box-id="2867" title="Mother 3 Nintendo Dream Guide:" author-id="45" timestamp="2007-04-21 16:01:45 +0500" type="norm" dbname="box11969" last-modified-by="45" %}
+{% include box-open.html box-id="2867" title="Mother 3 Nintendo Dream Guide" author-id="45" timestamp="2007-04-21 21:01:45 +0000" type="norm" dbname="box11969" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3dream_title.jpg" border="0" alt="Mother 3 Dream Guide" />
 	</center>
@@ -35,4 +35,4 @@ date: 2007-04-21 16:01:45 +0500
 	<a href="/merchandise/images/m3dream_spine.jpg">Spine</a> - <a href="/merchandise/images/m3dream_insert1.jpg">Insert (Front)</a> - <a href="/merchandise/images/m3dream_insert2.jpg">Insert (Back)</a> - 
 	<a href="/merchandise/images/m3dream_p012-013.jpg">Pages 1</a> - <a href="/merchandise/images/m3dream_p068-069.jpg">Pages 2</a> - <a href="/merchandise/images/m3dream_p148-149.jpg">Pages 3</a> - 
 	<a href="/merchandise/images/m3dream_p168-169.jpg">Pages 4</a> - <a href="/merchandise/images/m3dream_p200-201.jpg">Pages 5</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 17:21:46 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 22:21:46 +0000" last-modified-by-name="ShadowX" %}

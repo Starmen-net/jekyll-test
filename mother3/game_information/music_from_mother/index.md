@@ -2,9 +2,9 @@
 title: Music from MOTHER
 categories:
   - mother3
-date: 2016-11-26 22:45:21 +0600
+date: 2016-11-27 04:45:21 +0000
 ---
-{% include box-open.html box-id="4875" title="Remixes and Similarities From Mother 1 & 2:" author-id="28590" timestamp="2016-11-26 22:45:21 +0600" type="norm" dbname="box24937" last-modified-by="127" %}
+{% include box-open.html box-id="4875" title="Remixes and Similarities From Mother 1 & 2" author-id="28590" timestamp="2016-11-27 04:45:21 +0000" type="norm" dbname="box24937" last-modified-by="127" %}
 <ul class="pics">
 	<li>
 Mother 3: A Certain Someone’s Memories<br />
@@ -432,4 +432,4 @@ EarthBound Beginnings/MOTHER: Hippie Battle
 		<ufo src="http://starmen.net/mother1/music/07%20-%20MOTHER%20-%20Hippie%20Battle.mp3" />
 	</li>
 </ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-13 19:41:13 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-14 01:41:13 +0000" last-modified-by-name="CerealQueen" %}

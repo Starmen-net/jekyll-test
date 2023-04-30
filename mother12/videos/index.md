@@ -2,9 +2,9 @@
 title: MOTHER 1+2 Videos
 categories:
   - mother12
-date: 2007-06-12 20:26:06 +0500
+date: 2007-06-13 01:26:06 +0000
 ---
-{% include box-open.html box-id="3016" title="MOTHER 1+2 Videos:" author-id="288" timestamp="2007-06-12 20:26:06 +0500" type="norm" dbname="box40305" last-modified-by="127" %}
+{% include box-open.html box-id="3016" title="MOTHER 1+2 Videos" author-id="288" timestamp="2007-06-13 01:26:06 +0000" type="norm" dbname="box40305" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft" href="http://www.youtube.com/watch?v=lKpaKlatg5M"><img src="thumb_m12event.jpg" align="center" /></a>
@@ -72,4 +72,4 @@ date: 2007-06-12 20:26:06 +0500
 </li>
 
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-30 19:15:40 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-07-01 00:15:40 +0000" last-modified-by-name="Tomato" %}

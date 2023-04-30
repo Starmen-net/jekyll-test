@@ -2,9 +2,9 @@
 title: EarthBound NES Prototype (EB Zero)
 categories:
   - merchandise
-date: 2010-10-20 09:11:27 +0500
+date: 2010-10-20 14:11:27 +0000
 ---
-{% include box-open.html box-id="3896" title="EarthBound NES Prototype (EB Zero):" author-id="45" timestamp="2010-10-20 09:11:27 +0500" type="norm" dbname="box45376" last-modified-by="45" %}
+{% include box-open.html box-id="3896" title="EarthBound NES Prototype (EB Zero)" author-id="45" timestamp="2010-10-20 14:11:27 +0000" type="norm" dbname="box45376" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -92,4 +92,4 @@ date: 2010-10-20 09:11:27 +0500
 	NES Prototype Cart. <b>DO NOT BE FOOLED!</b> This auction is illegal and not to mention you could pay up to hundreds 
 	for a game that might not even work. If you see an auction like this you should notify <a href="mailto:auctionpiracy@noa.nintendo.com">Nintendo of America</a> 
 	immediately.
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 09:11:36 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-10-20 14:11:36 +0000" last-modified-by-name="ShadowX" %}

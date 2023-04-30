@@ -2,9 +2,9 @@
 title: Sound Effects
 categories:
   - ssb4
-date: 2016-11-21 18:17:39 +0600
+date: 2016-11-22 00:17:39 +0000
 ---
-{% include box-open.html box-id="4848" title="Lucas (Battle Sounds):" author-id="28590" timestamp="2016-11-21 18:17:39 +0600" type="norm" dbname="box51916" last-modified-by="127" %}
+{% include box-open.html box-id="4848" title="Lucas (Battle Sounds)" author-id="28590" timestamp="2016-11-22 00:17:39 +0000" type="norm" dbname="box51916" last-modified-by="127" %}
 <table1 />
 <li><a href="Lucas_Appeal_01.wav">Appeal 1-1</a><br /></li>
 <li><a href="Lucas_Appeal_01_02.wav">Appeal 1-2</a><br /></li>
@@ -98,9 +98,9 @@ date: 2016-11-21 18:17:39 +0600
 <table3 />
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-16 19:11:07 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-17 00:11:07 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5127" title="Lucas (Voice Clips):" author-id="28590" timestamp="2018-03-16 19:11:12 +0500" type="norm" dbname="box13701" last-modified-by="127" %}
+{% include box-open.html box-id="5127" title="Lucas (Voice Clips)" author-id="28590" timestamp="2018-03-17 00:11:12 +0000" type="norm" dbname="box13701" last-modified-by="127" %}
 
 <table1 />
 <li><a href="Lucas_Voice_Appeal_01.wav">Appeal 01</a><br /></li>
@@ -140,9 +140,9 @@ date: 2016-11-21 18:17:39 +0600
 <li><a href="Lucas_Voice_Win_02.wav">Win 02</a><br /></li>
 <table3 />
 <br />
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-16 19:11:34 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-17 00:11:34 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4856" title="Ness (Battle Sounds):" author-id="28590" timestamp="2016-11-23 21:49:15 +0600" type="norm" dbname="box60291" last-modified-by="127" %}
+{% include box-open.html box-id="4856" title="Ness (Battle Sounds)" author-id="28590" timestamp="2016-11-24 03:49:15 +0000" type="norm" dbname="box60291" last-modified-by="127" %}
 <li><a href="/ssb4/Sounds/Ness/Ness_Appeal_01.wav">Appeal 01</a><br /></li>
 <li><a href="/ssb4/Sounds/Ness/Ness_Appeal_02.wav">Appeal 02</a><br /></li>
 <li><a href="/ssb4/Sounds/Ness/Ness_Appeal_03.wav">Appeal 03</a><br /></li>
@@ -214,9 +214,9 @@ date: 2016-11-21 18:17:39 +0600
 <li><a href="/ssb4/Sounds/Ness/Ness_Yoyo_Swing.wav">Yo-yo 03</a><br /></li>
 <table3 />
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-16 19:17:13 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-17 00:17:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5128" title="New Box, Edit me :(:" author-id="28590" timestamp="2018-03-16 19:17:00 +0500" type="norm" dbname="box22143" last-modified-by="127" %}
+{% include box-open.html box-id="5128" title="New Box, Edit me :(" author-id="28590" timestamp="2018-03-17 00:17:00 +0000" type="norm" dbname="box22143" last-modified-by="127" %}
 <li><a href="/ssb4/Sounds/Ness/Ness_Voice_Appeal_01.wav">Appeal 1</a><br /></li>
 <li><a href="/ssb4/Sounds/Ness/Ness_Voice_Appeal_02.wav">Appeal 2</a><br /></li>
 <li><a href="/ssb4/Sounds/Ness/Ness_Voice_Appeal_03.wav">Appeal 3</a><br /></li>
@@ -229,4 +229,4 @@ date: 2016-11-21 18:17:39 +0600
 <li><a href="/ssb4/Sounds/Ness/Ness_Voice_Attack_07.wav">Attack 7</a><br /></li>
 <li><a href="/ssb4/Sounds/Ness/Ness_Voice_Cliff_Catch.wav">Cliff Catch</a><br /></li>
 <li><a href="/ssb4/Sounds/Ness/Ness_Voice_Clumsy.wav">Clumsy</a><br /></li>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-16 19:22:35 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-17 00:22:35 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: History of Mother
 categories:
   - mother1
-date: 2017-07-11 08:12:29 +0500
+date: 2017-07-11 13:12:29 +0000
 ---
-{% include box-open.html box-id="5076" title="Initial Concept:" author-id="28590" timestamp="2017-07-11 08:12:29 +0500" type="norm" dbname="box26768" last-modified-by="127" %}
+{% include box-open.html box-id="5076" title="Initial Concept" author-id="28590" timestamp="2017-07-11 13:12:29 +0000" type="norm" dbname="box26768" last-modified-by="127" %}
 <p>
 <img class="picleft" src="itoi.png" width="265" height="226" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -12,18 +12,18 @@ date: 2017-07-11 08:12:29 +0500
 <br /><br />
 Itoi finally got his big chance when he went to visit the Nintendo headquarters in Kyoto. After introducing his ideas for his game to Miyamoto himself, Itoi was initially given a lukewarm reception at best from the Nintendo icon. Miyamoto insisted that Itoi would have to do much more than simply provide ideas, and that additional involvement from Itoi would be impossible due to his full time job. In response, Itoi lessened his workload, and the development of MOTHER began.
 </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 08:32:30 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 13:32:30 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5077" title="Development:" author-id="28590" timestamp="2017-07-11 08:18:42 +0500" type="norm" dbname="box61180" last-modified-by="127" %}
+{% include box-open.html box-id="5077" title="Development" author-id="28590" timestamp="2017-07-11 13:18:42 +0000" type="norm" dbname="box61180" last-modified-by="127" %}
 After the production team for MOTHER was formed, they began to meet regularly at Ichikawa, of the Chiba Prefecture. This particular location took its toll on Itoi, who had to take daily commutes to and from Tokyo in order to participate in development for the day. That’s about an hour drive! “It was a cycle of my driving to Ichikawa in the middle of the night, then heading back to Tokyo in the morning,” Itoi said in <a href="https://yomuka.wordpress.com/2013/08/18/earthbound-64-cancellation-interview-itoi-miyamoto-iwata/">an interview.</a> “I found it really exhausting, but at the same time I wanted it more and more.” Itoi proved to Miyamoto that he was more than someone with ideas and a pitch through his dedication and his work in writing the entirety of the game’s script.<br /><p>
 <img class="picright" src="ape.png" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
 </div>The development of MOTHER initially began with a team that had been formed by Nintendo in 1987. This group was known as Nintendo Tokyo Research & Development Products. However, this wasn’t the only team to work on MOTHER during its development. The president of Nintendo at the time, Hiroshi Yamauchi, thought rather well of Shigesato Itoi’s work on MOTHER, and suggested to him the idea of a company that would help support new talent within the game industry. Springing from the roots of this idea, Ape Inc. was born on March 1987 with Shigesato Itoi as its chief executive officer. Afterwards, Ape Inc. joined Nintendo Tokyo Research & Development Products in the production of MOTHER during its last few months of development.
 <br /><br />
 	Evidently, during the final parts of production, Itoi began rushing his work in order to get the game pushed out into the market. One of the infamous results of this is the massive difficulty of the game’s last area, Mount Itoi. “When we got to fine-tuning the difficulty there,” Itoi stated in <a href="https://www.youtube.com/watch?v=lKpaKlatg5M#t=7m41s">an interview.</a>, “I was like, whatever!”</p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-11 13:05:09 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-11 19:05:09 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5078" title="Advertising and Release:" author-id="28590" timestamp="2017-07-11 08:23:29 +0500" type="norm" dbname="box17982" last-modified-by="127" %}
+{% include box-open.html box-id="5078" title="Advertising and Release" author-id="28590" timestamp="2017-07-11 13:23:29 +0000" type="norm" dbname="box17982" last-modified-by="127" %}
 Of course, you can’t release a game without advertising! Some of MOTHER’s commercial affairs are still remembered quite well today, once again proving the talent of Itoi’s copywriting career. Itoi himself appeared in a <a href="https://www.youtube.com/watch?v=HEqWf9CQjWI&feature=youtu.be">promotional video</a> for the game, urging the players to play the game at a leisurely rate and not to rush through it.<br /><p>
 <img class="picleft" src="promo.png" width="255" height="219" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
@@ -31,13 +31,13 @@ Of course, you can’t release a game without advertising! Some of MOTHER’s co
 <br /><br />
 On July 27, 1989, MOTHER was finally released to the Japanese public after much anticipation. Alongside the game was released the MOTHER Encyclopedia, a guidebook with walkthrough information and all sorts of extra information about the game’s universe. To the pleasure of both Itoi and Nintendo, the game was massively successful, selling 150,000 copies and receiving positive critical reception as well. 
 </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 08:39:04 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 13:39:04 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5079" title="Localization:" author-id="28590" timestamp="2017-07-11 08:27:54 +0500" type="norm" dbname="box19000" last-modified-by="127" %}
+{% include box-open.html box-id="5079" title="Localization" author-id="28590" timestamp="2017-07-11 13:27:54 +0000" type="norm" dbname="box19000" last-modified-by="127" %}
 After the success of MOTHER in Japan, a localization of the game went into production to bring the popular RPG to the United States. At the time, RPGs in America did not receive the same bountiful popularity that they did in Japan, but were gradually gaining traction among the ranks of American gamers. MOTHER was to be another title to introduce a generation of players to the RPG genre.<br /><p>
 <img class="picright" src="phil.png" />
 <div style="float: right; width: 30px; margin: 0 1em 0 0;">
 </div>Underneath the lead of Nintendo of America’s now-famed localizer, Phil Sandhop, a localization team started their work on translating MOTHER and bringing it to the states. With the newly selected renaming for the game, <i>Earth Bound</i>, Sandhop (pictured) and his crew polished the game to fit both an American audience and Nintendo of America’s guidelines. References and depictions of smoking, gore, and sexuality were censored through the modification of text and graphics. Shoutouts to other works were reformed as to not infringe copyrights. A full guidebook was created for the English-speaking audience, dubbed the “Great Grandfather’s Diary” after a key item featured in the game. It appeared that everything was prepared for a release.
 <br /><br />
 	However, it turned out that the localization was for naught. With the release of the Super Nintendo Entertainment System in North America on November 21, 1990, <i>Earth Bound</i> was already doomed to release on a now outdated console. Attempting to release and market a game such as <i>Earth Bound</i> for yesterday’s console would almost certainly be a risky plot, especially with the additional space needed on the cartridge for such a large game. Ultimately, <i>Earth Bound</i> was cancelled and never released, despite the fact that the game was finished and ready to be played. The game didn’t see an official release outside of Japan until 2015, on the Wii U Virtual Console, release by the title of <i>EarthBound Beginnings.</i></p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 08:56:17 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 13:56:17 +0000" last-modified-by-name="CerealQueen" %}

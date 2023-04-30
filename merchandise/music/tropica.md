@@ -2,9 +2,9 @@
 title: Tropica -2004 Summer-
 categories:
   - merchandise
-date: 2008-06-27 19:44:08 +0500
+date: 2008-06-28 00:44:08 +0000
 ---
-{% include box-open.html box-id="3480" title="Tropica -2004 Summer-:" author-id="45" timestamp="2008-06-27 19:44:08 +0500" type="norm" dbname="box28918" last-modified-by="45" %}
+{% include box-open.html box-id="3480" title="Tropica -2004 Summer-" author-id="45" timestamp="2008-06-28 00:44:08 +0000" type="norm" dbname="box28918" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/tropica_title.png" border="0" alt="Tropica -2004 Summer-" />
 	</center>
@@ -98,4 +98,4 @@ This album is unfortunately no longer in print.
 	<a href="/merchandise/images/tropica_case_front.jpg">Case (Front)</a> - <a href="/merchandise/images/tropica_case_back.jpg">Case (Back)</a> - <a href="/merchandise/images/tropica_cd.jpg">CD</a> - 
 	<a href="/merchandise/images/tropica_jacket_inside.jpg">Jacket (Inside)</a> - <a href="/merchandise/images/tropica_jacket_outside.jpg">Jacket (Outside)</a> - <a href="/merchandise/images/tropica_tag_front.jpg">Tag (Front)</a> - 
 	<a href="/merchandise/images/tropica_tag_back.jpg">Tag (Back)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-16 21:49:10 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2010-12-17 03:49:10 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: EarthBound 64 Publications
 categories:
   - eb64
-date: 2019-08-18 15:51:55 +0500
+date: 2019-08-18 20:51:55 +0000
 ---
-{% include box-open.html box-id="5376" title="Overview and Navigation:" author-id="28590" timestamp="2019-09-18 16:43:05 +0500" type="norm" dbname="box58207" last-modified-by="127" %}
+{% include box-open.html box-id="5376" title="Overview and Navigation" author-id="28590" timestamp="2019-09-18 21:43:05 +0000" type="norm" dbname="box58207" last-modified-by="127" %}
 While EarthBound 64 has long since been put to rest, to this day, fans are still uncovering new content from this Nintendo 64-era game. New story, details, screenshots, etc. are still found within old publications even now. You can find what has been discovered here. Publications have been divided into years and are labeled under what media it was printed within.<br /><br /><br />
 
 <center><table class="fixed" border="1">
@@ -22,9 +22,9 @@ While EarthBound 64 has long since been put to rest, to this day, fans are still
 </tr>
 </table>
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-19 00:36:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-19 05:36:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5370" title="Unidentified Scans:" author-id="28590" timestamp="2019-08-18 15:51:55 +0500" type="norm" dbname="box59395" last-modified-by="127" %}
+{% include box-open.html box-id="5370" title="Unidentified Scans" author-id="28590" timestamp="2019-08-18 20:51:55 +0000" type="norm" dbname="box59395" last-modified-by="127" %}
 <a href="images/13.jpg"><img src="images/13.jpg" title="Unidentified" height="100" border="1" /></a>
 
 
@@ -114,8 +114,8 @@ While EarthBound 64 has long since been put to rest, to this day, fans are still
 <a href="un6.jpg"><img src="un6.jpg" title="Unidentified" height="100" border="1" /></a>
 
 <a href="un7.jpg"><img src="un7.jpg" title="Unidentified" height="100" border="1" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 08:48:55 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-12-16 14:48:55 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5435" title="Contact Info:" author-id="28590" timestamp="2019-09-19 00:36:48 +0500" type="norm" dbname="box1221" last-modified-by="127" %}
+{% include box-open.html box-id="5435" title="Contact Info" author-id="28590" timestamp="2019-09-19 05:36:48 +0000" type="norm" dbname="box1221" last-modified-by="127" %}
 If you can help us identify any of these, provide better scans, or new publications, please contact <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a> on the forums! The help is certainly appreciated!
-{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-19 00:38:47 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2019-09-19 05:38:47 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,13 +2,13 @@
 title: EarthBound Player&#039;s Guide Errors
 categories:
   - mother2
-date: 2007-06-27 22:40:51 +0500
+date: 2007-06-28 03:40:51 +0000
 ---
-{% include box-open.html box-id="3136" title="EarthBound Player's Guide Errors:" author-id="288" timestamp="2007-06-27 22:40:51 +0500" type="norm" dbname="box24748" last-modified-by="127" %}
+{% include box-open.html box-id="3136" title="EarthBound Player's Guide Errors" author-id="288" timestamp="2007-06-28 03:40:51 +0000" type="norm" dbname="box24748" last-modified-by="127" %}
 EarthBound was obviously a unique game from the moment people first laid eyes on it. It came packaged in a giant box in order to store an equally unique player's guide. In addition to clay models, newspaper clippings, adverts, and scratch n' sniff cards, the EarthBound player's guide also includes many errors. Most are simply the result of creating the guide before the localization changes between Mother 2 and EarthBound were done. Others are just the result of poor information or overlooked mistakes. Whatever the case, all of the guide's  errors are listed here.
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-27 23:57:08 +0500" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-28 04:57:08 +0000" last-modified-by-name="Ninten1" %}
 
-{% include box-open.html box-id="3137" title="Mother 2 Remnants:" author-id="849" timestamp="2007-06-28 01:38:22 +0500" type="norm" dbname="box49102" last-modified-by="127" %}
+{% include box-open.html box-id="3137" title="Mother 2 Remnants" author-id="849" timestamp="2007-06-28 06:38:22 +0000" type="norm" dbname="box49102" last-modified-by="127" %}
 <b><u>Page 0:</u></b> The Runaway 5 are dressed in black suits.
 <br /><br /><hr width="50%"/><br /><br />
 <b><u>Page 10:</u></b> Ramblin' Evil Mushroom is referred to as "Walking Mushroom."
@@ -66,9 +66,9 @@ Dr. Andonuts' lab is labeled "LABO" instead of "LAB."
 <b><u>Page 111:</u></b> Ness is nude instead of in his pajamas.
 <br /><br /><hr width="50%"/><br /><br />
 <b><u>Page 119:</u></b> Poo's crying status icon is from Mother 2.
-{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-28 15:23:05 +0600" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-28 21:23:05 +0000" last-modified-by-name="Ninten1" %}
 
-{% include box-open.html box-id="3161" title="EarthBound Mistakes:" author-id="849" timestamp="2007-07-13 01:40:53 +0500" type="norm" dbname="box31439" last-modified-by="127" %}
+{% include box-open.html box-id="3161" title="EarthBound Mistakes" author-id="849" timestamp="2007-07-13 06:40:53 +0000" type="norm" dbname="box31439" last-modified-by="127" %}
 <u><b>Page 5:</b></u> "Really" is misspelled as "realy"
 <br /><br /><hr width="50%"/><br /><br />
 <u><b>Page 6:</b></u> There is no space before the beta symbol.
@@ -148,4 +148,4 @@ The "Rare Discoveries Made" article says that Bionic Kraken drop the Legendary B
 Master Barf's description refers to him as Master Belch.
 <br /><br /><hr width="50%"/><br /><br />
 <u><b>Page 113:</b></u> Mr. Molecule is labed as Molecule.
-{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-28 15:28:21 +0600" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-28 21:28:21 +0000" last-modified-by-name="Ninten1" %}

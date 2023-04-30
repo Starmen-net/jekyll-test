@@ -2,9 +2,9 @@
 title: Child&#039;s Play CD 2008 - Gamers Give Back
 categories:
   - merchandise
-date: 2009-01-30 23:33:19 +0600
+date: 2009-01-31 05:33:19 +0000
 ---
-{% include box-open.html box-id="3602" title="Child's Play CD 2008 - Gamers Give Back:" author-id="45" timestamp="2009-01-30 23:33:19 +0600" type="norm" dbname="box12450" last-modified-by="45" %}
+{% include box-open.html box-id="3602" title="Child's Play CD 2008 - Gamers Give Back" author-id="45" timestamp="2009-01-31 05:33:19 +0000" type="norm" dbname="box12450" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/cpcd08_title.jpg" border="0" alt="Child's Play CD 2008 - Gamers Give Back" />
 	</center>
@@ -116,4 +116,4 @@ date: 2009-01-30 23:33:19 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/cpcd08_front.jpg">Front</a> - <a href="/merchandise/images/cpcd08_cdcase.jpg">CD Case</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-01-31 00:40:58 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-01-31 06:40:58 +0000" last-modified-by-name="ShadowX" %}

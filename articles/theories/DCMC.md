@@ -2,15 +2,15 @@
 title: Theories - Lier X. Agerate
 categories:
   - articles
-date: 2011-11-09 00:54:17 +0600
+date: 2011-11-09 06:54:17 +0000
 ---
-{% include box-open.html box-id="4111" title="Theories topic for the week of November 2 - 8, 2011:" author-id="1419" timestamp="2011-11-09 00:54:17 +0600" type="norm" dbname="box18877" last-modified-by="127" %}
+{% include box-open.html box-id="4111" title="Theories topic for the week of November 2 - 8, 2011" author-id="1419" timestamp="2011-11-09 06:54:17 +0000" type="norm" dbname="box18877" last-modified-by="127" %}
 <center><img src="/articles/theories/DCMC.png" alt="DCMC" title="DONUTS CAN'T MAKE CHEESE" /><p/>
 
 DCMC is the premier band rocking out Nowhere Island! But how did they form exactly? Below are your answers to that question!</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 00:59:36 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 06:59:36 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4112" title="Theory of the Week:" author-id="1419" timestamp="2011-11-09 01:00:13 +0600" type="norm" dbname="box40872" last-modified-by="127" %}
+{% include box-open.html box-id="4112" title="Theory of the Week" author-id="1419" timestamp="2011-11-09 07:00:13 +0000" type="norm" dbname="box40872" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, How did the band DCMC form? In all honesty, bands and music theories always slip through my fingers, they never are really relevant to me. Luckly, I had an old shall we say "Friend" available to help me out. So most words you read in this today, are from none other than Falc-N from the former band, the Capt-N's(he made me say that, it's the only way I could've gotten answers.)<p/>
 DCMC, the short lived band, that provided such awesome music. OJ, Magic, Lucky, Baccio, Shimmy Zmizz, the band members that never seperated leadership to one person. DCMC (or Desperado Crash Mambo Combo)was a friendly group, with positive attitudes. Yet we don't know how they came to meet with each other. Well, it's time we learned.<p/>
 
@@ -37,9 +37,9 @@ And thus, DCMC became a performing band. How long they played...that's a mystery
 
 
 - Firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 01:01:54 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 07:01:54 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4113" title="We have a real celebrity here:" author-id="1419" timestamp="2011-11-09 01:02:00 +0600" type="norm" dbname="box41075" last-modified-by="127" %}
+{% include box-open.html box-id="4113" title="We have a real celebrity here" author-id="1419" timestamp="2011-11-09 07:02:00 +0000" type="norm" dbname="box41075" last-modified-by="127" %}
 so this one time this guy trey parker and matt stone were all "hey lets make music for the various movies we make" and they were all "yeah lets do that" so they made a band called dcmc<p/>
 
 their best song was about montages and it was in an episode of south park i saw one time.<p/>
@@ -47,10 +47,10 @@ their best song was about montages and it was in an episode of south park i saw 
 i know this because i was the drummer.<p/>
 
 -Claremonster
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 01:03:18 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 07:03:18 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4114" title="A tale of beverages and talent:" author-id="1419" timestamp="2011-11-09 01:03:23 +0600" type="norm" dbname="box2166" last-modified-by="127" %}
+{% include box-open.html box-id="4114" title="A tale of beverages and talent" author-id="1419" timestamp="2011-11-09 07:03:23 +0000" type="norm" dbname="box2166" last-modified-by="127" %}
 Shimmy Zmizz, the keyboard player is a familiar face from Runaway Five fell into and straw berry juice, his favorite drink and froze. Oh how he loves it gets all over his lips but he just smiles it off. Anyways he woke up on strange island He felt alone in new city. He felt an emptiness in side of him so great that not even straw berry juice could cure. He was drinking strawberry juice on the rocks at a bar when a live band started to play. He began to smile bigger and bigger he missed playing his keyboard. Shimmy Zmizz ran up to the stage and punched the keyboard player and started playing his best and yelled DRINKING CHOCOLATE MILK IS CRAZY. OJ turned around and said smooth new band name bro DCMC I like it.<p/>
 
 -Tiny hearts Stardood
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 01:04:12 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-09 07:04:12 +0000" last-modified-by-name="Captain Bozo" %}

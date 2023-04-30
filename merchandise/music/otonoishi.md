@@ -2,9 +2,9 @@
 title: Oto no Ishi - Happy Hardcore Style &quot;Mother&quot; Arrange CD Album
 categories:
   - merchandise
-date: 2006-12-10 22:54:47 +0600
+date: 2006-12-11 04:54:47 +0000
 ---
-{% include box-open.html box-id="2744" title="Oto no Ishi - Happy Hardcore Style \"Mother\" Arrange CD Album:" author-id="45" timestamp="2006-12-10 22:54:47 +0600" type="norm" dbname="box61539" last-modified-by="127" %}
+{% include box-open.html box-id="2744" title="Oto no Ishi - Happy Hardcore Style \"Mother\" Arrange CD Album" author-id="45" timestamp="2006-12-11 04:54:47 +0000" type="norm" dbname="box61539" last-modified-by="127" %}
 	<center>
 	<imgalphapng src="/merchandise/images/otonoishi_title.png" width="400" height="362" border="0" alt="Oto no Ishi - Happy Hardcore Style Mother Arrange CD Album" />
 	</center>
@@ -124,4 +124,4 @@ date: 2006-12-10 22:54:47 +0600
 	<a href="/merchandise/images/otonoishi_case_front.jpg">Case (Front)</a> - <a href="/merchandise/images/otonoishi_case_back.jpg">Case (Back)</a> - <a href="/merchandise/images/otonoishi_case_finside.jpg">Case (Inside Front)</a> - 
 	<a href="/merchandise/images/otonoishi_case_binside.jpg">Case (Inside Back)</a> - <a href="/merchandise/images/otonoishi_cd.jpg">CD</a> - <a href="/merchandise/images/otonoishi_tag.jpg">Tag</a> - 
 	<a href="/merchandise/images/otonoishi_book_front.jpg">Book (Front)</a> - <a href="/merchandise/images/otonoishi_book_back.jpg">Book (Back)</a> - <a href="/merchandise/images/otonoishi_book_inside.jpg">Book (Inside)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:45:04 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:45:04 +0000" last-modified-by-name="Tomato" %}

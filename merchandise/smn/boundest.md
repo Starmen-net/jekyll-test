@@ -2,9 +2,9 @@
 title: 'Bound: Estivos'
 categories:
   - merchandise
-date: 2005-01-04 01:19:11 +0600
+date: 2005-01-04 07:19:11 +0000
 ---
-{% include box-open.html box-id="440" title="Bound: Estivos:" author-id="45" timestamp="2005-01-04 01:19:11 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="440" title="Bound: Estivos" author-id="45" timestamp="2005-01-04 07:19:11 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_bound_est_title.jpg" border="0" alt="Bound: Estivos" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-04 01:19:11 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_bound_est_poster.jpg">Poster</a> - <a href="/merchandise/images/smn_bound_est_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:19:22 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 07:19:22 +0000" last-modified-by-name="ShadowX" %}

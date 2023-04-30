@@ -2,9 +2,9 @@
 title: Fan Music
 categories:
   - fanmusic
-date: 2005-04-04 00:13:35 +0500
+date: 2005-04-04 05:13:35 +0000
 ---
-{% include box-open.html box-id="899" title="Welcome to Fan Music:" author-id="926" timestamp="2005-04-04 00:13:35 +0500" type="norm" dbname="box1980" last-modified-by="127" %}
+{% include box-open.html box-id="899" title="Welcome to Fan Music" author-id="926" timestamp="2005-04-04 05:13:35 +0000" type="norm" dbname="box1980" last-modified-by="127" %}
 <center><img src="http://local-static1.forum-files.fobby.net/forum_attachments/0028/6351/TESTING_FAN_MUSIC.png" /></center> <br />
 <center>Welcome to the Fan Music section! If you're musically talented, and you love recording Earthbound and Mother music, then this is the place for you to shine! </center>
 
@@ -14,9 +14,9 @@ date: 2005-04-04 00:13:35 +0500
 <p />
 <center>Also; don't forget to <a href="http://starmen.net/submit/">submit</a> your Fan Music!</center>
 
-{% include box-close.html author-name="Wheelchairboy" last-modified-on="2011-11-09 02:54:51 +0600" last-modified-by-name="Edobean" %}
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2011-11-09 08:54:51 +0000" last-modified-by-name="Edobean" %}
 
-{% include box-open.html box-id="1849" title="Fan Music Galleries:" author-id="257" timestamp="2006-02-15 16:48:57 +0600" type="norm" dbname="box7676" last-modified-by="127" %}
+{% include box-open.html box-id="1849" title="Fan Music Galleries" author-id="257" timestamp="2006-02-15 22:48:57 +0000" type="norm" dbname="box7676" last-modified-by="127" %}
 <center>By Artist:<br />&lt;&nbsp;
 <a href="/fanmusic/gallery.php?ret=nothing&box49481FirstLetter=A">A</a>&nbsp;
 
@@ -53,12 +53,12 @@ date: 2005-04-04 00:13:35 +0500
 <a href="http://starmen.net/fanmusic/gallery.php?group=Mother2">MOTHER 2 Music</a><br />
 <a href="http://starmen.net/fanmusic/gallery.php?group=Mother3">MOTHER 3 Music</a><br />
 
-{% include box-close.html author-name="Erik" last-modified-on="2007-06-19 01:23:31 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Erik" last-modified-on="2007-06-19 06:23:31 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="1851" title="Contact Info:" author-id="257" timestamp="2006-02-15 17:05:51 +0600" type="norm" dbname="box48665" last-modified-by="127" %}
+{% include box-open.html box-id="1851" title="Contact Info" author-id="257" timestamp="2006-02-15 23:05:51 +0000" type="norm" dbname="box48665" last-modified-by="127" %}
 <table1 />
 Section Maintainer:
 <table2 />
 <a href="http://forum.starmen.net/members/PKEdobean">Edobean</a><br />
 <table3 />
-{% include box-close.html author-name="Erik" last-modified-on="2011-10-26 22:52:39 +0500" last-modified-by-name="Edobean" %}
+{% include box-close.html author-name="Erik" last-modified-on="2011-10-27 03:52:39 +0000" last-modified-by-name="Edobean" %}

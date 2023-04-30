@@ -2,9 +2,9 @@
 title: Contact - Mother 3 Fan Book
 categories:
   - merchandise
-date: 2007-04-21 18:40:19 +0500
+date: 2007-04-21 23:40:19 +0000
 ---
-{% include box-open.html box-id="2872" title="Contact - Mother 3 Fan Boook:" author-id="45" timestamp="2007-04-21 18:40:19 +0500" type="norm" dbname="box9905" last-modified-by="45" %}
+{% include box-open.html box-id="2872" title="Contact - Mother 3 Fan Boook" author-id="45" timestamp="2007-04-21 23:40:19 +0000" type="norm" dbname="box9905" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3contact_title.jpg" border="0" alt="Mother 3 " />
 	</center>
@@ -31,4 +31,4 @@ date: 2007-04-21 18:40:19 +0500
 	<a href="/merchandise/images/m3contact_front.jpg">Front</a> - <a href="/merchandise/images/m3contact_back.jpg">Back</a> - <a href="/merchandise/images/m3contact_insert_front.jpg">MOTHER series only event Insert (Front)</a> - 
 	<a href="/merchandise/images/m3contact_insert_back.jpg">MOTHER series only event Insert (Back)</a> - <a href="/merchandise/images/m3contact_p06.jpg">Page 06</a> - <a href="/merchandise/images/m3contact_p11.jpg">Page 11</a> - 
 	<a href="/merchandise/images/m3contact_p35.jpg">Page 35</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 20:52:22 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-22 01:52:22 +0000" last-modified-by-name="ShadowX" %}

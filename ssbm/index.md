@@ -2,9 +2,9 @@
 title: 'Super Smash Bros: Melee'
 categories:
   - ssbm
-date: 2005-04-01 21:42:03 +0600
+date: 2005-04-02 03:42:03 +0000
 ---
-{% include box-open.html box-id="708" title=" Super Smash Bros. Melee:" author-id="14" timestamp="2005-04-01 21:42:03 +0600" type="norm" dbname="box21978" last-modified-by="127" %}
+{% include box-open.html box-id="708" title=" Super Smash Bros. Melee" author-id="14" timestamp="2005-04-02 03:42:03 +0000" type="norm" dbname="box21978" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="Super Smash Bros. Melee" />
 	<table valign="top">
@@ -67,9 +67,9 @@ date: 2005-04-01 21:42:03 +0600
    here.  And it's not without credit to you: the viewer.  So, if there's
    something you know about or have, that pertains to EarthBound and/or
    SSBM, and you want people to see it, then send it here and make it known!</p>
-{% include box-close.html author-name="BlackLeader" last-modified-on="2007-07-04 18:26:45 +0500" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="BlackLeader" last-modified-on="2007-07-04 23:26:45 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="709" title="Recent Updates:" author-id="14" timestamp="2005-04-01 21:47:45 +0600" type="norm" dbname="box27547" last-modified-by="127" %}
+{% include box-open.html box-id="709" title="Recent Updates" author-id="14" timestamp="2005-04-02 03:47:45 +0000" type="norm" dbname="box27547" last-modified-by="127" %}
 <b>October 30, 2016:</b>
 <ul><li>All music added. Characters and movesets underway.<br />--CerealQueen</li></ul>
 
@@ -82,12 +82,12 @@ date: 2005-04-01 21:42:03 +0600
 
 <b>August 10th, 2005:</b><br />
 &nbsp; &nbsp; &#149; <a href="videos/">Videos</a> section has received a MAJOR facelift and has some wonderful new submissions.<br /><br />
-{% include box-close.html author-name="BlackLeader" last-modified-on="2018-06-14 20:36:00 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="BlackLeader" last-modified-on="2018-06-15 01:36:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="723" title="Contact Info:" author-id="288" timestamp="2005-04-02 12:33:43 +0600" type="norm" dbname="box10989" last-modified-by="127" %}
+{% include box-open.html box-id="723" title="Contact Info" author-id="288" timestamp="2005-04-02 18:33:43 +0000" type="norm" dbname="box10989" last-modified-by="127" %}
 <table1 />
 Section maintainer:<br />
 <table2 />
 <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a><br />
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2017-01-22 13:15:50 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2017-01-22 19:15:50 +0000" last-modified-by-name="CerealQueen" %}

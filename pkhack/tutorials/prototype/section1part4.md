@@ -2,17 +2,17 @@
 title: Prototype&#039;s PK Hack Tutorial
 categories:
   - pkhack
-date: 2012-02-11 21:04:27 +0600
+date: 2012-02-12 03:04:27 +0000
 ---
-{% include box-open.html box-id="4253" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-02-11 21:04:27 +0600" type="blank" dbname="box39576" last-modified-by="127" %}
+{% include box-open.html box-id="4253" title="New Box, Edit me :(" author-id="6189" timestamp="2012-02-12 03:04:27 +0000" type="blank" dbname="box39576" last-modified-by="127" %}
 <center><font size="5">1.4 Technical Details</font></center><br /><br /><font size="2">This is all important info for editing the EarthBound ROM, understanding how things work, how the ROM
 stores things, and how the SNES handles the data. You won’t be able to do more than the most simple of hacks
 if you don’t know this material. If you are experienced at ROM hacking or programming, much of this may be familiar,
 but I would still recommend reading the sections on Control Codes and Terms. If you have no experience with either,
 read and understand this section.</font><br /><br /><hr />
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:49:29 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:49:29 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4254" title="1. The ROM and SNES Info:" author-id="6189" timestamp="2012-02-11 21:05:30 +0600" type="norm" dbname="box43820" last-modified-by="127" %}
+{% include box-open.html box-id="4254" title="1. The ROM and SNES Info" author-id="6189" timestamp="2012-02-12 03:05:30 +0000" type="norm" dbname="box43820" last-modified-by="127" %}
 The unaltered EarthBound ROM is 3 MB’s, or 24 Mb, and has a header of 8001008000000000aabb04, followed by 502
 (in decimal) hex bytes of 00. The CRC32 is DC9BB451. This can be expanded to 4MB’s, or 6MB’s. The ROM has a piracy
 screen that can be tripped, most hackers need not worry about that. Editing the opening screens will cause the ROM
@@ -24,9 +24,9 @@ one. The SNES supports up to 32,768 colors, but Sprites can only have 16 colors(
 this is a limitation of the SNES, not the ROM. The SNES sound setup supports 8 channels at once, meaning 8 different
 instruments can be used in a song. The ROM is jam packed, so when adding ANYTHING new or making something larger
 in size data-wise, it MUST be put in the expanded area(past the end of the origional ROM).
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:05:56 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:05:56 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4255" title="2. Control Codes and Palettes:" author-id="6189" timestamp="2012-02-11 21:06:10 +0600" type="norm" dbname="box19555" last-modified-by="127" %}
+{% include box-open.html box-id="4255" title="2. Control Codes and Palettes" author-id="6189" timestamp="2012-02-12 03:06:10 +0000" type="norm" dbname="box19555" last-modified-by="127" %}
 Almost everything that isn’t graphics or audio is done with Control Codes. You don’t need to memorize them,
 but it is important that you have the reference list handy for working with them. When the game reads a text block,
 the codes tell the game how to act. Data Crystal has the current list, but there are still some codes we don’t know,
@@ -40,9 +40,9 @@ known as a Palette. You have many Palettes to use, some of which appear unused, 
 colors and a transparent per Palette. You will be face to face with the Palette when editing sprites, tilesets,
 or any other graphical work. When changing colors, the easiest way to do it is to click on the RGB tab, and use those
 values. 0-255 is valid for each of the three.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:06:50 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:06:50 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4256" title="3. Hex and Addresses:" author-id="6189" timestamp="2012-02-11 21:06:33 +0600" type="norm" dbname="box65367" last-modified-by="127" %}
+{% include box-open.html box-id="4256" title="3. Hex and Addresses" author-id="6189" timestamp="2012-02-12 03:06:33 +0000" type="norm" dbname="box65367" last-modified-by="127" %}
 Hexadecimal is a base 16 mathmatic system. You are used to using Decimal, a base 10 system. Understanding
 Hex is key to understanding how pointers work, and anything related to pointers like linking text. Decimal has the
 numbers 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. The next number is one place over, with the smallest number back to 0, 10.
@@ -93,9 +93,9 @@ destruction to your ROM with the Hex Editor. The ROM’s address range is 0×000
 4MB versions of the ROM both are HiROM SNES ROMs. They use the area of SNES addressing $C00000-$FFFFFF, except the 3MB
 doesn’t go up that high. The 6MB ROM uses the ExHiROM system, using SNES addressing areas $C00000-$FFFFFF and
 $400000-$7DFFFF, with the ROM using $400000-$5FFFFF as 0×400200-0×6001FF. Because that’s not confusing at all.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:08:10 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:08:10 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4257" title="4. Pointers, Tables, Binary Flags, and Events:" author-id="6189" timestamp="2012-02-11 21:08:52 +0600" type="norm" dbname="box38540" last-modified-by="127" %}
+{% include box-open.html box-id="4257" title="4. Pointers, Tables, Binary Flags, and Events" author-id="6189" timestamp="2012-02-12 03:08:52 +0000" type="norm" dbname="box38540" last-modified-by="127" %}
 A Pointer in the simplest sense is a hex address. It tells the SNES/ROM to go to location B. B being whatever
 the address is. The EarthBound ROM uses many control codes as pointers, but one of the most common is 08. Hence,
 whenever you see [08 XX XX XX], you know to check out whatever is at that address. Pointers are a hackers friend, since
@@ -135,9 +135,9 @@ be used together.
 Flags are indexed in the ROM with two Hex bytes, XX XX being the flag, the flag data being either 00 or 01. Flags
 are listed in the Data Crystal list by their index. The game always references flags by it’s index. You really should
 understand flags well before trying to hack.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:09:31 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:09:31 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4281" title="5. IF, ELSE, IF/ELSE, and other concepts:" author-id="6189" timestamp="2012-02-20 17:42:25 +0600" type="norm" dbname="box6706" last-modified-by="127" %}
+{% include box-open.html box-id="4281" title="5. IF, ELSE, IF/ELSE, and other concepts" author-id="6189" timestamp="2012-02-20 23:42:25 +0000" type="norm" dbname="box6706" last-modified-by="127" %}
 The IF statement is a programming concept going back to the start of programming. Is X larger than Y, yes or no.
 The question gets asked, and the IF statement returns a result of 0 or 1, no or yes. The program then does something
 due to the result it got. It’s like saying “Stop, is X true? If so, do this.” If false, it just continues forward.
@@ -197,9 +197,9 @@ options. You can keep a blank space separating you text by going to the middle l
 the ending 00 to make up the difference between you new text line of 60 spaces and the total needed be reached of 256
 by making it 196 sizes long. OR, if you want to see nothing but text in your editor without spaces in between, then
 type enough 00’s in sequence IN THE SAME LINE as your text AFTER IT ENDS until you hit exactly 256.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-20 17:43:13 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-20 23:43:13 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4282" title="6. Memory Registers and RAM Manipulation:" author-id="6189" timestamp="2012-02-20 17:46:40 +0600" type="norm" dbname="box31800" last-modified-by="127" %}
+{% include box-open.html box-id="4282" title="6. Memory Registers and RAM Manipulation" author-id="6189" timestamp="2012-02-20 23:46:40 +0000" type="norm" dbname="box31800" last-modified-by="127" %}
 Thanks to whoever put this info on Data Crystal.
 If you think things were complicated before, now we get into the nitty gritty just short of ASM. Every window
 has a number of what is called Memory Registers. Every window has the following six “registers”, divided into two parts:
@@ -229,9 +229,9 @@ program flow. An argument is what gets returned, and/or specified in the code. C
 uses XX XX for an argument, whereas [0B XX] and [0C XX] use XX as an argument, but return 00 or 01 into Working Memory,
 turning that into an argument for the next code to check Working Memory. Most Control Codes take some form of an
 argument, there is a listing of common arguments on Data Crystal.
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-20 17:47:39 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-20 23:47:39 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4283" title="7. Terms, Labels, and Conversion Rates:" author-id="6189" timestamp="2012-02-20 17:48:01 +0600" type="norm" dbname="box13120" last-modified-by="127" %}
+{% include box-open.html box-id="4283" title="7. Terms, Labels, and Conversion Rates" author-id="6189" timestamp="2012-02-20 23:48:01 +0000" type="norm" dbname="box13120" last-modified-by="127" %}
 Argument = A variable used for comparison to something else in programming.<br />
 Assembly = 65816 Assembly code. This is the variant of ASM that the SNES uses, with which you can do anything
 you can code that the SNES and ROM are capable of.<br />
@@ -292,8 +292,8 @@ to convert the addresses around.<br /><br />
 If the idea of reversing pointers confuses you, here is a nifty little animated graphic made by Jeffman to help you along:<br /><br />
 
 <center><img src="http://starmen.net/pkhack/tutorials/prototype/images/bytereverse.gif" /></center>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:51:55 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:51:55 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4258" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-02-11 21:09:58 +0600" type="blank" dbname="box64732" last-modified-by="127" %}
+{% include box-open.html box-id="4258" title="New Box, Edit me :(" author-id="6189" timestamp="2012-02-12 03:09:58 +0000" type="blank" dbname="box64732" last-modified-by="127" %}
 <center><font size="4"><a href="section1part3.php">&larr; 1.3 Editing Order</a> | <b>1.4 Technical Details</b> | <a href="section1part5.php">1.5 PK Hack's Tools &rarr;</a></font></center>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-11 21:36:58 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-12 03:36:58 +0000" last-modified-by-name="NESluver" %}

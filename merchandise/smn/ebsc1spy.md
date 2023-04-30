@@ -2,9 +2,9 @@
 title: 'EB Sticker Collection 1: SPY'
 categories:
   - merchandise
-date: 2005-01-04 00:49:49 +0600
+date: 2005-01-04 06:49:49 +0000
 ---
-{% include box-open.html box-id="416" title="EB Sticker Collection 1: SPY:" author-id="45" timestamp="2005-01-04 00:49:49 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="416" title="EB Sticker Collection 1: SPY" author-id="45" timestamp="2005-01-04 06:49:49 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ebsc1s_title.jpg" border="0" alt="EB Sticker Collection 1: SPY" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 00:49:49 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_ebsc1s_sticker.jpg">Sticker</a> - <a href="/merchandise/images/smn_ebsc1s_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:49:59 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:49:59 +0000" last-modified-by-name="ShadowX" %}

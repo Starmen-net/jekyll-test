@@ -2,9 +2,9 @@
 title: 'Game Credits: Michael Kelbaugh'
 categories:
   - credits
-date: 2005-05-03 15:32:37 +0500
+date: 2005-05-03 20:32:37 +0000
 ---
-{% include box-open.html box-id="995" title="Michael Kelbaugh:" author-id="2262" timestamp="2005-05-03 15:32:37 +0500" type="norm" dbname="box10735" last-modified-by="127" %}
+{% include box-open.html box-id="995" title="Michael Kelbaugh" author-id="2262" timestamp="2005-05-03 20:32:37 +0000" type="norm" dbname="box10735" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 <LI><b>Metal Combat: Falcon's Revenge(SNES 1993)</b><BR />
@@ -51,4 +51,4 @@ Special Thanks</LI>
 <LI><b>Metroid Prime 2: Echoes(GCN 2004/2005)</b><BR />
 Senior Producer</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:17:10 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:17:10 +0000" last-modified-by-name="KingDarian" %}

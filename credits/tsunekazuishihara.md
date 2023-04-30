@@ -2,9 +2,9 @@
 title: 'Game Credits: Tsunekazu Ishihara'
 categories:
   - credits
-date: 2005-05-03 01:53:03 +0500
+date: 2005-05-03 06:53:03 +0000
 ---
-{% include box-open.html box-id="980" title="Tsunekazu Ishihara:" author-id="2262" timestamp="2005-05-03 01:53:03 +0500" type="norm" dbname="box50934" last-modified-by="127" %}
+{% include box-open.html box-id="980" title="Tsunekazu Ishihara" author-id="2262" timestamp="2005-05-03 06:53:03 +0000" type="norm" dbname="box50934" last-modified-by="127" %}
 <img src="tsunekazuishihara.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -86,4 +86,4 @@ Executive Producer</LI>
 Special Thanks</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 16:36:01 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 21:36:01 +0000" last-modified-by-name="KingDarian" %}

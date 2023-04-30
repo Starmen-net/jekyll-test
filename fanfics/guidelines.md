@@ -2,9 +2,9 @@
 title: Fanfics - Submission Guidelines
 categories:
   - fanfics
-date: 2008-11-05 19:05:42 +0600
+date: 2008-11-06 01:05:42 +0000
 ---
-{% include box-open.html box-id="3558" title="Fanfiction Guidelines:" author-id="75" timestamp="2008-11-05 19:05:42 +0600" type="norm" dbname="box28640" last-modified-by="127" %}
+{% include box-open.html box-id="3558" title="Fanfiction Guidelines" author-id="75" timestamp="2008-11-06 01:05:42 +0000" type="norm" dbname="box28640" last-modified-by="127" %}
 Here are a few basic guidelines to keep in mind when submitting fanfiction:<br />
 <ul>
 <li><b>All fanfics <i>must</i> be submitted in .html, .rtf, .txt, or .doc format.</b> No other formats will be accepted. Please convert any .docx files (Word 2007) to .doc (Word 2003) version prior to submission.</li><br />
@@ -21,4 +21,4 @@ Please be patient while waiting for submissions to be processed. Fan-fiction is 
 In order to submit anything to Starmen.Net, you need to create a <a href="http://forum.starmen.net/">forum account</a>. This site is integrated with the forums to create gigantic database that makes for easier navigation and editing (good for both visitors and staffers). Don't be shy!  We always love to meet new EarthBound fans. (You don't need to post on the forums to submit anything to the site.)<br /><br />
 
 Please go <a href="http://starmen.net/submit/">here</a> to submit your fanfic.
-{% include box-close.html author-name="PoeTrader" last-modified-on="2013-05-27 22:53:50 +0500" last-modified-by-name="ohboy" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2013-05-28 03:53:50 +0000" last-modified-by-name="ohboy" %}

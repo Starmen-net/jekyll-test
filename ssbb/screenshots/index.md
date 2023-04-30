@@ -2,9 +2,9 @@
 title: Brawl Screenshots
 categories:
   - ssbb
-date: 2007-05-20 18:04:18 +0500
+date: 2007-05-20 23:04:18 +0000
 ---
-{% include box-open.html box-id="2899" title="EarthBound Related Screenshots:" author-id="137" timestamp="2007-05-20 18:04:18 +0500" type="norm" dbname="box39903" last-modified-by="127" %}
+{% include box-open.html box-id="2899" title="EarthBound Related Screenshots" author-id="137" timestamp="2007-05-20 23:04:18 +0000" type="norm" dbname="box39903" last-modified-by="127" %}
 <a href="/ssbb/screenshots/ebshots/set1_01.jpg"><img src="/ssbb/screenshots/ebshots/set1_p01.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/ebshots/set1_02.jpg"><img src="/ssbb/screenshots/ebshots/set1_p02.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/ebshots/set1_03.jpg"><img src="/ssbb/screenshots/ebshots/set1_p03.jpg" border="0" /></a>
@@ -47,16 +47,16 @@ date: 2007-05-20 18:04:18 +0500
 <a href="/ssbb/screenshots/ebshots/set6_02.jpg"><img src="/ssbb/screenshots/ebshots/set6_p02.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/ebshots/set6_03.jpg"><img src="/ssbb/screenshots/ebshots/set6_p03.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/ebshots/set6_04.jpg"><img src="/ssbb/screenshots/ebshots/set6_p04.jpg" border="0" /></a>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-11-25 10:59:29 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-11-25 16:59:29 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="2902" title="Subspace Emissary Screenshots:" author-id="137" timestamp="2007-05-20 19:57:30 +0500" type="norm" dbname="box22460" last-modified-by="127" %}
+{% include box-open.html box-id="2902" title="Subspace Emissary Screenshots" author-id="137" timestamp="2007-05-21 00:57:30 +0000" type="norm" dbname="box22460" last-modified-by="127" %}
 <a href="/ssbb/screenshots/sse/set1_01.jpg"><img src="/ssbb/screenshots/sse/set1_p01.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/sse/set1_02.jpg"><img src="/ssbb/screenshots/sse/set1_p02.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/sse/set1_03.jpg"><img src="/ssbb/screenshots/sse/set1_p03.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/sse/set1_04.jpg"><img src="/ssbb/screenshots/sse/set1_p04.jpg" border="0" /></a>
-{% include box-close.html author-name="Jonk" last-modified-on="2008-01-29 13:51:40 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2008-01-29 19:51:40 +0000" last-modified-by-name="JeffMan" %}
 
-{% include box-open.html box-id="2900" title="2006 Screenshots:" author-id="137" timestamp="2007-05-20 18:04:20 +0500" type="norm" dbname="box33041" last-modified-by="127" %}
+{% include box-open.html box-id="2900" title="2006 Screenshots" author-id="137" timestamp="2007-05-20 23:04:20 +0000" type="norm" dbname="box33041" last-modified-by="127" %}
 <a href="/ssbb/screenshots/large/set1_01.jpg"><img src="/ssbb/screenshots/previews/set1_p01.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/large/set1_02.jpg"><img src="/ssbb/screenshots/previews/set1_p02.jpg" border="0" /></a>
 <a href="/ssbb/screenshots/large/set1_03.jpg"><img src="/ssbb/screenshots/previews/set1_p03.jpg" border="0" /></a>
@@ -95,4 +95,4 @@ date: 2007-05-20 18:04:18 +0500
 
 
 
-{% include box-close.html author-name="Jonk" last-modified-on="2007-05-20 19:57:25 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-05-21 00:57:25 +0000" last-modified-by-name="Jonk" %}

@@ -2,9 +2,9 @@
 title: Nimbus Skimmer Disc
 categories:
   - merchandise
-date: 2005-01-04 00:13:21 +0600
+date: 2005-01-04 06:13:21 +0000
 ---
-{% include box-open.html box-id="389" title="Nimbus Skimmer Disc:" author-id="45" timestamp="2005-01-04 00:13:21 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="389" title="Nimbus Skimmer Disc" author-id="45" timestamp="2005-01-04 06:13:21 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_nsdisc_title.png" border="0" alt="Nimbus Skimmer Disc" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-04 00:13:21 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_nsdisc_front.jpg">Front</a> - <a href="/merchandise/images/smn_nsdisc_design.jpg">Design</a> - <a href="/merchandise/images/smn_disc.jpg">Detail</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:13:30 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:13:30 +0000" last-modified-by-name="ShadowX" %}

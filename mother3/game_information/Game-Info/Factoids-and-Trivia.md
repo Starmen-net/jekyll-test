@@ -2,9 +2,9 @@
 title: Factoids and Trivia
 categories:
   - mother3
-date: 2016-10-23 00:24:04 +0500
+date: 2016-10-23 05:24:04 +0000
 ---
-{% include box-open.html box-id="4795" title="New Box, Edit me :(:" author-id="28590" timestamp="2016-10-23 00:24:04 +0500" type="norm" dbname="box5" last-modified-by="127" %}
+{% include box-open.html box-id="4795" title="New Box, Edit me :(" author-id="28590" timestamp="2016-10-23 05:24:04 +0000" type="norm" dbname="box5" last-modified-by="127" %}
 NOTE THIS IS JUST A REFERENCE FOR NOW
 
 <img src="I.a..png" /> <font size="3"> &nbsp; <b>I.a. Buzz Buzz’s Warning</b></font>
@@ -64,4 +64,4 @@ Defeating any Sharks in the way and confronting Frank himself behind the Onett a
  - At this point, Ness can visit Lier X. Aggerate at his home. He will reveal that he has managed to excavate a statue, but will be defensive of it to the point of regarding Ness with some animosity. His subtle change in behavior, as well as his possession of the statue, becomes relevant as the story progresses. 
 </p>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-28 01:11:51 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-28 07:11:51 +0000" last-modified-by-name="CerealQueen" %}

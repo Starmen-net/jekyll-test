@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - radio
-date: 2013-01-11 08:58:47 +0600
+date: 2013-01-11 14:58:47 +0000
 ---
-{% include box-open.html box-id="4573" title="New Box, Edit me :(:" author-id="5884" timestamp="2013-01-11 08:58:47 +0600" type="norm" dbname="box12891" last-modified-by="127" %}
+{% include box-open.html box-id="4573" title="New Box, Edit me :(" author-id="5884" timestamp="2013-01-11 14:58:47 +0000" type="norm" dbname="box12891" last-modified-by="127" %}
 <!--
 Attendance
 
@@ -56,9 +56,9 @@ Are you a long-time listener who's been with us over the years? Are you a new li
 
 
 -->
-{% include box-close.html author-name="cyan683" last-modified-on="2013-04-05 18:24:07 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2013-04-05 23:24:07 +0000" last-modified-by-name="cyan683" %}
 
-{% include box-open.html box-id="4596" title="New Box, Edit me :(:" author-id="5884" timestamp="2013-05-08 12:58:59 +0500" type="norm" dbname="box18721" last-modified-by="127" %}
+{% include box-open.html box-id="4596" title="New Box, Edit me :(" author-id="5884" timestamp="2013-05-08 17:58:59 +0000" type="norm" dbname="box18721" last-modified-by="127" %}
 <!--
 
 BlueDrago
@@ -109,4 +109,4 @@ Sometimes changes will happen and get undone in a round, but that's inevitable s
 Now, gl hf dd.
 
 -->
-{% include box-close.html author-name="cyan683" last-modified-on="2013-06-03 09:26:22 +0500" last-modified-by-name="cyan683" %}
+{% include box-close.html author-name="cyan683" last-modified-on="2013-06-03 14:26:22 +0000" last-modified-by-name="cyan683" %}

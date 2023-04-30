@@ -2,25 +2,25 @@
 title: Fan Art - Artist Spotlight
 categories:
   - fanart
-date: 2005-09-06 12:50:24 +0500
+date: 2005-09-06 17:50:24 +0000
 ---
-{% include box-open.html box-id="1530" title="Biggity-Banner:" author-id="75" timestamp="2005-10-02 18:18:19 +0500" type="blank" dbname="box21181" last-modified-by="127" %}
+{% include box-open.html box-id="1530" title="Biggity-Banner" author-id="75" timestamp="2005-10-02 23:18:19 +0000" type="blank" dbname="box21181" last-modified-by="127" %}
 <center><img src="/fanart/artistspotlight/art_spot.gif" /></center>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2005-11-30 22:17:37 +0600" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2005-12-01 04:17:37 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="1404" title="Overview:" author-id="75" timestamp="2005-09-06 12:50:24 +0500" type="norm" dbname="box56745" last-modified-by="127" %}
+{% include box-open.html box-id="1404" title="Overview" author-id="75" timestamp="2005-09-06 17:50:24 +0000" type="norm" dbname="box56745" last-modified-by="127" %}
 The Artist Spotlight is a showcase of an individual fan artist's collective works that display high dedication to EarthBound and above average artistic ability.  Every artist chosen for the spotlight has shown immense creative and artistic progress and has created works that look at EarthBound from new and varying angles and brought life back into the 10-year-old SNES game we all cherish.<br /><br />
-{% include box-close.html author-name="PoeTrader" last-modified-on="2011-01-06 17:12:42 +0600" last-modified-by-name="Eyes5" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2011-01-06 23:12:42 +0000" last-modified-by-name="Eyes5" %}
 
-{% include box-open.html box-id="1406" title="January 7, 2013 -Misurino-:" author-id="75" timestamp="2005-09-06 13:43:11 +0500" type="norm" dbname="box58942" last-modified-by="127" %}
+{% include box-open.html box-id="1406" title="January 7, 2013 -Misurino-" author-id="75" timestamp="2005-09-06 18:43:11 +0000" type="norm" dbname="box58942" last-modified-by="127" %}
 There is something about Misurino's art that is instantly charming. 'Delicious' is how I want to describe it, with a bright candy-like shine on most of her works. Especially the marker colored ones that are so masterfully blended. She must have a large collection of markers in order to achieve some of the gradations of color that make the characters pop out of the paper. Not to discount her pencil crayon and computer colored offerings which are also skillfully done. Misurino's lineart is also very pleasing with its varying thicknesses indicating depth and shadow and other effects. I especially enjoy the wiggly effect given to Masked Man's sword to show that it is electric. Anyways, wonderful gallery, Misurino; I hope we can see more added to it someday!
-{% include box-close.html author-name="PoeTrader" last-modified-on="2013-01-07 00:09:53 +0600" last-modified-by-name="Eyes5" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2013-01-07 06:09:53 +0000" last-modified-by-name="Eyes5" %}
 
-{% include box-open.html box-id="1405" title="Artist Spotlight's Fan Art Gallery:" author-id="75" timestamp="2005-09-06 12:50:27 +0500" type="db" dbname="box56384" last-modified-by="127" %}
+{% include box-open.html box-id="1405" title="Artist Spotlight's Fan Art Gallery" author-id="75" timestamp="2005-09-06 17:50:27 +0000" type="db" dbname="box56384" last-modified-by="127" %}
 <navigator search="`SubmitterName` = 'Misurino'" quantity="100" group="Fanart" offdir="TRUE" /><displaytor mode="thumbnail" />
-{% include box-close.html author-name="PoeTrader" last-modified-on="2013-01-06 22:40:35 +0600" last-modified-by-name="Eyes5" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2013-01-07 04:40:35 +0000" last-modified-by-name="Eyes5" %}
 
-{% include box-open.html box-id="4209" title="Recent Artist Spotlights:" author-id="9125" timestamp="2012-02-10 04:05:42 +0600" type="norm" dbname="box24771" last-modified-by="127" %}
+{% include box-open.html box-id="4209" title="Recent Artist Spotlights" author-id="9125" timestamp="2012-02-10 10:05:42 +0000" type="norm" dbname="box24771" last-modified-by="127" %}
 <table border="0">
 
 <tr>
@@ -82,9 +82,9 @@ There is something about Misurino's art that is instantly charming. 'Delicious' 
 <td width="100">superLARK</td>
 </tr>
 </table>
-{% include box-close.html author-name="LitoNico" last-modified-on="2013-01-06 22:41:34 +0600" last-modified-by-name="Eyes5" %}
+{% include box-close.html author-name="LitoNico" last-modified-on="2013-01-07 04:41:34 +0000" last-modified-by-name="Eyes5" %}
 
-{% include box-open.html box-id="1448" title="Previous Artist Spotlights:" author-id="75" timestamp="2005-09-21 13:42:45 +0500" type="norm" dbname="box35493" last-modified-by="127" %}
+{% include box-open.html box-id="1448" title="Previous Artist Spotlights" author-id="75" timestamp="2005-09-21 18:42:45 +0000" type="norm" dbname="box35493" last-modified-by="127" %}
 <table border="0">
 
 <tr>
@@ -400,4 +400,4 @@ There is something about Misurino's art that is instantly charming. 'Delicious' 
 
 </table>
 
-{% include box-close.html author-name="PoeTrader" last-modified-on="2012-02-10 04:10:50 +0600" last-modified-by-name="LitoNico" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2012-02-10 10:10:50 +0000" last-modified-by-name="LitoNico" %}

@@ -2,9 +2,9 @@
 title: PK FAQ!
 categories:
   - pkhack
-date: 2005-04-06 22:29:08 +0500
+date: 2005-04-07 03:29:08 +0000
 ---
-{% include box-open.html box-id="916" title="PK FAQ!:" author-id="111" timestamp="2005-04-06 22:29:08 +0500" type="norm" dbname="box21802" last-modified-by="127" %}
+{% include box-open.html box-id="916" title="PK FAQ!" author-id="111" timestamp="2005-04-07 03:29:08 +0000" type="norm" dbname="box21802" last-modified-by="127" %}
 <b>What is PK Hack?</b><br />
 PK Hack is a program used to make modifications to EarthBound. There are few limitations to what can be changed; the greatest restriction is usually the hacker's free time. The program itself is written in Java. AnyoneEB did most of the coding, but as a whole it's the work of hundreds of hours of lots of people's efforts.<br /><br />
 
@@ -28,4 +28,4 @@ The PK Hack community is a friendly bunch, and we're always glad to welcome newc
 
 <b>How do I use an IPS patch?</b><br />
 The answer to this very common question lies right <a href="http://starmen.net/pkhack/pk_docs/ips.txt">here</a> in our tutorial.<br /><br />
-{% include box-close.html author-name="GuyInSummers" last-modified-on="2012-08-14 10:08:15 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="GuyInSummers" last-modified-on="2012-08-14 15:08:15 +0000" last-modified-by-name="NESluver" %}

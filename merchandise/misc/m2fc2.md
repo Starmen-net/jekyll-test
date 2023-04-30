@@ -2,9 +2,9 @@
 title: 'MOTHER 2 Figure Collection 2: Ness, Jeff, &amp; Porky'
 categories:
   - merchandise
-date: 2011-02-19 01:21:11 +0600
+date: 2011-02-19 07:21:11 +0000
 ---
-{% include box-open.html box-id="3962" title="MOTHER 2 Figure Collection 2: Ness, Jeff, & Porky:" author-id="45" timestamp="2011-02-19 01:21:11 +0600" type="norm" dbname="box24750" last-modified-by="127" %}
+{% include box-open.html box-id="3962" title="MOTHER 2 Figure Collection 2: Ness, Jeff, & Porky" author-id="45" timestamp="2011-02-19 07:21:11 +0000" type="norm" dbname="box24750" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -66,4 +66,4 @@ In September of 2010 Banpresto started stocking UFO crane catching games with MO
 <a href="/merchandise/images/m2fc2_porky_box.jpg" ><img src="/merchandise/images/m2fc2_porky_box.jpg" title="MOTHER 2 Figure Collection 2: Porky Box" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2fc2_box_side1.jpg" ><img src="/merchandise/images/m2fc2_box_side1.jpg" title="MOTHER 2 Figure Collection 21: Box (Side 1)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2fc2_box_preview.jpg" ><img src="/merchandise/images/m2fc2_box_preview.jpg" title="MOTHER 2 Figure Collection 2: Box (Preview)" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:06:55 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:06:55 +0000" last-modified-by-name="Tomato" %}

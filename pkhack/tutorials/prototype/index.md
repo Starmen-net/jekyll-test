@@ -2,17 +2,17 @@
 title: Prototype&#039;s PK Hack Tutorial
 categories:
   - pkhack
-date: 2012-02-10 09:50:19 +0600
+date: 2012-02-10 15:50:19 +0000
 ---
-{% include box-open.html box-id="4211" title="Introduction:" author-id="6189" timestamp="2012-02-10 09:50:19 +0600" type="norm" dbname="box44450" last-modified-by="127" %}
+{% include box-open.html box-id="4211" title="Introduction" author-id="6189" timestamp="2012-02-10 15:50:19 +0000" type="norm" dbname="box44450" last-modified-by="127" %}
 This MASSIVE tutorial was created by forum user and hacker extraordinaire <a href="http://forum.starmen.net/members/Prototype">Prototype</a>. Be sure to thank him for this!
 
 <br /><br />
 
 <b>NOTE: THIS IS A WORK-IN-PROGRESS. WE WILL BE UPDATING THIS TUTORIAL AS WE RECEIVE UPDATES. THANK YOU!</b>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 09:52:05 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 15:52:05 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4212" title="Index:" author-id="6189" timestamp="2012-02-10 09:52:14 +0600" type="norm" dbname="box22143" last-modified-by="127" %}
+{% include box-open.html box-id="4212" title="Index" author-id="6189" timestamp="2012-02-10 15:52:14 +0000" type="norm" dbname="box22143" last-modified-by="127" %}
 <a href="section0.php">0.0.0 Preamble</a><br />
 <a href="section1.php">1.0.0 General Rules and Concepts</a><br />
 &emsp;&emsp;<a href="section1part1.php">1.1.0 Programs</a><br />
@@ -41,8 +41,8 @@ This MASSIVE tutorial was created by forum user and hacker extraordinaire <a hre
 &emsp;&emsp;5.2.0 Intermediate Text<br />
 &emsp;&emsp;5.3.0 Advanced Scripting<br />
 
-{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 18:53:13 +0500" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:53:13 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="4213" title="New Box, Edit me :(:" author-id="6189" timestamp="2012-02-10 10:07:09 +0600" type="blank" dbname="box49485" last-modified-by="127" %}
+{% include box-open.html box-id="4213" title="New Box, Edit me :(" author-id="6189" timestamp="2012-02-10 16:07:09 +0000" type="blank" dbname="box49485" last-modified-by="127" %}
 <center><font size="4">| <b>Index</b> | <a href="section0.php">Preamble &rarr;</a></font></center>
-{% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 10:11:32 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:11:32 +0000" last-modified-by-name="NESluver" %}

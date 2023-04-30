@@ -2,9 +2,9 @@
 title: Auctions
 categories:
   - merchandise
-date: 2007-02-04 17:18:37 +0600
+date: 2007-02-04 23:18:37 +0000
 ---
-{% include box-open.html box-id="2834" title="Japanese Auctions:" author-id="45" timestamp="2007-02-04 17:18:37 +0600" type="norm" dbname="box14397" last-modified-by="45" %}
+{% include box-open.html box-id="2834" title="Japanese Auctions" author-id="45" timestamp="2007-02-04 23:18:37 +0000" type="norm" dbname="box14397" last-modified-by="45" %}
 	<center>
 	<a href="http://auctions.yahoo.co.jp/jp/"><img src="/merchandise/auctions/yahoo.jpg" border="1" alt="Yahoo Japan Auctions" /><br />http://auctions.yahoo.co.jp</a>
 	</center>
@@ -16,9 +16,9 @@ date: 2007-02-04 17:18:37 +0600
 	you start bidding today! However please keep in mind that using any services requires 
 	additional fees such as commissions and international shipping. Things can get pretty 
 	pricey, so be sure to check out their latest rates before using their services.
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-05 01:12:42 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-05 07:12:42 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2835" title="Auction Services:" author-id="45" timestamp="2007-02-04 17:19:31 +0600" type="norm" dbname="box62434" last-modified-by="45" %}
+{% include box-open.html box-id="2835" title="Auction Services" author-id="45" timestamp="2007-02-04 23:19:31 +0000" type="norm" dbname="box62434" last-modified-by="45" %}
 <table1 />
 	<center>
 	<a href="http://www.celga.com"><img src="/merchandise/auctions/celga.jpg" border="1" alt="Celga.com" /><br />www.celga.com</a>
@@ -60,10 +60,10 @@ date: 2007-02-04 17:18:37 +0600
 	Payments can be made with PayPal, Credit Card, International Money Order, or Cash. Check 
 	out their site for information on how to use their services and a list of current rates.
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-14 21:47:37 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-15 03:47:37 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2836" title="Disclaimer:" author-id="45" timestamp="2007-02-04 21:46:44 +0600" type="norm" dbname="box44741" last-modified-by="45" %}
+{% include box-open.html box-id="2836" title="Disclaimer" author-id="45" timestamp="2007-02-05 03:46:44 +0000" type="norm" dbname="box44741" last-modified-by="45" %}
 	Please note that Starmen.Net is not responsible for any transactions made though any 
 	of these services. If you are having problems, or have a question, please contact the 
 	service you are using.
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-04 21:47:00 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-02-05 03:47:00 +0000" last-modified-by-name="ShadowX" %}

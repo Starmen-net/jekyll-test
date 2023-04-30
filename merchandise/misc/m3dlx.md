@@ -2,9 +2,9 @@
 title: Mother 3 Deluxe Box
 categories:
   - merchandise
-date: 2006-03-04 01:08:55 +0600
+date: 2006-03-04 07:08:55 +0000
 ---
-{% include box-open.html box-id="2024" title="Mother 3 Deluxe Box:" author-id="45" timestamp="2006-03-04 01:08:55 +0600" type="norm" dbname="box18776" last-modified-by="45" %}
+{% include box-open.html box-id="2024" title="Mother 3 Deluxe Box" author-id="45" timestamp="2006-03-04 07:08:55 +0000" type="norm" dbname="box18776" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m3dlx_title.png" width="300" height="230" border="0" alt="Mother 3 Deluxe Box" /><br />
 	</center>
@@ -46,4 +46,4 @@ date: 2006-03-04 01:08:55 +0600
 	<a href="/merchandise/images/m3dlx_blackbag.jpg">Black Bag</a> - <a href="/merchandise/images/m3dlx_adapter.jpg">Adapter</a> - <a href="/merchandise/images/m3dlx_fb_badge1.jpg">Franklin Badge (Front)</a> - 
 	<a href="/merchandise/images/m3dlx_fb_badge2.jpg">Franklin Badge (Back)</a> - <a href="/merchandise/images/m3dlx_fbpackage_front.jpg">FB Package (Front)</a> - <a href="/merchandise/images/m3dlx_fbpackage_back.jpg">FB Package (Back)</a> - 
 	<a href="/merchandise/images/m3dlx_complete.jpg">Complete</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-08-18 17:08:45 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-08-18 22:08:45 +0000" last-modified-by-name="ShadowX" %}

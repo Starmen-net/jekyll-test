@@ -2,9 +2,9 @@
 title: EarthBound - Fan Art Cards
 categories:
   - ebsiege
-date: 2007-06-12 03:20:02 +0500
+date: 2007-06-12 08:20:02 +0000
 ---
-{% include box-open.html box-id="3011" title="EarthBound - Fanart Cards:" author-id="137" timestamp="2007-06-12 03:20:02 +0500" type="norm" dbname="box29528" last-modified-by="8" %}
+{% include box-open.html box-id="3011" title="EarthBound - Fanart Cards" author-id="137" timestamp="2007-06-12 08:20:02 +0000" type="norm" dbname="box29528" last-modified-by="8" %}
 <div style="text-align: center;">
 <ul class="thumbprevs">
 <li><a href="../pdfs/eb_fanart_01.pdf"><img src="../thumbs/eb_fanart_01.jpg" /></a><a rel="lightbox[mailn]" href="../resized/eb_fanart_01.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
@@ -54,4 +54,4 @@ date: 2007-06-12 03:20:02 +0500
 <li><a href="../pdfs/eb_fanart_45.pdf"><img src="../thumbs/eb_fanart_45.jpg" /></a><a rel="lightbox[mailn]" href="../resized/eb_fanart_45.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 <li><a href="../pdfs/eb_fanart_46.pdf"><img src="../thumbs/eb_fanart_46.jpg" /></a><a rel="lightbox[mailn]" href="../resized/eb_fanart_46.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 </ul></div>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 04:02:57 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 09:02:57 +0000" last-modified-by-name="reidman" %}

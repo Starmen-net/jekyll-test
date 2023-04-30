@@ -2,13 +2,13 @@
 title: 'Super Smash Bros. Melee: Trophies'
 categories:
   - ssbm
-date: 2018-10-22 13:10:59 +0500
+date: 2018-10-22 18:10:59 +0000
 ---
-{% include box-open.html box-id="5312" title="Overview:" author-id="28590" timestamp="2018-10-22 13:12:51 +0500" type="norm" dbname="box43830" last-modified-by="127" %}
+{% include box-open.html box-id="5312" title="Overview" author-id="28590" timestamp="2018-10-22 18:12:51 +0000" type="norm" dbname="box43830" last-modified-by="127" %}
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 13:12:59 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 18:12:59 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5306" title="<a name=\"donkeykong\" >Donkey Kong</a>:" author-id="28590" timestamp="2018-10-22 13:10:59 +0500" type="norm" dbname="box51657" last-modified-by="127" %}
+{% include box-open.html box-id="5306" title="<a name=\"donkeykong\" >Donkey Kong</a>" author-id="28590" timestamp="2018-10-22 18:10:59 +0000" type="norm" dbname="box51657" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -86,9 +86,9 @@ date: 2018-10-22 13:10:59 +0500
   </tr>
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 14:10:57 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 19:10:57 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5307" title="<a name=\"earthbound\" >EarthBound</a>:" author-id="28590" timestamp="2018-10-22 13:11:09 +0500" type="norm" dbname="box56267" last-modified-by="127" %}
+{% include box-open.html box-id="5307" title="<a name=\"earthbound\" >EarthBound</a>" author-id="28590" timestamp="2018-10-22 18:11:09 +0000" type="norm" dbname="box56267" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -141,9 +141,9 @@ date: 2018-10-22 13:10:59 +0500
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 17:38:06 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 22:38:06 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5309" title="<a name=\"fireemblem\" >Fire Emblem</a>:" author-id="28590" timestamp="2018-10-22 13:11:59 +0500" type="norm" dbname="box22523" last-modified-by="127" %}
+{% include box-open.html box-id="5309" title="<a name=\"fireemblem\" >Fire Emblem</a>" author-id="28590" timestamp="2018-10-22 18:11:59 +0000" type="norm" dbname="box22523" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -188,9 +188,9 @@ date: 2018-10-22 13:10:59 +0500
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 13:49:39 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 18:49:39 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5308" title="<a name=\"fzero\" >F-Zero</a>:" author-id="28590" timestamp="2018-10-22 13:11:17 +0500" type="norm" dbname="box25983" last-modified-by="127" %}
+{% include box-open.html box-id="5308" title="<a name=\"fzero\" >F-Zero</a>" author-id="28590" timestamp="2018-10-22 18:11:17 +0000" type="norm" dbname="box25983" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -242,9 +242,9 @@ date: 2018-10-22 13:10:59 +0500
   </tr>
 </table>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 17:34:26 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 22:34:26 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5310" title="<a name=\"gamewatch\" >Game & Watch</a>:" author-id="28590" timestamp="2018-10-22 13:12:14 +0500" type="norm" dbname="box3886" last-modified-by="127" %}
+{% include box-open.html box-id="5310" title="<a name=\"gamewatch\" >Game & Watch</a>" author-id="28590" timestamp="2018-10-22 18:12:14 +0000" type="norm" dbname="box3886" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -277,9 +277,9 @@ date: 2018-10-22 13:10:59 +0500
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 17:34:50 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 22:34:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5311" title="<a name=\"iceclimbers\" >Ice Climbers</a>:" author-id="28590" timestamp="2018-10-22 13:12:37 +0500" type="norm" dbname="box29480" last-modified-by="127" %}
+{% include box-open.html box-id="5311" title="<a name=\"iceclimbers\" >Ice Climbers</a>" author-id="28590" timestamp="2018-10-22 18:12:37 +0000" type="norm" dbname="box29480" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -313,9 +313,9 @@ date: 2018-10-22 13:10:59 +0500
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 17:36:02 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 22:36:02 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5313" title="<a name=\"kirby\" >Kirby</a>:" author-id="28590" timestamp="2018-10-22 13:13:34 +0500" type="norm" dbname="box60196" last-modified-by="127" %}
+{% include box-open.html box-id="5313" title="<a name=\"kirby\" >Kirby</a>" author-id="28590" timestamp="2018-10-22 18:13:34 +0000" type="norm" dbname="box60196" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -409,9 +409,9 @@ date: 2018-10-22 13:10:59 +0500
 
 
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 17:35:24 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 22:35:24 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5314" title="<a name=\"legendofzelda\" >Legend of Zelda</a>:" author-id="28590" timestamp="2018-10-22 13:13:48 +0500" type="norm" dbname="box41616" last-modified-by="127" %}
+{% include box-open.html box-id="5314" title="<a name=\"legendofzelda\" >Legend of Zelda</a>" author-id="28590" timestamp="2018-10-22 18:13:48 +0000" type="norm" dbname="box41616" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -567,9 +567,9 @@ date: 2018-10-22 13:10:59 +0500
     <td><center>Zelda's midair Lightning Kick centers immense magical power in the ball of her foot. If she strikes perfectly, the attack is as strong as can be. If her aim is slightly off, it'll be exceedingly weak. Farore's Wind again utilizes Zelda's magical prowess, this time by transporting her great distances. It's vital to know the lay of the land before using this move.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 17:38:19 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 22:38:19 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5315" title="<a name=\"metroid\" >Metroid</a>:" author-id="28590" timestamp="2018-10-22 13:14:27 +0500" type="norm" dbname="box32933" last-modified-by="127" %}
+{% include box-open.html box-id="5315" title="<a name=\"metroid\" >Metroid</a>" author-id="28590" timestamp="2018-10-22 18:14:27 +0000" type="norm" dbname="box32933" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -628,9 +628,9 @@ date: 2018-10-22 13:10:59 +0500
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 18:20:13 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-22 23:20:13 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5316" title="<a name=\"pokemon\" >Pokémon</a>:" author-id="28590" timestamp="2018-10-22 13:14:39 +0500" type="norm" dbname="box24688" last-modified-by="127" %}
+{% include box-open.html box-id="5316" title="<a name=\"pokemon\" >Pokémon</a>" author-id="28590" timestamp="2018-10-22 18:14:39 +0000" type="norm" dbname="box24688" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -934,9 +934,9 @@ date: 2018-10-22 13:10:59 +0500
 </table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 13:50:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 18:50:37 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5317" title="<a name=\"starfox\" >Star Fox</a>:" author-id="28590" timestamp="2018-10-22 13:16:19 +0500" type="norm" dbname="box41076" last-modified-by="127" %}
+{% include box-open.html box-id="5317" title="<a name=\"starfox\" >Star Fox</a>" author-id="28590" timestamp="2018-10-22 18:16:19 +0000" type="norm" dbname="box41076" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1016,9 +1016,9 @@ date: 2018-10-22 13:10:59 +0500
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 14:57:02 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 19:57:02 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5318" title="<a name=\"supermario\" >Super Mario</a>:" author-id="28590" timestamp="2018-10-22 13:16:33 +0500" type="norm" dbname="box7116" last-modified-by="127" %}
+{% include box-open.html box-id="5318" title="<a name=\"supermario\" >Super Mario</a>" author-id="28590" timestamp="2018-10-22 18:16:33 +0000" type="norm" dbname="box7116" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1284,9 +1284,9 @@ date: 2018-10-22 13:10:59 +0500
     <td><center>An old acquaintance of Mario's. His failure to seize Mario's castle has fueled Wario's desire for a palace of his own. Wario has herculean strength and can do things that even Mario can't imitate. His unexpected skills include a talent with items and the ability to assume many roles, among them a snowman, a zombie, and a bat.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 18:33:21 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 23:33:21 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5319" title="<a name=\"supersmashbros\" >Super Smash Bros.</a>:" author-id="28590" timestamp="2018-10-22 13:16:47 +0500" type="norm" dbname="box58076" last-modified-by="127" %}
+{% include box-open.html box-id="5319" title="<a name=\"supersmashbros\" >Super Smash Bros.</a>" author-id="28590" timestamp="2018-10-22 18:16:47 +0000" type="norm" dbname="box58076" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1426,9 +1426,9 @@ Other: 42%</center></td>
     <td><center>This is one of the targets you must hit and destroy in a bonus stage of Super Smash Bros. Melee. All bonus stages are specially designed to test the individual abilities of each fighter. Clearing the target-breaking levels requires an ultimate combination of skill, timing, and the specific techniques of each character.</center></td>
   </tr>
 </table>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 18:10:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 23:10:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5320" title="<a name=\"yoshisisland\" >Yoshi's Island</a>:" author-id="28590" timestamp="2018-10-22 13:17:17 +0500" type="norm" dbname="box24903" last-modified-by="127" %}
+{% include box-open.html box-id="5320" title="<a name=\"yoshisisland\" >Yoshi's Island</a>" author-id="28590" timestamp="2018-10-22 18:17:17 +0000" type="norm" dbname="box24903" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1474,9 +1474,9 @@ Other: 42%</center></td>
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 18:29:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-23 23:29:15 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5321" title="<a name=\"other\" >Other</a>:" author-id="28590" timestamp="2018-10-22 13:17:29 +0500" type="norm" dbname="box27129" last-modified-by="127" %}
+{% include box-open.html box-id="5321" title="<a name=\"other\" >Other</a>" author-id="28590" timestamp="2018-10-22 18:17:29 +0000" type="norm" dbname="box27129" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="200px" />
     <col width="150px" />
@@ -1665,4 +1665,4 @@ Other: 42%</center></td>
 </table>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 13:43:06 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-10-24 18:43:06 +0000" last-modified-by-name="CerealQueen" %}

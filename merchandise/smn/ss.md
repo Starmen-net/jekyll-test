@@ -2,9 +2,9 @@
 title: Smash Shirt
 categories:
   - merchandise
-date: 2005-01-03 23:09:56 +0600
+date: 2005-01-04 05:09:56 +0000
 ---
-{% include box-open.html box-id="365" title="Smash Shirt:" author-id="45" timestamp="2005-01-03 23:09:56 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="365" title="Smash Shirt" author-id="45" timestamp="2005-01-04 05:09:56 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ss_title.png" border="0" alt="Smash Shirt" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 23:09:56 +0600
 	<br />
 	<a href="/merchandise/images/smn_ss_front.jpg">Front</a> - <a href="/merchandise/images/smn_ss_back.jpg">Back</a> - <a href="/merchandise/images/smn_ss_fdesign.jpg">Front Design</a> - 
 	<a href="/merchandise/images/smn_ss_bdesign.jpg">Back Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:10:07 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:10:07 +0000" last-modified-by-name="ShadowX" %}

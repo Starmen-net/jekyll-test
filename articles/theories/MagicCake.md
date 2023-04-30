@@ -2,13 +2,13 @@
 title: Theories - Magic Cake
 categories:
   - articles
-date: 2012-06-29 00:13:37 +0500
+date: 2012-06-29 05:13:37 +0000
 ---
-{% include box-open.html box-id="4475" title="Theories topic for the week of June 13 - June 27, 2012:" author-id="1419" timestamp="2012-06-29 00:39:01 +0500" type="norm" dbname="box43990" last-modified-by="127" %}
+{% include box-open.html box-id="4475" title="Theories topic for the week of June 13 - June 27, 2012" author-id="1419" timestamp="2012-06-29 05:39:01 +0000" type="norm" dbname="box43990" last-modified-by="127" %}
 <center>What was the special ingredient in the Magic Cake?</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-06-29 00:39:52 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-06-29 05:39:52 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4473" title="Theory of the Week:" author-id="7090" timestamp="2012-06-29 00:13:37 +0500" type="norm" dbname="box2142" last-modified-by="127" %}
+{% include box-open.html box-id="4473" title="Theory of the Week" author-id="7090" timestamp="2012-06-29 05:13:37 +0000" type="norm" dbname="box2142" last-modified-by="127" %}
 Ness was bored. He turned on the TV to see what was on the news.<br/><br/>
 “Hello, viewers, I’m Rob E. Squash, the news reporter for local Twoson, and we’re here in Summers to discover what started this Eagleland-wide sensation: Magic Cake!”<br/><br/>
 “Oh, yeah! I remember eating that stuff!” Ness exclaimed. “Now I want to know what was in that stuff!”<br/><br/>
@@ -37,9 +37,9 @@ One use of Teleport Beta, and Ness was standing behind the woman.<br/><br/>
 “You… you heard all that?” the woman stammered.<br/><br/>
 Ness nodded his head. “But it’s okay… I just wanted you to know I might’ve killed your boyfriend…”<br/><br/>
 -Ostricho
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-29 00:16:08 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-29 05:16:08 +0000" last-modified-by-name="Emily" %}
 
-{% include box-open.html box-id="4474" title="A Survey of Possibilities:" author-id="7090" timestamp="2012-06-29 00:16:14 +0500" type="norm" dbname="box1804" last-modified-by="127" %}
+{% include box-open.html box-id="4474" title="A Survey of Possibilities" author-id="7090" timestamp="2012-06-29 05:16:14 +0000" type="norm" dbname="box1804" last-modified-by="127" %}
 When playing Earthbound, we see the then-trio of Ness, Paula and Jeff consume a foodstuff called Magic Cake - this cake has the effect of sending them into a delirious state in which colours and sound are distorted, and Ness has a "Very clear, and very strange dream", which shows him Poo for the first time. But just what is Magic Cake? Well, let's look at the evidence.<br/><br/>
 
 The effects on perception of colour and sound are immediately recognisable as those of LSD, a hallucinogenic drug that might be commonly used and available in the party resort of Summers.<br/><br/>
@@ -60,4 +60,4 @@ The properties of the cake are likely down to a combination of drugs rather than
 
 
 
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-29 00:17:32 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-29 05:17:32 +0000" last-modified-by-name="Emily" %}

@@ -2,9 +2,9 @@
 title: 'Mother 2: Misc Info'
 categories:
   - mother2
-date: 2004-12-27 14:08:27 +0600
+date: 2004-12-27 20:08:27 +0000
 ---
-{% include box-open.html box-id="193" title="Credits:" author-id="72" timestamp="2004-12-27 14:08:27 +0600" type="norm" last-modified-by="72" %}
+{% include box-open.html box-id="193" title="Credits" author-id="72" timestamp="2004-12-27 20:08:27 +0000" type="norm" last-modified-by="72" %}
 ***********************************************************************<br />
 EarthBound Battle and Enemy Guide<br />
 An In-Depth FAQ by CyricZ<br />
@@ -12,9 +12,9 @@ Version 1.0<br />
 E-mail: cyricz42@yahoo.com<br />
 Edited by AoE for new site design<br />
 ***********************************************************************
-{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 14:11:09 +0600" last-modified-by-name="AoE" %}
+{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 20:11:09 +0000" last-modified-by-name="AoE" %}
 
-{% include box-open.html box-id="194" title="Table of Contents:" author-id="72" timestamp="2004-12-27 14:11:32 +0600" type="norm" last-modified-by="49" %}
+{% include box-open.html box-id="194" title="Table of Contents" author-id="72" timestamp="2004-12-27 20:11:32 +0000" type="norm" last-modified-by="49" %}
 1. Introduction<br />
 2. Battle Setup<br />
 3. Battle Strategy<br />
@@ -47,9 +47,9 @@ Edited by AoE for new site design<br />
 &nbsp;&nbsp;&nbsp;C. Credits<br />
 &nbsp;&nbsp;&nbsp;D. Version Updates<br />
 &nbsp;&nbsp;&nbsp;E. The Final Word<br />
-{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 14:33:25 +0600" last-modified-by-name="ROFISH" %}
+{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 20:33:25 +0000" last-modified-by-name="ROFISH" %}
 
-{% include box-open.html box-id="195" title="Introduction:" author-id="72" timestamp="2004-12-27 14:36:37 +0600" type="norm" last-modified-by="72" %}
+{% include box-open.html box-id="195" title="Introduction" author-id="72" timestamp="2004-12-27 20:36:37 +0000" type="norm" last-modified-by="72" %}
 <div align="justify">
 Hiya!  Welcome to my Battle and Enemy Guide for EarthBound, the wacky, 
 madcap RPG for the Super NES.
@@ -61,9 +61,9 @@ Most just copied right out of the guide and left it at that.  I felt
 we all need more explanation.  I extended this from a simple guide to 
 encompassing the entire battle system to further expound on general 
 strategies.</div>
-{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 14:41:45 +0600" last-modified-by-name="AoE" %}
+{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 20:41:45 +0000" last-modified-by-name="AoE" %}
 
-{% include box-open.html box-id="196" title="Battle Setup:" author-id="72" timestamp="2004-12-27 14:42:37 +0600" type="norm" last-modified-by="72" %}
+{% include box-open.html box-id="196" title="Battle Setup" author-id="72" timestamp="2004-12-27 20:42:37 +0000" type="norm" last-modified-by="72" %}
 This section covers the basics of battle.
 <hr width="50" align="left" />
 Engaging an Enemy
@@ -252,4 +252,4 @@ Homesickness: Only Ness can be afflicted with this, and it happens
 randomly and without warning.  Once Ness's turn comes around, he'll 
 waste a turn thinking about home, his mom, or his favorite food.  When 
 this happens, the only cure is to call home to Mom.
-{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 14:55:28 +0600" last-modified-by-name="AoE" %}
+{% include box-close.html author-name="AoE" last-modified-on="2004-12-27 20:55:28 +0000" last-modified-by-name="AoE" %}

@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - ssb4
-date: 2016-11-27 12:19:47 +0600
+date: 2016-11-27 18:19:47 +0000
 ---
-{% include box-open.html box-id="4878" title="Changes from Brawl:" author-id="28590" timestamp="2016-11-27 12:19:47 +0600" type="norm" dbname="box47258" last-modified-by="127" %}
+{% include box-open.html box-id="4878" title="Changes from Brawl" author-id="28590" timestamp="2016-11-27 18:19:47 +0000" type="norm" dbname="box47258" last-modified-by="127" %}
 <li>Tripping, an infamous mechanic from Brawl, which dictated that players could have a 1% chance to trip while dashing, has been removed.</li>
 <br /><br />
 <li>Taunt Cancelling is not present in Smash 4, as it hasn’t been since Super Smash Bros. for the Nintendo 64</li>
@@ -66,4 +66,4 @@ date: 2016-11-27 12:19:47 +0600
 <br /><br />
 
 <li>Smash 4’s art-style is tailored to make characters fit within their home-series games, ditching the realistic look that Brawl introduced</li>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-21 07:16:46 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-03-21 12:16:46 +0000" last-modified-by-name="CerealQueen" %}

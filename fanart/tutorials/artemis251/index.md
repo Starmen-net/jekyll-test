@@ -2,9 +2,9 @@
 title: Fan Art - Art Tutorials - Colored Pencils
 categories:
   - fanart
-date: 2005-09-28 21:50:17 +0500
+date: 2005-09-29 02:50:17 +0000
 ---
-{% include box-open.html box-id="1512" title="THE ART OF COLORED PENCILS: A tutorial by Artemis251:" author-id="474" timestamp="2005-09-28 21:50:17 +0500" type="norm" dbname="box3305" last-modified-by="127" %}
+{% include box-open.html box-id="1512" title="THE ART OF COLORED PENCILS: A tutorial by Artemis251" author-id="474" timestamp="2005-09-29 02:50:17 +0000" type="norm" dbname="box3305" last-modified-by="127" %}
 <a href="http://starmen.net/fanart/tutorials/artemis251/cpstuff.JPG" target="_new">
 <img src="cpstuffsm.JPG" border="0" align="left" hspace="13" target="_blank" /></a>
 
@@ -32,4 +32,4 @@ Now, onto the sections! The basics are covered in the Beginner section, as well 
 <li><a href="/fanart/tutorials/artemis251/begin.php">Beginner</a></li>
 <li><a href="/fanart/tutorials/artemis251/inter.php">Intermediate</a></li>
 <li><a href="/fanart/tutorials/artemis251/advan.php">Advanced</a></li></ul>
-{% include box-close.html author-name="Artemis251" last-modified-on="2007-07-16 18:04:42 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2007-07-16 23:04:42 +0000" last-modified-by-name="Artemis251" %}

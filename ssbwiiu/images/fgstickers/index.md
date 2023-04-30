@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - ssbwiiu
-date: 2022-11-28 16:34:24 +0600
+date: 2022-11-28 22:34:24 +0000
 ---
-{% include box-open.html box-id="5550" title="Fangamer Sticker List:" author-id="28590" timestamp="2022-11-28 16:34:24 +0600" type="norm" dbname="box22178" last-modified-by="127" %}
+{% include box-open.html box-id="5550" title="Fangamer Sticker List" author-id="28590" timestamp="2022-11-28 22:34:24 +0000" type="norm" dbname="box22178" last-modified-by="127" %}
 <center>
 
 <table class="fixed" border=".5">
@@ -517,4 +517,4 @@ date: 2022-11-28 16:34:24 +0600
 
 </center>
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2022-11-28 16:47:15 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2022-11-28 22:47:15 +0000" last-modified-by-name="CerealQueen" %}

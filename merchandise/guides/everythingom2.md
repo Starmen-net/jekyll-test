@@ -2,9 +2,9 @@
 title: Everything of Mother 2
 categories:
   - merchandise
-date: 2005-01-03 20:26:16 +0600
+date: 2005-01-04 02:26:16 +0000
 ---
-{% include box-open.html box-id="308" title="Everything of Mother 2:" author-id="45" timestamp="2005-01-03 20:26:16 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="308" title="Everything of Mother 2" author-id="45" timestamp="2005-01-04 02:26:16 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/eom2_title.png" border="0" alt="Everything of Mother 2" />
 	</center>
@@ -33,4 +33,4 @@ date: 2005-01-03 20:26:16 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/eom2_1.png">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 20:26:31 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 02:26:31 +0000" last-modified-by-name="ShadowX" %}

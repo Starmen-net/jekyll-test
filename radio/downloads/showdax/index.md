@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ SHOWDAX ARCHIVES
 categories:
   - radio
-date: 2006-02-20 15:57:18 +0600
+date: 2006-02-20 21:57:18 +0000
 ---
-{% include box-open.html box-id="1924" title="Downloadables!:" author-id="247" timestamp="2006-02-20 15:57:18 +0600" type="norm" dbname="box29795" last-modified-by="127" %}
+{% include box-open.html box-id="1924" title="Downloadables!" author-id="247" timestamp="2006-02-20 21:57:18 +0000" type="norm" dbname="box29795" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ Downloads are available for every DJ that's done a show for Radio PSI!  Click a 
 DJ Showdax<BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 15:10:37 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 20:10:37 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="1925" title="DJ Showdax's Archive Downloads!:" author-id="247" timestamp="2006-02-20 15:57:58 +0600" type="norm" dbname="box54733" last-modified-by="127" %}
+{% include box-open.html box-id="1925" title="DJ Showdax's Archive Downloads!" author-id="247" timestamp="2006-02-20 21:57:58 +0000" type="norm" dbname="box54733" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/showdax/radiopsidumpdjshad20041127.ogg">November 11th, 2004</a>
 </p>
@@ -56,4 +56,4 @@ DJ Showdax<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/showdax/radiopsidumpdjshad20040605.ogg">June 5th, 2004</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-03-24 04:09:28 +0600" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-03-24 10:09:28 +0000" last-modified-by-name="Mansion Maniac" %}

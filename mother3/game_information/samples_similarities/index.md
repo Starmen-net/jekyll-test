@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - mother3
-date: 2018-03-14 14:40:47 +0500
+date: 2018-03-14 19:40:47 +0000
 ---
-{% include box-open.html box-id="5123" title="New Box, Edit me :(:" author-id="28590" timestamp="2018-03-14 14:40:47 +0500" type="norm" dbname="box38022" last-modified-by="127" %}
+{% include box-open.html box-id="5123" title="New Box, Edit me :(" author-id="28590" timestamp="2018-03-14 19:40:47 +0000" type="norm" dbname="box38022" last-modified-by="127" %}
 <ul class="pics">
 	<li>
 Mother 3: Isn’t this such a Utopia?!<br />
@@ -53,4 +53,4 @@ Mother 3: Love Theme
 		<ufo src="Love Theme Sample.mp3" />
 	</li>
 </ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-14 14:46:59 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-03-14 19:46:59 +0000" last-modified-by-name="CerealQueen" %}

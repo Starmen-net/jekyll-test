@@ -2,9 +2,9 @@
 title: 'Game Credits: Dan Owsen'
 categories:
   - credits
-date: 2005-05-03 14:40:21 +0500
+date: 2005-05-03 19:40:21 +0000
 ---
-{% include box-open.html box-id="990" title="Dan Owsen:" author-id="2262" timestamp="2005-05-03 14:40:21 +0500" type="norm" dbname="box40349" last-modified-by="127" %}
+{% include box-open.html box-id="990" title="Dan Owsen" author-id="2262" timestamp="2005-05-03 19:40:21 +0000" type="norm" dbname="box40349" last-modified-by="127" %}
 You know him as Nintendo.com's Ask Dan!
 <BR /><BR />
 <b>Game Credits</b>
@@ -41,4 +41,4 @@ North American Localization</LI>
 Progress Management</LI>
 </UL>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-06 21:29:27 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 02:29:27 +0000" last-modified-by-name="KingDarian" %}

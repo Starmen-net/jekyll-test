@@ -2,9 +2,9 @@
 title: MOTHER 3
 categories:
   - mother3
-date: 2005-04-13 15:10:29 +0500
+date: 2005-04-13 20:10:29 +0000
 ---
-{% include box-open.html box-id="922" title="MOTHER 3 on Game Boy Advance:" author-id="288" timestamp="2005-04-13 15:10:29 +0500" type="norm" dbname="box37152" last-modified-by="127" %}
+{% include box-open.html box-id="922" title="MOTHER 3 on Game Boy Advance" author-id="288" timestamp="2005-04-13 20:10:29 +0000" type="norm" dbname="box37152" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="MOTHER 3" /><br /><br />
 	<table>
@@ -82,9 +82,9 @@ MOTHER 3 content in Super Smash Bros. Brawl has shown us that Nintendo acknowled
 <i>Please note that for legal reasons, Starmen.Net does not distribute the MOTHER 3 ROM.</i>
 
 </p>
-{% include box-close.html author-name="Tomato" last-modified-on="2008-11-17 23:35:40 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-11-18 05:35:40 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3036" title="Recommended Links:" author-id="288" timestamp="2007-06-18 13:18:13 +0500" type="norm" dbname="box26011" last-modified-by="127" %}
+{% include box-open.html box-id="3036" title="Recommended Links" author-id="288" timestamp="2007-06-18 18:18:13 +0000" type="norm" dbname="box26011" last-modified-by="127" %}
 <ul><li><a href="http://mother3.fobby.net"><font color="yellow"><b><u>MOTHER 3 Fan Translation Patch - Play MOTHER 3 in English!</u></b></font></a></li>
 
   <li><a href="http://walkthrough.starmen.net/mother3/">Starmen.Net MOTHER 3 Walkthrough</a> - Currently only through part of Chapter 2.</li>
@@ -98,12 +98,12 @@ MOTHER 3 content in Super Smash Bros. Brawl has shown us that Nintendo acknowled
   <li><a href="http://www.gamefaqs.com/portable/gbadvance/file/914622/42740">A Story Translation on GameFAQs</a> - By Spookychee - VERY good guide.</li>
 
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2008-11-03 08:36:39 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2008-11-03 14:36:39 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="924" title="Contact Info:" author-id="288" timestamp="2005-04-13 15:54:43 +0500" type="norm" dbname="box9927" last-modified-by="127" %}
+{% include box-open.html box-id="924" title="Contact Info" author-id="288" timestamp="2005-04-13 20:54:43 +0000" type="norm" dbname="box9927" last-modified-by="127" %}
 <table1 />
 Section maintainer:<br />
 <table2 />
 <a href="https://forum.starmen.net/members/CerealQueen">CerealQueen</a><br />
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2017-01-22 13:09:28 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2017-01-22 19:09:28 +0000" last-modified-by-name="CerealQueen" %}

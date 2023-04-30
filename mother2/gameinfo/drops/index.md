@@ -2,9 +2,9 @@
 title: Item Drops
 categories:
   - mother2
-date: 2012-04-06 06:58:55 +0500
+date: 2012-04-06 11:58:55 +0000
 ---
-{% include box-open.html box-id="4401" title="Item Drop Guide - By J_Spade:" author-id="17505" timestamp="2012-04-06 06:58:55 +0500" type="norm" dbname="box51808" last-modified-by="127" %}
+{% include box-open.html box-id="4401" title="Item Drop Guide - By J_Spade" author-id="17505" timestamp="2012-04-06 11:58:55 +0000" type="norm" dbname="box51808" last-modified-by="127" %}
 <p>Anyone who has played one of the Mother games has no doubt noticed that some enemies drop presents when they are defeated. This is a random occurrence, in that the same type of enemy may not always drop an item when it is defeated. Indeed, some items are so rare that it is perfectly normal for a player to play through the entire game without ever seeing them.</p><br />
 
 Drop Rates:<br />
@@ -94,4 +94,4 @@ Starmen.net Earthbound Walkthrough– 1/128 Challenge Guide<br />
 Wikipedia– Geometric Distribution<br />
 <a href="http://en.wikipedia.org/wiki/Geometric_distribution">http://en.wikipedia.org/wiki/Geometric_distribution</a>
 
-{% include box-close.html author-name="METC" last-modified-on="2012-04-06 07:27:10 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="METC" last-modified-on="2012-04-06 12:27:10 +0000" last-modified-by-name="METC" %}

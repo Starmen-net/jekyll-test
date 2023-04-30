@@ -2,16 +2,16 @@
 title: Articles and Theories Rules
 categories:
   - articles
-date: 2011-10-08 14:38:35 +0500
+date: 2011-10-08 19:38:35 +0000
 ---
-{% include box-open.html box-id="3983" title="'Hoy small fry!:" author-id="1419" timestamp="2011-10-08 14:38:35 +0500" type="norm" dbname="box36858" last-modified-by="127" %}
+{% include box-open.html box-id="3983" title="'Hoy small fry!" author-id="1419" timestamp="2011-10-08 19:38:35 +0000" type="norm" dbname="box36858" last-modified-by="127" %}
 So you say you're going to write and submit an article?<p></p>
 Great!<p></p>
 Wonderful!<p></p>
 You need to read these rules first though. Articles have a few special guidelines when it comes to submissions, and if followed closely, these rules will have your submission on the front page in no time!
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-10-08 14:40:36 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-10-08 19:40:36 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="3984" title="Rules for Articles:" author-id="1419" timestamp="2011-10-08 14:41:07 +0500" type="norm" dbname="box4912" last-modified-by="127" %}
+{% include box-open.html box-id="3984" title="Rules for Articles" author-id="1419" timestamp="2011-10-08 19:41:07 +0000" type="norm" dbname="box4912" last-modified-by="127" %}
 <ol> 
 <li>No .doc files, .pdf files, or other exclusive files. Use the submission field ONLY.</li>
 
@@ -29,11 +29,11 @@ You need to read these rules first though. Articles have a few special guideline
 
 <li>All the forum posting rules apply here as well. Do not use bad language. Don’t submit adult content. Use common sense and you’ll be fine.</li>
 </ol>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-04 13:37:20 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-04 19:37:20 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="3985" title="Rules for Theories:" author-id="1419" timestamp="2011-10-08 14:46:04 +0500" type="norm" dbname="box60175" last-modified-by="127" %}
+{% include box-open.html box-id="3985" title="Rules for Theories" author-id="1419" timestamp="2011-10-08 19:46:04 +0000" type="norm" dbname="box60175" last-modified-by="127" %}
 <ol>
 <li>ALL THE RULES ABOVE FOR ARTICLES.</li>
 <li>Put the Theories Prompt in the Title field, so I know whether to include it with the current batch of theories. If you’re submitting a theory outside of the prompt, submit it to Articles like you would normally.</li>
 </ol> 
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-10-11 15:48:55 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-10-11 20:48:55 +0000" last-modified-by-name="Captain Bozo" %}

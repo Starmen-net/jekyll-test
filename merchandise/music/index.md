@@ -2,9 +2,9 @@
 title: Music
 categories:
   - merchandise
-date: 2005-01-02 23:55:48 +0600
+date: 2005-01-03 05:55:48 +0000
 ---
-{% include box-open.html box-id="241" title="Music:" author-id="45" timestamp="2005-01-02 23:55:48 +0600" type="norm" dbname="box27933" last-modified-by="45" %}
+{% include box-open.html box-id="241" title="Music" author-id="45" timestamp="2005-01-03 05:55:48 +0000" type="norm" dbname="box27933" last-modified-by="45" %}
 <table1 />
         <a href="baconep.php">Bacon ep</a><br />
         <a href="childsplaycd08.php">Child's Play CD 2008 - Gamers Give Back</a><br />
@@ -41,4 +41,4 @@ date: 2005-01-02 23:55:48 +0600
 	06/28/08<br />
 	06/28/08<br />
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-01-13 10:48:52 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-01-13 16:48:52 +0000" last-modified-by-name="ShadowX" %}

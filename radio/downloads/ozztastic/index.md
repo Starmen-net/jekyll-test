@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ OZZTASTIC ARCHIVES
 categories:
   - radio
-date: 2006-02-20 10:42:03 +0600
+date: 2006-02-20 16:42:03 +0000
 ---
-{% include box-open.html box-id="1910" title="Downloadables!:" author-id="247" timestamp="2006-02-20 10:42:03 +0600" type="norm" dbname="box3398" last-modified-by="127" %}
+{% include box-open.html box-id="1910" title="Downloadables!" author-id="247" timestamp="2006-02-20 16:42:03 +0000" type="norm" dbname="box3398" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ Ozztastic<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 13:12:59 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 18:12:59 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="1911" title="DJ Ozztastic's Archive Downloads!:" author-id="247" timestamp="2006-02-20 10:47:07 +0600" type="norm" dbname="box52713" last-modified-by="127" %}
+{% include box-open.html box-id="1911" title="DJ Ozztastic's Archive Downloads!" author-id="247" timestamp="2006-02-20 16:47:07 +0000" type="norm" dbname="box52713" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/ozztastic/radiopsidumpdjozwalled20070916.ogg" target="_blank">September 16th, 2007</a>
 </p>
@@ -284,4 +284,4 @@ DJ Ozztastic<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/ozztastic/radiopsidumpdjozwalled20060108.ogg" target="_blank">January 8th, 2006</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 13:12:36 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 18:12:36 +0000" last-modified-by-name="Mansion Maniac" %}

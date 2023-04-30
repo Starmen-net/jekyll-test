@@ -2,17 +2,17 @@
 title: MOTHER 2 / EarthBound Walkthroughs
 categories:
   - mother2
-date: 2005-04-03 01:46:42 +0600
+date: 2005-04-03 07:46:42 +0000
 ---
-{% include box-open.html box-id="2142" title="Starmen.Net EarthBound Walkthrough:" author-id="75" timestamp="2006-03-30 13:03:50 +0600" type="norm" dbname="box36617" last-modified-by="127" %}
+{% include box-open.html box-id="2142" title="Starmen.Net EarthBound Walkthrough" author-id="75" timestamp="2006-03-30 19:03:50 +0000" type="norm" dbname="box36617" last-modified-by="127" %}
 <center><a href="http://walkthrough.starmen.net/earthbound"><img src="smnebwalkthrough.png" border="0" /></a></center>
 <p />
 <img src="http://starmen.net/include/submitimage/m2.png" /> <a href="http://walkthrough.starmen.net/earthbound/">The Starmen.Net EarthBound Walkthrough</a><br />
 Created by a long list of Starmen.Net staffers and forum-goers, this is the biggest and most comprehensive EarthBound Walkthrough you'll ever find on the web.  It covers the entire game and also has enemy stats, item info, PSI lists, maps, hotel and shop info, FAQs, and tons of tips and tricks.<br />
 <i>- Highly Recommended -</i>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 12:58:42 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 17:58:42 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="792" title="Fan-Submitted Walkthroughs:" author-id="926" timestamp="2005-04-03 01:46:42 +0600" type="norm" dbname="box25566" last-modified-by="127" %}
+{% include box-open.html box-id="792" title="Fan-Submitted Walkthroughs" author-id="926" timestamp="2005-04-03 07:46:42 +0000" type="norm" dbname="box25566" last-modified-by="127" %}
 <SUBMISSION id="10678" /><br/>
 A very thorough walkthrough that promises its readers will never lose a battle. The format is excellent making this guide very easy to follow.<br />
 <i>- Recommended -</i>
@@ -38,4 +38,4 @@ A straight-forward guide that'll get you where you need to go.
 <SUBMISSION id="1042" /><br />
 Another solid guide that has everything you need to beat the game.
 <p />
-{% include box-close.html author-name="Wheelchairboy" last-modified-on="2015-06-25 20:36:28 +0500" last-modified-by-name="NorthofOnett" %}
+{% include box-close.html author-name="Wheelchairboy" last-modified-on="2015-06-26 01:36:28 +0000" last-modified-by-name="NorthofOnett" %}

@@ -2,9 +2,9 @@
 title: MOTHER 3 - Mystery Screenshot
 categories:
   - mother3
-date: 2018-02-28 09:27:01 +0600
+date: 2018-02-28 15:27:01 +0000
 ---
-{% include box-open.html box-id="5122" title="Mystery Screenshot:" author-id="28590" timestamp="2018-02-28 09:27:01 +0600" type="norm" dbname="box13399" last-modified-by="127" %}
+{% include box-open.html box-id="5122" title="Mystery Screenshot" author-id="28590" timestamp="2018-02-28 15:27:01 +0000" type="norm" dbname="box13399" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <img class="picright" src="mother3.jpg" />
@@ -54,4 +54,4 @@ date: 2018-02-28 09:27:01 +0600
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-02-28 09:47:03 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-02-28 15:47:03 +0000" last-modified-by-name="CerealQueen" %}

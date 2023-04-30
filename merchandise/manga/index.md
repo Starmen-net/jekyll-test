@@ -2,9 +2,9 @@
 title: Manga
 categories:
   - merchandise
-date: 2005-01-03 18:50:19 +0600
+date: 2005-01-04 00:50:19 +0000
 ---
-{% include box-open.html box-id="261" title="Manga:" author-id="45" timestamp="2005-01-03 18:50:19 +0600" type="norm" dbname="box17189" last-modified-by="45" %}
+{% include box-open.html box-id="261" title="Manga" author-id="45" timestamp="2005-01-04 00:50:19 +0000" type="norm" dbname="box17189" last-modified-by="45" %}
 <table1 />
 
 	<a href="shounenv2.php">A Shounen Oh Comics Vol. 2</a><br />
@@ -26,9 +26,9 @@ date: 2005-01-03 18:50:19 +0600
 	03/20/01<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 15:41:21 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-20 21:41:21 +0000" last-modified-by-name="ShadowX" %}
 
-{% include box-open.html box-id="2793" title="Dojinshi:" author-id="45" timestamp="2007-01-20 15:39:08 +0600" type="norm" dbname="box40143" last-modified-by="45" %}
+{% include box-open.html box-id="2793" title="Dojinshi" author-id="45" timestamp="2007-01-20 21:39:08 +0000" type="norm" dbname="box40143" last-modified-by="45" %}
 <table1 />
 
 	<a href="m3bbd.php">Boom Boom Dollar</a><br />
@@ -86,4 +86,4 @@ date: 2005-01-03 18:50:19 +0600
 	07/16/05<br />
 
 <table3 />
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-05-25 23:43:10 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-05-26 04:43:10 +0000" last-modified-by-name="ShadowX" %}

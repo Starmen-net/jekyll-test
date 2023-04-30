@@ -2,9 +2,9 @@
 title: Mother 3 Complete Guidebook
 categories:
   - merchandise
-date: 2007-04-21 16:11:37 +0500
+date: 2007-04-21 21:11:37 +0000
 ---
-{% include box-open.html box-id="2869" title="Mother 3 Complete Guidebook:" author-id="45" timestamp="2007-04-21 16:11:37 +0500" type="norm" dbname="box22690" last-modified-by="45" %}
+{% include box-open.html box-id="2869" title="Mother 3 Complete Guidebook" author-id="45" timestamp="2007-04-21 21:11:37 +0000" type="norm" dbname="box22690" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/m3complete_title.jpg" border="0" alt="Mother 3 Complete Guidebook" />
 	</center>
@@ -37,4 +37,4 @@ date: 2007-04-21 16:11:37 +0500
 	<a href="/merchandise/images/m3complete_back2.jpg">Back 2</a> - <a href="/merchandise/images/m3complete_spine.jpg">Spine</a> - <a href="/merchandise/images/m3complete_p006-007.jpg">Pages 1</a> - 
 	<a href="/merchandise/images/m3complete_p060-061.jpg">Pages 2</a> - <a href="/merchandise/images/m3complete_p066-067.jpg">Pages 3</a> - <a href="/merchandise/images/m3complete_p084-085.jpg">Pages 4</a> - 
 	<a href="/merchandise/images/m3complete_p210-211.jpg">Pages 5</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 16:53:32 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-04-21 21:53:32 +0000" last-modified-by-name="ShadowX" %}

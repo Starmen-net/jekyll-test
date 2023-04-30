@@ -2,13 +2,13 @@
 title: Theories - Mother 3&#039;s Mr. Saturns
 categories:
   - articles
-date: 2012-01-18 15:46:26 +0600
+date: 2012-01-18 21:46:26 +0000
 ---
-{% include box-open.html box-id="4177" title="Theories topic for the week of January 10 - January 18, 2012:" author-id="1419" timestamp="2012-01-18 15:46:26 +0600" type="norm" dbname="box24810" last-modified-by="127" %}
+{% include box-open.html box-id="4177" title="Theories topic for the week of January 10 - January 18, 2012" author-id="1419" timestamp="2012-01-18 21:46:26 +0000" type="norm" dbname="box24810" last-modified-by="127" %}
 <center>The Mr. Saturns are an interesting people, and are present in both Mother 2 and Mother 3. How are the two apparently different tribes of these unique creatures related though? I asked, and you delivered. Below is the winner, as well as a few other great submissions</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 15:48:04 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 21:48:04 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4178" title="Theory of the Week:" author-id="1419" timestamp="2012-01-18 15:49:12 +0600" type="norm" dbname="box22759" last-modified-by="127" %}
+{% include box-open.html box-id="4178" title="Theory of the Week" author-id="1419" timestamp="2012-01-18 21:49:12 +0000" type="norm" dbname="box22759" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X's distant cousin tries to bring these questions back to life, with an inferno of answers. This weeks question, how are the Mr. Saturns related? Well, when a Mr. Saturn and A Mrs. Saturn, love each other very much (HEY! Who let you on my theory entry!) Oh come on cuz! I already have the puppets out! (GET OUT OF HERE, THIS IS MY THING!) Fine fine, just put the bat down, yeesh!.<p/>
 
 Ugh, hate it when he does that, so NOW, let's get the intro right.<p/>
@@ -38,9 +38,9 @@ Once the birds were caught, the saturns guided themselves to the canyon the disg
 And thus, another question is left to crackle like fireworks in a box. So, this is Pheen-X saying...Pluto exists...sort of!<p/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 15:56:11 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 21:56:11 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4179" title="In which Mr. Saturns are part of the evacuation:" author-id="1419" timestamp="2012-01-18 15:49:21 +0600" type="norm" dbname="box48547" last-modified-by="127" %}
+{% include box-open.html box-id="4179" title="In which Mr. Saturns are part of the evacuation" author-id="1419" timestamp="2012-01-18 21:49:21 +0000" type="norm" dbname="box48547" last-modified-by="127" %}
 The Mr. Saturns lived on a long time after the life of Ness and his friends. They watched the decline and destruction of Onett and the surrounding towns. They watched the end of the human race as we know it.<p/>
 Long after these tragedies, the food started running out. The piggy jelly vanished and the magical coffee was gone. The Mr. Saturns started sending out squadrons to search for food in the ruins of the towns for any food. But more than anything, the Mr. Saturns were sad and scared.<p/>
 After a long time of struggling to live, a mysterious flying object arrived. It resembled the shape of a cruise ship (a luxury long forgotten) and flew through the air on an unknown sort of propeller. They landed right next to the long-since dried out hot spring. An unusually tall man came out of the ship and asked them to board the ship. The Mr. Saturns promptly agreed.<p/>
@@ -50,12 +50,12 @@ Three hours later no one had remembered anything that had happened before, and t
 The Mr. Saturns were relocated to an area very similar to the first Saturn Valley. They were very satisfied.<p/>
 
 - Ostricho
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 15:51:11 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 21:51:11 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4180" title="THEY RIPPED HIM A NEW SPACE HOLE:" author-id="1419" timestamp="2012-01-18 15:49:23 +0600" type="norm" dbname="box3600" last-modified-by="127" %}
+{% include box-open.html box-id="4180" title="THEY RIPPED HIM A NEW SPACE HOLE" author-id="1419" timestamp="2012-01-18 21:49:23 +0000" type="norm" dbname="box3600" last-modified-by="127" %}
 Dr. Andonuts was temporarily living in the peaceful Saturn Valley. The Mr. Saturns there were so helpful to him that he decided to stay for a while.<p/>
 
 When Porky kidnapped him to go to the future in the Nowhere Islands with him, he used so much energy that the Mr. Saturns came along, too, but Porky didn't notice. The Mr. Saturns began to rebuild their civilization in the Nowhere Islands secretly after simply walking away behind Porky's back, and they built an almost identical Saturn Valley in hopes of their dear professor or some heroes coming along again.<p/>
 
 - Absoltastic
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 15:51:48 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-18 21:51:48 +0000" last-modified-by-name="Captain Bozo" %}

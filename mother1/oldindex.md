@@ -2,9 +2,9 @@
 title: MOTHER/Earth Bound Index 2008
 categories:
   - mother1
-date: 2010-09-25 19:00:05 +0500
+date: 2010-09-26 00:00:05 +0000
 ---
-{% include box-open.html box-id="3886" title="New Box, Edit me :(:" author-id="307" timestamp="2010-09-25 19:00:05 +0500" type="norm" dbname="box24603" last-modified-by="127" %}
+{% include box-open.html box-id="3886" title="New Box, Edit me :(" author-id="307" timestamp="2010-09-26 00:00:05 +0000" type="norm" dbname="box24603" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="EarthBound Zero / MOTHER" />
 	<table>
@@ -70,9 +70,9 @@ While wandering around in the overworld, you will randomly be drawn into battles
 
 Due to legal reasons, we do not have the EarthBound Zero ROM on Starmen.Net. However, we have a <a href="http://starmen.net/vote/vote.php?id=17876">patch of the game</a> that is helpful to those who are struggling.</p>
 <br class="cleary" />
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-25 19:00:36 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 00:00:36 +0000" last-modified-by-name="LiarXAgerate" %}
 
-{% include box-open.html box-id="3887" title="New Box, Edit me :(:" author-id="307" timestamp="2010-09-25 19:02:57 +0500" type="norm" dbname="box39325" last-modified-by="127" %}
+{% include box-open.html box-id="3887" title="New Box, Edit me :(" author-id="307" timestamp="2010-09-26 00:02:57 +0000" type="norm" dbname="box39325" last-modified-by="127" %}
 <div class="gameinfo">
 	<img src="title.png" alt="EarthBound Zero / MOTHER" />
 	<table>
@@ -136,4 +136,4 @@ Itoi's minimalist quirkiness, stylized humor, and spare sentimentality resonated
 An English localization began immediately, with firm plans for a <a href="http://starmen.net/mother1/images/publication/eb0preview.jpg">September 1991 release</a>. An 80-page instruction-manual-<em>cum</em>-player's-guide was produced. The game's odd soundtrack, orchestrated and performed by Suzuki and a band of unknown British singers, was prepped for release. Things… worked out a little differently. <br />
 </p>
 <br class="cleary" />
-{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-25 19:58:57 +0500" last-modified-by-name="LiarXAgerate" %}
+{% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 00:58:57 +0000" last-modified-by-name="LiarXAgerate" %}

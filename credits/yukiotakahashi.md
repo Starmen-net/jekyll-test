@@ -2,9 +2,9 @@
 title: 'Game Credits: Yukio Takahashi'
 categories:
   - credits
-date: 2008-06-10 14:55:47 +0500
+date: 2008-06-10 19:55:47 +0000
 ---
-{% include box-open.html box-id="3459" title="Yukio Takahashi:" author-id="2262" timestamp="2008-06-10 14:55:47 +0500" type="norm" dbname="box61615" last-modified-by="127" %}
+{% include box-open.html box-id="3459" title="Yukio Takahashi" author-id="2262" timestamp="2008-06-10 19:55:47 +0000" type="norm" dbname="box61615" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 
@@ -21,4 +21,4 @@ Director of Programming</LI>
 
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 14:56:02 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 19:56:02 +0000" last-modified-by-name="KingDarian" %}

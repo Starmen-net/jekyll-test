@@ -2,9 +2,9 @@
 title: Mother Doujinshi
 categories:
   - merchandise
-date: 2005-01-03 19:17:07 +0600
+date: 2005-01-04 01:17:07 +0000
 ---
-{% include box-open.html box-id="271" title="Mother Doujinshi:" author-id="45" timestamp="2005-01-03 19:17:07 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="271" title="Mother Doujinshi" author-id="45" timestamp="2005-01-04 01:17:07 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/motherdj_title.jpg" border="0" alt="Mother Doujinshi" />
 	</center>
@@ -23,4 +23,4 @@ date: 2005-01-03 19:17:07 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/motherdj1.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 19:17:24 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:17:24 +0000" last-modified-by-name="ShadowX" %}

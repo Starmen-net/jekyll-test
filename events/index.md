@@ -2,9 +2,9 @@
 title: MOTHER / EarthBound-related Events
 categories:
   - events
-date: 2007-06-20 00:57:06 +0500
+date: 2007-06-20 05:57:06 +0000
 ---
-{% include box-open.html box-id="3062" title="MOTHER / EarthBound-related Events:" author-id="288" timestamp="2007-06-20 00:57:06 +0500" type="norm" dbname="box10035" last-modified-by="127" %}
+{% include box-open.html box-id="3062" title="MOTHER / EarthBound-related Events" author-id="288" timestamp="2007-06-20 05:57:06 +0000" type="norm" dbname="box10035" last-modified-by="127" %}
 In the past there have been many events that have involved the MOTHER games and EarthBound. Finally, information on all of them is gathered all in one place! If you happen to have information, photos, videos, or anything of the like from these or other events, please let us know!
 
 <ul>
@@ -24,4 +24,4 @@ In the past there have been many events that have involved the MOTHER games and 
  <li><a href="museum/">Nintendo Museum</a></li>
  <li><a href="smnetcon/">Starmen.Net Conventions</a></li>
 </ul>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-25 19:39:54 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-26 00:39:54 +0000" last-modified-by-name="Tomato" %}

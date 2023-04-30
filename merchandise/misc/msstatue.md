@@ -2,9 +2,9 @@
 title: Mr. Saturn Statue
 categories:
   - merchandise
-date: 2005-01-03 20:51:21 +0600
+date: 2005-01-04 02:51:21 +0000
 ---
-{% include box-open.html box-id="322" title="Mr. Saturn Statue:" author-id="45" timestamp="2005-01-03 20:51:21 +0600" type="norm" dbname="box7121" last-modified-by="75" %}
+{% include box-open.html box-id="322" title="Mr. Saturn Statue" author-id="45" timestamp="2005-01-04 02:51:21 +0000" type="norm" dbname="box7121" last-modified-by="75" %}
 	<center>
 	<imgalphapng src="/merchandise/images/ms_statue_title.png" width="130" height="171" border="0" alt="Mr. Saturn Statue" />
 	</center>
@@ -38,4 +38,4 @@ date: 2005-01-03 20:51:21 +0600
 	<br />
 	<a href="/merchandise/images/ms_statue1.jpg">Statue</a> - <a href="/merchandise/images/ms_statue2.jpg">Statue</a> - <a href="/merchandise/images/ms_statue3.jpg">Statue (Many)</a> - 
 	<a href="/merchandise/images/ms_statue_itoi.jpg">Giveaway (Itoi)</a> - <a href="/merchandise/images/ms_statue_giveaway.jpg">Giveaway (Many)</a> - <a href="/merchandise/images/ms_statue_ceiling.jpg">Ceiling</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-05-04 14:41:14 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-05-04 19:41:14 +0000" last-modified-by-name="PoeTrader" %}

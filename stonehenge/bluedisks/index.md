@@ -2,9 +2,9 @@
 title: Stonehenge - Starmen.Net v Sourceperson - Blue Disk Saga
 categories:
   - stonehenge
-date: 2005-10-10 18:34:05 +0500
+date: 2005-10-10 23:34:05 +0000
 ---
-{% include box-open.html box-id="1591" title="Starmen.Net v Sourceperson - Blue Disk Saga:" author-id="75" timestamp="2005-10-10 18:34:05 +0500" type="norm" dbname="box58323" last-modified-by="127" %}
+{% include box-open.html box-id="1591" title="Starmen.Net v Sourceperson - Blue Disk Saga" author-id="75" timestamp="2005-10-10 23:34:05 +0000" type="norm" dbname="box58323" last-modified-by="127" %}
 Mother 3, also known as EarthBound 64, was in development for several years on the Nintendo 64 Disk Drive (64DD). This N64 add-on was, unfortunately, a failure, and never made it out of Japan. No one ever heard much about it after that, or expected to.
 <br /><br />
 In May of 2004 (a year and a half ago) a jovial fellow who we'll refer to as 'Sourceperson' from here on out contacted Jonk via email with this picture:
@@ -30,4 +30,4 @@ I have also gone through and 'resurrected' each post in chronological order, wit
 Behold a huge chapter in the history of Starmen.Net, and despair!
 <br /><br />
 ...and then rejoice, because the disks have returned to us :D
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-03 00:05:10 +0500" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-07-03 05:05:10 +0000" last-modified-by-name="sarsie" %}

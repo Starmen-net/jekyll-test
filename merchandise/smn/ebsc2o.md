@@ -2,9 +2,9 @@
 title: 'EB Sticker Collection 2: O Sticker'
 categories:
   - merchandise
-date: 2005-01-04 00:46:47 +0600
+date: 2005-01-04 06:46:47 +0000
 ---
-{% include box-open.html box-id="413" title="EB Sticker Collection 2: O Sticker:" author-id="45" timestamp="2005-01-04 00:46:47 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="413" title="EB Sticker Collection 2: O Sticker" author-id="45" timestamp="2005-01-04 06:46:47 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_ebsc2o_title.jpg" border="0" alt="EB Sticker Collection 2: O Sticker" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-04 00:46:47 +0600
 	<b>Images</b>
 	<br />
 	<a href="/merchandise/images/smn_ebsc2o_sticker.jpg">Sticker</a> - <a href="/merchandise/images/smn_ebsc2o_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:46:58 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:46:58 +0000" last-modified-by-name="ShadowX" %}

@@ -2,9 +2,9 @@
 title: Plo&#039;s HARD Trivia
 categories:
   - hardtrivia
-date: 2005-04-03 04:03:03 +0500
+date: 2005-04-03 09:03:03 +0000
 ---
-{% include box-open.html box-id="801" title="Plo's HARD Trivia:" author-id="56" timestamp="2005-04-03 04:03:03 +0500" type="norm" dbname="box57905" last-modified-by="56" %}
+{% include box-open.html box-id="801" title="Plo's HARD Trivia" author-id="56" timestamp="2005-04-03 09:03:03 +0000" type="norm" dbname="box57905" last-modified-by="56" %}
                   <CENTER>
                      <IMG SRC="http://plo.fobby.net/phtbanners/PHTbanner2.png" WIDTH="480" HEIGHT="358" ALT="Plo's HARD Trivia" />
                   </CENTER>
@@ -24,9 +24,9 @@ date: 2005-04-03 04:03:03 +0500
    <INPUT TYPE="submit" VALUE="Submit Answer" /> <INPUT TYPE="reset" VALUE="Reset Form" />
    </FORM>
 
-{% include box-close.html author-name="Ploqazxswm" last-modified-on="2012-06-18 23:12:26 +0500" last-modified-by-name="Ploqazxswm" %}
+{% include box-close.html author-name="Ploqazxswm" last-modified-on="2012-06-19 04:12:26 +0000" last-modified-by-name="Ploqazxswm" %}
 
-{% include box-open.html box-id="803" title="Previous Trivia Questions:" author-id="56" timestamp="2005-04-03 04:32:35 +0500" type="norm" dbname="box16263" last-modified-by="56" %}
+{% include box-open.html box-id="803" title="Previous Trivia Questions" author-id="56" timestamp="2005-04-03 09:32:35 +0000" type="norm" dbname="box16263" last-modified-by="56" %}
 <LI><A HREF="52.php">Burning or freezing, with cackles of frustration, a night reclaimed and later days, self condemnation.</A></LI>
 <LI><A HREF="51.php">Who cannot extant; a specialist of sundry. Giver of the world, feeder of the unhungry.</A></LI>
 <LI><A HREF="50.php">decaf mid ton spots nametag gums</A></LI>
@@ -79,12 +79,12 @@ date: 2005-04-03 04:03:03 +0500
 <LI><A HREF="3.php">More than a little of Scaraba's ground, this semi cylindrical question will take you for-ev-er....for-ev-er....for-ev-er....</A></LI>
 <LI><A HREF="2.php">Reverse ascending numbers aggravate the ignorance of the countersign</A></LI>
 <LI><A HREF="1.php">The passed vague time of a decade</A></LI>
-{% include box-close.html author-name="Ploqazxswm" last-modified-on="2012-06-18 23:24:47 +0500" last-modified-by-name="Ploqazxswm" %}
+{% include box-close.html author-name="Ploqazxswm" last-modified-on="2012-06-19 04:24:47 +0000" last-modified-by-name="Ploqazxswm" %}
 
-{% include box-open.html box-id="868" title="Contact Info:" author-id="288" timestamp="2005-04-03 16:08:03 +0500" type="norm" dbname="box39217" last-modified-by="127" %}
+{% include box-open.html box-id="868" title="Contact Info" author-id="288" timestamp="2005-04-03 21:08:03 +0000" type="norm" dbname="box39217" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
  <a href="mailto:plo@starmen.net">Plo</a>
 <table3 />
-{% include box-close.html author-name="Tomato" last-modified-on="2005-04-03 16:19:53 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2005-04-03 21:19:53 +0000" last-modified-by-name="Tomato" %}

@@ -2,9 +2,9 @@
 title: Fan Programs
 categories:
   - fanprograms
-date: 2005-08-25 20:49:51 +0500
+date: 2005-08-26 01:49:51 +0000
 ---
-{% include box-open.html box-id="1369" title="Introduction:" author-id="3088" timestamp="2005-08-25 20:49:51 +0500" type="norm" dbname="box20291" last-modified-by="127" %}
+{% include box-open.html box-id="1369" title="Introduction" author-id="3088" timestamp="2005-08-26 01:49:51 +0000" type="norm" dbname="box20291" last-modified-by="127" %}
 <table border="0" align="center">
 <tr>
 <td>
@@ -17,9 +17,9 @@ date: 2005-08-25 20:49:51 +0500
 Welcome to the Fan Programs section of Starmen.net! Here you will find all sorts of games and applications created by fellow fans. They come in such a wide variety of flavors it's impossible to sum them all up right here. Rather, take a look at the <a href="http://starmen.net/fanprograms/gallery.php"> download gallery</a> or browse them in detail below. <br />
 <br />
 If you'd like feedback, help, or just want to advertise a work in progress please visit the <a href="http://starmen.net/forum/?t=thread&frm_id=9">Fan Forum</a> and create a topic there. Also, don't forget to check out the new <i>Community</i> area where you can browse <a href="http://starmen.net/fanprograms/tutorials.php">tutorials</a> on how to use programming tools, read or submit articles in the <a href="http://starmen.net/fanprograms/articles/current.php">Developer's Corner</a>, or maybe you just need some <a href="http://starmen.net/fanprograms/resources.php">resources</a> for your project. Enjoy!
-{% include box-close.html author-name="pa-ching" last-modified-on="2007-07-18 19:30:29 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="pa-ching" last-modified-on="2007-07-19 00:30:29 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="1370" title="Fan Programs:" author-id="3088" timestamp="2005-08-25 20:51:29 +0500" type="norm" dbname="box59141" last-modified-by="127" %}
+{% include box-open.html box-id="1370" title="Fan Programs" author-id="3088" timestamp="2005-08-26 01:51:29 +0000" type="norm" dbname="box59141" last-modified-by="127" %}
 <a href="/fanprograms/gallery.php">Fan Program Database</a> - View a navigatable list of every program submitted. Or, browse by category... Choose your destiny!<br />
 <br />
 <br />
@@ -42,9 +42,9 @@ If you'd like feedback, help, or just want to advertise a work in progress pleas
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="pa-ching" last-modified-on="2007-07-18 18:52:20 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="pa-ching" last-modified-on="2007-07-18 23:52:20 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="1800" title="Submission Guidelines:" author-id="3088" timestamp="2006-01-15 22:13:55 +0600" type="norm" dbname="box43586" last-modified-by="127" %}
+{% include box-open.html box-id="1800" title="Submission Guidelines" author-id="3088" timestamp="2006-01-16 04:13:55 +0000" type="norm" dbname="box43586" last-modified-by="127" %}
 Please submit all programs <a href="/submit">here</a>.<br />
 <br />
 <font size="4" color="#E41B17"><b>--- Rules & Guidelines ---</b><br /></font>
@@ -67,25 +67,25 @@ Please submit all programs <a href="/submit">here</a>.<br />
 </ul>
 
 Having trouble submitting? You're probably still in need of a Starmen.net account. It's easy! Just go <a href="http://starmen.net/forum/?t=register">here</a> and create one.
-{% include box-close.html author-name="pa-ching" last-modified-on="2007-07-18 19:33:44 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="pa-ching" last-modified-on="2007-07-19 00:33:44 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3163" title="Fan Game Showcase:" author-id="3404" timestamp="2007-07-15 20:39:44 +0500" type="norm" dbname="box55746" last-modified-by="127" %}
+{% include box-open.html box-id="3163" title="Fan Game Showcase" author-id="3404" timestamp="2007-07-16 01:39:44 +0000" type="norm" dbname="box55746" last-modified-by="127" %}
 Every so often a fan game will be chosen and put on the hot seat! We'll all take it good look at it while it's in the limelight, maybe learn more about the project, and talk with the developer(s). It will also receive a well-rounded review.<br />
 Past Fan Game Showcases can be found <a href="http://starmen.net/fanprograms/showcase/archives.php">here</a>.
 <br />
 <br />
 No Showcase yet...
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 21:59:32 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-19 02:59:32 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3162" title="Contact Info:" author-id="3404" timestamp="2007-07-15 19:59:04 +0500" type="norm" dbname="box24443" last-modified-by="127" %}
+{% include box-open.html box-id="3162" title="Contact Info" author-id="3404" timestamp="2007-07-16 00:59:04 +0000" type="norm" dbname="box24443" last-modified-by="127" %}
 <table1 />
  Section maintainer:
 <table2 />
  <a href="http://starmen.net/forum/?t=ppost&toi=3404">Capn Muffin</a>
 <table3 />
 
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-16 20:29:16 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-17 01:29:16 +0000" last-modified-by-name="Tomato" %}
 
-{% include box-open.html box-id="3236" title="Credits:" author-id="3404" timestamp="2007-07-18 18:57:42 +0500" type="blank" dbname="box6375" last-modified-by="127" %}
+{% include box-open.html box-id="3236" title="Credits" author-id="3404" timestamp="2007-07-18 23:57:42 +0000" type="blank" dbname="box6375" last-modified-by="127" %}
 Banner image by <a href="http://starmen.net/forum/?t=usrinfo&id=4109">Stevesesy</a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 18:59:41 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 23:59:41 +0000" last-modified-by-name="Capn Muffin" %}

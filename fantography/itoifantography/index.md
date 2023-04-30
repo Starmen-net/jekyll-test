@@ -2,9 +2,9 @@
 title: 'Fantography: Itoi&#039;s MOTHER 3 Fantography'
 categories:
   - fantography
-date: 2008-05-26 14:41:05 +0500
+date: 2008-05-26 19:41:05 +0000
 ---
-{% include box-open.html box-id="3417" title="Itoi's MOTHER 3 Fantography:" author-id="75" timestamp="2008-05-26 14:41:05 +0500" type="norm" dbname="box49540" last-modified-by="75" %}
+{% include box-open.html box-id="3417" title="Itoi's MOTHER 3 Fantography" author-id="75" timestamp="2008-05-26 19:41:05 +0000" type="norm" dbname="box49540" last-modified-by="75" %}
 <center><img src="banner.png" /></center><br /><br />
 
 Shigesato Itoi, creator of the MOTHER series, has a picture blog on his website that he updates a few times a day. You can see it <a href="http://www.1101.com/cgi-bin/photolive.cgi?p=060216kimagure">here</a>. Most of the pictures are of his dog, Buillon, but a few have centered around MOTHER 3. Some are pictures of merchandise for the game, and others just reminded us of the game. We snagged those particular pics and put them here for easy viewing. <b>Any sprites that you see were added by us for comparison.</b><br /><br /><br />
@@ -23,4 +23,4 @@ Shigesato Itoi, creator of the MOTHER series, has a picture blog on his website 
 <a href="092108.jpg" title="September 21, 2008 - Bullion seeds himself on TV! Mr. Saturn is too short."><img src="092108_t.jpg" width="100" height="100" /></a>
 <a href="092708.jpg" title="September 27, 2008 - Bullion uses Mr. Saturn as a pillow."><img src="092708_t.jpg" width="100" height="100" /></a>
 </center>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2008-10-01 15:36:33 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2008-10-01 20:36:33 +0000" last-modified-by-name="PoeTrader" %}

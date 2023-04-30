@@ -2,9 +2,9 @@
 title: Mother 3 - Art Cards
 categories:
   - ebsiege
-date: 2007-06-12 02:54:39 +0500
+date: 2007-06-12 07:54:39 +0000
 ---
-{% include box-open.html box-id="3009" title="Mother 3 - Art Cards:" author-id="137" timestamp="2007-06-12 02:54:39 +0500" type="norm" dbname="box38330" last-modified-by="8" %}
+{% include box-open.html box-id="3009" title="Mother 3 - Art Cards" author-id="137" timestamp="2007-06-12 07:54:39 +0000" type="norm" dbname="box38330" last-modified-by="8" %}
 <div style="text-align: center;">
 <ul class="thumbprevs">
 <li><a href="../pdfs/m3_fanart_01.pdf"><img src="../thumbs/m3_fanart_01.jpg" /></a><a rel="lightbox[mailn]" href="../resized/m3_fanart_01.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
@@ -24,4 +24,4 @@ date: 2007-06-12 02:54:39 +0500
 <li><a href="../pdfs/m3_fanart_15.pdf"><img src="../thumbs/m3_fanart_15.jpg" /></a><a rel="lightbox[mailn]" href="../resized/m3_fanart_15.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 <li><a href="../pdfs/m3_fanart_16.pdf"><img src="../thumbs/m3_fanart_16.jpg" /></a><a rel="lightbox[mailn]" href="../resized/m3_fanart_16.jpg"><img class="preview" src="../preview.png" title="Preview this card" /></a></li>
 </ul></div>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 04:05:43 +0500" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-06-16 09:05:43 +0000" last-modified-by-name="reidman" %}

@@ -2,15 +2,15 @@
 title: 'PKHack: Documentation Inflammation! See your doctor for details.'
 categories:
   - pkhack
-date: 2006-02-23 17:22:20 +0600
+date: 2006-02-23 23:22:20 +0000
 ---
-{% include box-open.html box-id="1944" title="Documentation Nation:" author-id="473" timestamp="2006-02-23 17:22:20 +0600" type="norm" dbname="box32847" last-modified-by="127" %}
+{% include box-open.html box-id="1944" title="Documentation Nation" author-id="473" timestamp="2006-02-23 23:22:20 +0000" type="norm" dbname="box32847" last-modified-by="127" %}
 Need some pointers? Well, this page's got documentation on those!* The documentation section is full of salibrious courses you can take to learn how graphics compression works*, how to hack hotspots, ASM routine addresses, and many other delicious knowledge cakes. If one's looking for specifics, however, or just wants a small tidbit of information for their mind to snack on for a little while, this section's still got you covered. But enough talk! <i>Check it out.</i><br /><br />
 
 <font size="1">*I'm just kidding. I dunno where those are.</font>
-{% include box-close.html author-name="Radiation" last-modified-on="2006-02-23 17:28:04 +0600" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2006-02-23 23:28:04 +0000" last-modified-by-name="Radiation" %}
 
-{% include box-open.html box-id="1945" title="<i>Check it out:</i>:" author-id="473" timestamp="2006-02-23 17:28:16 +0600" type="norm" dbname="box23804" last-modified-by="127" %}
+{% include box-open.html box-id="1945" title="<i>Check it out:</i>" author-id="473" timestamp="2006-02-23 23:28:16 +0000" type="norm" dbname="box23804" last-modified-by="127" %}
 We don't have any documentation <i>packs</i> right now, but there's a plethora of awesome normal documentation of stuff tucked away in the EB ROM for you to poke at.<br /><br />
 
 <b>HOLY WOWBURGERS! CHECK IT OUT! Control Code Documentation!</b><br /><br />
@@ -32,9 +32,9 @@ We don't have any documentation <i>packs</i> right now, but there's a plethora o
 <b><a href="http://starmen.net/pkhack/pk_docs/muzak.txt">Music and Sound Effect Listing</a></b> - For the [1F 02 XX] code and [1F 00 00 XX] code, so you can tell what sounds and music are what. Nifty.<br />
 <b><a href="http://starmen.net/pkhack/pk_docs/storecode.txt">Store Text Documentation</a></b> - This is documentation of the store text pointers, etc. It's still useful. Seriously.
 </font>
-{% include box-close.html author-name="Radiation" last-modified-on="2007-11-26 16:19:05 +0600" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2007-11-26 22:19:05 +0000" last-modified-by-name="Radiation" %}
 
-{% include box-open.html box-id="2542" title="Tutorials, what:" author-id="473" timestamp="2006-08-23 07:23:14 +0500" type="norm" dbname="box36603" last-modified-by="127" %}
+{% include box-open.html box-id="2542" title="Tutorials, what" author-id="473" timestamp="2006-08-23 12:23:14 +0000" type="norm" dbname="box36603" last-modified-by="127" %}
 Hi. There aren't very many tutorials right now, but hopefully that'll change if you submit to the section in the future. As of now, all I have is about three "tutorials" that I made in early 2005. Yikes.<br /><br />
 
 <b>TUTORIALS:</b><br /><br />
@@ -49,8 +49,8 @@ Hi. There aren't very many tutorials right now, but hopefully that'll change if 
 <b><a href="http://starmen.net/pkhack/pk_docs/tutorialsok/hyperbound_mapediting.php">Advanced Map Editing</a></b> - A newish tutorial by HyperBound. Explains how to do advanced map editing; mainly adding or re-arranging map graphics.<br /></font>
 
 
-{% include box-close.html author-name="Radiation" last-modified-on="2012-02-12 11:47:01 +0600" last-modified-by-name="NESluver" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2012-02-12 17:47:01 +0000" last-modified-by-name="NESluver" %}
 
-{% include box-open.html box-id="1946" title="BUT ENOUGH TALK:" author-id="473" timestamp="2006-02-23 17:29:58 +0600" type="norm" dbname="box890" last-modified-by="127" %}
+{% include box-open.html box-id="1946" title="BUT ENOUGH TALK" author-id="473" timestamp="2006-02-23 23:29:58 +0000" type="norm" dbname="box890" last-modified-by="127" %}
 I know you dudes are disappointed in the lack of information on this page, but your good old pal Radiation forgot where all of it was. Something you need, want, or remember from the old page? Send Radiation a PM on the forums and he'll be on it in one or more jiffies. His screenname is "Radiation". Might want to write it down. It's a little complicated.
-{% include box-close.html author-name="Radiation" last-modified-on="2006-02-23 17:31:12 +0600" last-modified-by-name="Radiation" %}
+{% include box-close.html author-name="Radiation" last-modified-on="2006-02-23 23:31:12 +0000" last-modified-by-name="Radiation" %}

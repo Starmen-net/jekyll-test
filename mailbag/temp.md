@@ -2,21 +2,21 @@
 title: Mailbag
 categories:
   - mailbag
-date: 2006-07-18 13:32:03 +0500
+date: 2006-07-18 18:32:03 +0000
 ---
-{% include box-open.html box-id="2477" title="Welcome to the Mailbag:" author-id="131" timestamp="2006-07-18 13:32:03 +0500" type="norm" dbname="box7129" last-modified-by="127" %}
+{% include box-open.html box-id="2477" title="Welcome to the Mailbag" author-id="131" timestamp="2006-07-18 18:32:03 +0000" type="norm" dbname="box7129" last-modified-by="127" %}
 Welcome to the Starmen.net Mailbag! The mailbag is your chance to sound off on various topics and ask the questions you want to know about the site and other happenings in the EarthBound world. Updates are made every week so check this space to see if your letter was posted! Before you submit make sure to read the <A HREF="/mailbag/rules.php">submission rules</A>.
-{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 13:32:41 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 18:32:41 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2478" title="Mailbag for [DAY], [MONTH] 2006:" author-id="131" timestamp="2006-07-18 13:32:05 +0500" type="norm" dbname="box9298" last-modified-by="127" %}
+{% include box-open.html box-id="2478" title="Mailbag for [DAY], [MONTH] 2006" author-id="131" timestamp="2006-07-18 18:32:05 +0000" type="norm" dbname="box9298" last-modified-by="127" %}
 
-{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 13:33:32 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 18:33:32 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2479" title="Send a Letter:" author-id="131" timestamp="2006-07-18 13:32:06 +0500" type="norm" dbname="box30598" last-modified-by="127" %}
+{% include box-open.html box-id="2479" title="Send a Letter" author-id="131" timestamp="2006-07-18 18:32:06 +0000" type="norm" dbname="box30598" last-modified-by="127" %}
 Use this form to send a letter to the Mailbag: <p /> <FORM action="http://starmen.net/cgi-bin/formpoo.pl" method="post"> <INPUT type="hidden" value="mailbag@starmen.net" name="recipient" /> <INPUT type="hidden" value="misc@starmen.net" name="cc" /> <INPUT type="hidden" value="Mailbag Letter" name="subject" /> <INPUT type="hidden" value="http://starmen.net/submit/sent.php" name="redirect" /> <INPUT type="hidden" value="realname,email,q1" name="required" /> <TABLE cellSpacing="0" cellPadding="0" width="100%" border="0"> <TR> <TD vAlign="top"> <P />Name:<BR /><INPUT maxlength="100" name="realname" /> </TD> <TD vAlign="top"> <P />E-Mail Address:<BR /><INPUT maxlength="100" name="email" /> </TD></TR> </TABLE> <P>Insert comments and press button for service:<BR /> <textarea rows="15" cols="35" name="q1"></textarea></P> <P /> <INPUT type="submit" value="Submit Letter" /><INPUT type="reset" value="Erase Letter" /> <p /> </FORM>
-{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 13:34:05 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 18:34:05 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2480" title="Mailbag Archives:" author-id="131" timestamp="2006-07-18 13:34:33 +0500" type="norm" dbname="box5399" last-modified-by="127" %}
+{% include box-open.html box-id="2480" title="Mailbag Archives" author-id="131" timestamp="2006-07-18 18:34:33 +0000" type="norm" dbname="box5399" last-modified-by="127" %}
 <table1 />
 
 <a href="/mailbag/archives/new/060627.php">EarthBound Strategies</a><br />
@@ -47,8 +47,8 @@ Use this form to send a letter to the Mailbag: <p /> <FORM action="http://starme
 <br />
 1999-2003<br />
 <table3 />
-{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 13:34:49 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 18:34:49 +0000" last-modified-by-name="EBounding" %}
 
-{% include box-open.html box-id="2481" title="Contact Information:" author-id="131" timestamp="2006-07-18 13:34:52 +0500" type="norm" dbname="box30828" last-modified-by="127" %}
+{% include box-open.html box-id="2481" title="Contact Information" author-id="131" timestamp="2006-07-18 18:34:52 +0000" type="norm" dbname="box30828" last-modified-by="127" %}
 <table1 /> Section Maintainer: <table2 /> <a href="mailto:mailbag@starmen.net">EBounding</a> <table3 />
-{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 13:35:12 +0500" last-modified-by-name="EBounding" %}
+{% include box-close.html author-name="EBounding" last-modified-on="2006-07-18 18:35:12 +0000" last-modified-by-name="EBounding" %}

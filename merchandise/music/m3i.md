@@ -2,9 +2,9 @@
 title: MOTHER 3i
 categories:
   - merchandise
-date: 2011-01-09 21:22:22 +0600
+date: 2011-01-10 03:22:22 +0000
 ---
-{% include box-open.html box-id="3943" title="MOTHER 3i:" author-id="45" timestamp="2011-01-09 21:22:22 +0600" type="norm" dbname="box37747" last-modified-by="45" %}
+{% include box-open.html box-id="3943" title="MOTHER 3i" author-id="45" timestamp="2011-01-10 03:22:22 +0000" type="norm" dbname="box37747" last-modified-by="45" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -116,4 +116,4 @@ MOTHER 3i was solely released digitally (hence the i) and can be found on the <a
 <a href="/merchandise/images/m3i_cover.jpg" ><img src="/merchandise/images/m3i_cover.jpg" title="MOTHER 3i" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m3i_tracks.png" ><img src="/merchandise/images/m3i_tracks.png" title="MOTHER 3i" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-01-13 11:14:25 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-01-13 17:14:25 +0000" last-modified-by-name="ShadowX" %}

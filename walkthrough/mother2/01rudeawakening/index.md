@@ -2,9 +2,9 @@
 title: 'Official Starmen.net Walkthrough: Earthbound: 01- Rude Awakening'
 categories:
   - walkthrough
-date: 2005-11-09 17:38:32 +0600
+date: 2005-11-09 23:38:32 +0000
 ---
-{% include box-open.html box-id="1712" title="Scene 01 - Rude Awakening:" author-id="2262" timestamp="2005-11-09 17:38:32 +0600" type="norm" dbname="box54821" last-modified-by="127" %}
+{% include box-open.html box-id="1712" title="Scene 01 - Rude Awakening" author-id="2262" timestamp="2005-11-09 23:38:32 +0000" type="norm" dbname="box54821" last-modified-by="127" %}
 <CENTER><img src="scenetitle.png" width="554" height="36" title="Scene 01 - Rude Awakening" alt="Scene 01 - Rude Awakening:" /></CENTER><BR /><BR />
 <font size="1">
 <table width="30%" border="0" align="center" cellpadding="0" cellspacing="0" vspace="5" hspace="5" >
@@ -159,4 +159,4 @@ back to bed.
 </table>
 
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2005-11-10 10:28:08 +0600" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2005-11-10 16:28:08 +0000" last-modified-by-name="KingDarian" %}

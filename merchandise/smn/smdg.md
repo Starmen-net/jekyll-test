@@ -2,9 +2,9 @@
 title: Starmen do GOLF
 categories:
   - merchandise
-date: 2005-01-03 23:40:21 +0600
+date: 2005-01-04 05:40:21 +0000
 ---
-{% include box-open.html box-id="377" title="Starmen do GOLF:" author-id="45" timestamp="2005-01-03 23:40:21 +0600" type="norm" dbname="box19577" last-modified-by="45" %}
+{% include box-open.html box-id="377" title="Starmen do GOLF" author-id="45" timestamp="2005-01-04 05:40:21 +0000" type="norm" dbname="box19577" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_smdg_title.png" border="0" alt="Starmen do GOLF!" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 23:40:21 +0600
 	<br />
 	<a href="/merchandise/images/smn_smdg_front.jpg">Front</a> - <a href="/merchandise/images/smn_smdg_back.jpg">Back</a> - <a href="/merchandise/images/smn_smdg_design.jpg">Design</a> - 
 	<a href="/merchandise/images/smn_gsd.jpg">Detail</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 01:38:43 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2009-05-09 06:38:43 +0000" last-modified-by-name="ShadowX" %}

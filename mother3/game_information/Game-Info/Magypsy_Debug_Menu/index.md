@@ -2,9 +2,9 @@
 title: Magypsy Debug Menu
 categories:
   - mother3
-date: 2016-12-31 00:58:27 +0600
+date: 2016-12-31 06:58:27 +0000
 ---
-{% include box-open.html box-id="4923" title="Magypsy Debug Menu:" author-id="28590" timestamp="2016-12-31 00:58:27 +0600" type="norm" dbname="box24179" last-modified-by="127" %}
+{% include box-open.html box-id="4923" title="Magypsy Debug Menu" author-id="28590" timestamp="2016-12-31 06:58:27 +0000" type="norm" dbname="box24179" last-modified-by="127" %}
 <img src="Magypsy Debug Menu.png" /> <font size="3"> &nbsp; <b>Magypsy Debug Menu</b></font>
 <br /><br />
 
@@ -49,4 +49,4 @@ To reliably access this Magypsy menu, the following steps are necessary:
 &nbsp;4. Interact with Duster to go to the “Osohe Castle” point. This will activate the condition required for the Magypsy menu to appear.<br />
 &nbsp;5. Use a walk-through-walls code to walk south. The Magypsies should be present on the other side of the moat.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 01:03:42 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 07:03:42 +0000" last-modified-by-name="CerealQueen" %}

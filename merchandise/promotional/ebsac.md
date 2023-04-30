@@ -2,9 +2,9 @@
 title: Scented Ads and Coupons
 categories:
   - merchandise
-date: 2008-02-22 23:31:56 +0600
+date: 2008-02-23 05:31:56 +0000
 ---
-{% include box-open.html box-id="3383" title="Scented Ads and Coupons:" author-id="45" timestamp="2008-02-22 23:31:56 +0600" type="norm" dbname="box46034" last-modified-by="127" %}
+{% include box-open.html box-id="3383" title="Scented Ads and Coupons" author-id="45" timestamp="2008-02-23 05:31:56 +0000" type="norm" dbname="box46034" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/ebsac_title.png" border="0" alt="Scented Ads and Coupons" />
 	</center>
@@ -36,4 +36,4 @@ date: 2008-02-22 23:31:56 +0600
 <a href="/merchandise/images/ebsac_ad1.jpg">Ad 1</a> - <a href="/merchandise/images/ebsac_ad2.jpg">Ad 2</a> - <a href="/merchandise/images/ebsac_ad_coupon.jpg">Ad Coupon</a>
 	<br /><br />
 	Special thanks to SirX-Wolf for the second edition of pics.
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:34:49 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:34:49 +0000" last-modified-by-name="Tomato" %}

@@ -2,9 +2,9 @@
 title: EarthBound Player&#039;s Guide
 categories:
   - merchandise
-date: 2005-01-03 20:31:43 +0600
+date: 2005-01-04 02:31:43 +0000
 ---
-{% include box-open.html box-id="311" title="EarthBound Player&#039;s Guide:" author-id="45" timestamp="2005-01-03 20:31:43 +0600" type="norm" dbname="box62365" last-modified-by="127" %}
+{% include box-open.html box-id="311" title="EarthBound Player&#039;s Guide" author-id="45" timestamp="2005-01-04 02:31:43 +0000" type="norm" dbname="box62365" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -78,4 +78,4 @@ date: 2005-01-03 20:31:43 +0600
 <a href="/merchandise/images/earthbound_guide_example1.jpg" ><img src="/merchandise/images/earthbound_guide_example1.jpg" title="EarthBound Player's Guide (Example 1)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/earthbound_guide_example2.jpg" ><img src="/merchandise/images/earthbound_guide_example2.jpg" title="EarthBound Player's Guide (Example 2)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/earthbound_guide_example3.jpg" ><img src="/merchandise/images/earthbound_guide_example3.jpg" title="EarthBound Player's Guide (Example 3)" border="1" width="100" height="100" hspace="1" /></a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:26:12 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:26:12 +0000" last-modified-by-name="Tomato" %}

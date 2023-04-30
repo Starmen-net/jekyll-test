@@ -2,15 +2,15 @@
 title: Halloween Funfest 2012!
 categories:
   - halloween12
-date: 2012-10-01 18:58:28 +0500
+date: 2012-10-01 23:58:28 +0000
 ---
-{% include box-open.html box-id="4531" title="Audioviz!:" author-id="1419" timestamp="2012-10-01 18:58:28 +0500" type="norm" dbname="box15076" last-modified-by="127" %}
+{% include box-open.html box-id="4531" title="Audioviz!" author-id="1419" timestamp="2012-10-01 23:58:28 +0000" type="norm" dbname="box15076" last-modified-by="127" %}
 Audioviz is the section where you submit your frightening films, morbid music, horrific hacks and gut-quivering games. Here you can truly become a director of great horrors akin to John Carpenter and George Romero. Submit by November 5th for your work to be considered by the judges for a prize. Recordings bring motion to pictures and voices to the dead. Be careful what you give life to. There are things on the other side eager to cross over, and your video might be just the opportunity that they need.<p/>
 
 <a href="http://starmen.net/submit/?ForceSection=Halloween%20Funfest%202012">Submit something to the Audioviz section!</a>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-01 23:22:38 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-10-02 04:22:38 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4532" title="Submissions:" author-id="1419" timestamp="2012-10-01 18:58:44 +0500" type="norm" dbname="box21977" last-modified-by="127" %}
+{% include box-open.html box-id="4532" title="Submissions" author-id="1419" timestamp="2012-10-01 23:58:44 +0000" type="norm" dbname="box21977" last-modified-by="127" %}
 <div class="hr"><hr /></div>
 <ul class="submissions">
 	<li class="">
@@ -112,4 +112,4 @@ Audioviz is the section where you submit your frightening films, morbid music, h
 	</li>
 </ul>
 <div class="hr"><hr /></div>		
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 10:11:44 +0600" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-11-06 16:11:44 +0000" last-modified-by-name="Emily" %}

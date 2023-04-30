@@ -2,9 +2,9 @@
 title: MOTHER / EarthBound Zero Videos
 categories:
   - mother1
-date: 2007-06-12 22:31:48 +0500
+date: 2007-06-13 03:31:48 +0000
 ---
-{% include box-open.html box-id="3019" title="MOTHER / EarthBound Zero Videos:" author-id="5552" timestamp="2007-06-12 22:31:48 +0500" type="norm" dbname="box23293" last-modified-by="127" %}
+{% include box-open.html box-id="3019" title="MOTHER / EarthBound Zero Videos" author-id="5552" timestamp="2007-06-13 03:31:48 +0000" type="norm" dbname="box23293" last-modified-by="127" %}
 <ul class="pics">
 
 <li>
@@ -79,4 +79,4 @@ date: 2007-06-12 22:31:48 +0500
 </li>
 
 </ul>
-{% include box-close.html author-name="lewahi" last-modified-on="2016-10-14 13:41:15 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="lewahi" last-modified-on="2016-10-14 18:41:15 +0000" last-modified-by-name="CerealQueen" %}

@@ -2,9 +2,9 @@
 title: Famicom 4 Koma Manga Ohkoku 2
 categories:
   - merchandise
-date: 2005-01-03 19:32:40 +0600
+date: 2005-01-04 01:32:40 +0000
 ---
-{% include box-open.html box-id="279" title="Famicom 4 Koma Manga Ohkoku 2:" author-id="45" timestamp="2005-01-03 19:32:40 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="279" title="Famicom 4 Koma Manga Ohkoku 2" author-id="45" timestamp="2005-01-04 01:32:40 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/f4kmo2_title.jpg" border="0" alt="Famicom 4 Koma Manga Ohkoku 2" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 19:32:40 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/f4kmo2_front.jpg">Front</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 19:32:57 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 01:32:57 +0000" last-modified-by-name="ShadowX" %}

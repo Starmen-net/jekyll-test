@@ -2,9 +2,9 @@
 title: 'Game Credits: Shigesato Itoi'
 categories:
   - credits
-date: 2005-05-01 01:52:43 +0500
+date: 2005-05-01 06:52:43 +0000
 ---
-{% include box-open.html box-id="954" title="Shigesato Itoi:" author-id="2262" timestamp="2005-05-01 01:52:43 +0500" type="norm" dbname="box21689" last-modified-by="127" %}
+{% include box-open.html box-id="954" title="Shigesato Itoi" author-id="2262" timestamp="2005-05-01 06:52:43 +0000" type="norm" dbname="box21689" last-modified-by="127" %}
 <img src="shigesatoitoi.JPG" align="right" />
 <b>Bio</b><BR />
 Shigesato Itoi is a well-known celebrity in Japan.
@@ -42,4 +42,4 @@ Shigesato Itoi is a well-known celebrity in Japan.
 <UL><LI>
 <a href="http://www.1101.com/">www.1101.com</a>
 </LI></UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 18:45:56 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 23:45:56 +0000" last-modified-by-name="KingDarian" %}

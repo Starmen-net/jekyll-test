@@ -2,9 +2,9 @@
 title: 'Mother 3: Game Graphics'
 categories:
   - mother3
-date: 2006-06-30 21:47:34 +0500
+date: 2006-07-01 02:47:34 +0000
 ---
-{% include box-open.html box-id="4796" title="People:" author-id="28590" timestamp="2016-10-25 14:12:27 +0500" type="norm" dbname="box43159" last-modified-by="127" %}
+{% include box-open.html box-id="4796" title="People" author-id="28590" timestamp="2016-10-25 19:12:27 +0000" type="norm" dbname="box43159" last-modified-by="127" %}
 <a href="abandonedclayman.png" title="Abandoned Clayman"><img src="abandonedclaymanT.png" width="50" height="50" /></a>
 <a href="abbey.png" title="Abbey"><img src="abbeyT.png" width="50" height="50" /></a>
 <a href="abbot_1.png" title="Abbot"><img src="abbot_1T.png" width="50" height="50" /></a>
@@ -214,9 +214,9 @@ date: 2006-06-30 21:47:34 +0500
 <a href="womaninbluedress.png" title="Woman in Blue Dress"><img src="womaninbluedressT.png" width="50" height="50" /></a>
 <a href="womaninminidress.png" title="Woman in Mini Dress"><img src="womanwithminidressT.png" width="50" height="50" /></a>
 <a href="worker.png" title="Worker"><img src="workerT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 00:58:57 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-28 05:58:57 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4778" title="Enemies:" author-id="28590" timestamp="2016-10-14 11:50:21 +0500" type="norm" dbname="box31743" last-modified-by="127" %}
+{% include box-open.html box-id="4778" title="Enemies" author-id="28590" timestamp="2016-10-14 16:50:21 +0000" type="norm" dbname="box31743" last-modified-by="127" %}
 <a href="overagitatedboar.png" title="Agitated Boar"><img src="overagitatedboarT.png" width="50" height="50" /></a>
 <a href="overancientdragonfly.png" title="Ancient Dragonfly"><img src="overancientdragonflyT.png" width="50" height="50" /></a>
 <a href="overarachnid!.png" title="Arachnid!"><img src="overarachnid!T.png" width="50" height="50" /></a>
@@ -359,9 +359,9 @@ date: 2006-06-30 21:47:34 +0500
 <a href="overzombiedog.png" title="Zombie Dog"><img src="overzombiedogT.png" width="50" height="50" /></a>
 <a href="overzombielady.png" title="Zombie Lady"><img src="overzombieladyT.png" width="50" height="50" /></a>
 <a href="overzombieman.png" title="Zombie Man"><img src="overzombiemanT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-24 18:53:00 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-24 23:53:00 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="2442" title="In-Battle Enemies:" author-id="2262" timestamp="2006-06-30 21:47:34 +0500" type="norm" dbname="box14406" last-modified-by="127" %}
+{% include box-open.html box-id="2442" title="In-Battle Enemies" author-id="2262" timestamp="2006-07-01 02:47:34 +0000" type="norm" dbname="box14406" last-modified-by="127" %}
 <a href="agitatedboar.png" title="Agitated Boar"><img src="agitatedboarT.png" width="50" height="50" /></a>
 <a href="ancientdragonfly.png" title="Ancient Dragonfly"><img src="ancientdragonflyT.png" width="50" height="50" /></a>
 <a href="arachnid!!!!!.png" title="Arachnid!!!!!"><img src="arachnid!!!!!T.png" width="50" height="50" /></a>
@@ -505,9 +505,9 @@ date: 2006-06-30 21:47:34 +0500
 <a href="zombiedog.png" title="Zombie Dog"><img src="zombiedogT.png" width="50" height="50" /></a>
 <a href="zombielady.png" title="Zombie Lady"><img src="zombieladyT.png" width="50" height="50" /></a>
 <a href="zombieman.png" title="Zombie Man"><img src="zombiemanT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2016-10-13 18:02:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2016-10-13 23:02:37 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4771" title="Bosses:" author-id="28590" timestamp="2016-10-13 11:03:27 +0500" type="norm" dbname="box14243" last-modified-by="127" %}
+{% include box-open.html box-id="4771" title="Bosses" author-id="28590" timestamp="2016-10-13 16:03:27 +0000" type="norm" dbname="box14243" last-modified-by="127" %}
 <a href="reconstructedcaribou.png" title="Reconstructed Caribou"><img src="reconstructedcaribouT.png" width="50" height="50" /></a>
 <a href="mechadrago.png" title="Mecha-Drago"><img src="mechadragoT.png" width="50" height="50" /></a>
 <a href="mrpassion.png" title="Mr. Passion"><img src="mrpassionT.png" width="50" height="50" /></a>
@@ -535,9 +535,9 @@ date: 2006-06-30 21:47:34 +0500
 <a href="porky1.png" title="Porky 1"><img src="porky1T.png" width="50" height="50" /></a>
 <a href="porky2.png" title="Porky 2"><img src="porky2T.png" width="50" height="50" /></a>
 <a href="maskedman.png" title="Masked Man"><img src="maskedmanT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-25 17:38:45 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-25 22:38:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4776" title="Animals & Chimeras:" author-id="28590" timestamp="2016-10-13 18:34:54 +0500" type="norm" dbname="box37044" last-modified-by="127" %}
+{% include box-open.html box-id="4776" title="Animals & Chimeras" author-id="28590" timestamp="2016-10-13 23:34:54 +0000" type="norm" dbname="box37044" last-modified-by="127" %}
 <a href="arrowlizard.png" title="Arrow Lizard"><img src="arrowlizardT.png" width="50" height="50" /></a>
 <a href="bird.png" title="Bird"><img src="birdT.png" width="50" height="50" /></a>
 <a href="blackstraydog.png" title="Black Stray Dog"><img src="blackstraydog2T.png" width="50" height="50" /></a>
@@ -581,9 +581,9 @@ date: 2006-06-30 21:47:34 +0500
 <a href="stinkbug.png" title="Stink Bug"><img src="stinkbugT.png" width="50" height="50" /></a>
 <a href="straydog.png" title="Stray Dog"><img src="straydogT.png" width="50" height="50" /></a>
 <a href="ultimatechimera.png" title="Ultimate Chimera_1"><img src="ultimatechimera_1T.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-24 18:44:33 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-24 23:44:33 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4775" title="Miscellaneous Objects and Items:" author-id="28590" timestamp="2016-10-13 17:14:41 +0500" type="norm" dbname="box22266" last-modified-by="127" %}
+{% include box-open.html box-id="4775" title="Miscellaneous Objects and Items" author-id="28590" timestamp="2016-10-13 22:14:41 +0000" type="norm" dbname="box22266" last-modified-by="127" %}
 <a href="apple.png" title="Apple"><img src="appleT.png" width="50" height="50" /></a>
 <a href="birdcage.png" title="Bird Cage"><img src="birdcageT.png" width="50" height="50" /></a>
 <a href="bonfire.png" title="Bonfire"><img src="bonfireT.png" width="50" height="50" /></a>
@@ -619,4 +619,4 @@ date: 2006-06-30 21:47:34 +0500
 <a href="trainred.png" title="Train (Red)"><img src="trainredT.png" width="50" height="50" /></a>
 <a href="treasurevase.png" title="Treasure Vase"><img src="treasurevaseT.png" width="50" height="50" /></a>
 <a href="truck.png" title="Truck"><img src="truckT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-13 18:33:37 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-10-13 23:33:37 +0000" last-modified-by-name="CerealQueen" %}

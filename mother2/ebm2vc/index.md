@@ -2,9 +2,9 @@
 title: EarthBound on Virtual Console
 categories:
   - mother2
-date: 2016-12-01 13:33:10 +0600
+date: 2016-12-01 19:33:10 +0000
 ---
-{% include box-open.html box-id="4882" title="Virtual Console Purchase Information:" author-id="28590" timestamp="2016-12-01 13:33:10 +0600" type="norm" dbname="box62541" last-modified-by="127" %}
+{% include box-open.html box-id="4882" title="Virtual Console Purchase Information" author-id="28590" timestamp="2016-12-01 19:33:10 +0000" type="norm" dbname="box62541" last-modified-by="127" %}
 <center><img src="eb_logo.png" width="302" height="260" /></center>
 <center><font size="2"><b><i>At long last, EarthBound is available on the Virtual Console.</i></b></font></center>
 
@@ -19,9 +19,9 @@ date: 2016-12-01 13:33:10 +0600
 <a href="https://www.youtube.com/watch?v=vGOEMCG2Ll4">EarthBound Launch Trailer on YouTube</a>
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-07 18:39:45 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-08 00:39:45 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4883" title="Nintendo Wii and the Announcement of the Virtual Console:" author-id="28590" timestamp="2016-12-01 13:38:44 +0600" type="norm" dbname="box762" last-modified-by="127" %}
+{% include box-open.html box-id="4883" title="Nintendo Wii and the Announcement of the Virtual Console" author-id="28590" timestamp="2016-12-01 19:38:44 +0000" type="norm" dbname="box762" last-modified-by="127" %}
 The release of EarthBound on the Virtual Console a journey that spanned the course of multiple years. For the longest time, the re-release and download of the classic Super Nintendo RPG was one that only existed within the dreams of the game’s cult following.
 
 <br /><br /><br />
@@ -34,9 +34,9 @@ The release of EarthBound on the Virtual Console a journey that spanned the cour
 The demand for EarthBound’s publication on the Virtual Console is as old as the Virtual Console service itself. During E3 2005, <a href="https://www.youtube.com/watch?v=zbvwwlC9BtU">Satoru Iwata teased EarthBound</a> as a downloadable title on the upcoming Wii console, along with Excitebike and Punch-Out. When the Wii was released and the Virtual Console service was made public, however, EarthBound was nowhere to be found within the lists of available software. Despite multiple attempts by the fanbase to make their wishes for a re-release heard to Nintendo, which included <a href="https://starmen.net/ebsiege/">phone calls and written letters to Nintendo headquarters throughout the world</a>, the game remained absent. There was some speculation that certain <a href="http://earthboundcentral.com/2012/07/earthbounds-specific-legal-issues/">copyright issues</a> were holding the game back from being re-released. In any case, EarthBound never received a release in any country during the entirety of the Wii’s lifespan. 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-07 18:40:19 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-08 00:40:19 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4884" title="Japanese Re-Release of MOTHER 2:" author-id="28590" timestamp="2016-12-01 13:41:42 +0600" type="norm" dbname="box43901" last-modified-by="127" %}
+{% include box-open.html box-id="4884" title="Japanese Re-Release of MOTHER 2" author-id="28590" timestamp="2016-12-01 19:41:42 +0000" type="norm" dbname="box43901" last-modified-by="127" %}
 	Shortly before and after the time of the Wii U’s release throughout the world, Shigesato Itoi gradually showed a reawakening interest in MOTHER content through his Internet presence. Iwata brought up during an <a href="http://kotaku.com/5935721/super-marios-boss-doesnt-want-to-overdo-it-with-mr-video-game-and-wont-deceive-you-with-dlc">interview</a> that he had spoken to Itoi about the worldwide interest in the MOTHER series:
 <br /><br />	
 	<b>Iwata:</b> [in English]: "Just yesterday, before I left from Japan, I met with Mr. Itoi, who is the creator of the Earthbound series.” [laughs]<br />
@@ -120,9 +120,9 @@ Shortly before MOTHER 2’s re-release in Japan, Satoru Iwata and Shigesato Itoi
 
 To further promote the game, Shigesato Itoi himself took to MOTHER 2’s official Miiverse and <a href="http://earthboundcentral.com/itoi-miiverse/">posted several messages</a> there over the course of the following weeks, in which he talked about the game, commented about the food he was eating while making posts, and cracked jokes.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-07 23:16:43 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-08 05:16:43 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4885" title="The Overseas Release:" author-id="28590" timestamp="2016-12-01 13:50:02 +0600" type="norm" dbname="box64924" last-modified-by="127" %}
+{% include box-open.html box-id="4885" title="The Overseas Release" author-id="28590" timestamp="2016-12-01 19:50:02 +0000" type="norm" dbname="box64924" last-modified-by="127" %}
 Meanwhile, in the United States and Europe, during the special Virtual Console sales event, a different list of games was provided for thirty cents apiece:
 
 <br /><br />
@@ -198,4 +198,4 @@ The success of EarthBound’s release on Wii U was later succeeded with the anno
 
 	An exciting new way to play EarthBound was revealed for the New 3DS handheld console on March 3rd, 2016, when it was <a href="https://www.youtube.com/watch?v=arl3ACzJCBI&feature=youtu.be&t=18m20s">revealed during a Nintendo Direct</a> that the device’s more powerful processor would allow it to play Super Nintendo titles. EarthBound was made available on the New 3DS eShop shortly after the presentation, making the game available to a new audience of people who did download the Wii U release prior. As this once obscure classic becomes more well-known to a new group of fans, the popularity of EarthBound defies time and continues to rise. Only time will tell what developments may happen for the franchise in the future.
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-07 18:42:03 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-08 00:42:03 +0000" last-modified-by-name="CerealQueen" %}

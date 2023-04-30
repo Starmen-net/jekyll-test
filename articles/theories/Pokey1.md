@@ -2,15 +2,15 @@
 title: Theories - Pokey&#039;s Quest
 categories:
   - articles
-date: 2011-11-30 14:26:34 +0600
+date: 2011-11-30 20:26:34 +0000
 ---
-{% include box-open.html box-id="4136" title="Theories topic for the week of November 23 - 30, 2011:" author-id="1419" timestamp="2011-11-30 14:26:34 +0600" type="norm" dbname="box9201" last-modified-by="127" %}
+{% include box-open.html box-id="4136" title="Theories topic for the week of November 23 - 30, 2011" author-id="1419" timestamp="2011-11-30 20:26:34 +0000" type="norm" dbname="box9201" last-modified-by="127" %}
 <center><img src="http://starmen.net/mother2/images/game/hapokey.png" title="Looking a little blue, there..." /><p/>
 
 At the end of Earthbound/Mother 2, Pokey escaped before Giygas was destroyed. We all know that somehow he ended up on Nowhere Island in Mother 3, but it's never clear exactly WHAT he did in the meantime. That's what I asked you to clear up for us, and the winner is below, followed by the rest!</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 14:30:23 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 20:30:23 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4137" title="Theory of the Week:" author-id="1419" timestamp="2011-11-30 14:31:27 +0600" type="norm" dbname="box60981" last-modified-by="127" %}
+{% include box-open.html box-id="4137" title="Theory of the Week" author-id="1419" timestamp="2011-11-30 20:31:27 +0000" type="norm" dbname="box60981" last-modified-by="127" %}
 Pokey yawned. It had been a long day of enslaving a new dimension and freezing the stupid rebels in carbonite. He rubbed his eyes, thinking about the revolt he had just destroyed, all those screaming people. It’s a shame that they were so easy to put down. Being ruler of everything starts to get a little boring after a while.<p/>
 After that stink head Ness beat him and killed Giygas, Pokey decided to go around the dimensions and rule everything. Pokey smiled and looked out the large window of his new self-appointed castle. It looked like it was time to meet his new subjects. He walked to his balcony and smiled down at the people below. Maybe he could find some entertainment here.<p/>
 “Hello!” he yelled, “I am your new king!”<p/>
@@ -47,9 +47,9 @@ As she died in his arms, Pokey just let the tears flow. Why did she do it!? The 
 As he left the dimension, he vowed never to be so weak again.<p/>
 
 - Tobio
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 14:36:11 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 20:36:11 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4138" title="So much hate... :( :" author-id="1419" timestamp="2011-11-30 14:31:39 +0600" type="norm" dbname="box48509" last-modified-by="127" %}
+{% include box-open.html box-id="4138" title="So much hate... :( " author-id="1419" timestamp="2011-11-30 20:31:39 +0000" type="norm" dbname="box48509" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, what did Pokey/Porky Minch do during the gap of Mother 2-Mother 3?<p/>
 Pokey (a.k.a Porky)Minch, that little (censored due to pure hatred and foul language towards that punk (Again, censored due to certain words and attitudes…so let’s fast forward 2 pages past the first censor…and 8 pages past the original text) of a kid, anyway, back to the original theory) of a human being! But I digress. There is something that never was truly explained for us. Where was he, and what was he doing during the gap of Mother 2 and Mother 3? Well…I got in contact with past families, past spirits (don’t ask…that’s an even longer story), and people both past and present who’ve actually seen the little (Seriously, again with the censor? I must really not like that…monster) around their land, and it’s safe to say, none of their words were good ones.<p/>
 Porky(I’ll use his more insulting name) was seen in Eagleland for a short amount of time after Giygas’s defeat, it seemed that possibly, some of Giygas’s evil was able to embed itself after his fall into the already disturbed mind of the boy. These small evil thoughts, grew into more devilish plans, and he soon realized, that as much as he wished it not true, he needed help, in order to create his vision, recreate the world…as he seems fit.<p/>
@@ -65,15 +65,15 @@ Thankfully…we know the end of his story, no need for that detail.<p/>
 Wow, this was a long one, but that evil monsters story had to be told. So, with another ashened question, now a thriving, black flame, my knowledge has been shared. So, in memory of the ones that were lost in visions, greed, and especially Tessie...this is Pheen-X…saying good-bye for now.<p/>
 
 - Firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 14:38:52 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 20:38:52 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4139" title="Obviously, he should learn to yell 'Pizza Hut!\" when he's sad:" author-id="1419" timestamp="2011-11-30 14:38:57 +0600" type="norm" dbname="box56808" last-modified-by="127" %}
+{% include box-open.html box-id="4139" title="Obviously, he should learn to yell 'Pizza Hut!\" when he's sad" author-id="1419" timestamp="2011-11-30 20:38:57 +0000" type="norm" dbname="box56808" last-modified-by="127" %}
 While Pokey was fleeing in his Devil’s Machine from an increasingly uncontrollable Giygas, he was flung out from the cave of the past and crash landed near his home, since those were the last thoughts that he had had (when telling Ness to call for his mom) before he left. Pokey, somewhat injured, then managed to crawl towards his house only to be looked upon with disgust by his parents, who were concerned that had missed too much school to be of any use and had to be disciplined by order of a grounding. Pokey then decided to create a plan of escape and left a note for Picky to find and relay to Ness (just to be funny). He then climbed down from his bedroom window to find and enter the almost broken Devil’s Machine where, feeling frustrated and sad, yelled “Nowhere” at the computer’s voice when it asked for the desired destination. The machine had guessed that the sarcastic tone was genuine and that the arrival point would be the future Nowhere Islands where, after his landing, his name was mistaken for “Porky” due to him having such little energy left as to not be able to pronounce his own name properly. The inhabitants quickly mistook him for a supreme being and gave their ruler “Porky” a sense of being invincible and all-powerful, with no one to stop him from going too far, yet…
 
 - Amstrauz
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 14:40:16 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 20:40:16 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4140" title="The Traveling Conqueror:" author-id="1419" timestamp="2011-11-30 14:40:19 +0600" type="norm" dbname="box29939" last-modified-by="127" %}
+{% include box-open.html box-id="4140" title="The Traveling Conqueror" author-id="1419" timestamp="2011-11-30 20:40:19 +0000" type="norm" dbname="box29939" last-modified-by="127" %}
 Soon after turning off the Devil’s Machine, Porky teleported back to his house, right inside his and Picky’s room. Picky had an alarmed expression on his face, seeing Porky in this machine. He tossed it to Picky, shouting, “Give that to Ness!” and teleported away.<p/>
 Porky could only teleport for one reason: He had stolen the Phase Distorter. He had used a “shrinking device” to make it small enough to fit in his mecha. He had also stolen lots of other things from Onett and the surrounding areas, to bring back fond memories of his old home, and his old friend, Ness.<p/>
 Porky, then, teleported to the nearest Mach Pizza and gorged himself. After that, he teleported to Six Flags and spent a long afternoon eating hot dogs and squealing like a girl on the rides.
@@ -83,4 +83,4 @@ Pretty soon Porky had two thousand soldiers, all shrunk to miniscule size. He ti
 “Lookie there!” exclaimed Porky. “A tiny little island! Perfect for a siege, if you ask me! <p/>Spankety, spankety, spankety!” Porky thought he could get more soldiers and supplies, but he was LOCKED IN that era. So he just started. After some weeks of work, they were constructing a city, tanks, and other things for their new empire. NOBODY would ever be able to stop him…<p/>
 
 - Ostricho
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 14:41:12 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 20:41:12 +0000" last-modified-by-name="Captain Bozo" %}

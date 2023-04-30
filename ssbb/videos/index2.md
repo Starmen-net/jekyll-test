@@ -2,9 +2,9 @@
 title: SSB:Brawl Videos
 categories:
   - ssbb
-date: 2007-10-27 14:18:05 +0500
+date: 2007-10-27 19:18:05 +0000
 ---
-{% include box-open.html box-id="3314" title="SSB:Brawl Videos:" author-id="137" timestamp="2007-10-27 14:18:05 +0500" type="norm" dbname="box15263" last-modified-by="127" %}
+{% include box-open.html box-id="3314" title="SSB:Brawl Videos" author-id="137" timestamp="2007-10-27 19:18:05 +0000" type="norm" dbname="box15263" last-modified-by="127" %}
 <i>(All offsite links)</i><br /><br />
 
 <table1>
@@ -67,4 +67,4 @@ Finally, a new lengthy trailer! We get to see a lot more gameplay footage, inclu
 </table2>
 
 <table3></table3>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-11-10 13:10:29 +0600" last-modified-by-name="JeffMan" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-11-10 19:10:29 +0000" last-modified-by-name="JeffMan" %}

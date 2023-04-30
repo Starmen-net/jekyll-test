@@ -2,9 +2,9 @@
 title: 'Game Credits: Etsuko Kawano'
 categories:
   - credits
-date: 2008-06-08 23:07:54 +0500
+date: 2008-06-09 04:07:54 +0000
 ---
-{% include box-open.html box-id="3444" title="Etsuko Kawano:" author-id="2262" timestamp="2008-06-08 23:07:54 +0500" type="norm" dbname="box22419" last-modified-by="127" %}
+{% include box-open.html box-id="3444" title="Etsuko Kawano" author-id="2262" timestamp="2008-06-09 04:07:54 +0000" type="norm" dbname="box22419" last-modified-by="127" %}
 <b>Game Credits</b>
 
 <UL>
@@ -16,4 +16,4 @@ Coordinator</LI>
 Japanese Playstation Development</LI>
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 23:13:51 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-09 04:13:51 +0000" last-modified-by-name="KingDarian" %}

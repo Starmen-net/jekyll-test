@@ -2,9 +2,9 @@
 title: 'Game Credits: Tatsuya Hishida'
 categories:
   - credits
-date: 2008-06-07 19:12:34 +0500
+date: 2008-06-08 00:12:34 +0000
 ---
-{% include box-open.html box-id="3424" title="Tatsuya Hishida:" author-id="2262" timestamp="2008-06-07 19:12:34 +0500" type="norm" dbname="box46882" last-modified-by="127" %}
+{% include box-open.html box-id="3424" title="Tatsuya Hishida" author-id="2262" timestamp="2008-06-08 00:12:34 +0000" type="norm" dbname="box46882" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 <LI><b>NES Open Tournament Golf(NES 1991)</b><BR />
@@ -26,4 +26,4 @@ Gameplay Directon</LI>
 <LI><b>Pokémon Colosseum(GCN 2003)</b><BR />
 Progress Management</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-11 10:02:36 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-11 15:02:36 +0000" last-modified-by-name="KingDarian" %}

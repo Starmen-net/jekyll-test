@@ -2,9 +2,9 @@
 title: 'MOTHER 2 Mini Figure Collection 4: Ness, Paula, Lucky, Nice, &amp; Venus'
 categories:
   - merchandise
-date: 2011-02-26 17:53:31 +0600
+date: 2011-02-26 23:53:31 +0000
 ---
-{% include box-open.html box-id="3965" title="MOTHER 2 Mini Figure Collection 4: Ness, Paula, Lucky, Nice, & Venus:" author-id="45" timestamp="2011-02-26 17:53:31 +0600" type="norm" dbname="box37378" last-modified-by="127" %}
+{% include box-open.html box-id="3965" title="MOTHER 2 Mini Figure Collection 4: Ness, Paula, Lucky, Nice, & Venus" author-id="45" timestamp="2011-02-26 23:53:31 +0000" type="norm" dbname="box37378" last-modified-by="127" %}
 <div class="gameinfo">
 	<table>
 		<tr>
@@ -69,4 +69,4 @@ In September of 2010 Banpresto started stocking UFO crane catching games with MO
 <a href="/merchandise/images/m2mfc4_box_side1.jpg" ><img src="/merchandise/images/m2mfc4_box_side1.jpg" title="MOTHER 2 Mini Figure Collection 4: Box (Side 1)" border="1" width="100" height="100" hspace="1" /></a>
 <a href="/merchandise/images/m2mfc4_box_side2.jpg" ><img src="/merchandise/images/m2mfc4_box_side2.jpg" title="MOTHER 2 Mini Figure Collection 4: Box (Side 2)" border="1" width="100" height="100" hspace="1" /></a>
 
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:07:58 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:07:58 +0000" last-modified-by-name="Tomato" %}

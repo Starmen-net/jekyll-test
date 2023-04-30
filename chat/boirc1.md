@@ -2,9 +2,9 @@
 title: Chat - Best of IRC - BoIRC
 categories:
   - chat
-date: 2006-06-30 13:19:04 +0500
+date: 2006-06-30 18:19:04 +0000
 ---
-{% include box-open.html box-id="2437" title="The Best of IRC:" author-id="247" timestamp="2006-06-30 13:19:04 +0500" type="norm" dbname="box31491" last-modified-by="127" %}
+{% include box-open.html box-id="2437" title="The Best of IRC" author-id="247" timestamp="2006-06-30 18:19:04 +0000" type="norm" dbname="box31491" last-modified-by="127" %}
 <p>
 These original Best of IRC logs date between 1999-2001, encompassing the official channel's days in Undernet IRC server as #EarthBound, and then in Austnet as #Starmen.  Prepare to have many a good laugh at the hijinks of yesteryear, that, looking back at, some people (who you might not have ever even <i>heard</i> of!) profiled in would probably consider the most embarrassing moments of their Internet tenure.  These logs have been completely restored to give the feeling that you're actually in IRC, have a good time!
 </p>
@@ -69,9 +69,9 @@ These original Best of IRC logs date between 1999-2001, encompassing the officia
 </tr>
 </table>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-06 13:41:23 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-07-06 18:41:23 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="2439" title="The Best of IRC, Special Editions:" author-id="247" timestamp="2006-06-30 16:17:37 +0500" type="norm" dbname="box51893" last-modified-by="127" %}
+{% include box-open.html box-id="2439" title="The Best of IRC, Special Editions" author-id="247" timestamp="2006-06-30 21:17:37 +0000" type="norm" dbname="box51893" last-modified-by="127" %}
 <p>
 <table border="0">
 <tr>
@@ -92,4 +92,4 @@ These original Best of IRC logs date between 1999-2001, encompassing the officia
 </tr>
 </table>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-06-30 18:55:01 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-06-30 23:55:01 +0000" last-modified-by-name="Mansion Maniac" %}

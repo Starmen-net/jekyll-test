@@ -2,13 +2,13 @@
 title: Funfests
 categories:
   - funfest
-date: 2004-12-04 21:59:33 +0600
+date: 2004-12-05 03:59:33 +0000
 ---
-{% include box-open.html box-id="1664" title="New Box, Edit me :(:" author-id="49" timestamp="2005-10-22 12:43:36 +0500" type="blank" dbname="box25942" last-modified-by="49" %}
+{% include box-open.html box-id="1664" title="New Box, Edit me :(" author-id="49" timestamp="2005-10-22 17:43:36 +0000" type="blank" dbname="box25942" last-modified-by="49" %}
 <center><font size="+3"><a href="/funfest05">Perhaps you were looking for Funfest `05?</a></font></center>
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-10-22 12:44:32 +0500" last-modified-by-name="ROFISH" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-10-22 17:44:32 +0000" last-modified-by-name="ROFISH" %}
 
-{% include box-open.html box-id="85" title="Funfest FAQ:" author-id="49" timestamp="2004-12-04 21:59:33 +0600" type="norm" dbname="box59132" last-modified-by="75" %}
+{% include box-open.html box-id="85" title="Funfest FAQ" author-id="49" timestamp="2004-12-05 03:59:33 +0000" type="norm" dbname="box59132" last-modified-by="75" %}
 <center>
 <img SRC="whatis.gif" WIDTH="330" HEIGHT="40" ALT="What is the Funfest?" />
 </center>
@@ -137,8 +137,8 @@ date: 2004-12-04 21:59:33 +0600
       create the work.  If multiple people created the work, place a note
       about it in the "Description of Files" field.
 <br /><br />
-{% include box-close.html author-name="ROFISH" last-modified-on="2005-10-11 18:36:49 +0500" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="ROFISH" last-modified-on="2005-10-11 23:36:49 +0000" last-modified-by-name="PoeTrader" %}
 
-{% include box-open.html box-id="787" title="Halloween Funfest 03:" author-id="8" timestamp="2005-04-03 00:00:52 +0600" type="db" dbname="box34453" last-modified-by="8" %}
+{% include box-open.html box-id="787" title="Halloween Funfest 03" author-id="8" timestamp="2005-04-03 06:00:52 +0000" type="db" dbname="box34453" last-modified-by="8" %}
 <navigator group="Fanart|Funfest" /><displaytor mode="thumbnail" />
-{% include box-close.html author-name="reidman" last-modified-on="2005-04-03 00:13:07 +0600" last-modified-by-name="reidman" %}
+{% include box-close.html author-name="reidman" last-modified-on="2005-04-03 06:13:07 +0000" last-modified-by-name="reidman" %}

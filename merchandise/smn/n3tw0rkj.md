@@ -2,9 +2,9 @@
 title: N3tw0rk Jerseys
 categories:
   - merchandise
-date: 2005-01-04 00:16:26 +0600
+date: 2005-01-04 06:16:26 +0000
 ---
-{% include box-open.html box-id="392" title="N3tw0rk Jerseys:" author-id="45" timestamp="2005-01-04 00:16:26 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="392" title="N3tw0rk Jerseys" author-id="45" timestamp="2005-01-04 06:16:26 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_n3tw0rkj_title.png" border="0" alt="N3tw0rk Jerseys" />
 	</center>
@@ -28,4 +28,4 @@ date: 2005-01-04 00:16:26 +0600
 	<a href="/merchandise/images/smn_n3tw0rkjr_bdesign.jpg">Back Design (Red)</a> - <a href="/merchandise/images/smn_n3tw0rkjbk_front.jpg">Front (Black)</a> - <a href="/merchandise/images/smn_n3tw0rkjbk_back.jpg">Back (Black)</a> - 
 	<a href="/merchandise/images/smn_n3tw0rkjbk_fdesign.jpg">Front Design (Black)</a> - <a href="/merchandise/images/smn_n3tw0rkjbk_bdesign.jpg">Back Design (Black)</a> - <a href="/merchandise/images/smn_n3tw0rkjb_front.jpg">Front (Blue)</a> - 
 	<a href="/merchandise/images/smn_n3tw0rkjb_back.jpg">Back (Blue)</a> - <a href="/merchandise/images/smn_n3tw0rkjb_fdesign.jpg">Front Design (Blue)</a> - <a href="/merchandise/images/smn_n3tw0rkjb_bdesign.jpg">Back Design (Blue)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 00:16:36 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 06:16:36 +0000" last-modified-by-name="ShadowX" %}

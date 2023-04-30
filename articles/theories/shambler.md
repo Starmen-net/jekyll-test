@@ -2,15 +2,15 @@
 title: Theories - Wooly Shambler
 categories:
   - articles
-date: 2012-02-22 10:41:36 +0600
+date: 2012-02-22 16:41:36 +0000
 ---
-{% include box-open.html box-id="4301" title="Theories topic for the week of February 15 - 22, 2012::" author-id="1419" timestamp="2012-02-22 10:41:36 +0600" type="norm" dbname="box54598" last-modified-by="127" %}
+{% include box-open.html box-id="4301" title="Theories topic for the week of February 15 - 22, 2012:" author-id="1419" timestamp="2012-02-22 16:41:36 +0000" type="norm" dbname="box54598" last-modified-by="127" %}
 <center><img src="http://starmen.net/mother2/images/game/wwshambler.png" title="Less fun than a Wooly Willy" /><p/>
 
 The Wooly Shambler is some creature of alien origin enlisted in Giygas's ranks... but is there more? It's a very strange creature, and the only one to seemingly wear clothes, for that matter. I asked you to tell me what it was, and you responded below.</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 10:44:42 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 16:44:42 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4302" title="Theory of the Week:" author-id="1419" timestamp="2012-02-22 10:44:47 +0600" type="norm" dbname="box30402" last-modified-by="127" %}
+{% include box-open.html box-id="4302" title="Theory of the Week" author-id="1419" timestamp="2012-02-22 16:44:47 +0000" type="norm" dbname="box30402" last-modified-by="127" %}
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This week's question, what's the Wooly Shambler? What's it's make-up, and does it have a specific origion? Plus, what's with his name to begin with, being all "Wooly", and what is a shambler anyway?<p/>
 To start off the whole discovery, I had to travel to a distant, snow filled land that had that slight feel (and smell) of electricity, Winters! Besides the long searching within the white snow, and the ocassional chasing of the rams...me being the chased...I soon came across a felled...thing...which turned out to be a downed Wooly Shambler.<p/>
 It was tempting to just kick it until it turned back on...either that or poke it with a stick, but I decided to do some investigating on it. I stood it upright, and the blanket it covered itself with fell off, revealing a square bodied robot below. I should've clued into that when I noticed the usually green eyes on top were actually now black. When I wiped some of the snow off of the torso of the robot, I saw a few letters. S.H.A.M.B.L.E.R.<p/>
@@ -42,9 +42,9 @@ My curiosity was really high after seeing that, and I was desperate to figure ou
 And thus another question is left to burn in a ice melting flame. So this is Pheen-X (And Amp) saying, things can tend to be shocking.<p/>
 
 - firej7
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 10:46:01 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 16:46:01 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4303" title="Silly boy... It's Shamblers all the way down!:" author-id="1419" timestamp="2012-02-22 10:46:16 +0600" type="norm" dbname="box32850" last-modified-by="127" %}
+{% include box-open.html box-id="4303" title="Silly boy... It's Shamblers all the way down!" author-id="1419" timestamp="2012-02-22 16:46:16 +0000" type="norm" dbname="box32850" last-modified-by="127" %}
 Wooly Shamblers: mythical, peaceful, and misunderstood.<p/>
 We know Wooly means it's covered with wool, but what is a shambler?<p/>
 Wait, Shambler is underlined in red in Microsoft Word? That can't be true...*checks dictionary.com* nope, not in the dictionary...<p/>
@@ -70,16 +70,16 @@ The truth is, Wooly Shamblers have terrible eyesight. In an attempt to get it co
 Rather than firing a beam into the Shambler's eye in order to correct their vision, they were given "Laser Eye Surgery..." this explains why their beams narrowly miss the target so often: their eyesight was never corrected! This is also why they attack humans. The normally peaceful creatures can't see what draws near to them. In panic, they fire off their laser eyes in an effort to protect the Shamblers under the wool.<p/>
 
 - BB Gang Zombie
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 10:48:01 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 16:48:01 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4304" title="Starman Junior Junior:" author-id="1419" timestamp="2012-02-22 10:48:19 +0600" type="norm" dbname="box13672" last-modified-by="127" %}
+{% include box-open.html box-id="4304" title="Starman Junior Junior" author-id="1419" timestamp="2012-02-22 16:48:19 +0000" type="norm" dbname="box13672" last-modified-by="127" %}
 The Wooly Shamblers are prototypes of Starman Juniors. They are slightly smaller than regular Starmen, they have the same type of arms as Starmen, and under the wool you can see two feet that look a lot like that of a Starman’s. And I know those parts are not part of the wool because those parts in the sprite do not have a wool-like texture. And plus, look at how it’s head is shaped. Looks like a Starmen head doesn’t it? So I think they are prototypes of Starmen Junior that went haywire, which would explain why it has a diffrent style of “eyes” than Starmen, as they’re probably part of the plans for the original model. As for why it’s covered in wool,they mercilessly slaughtered all of the Gruff Goats and used their wool for protection, explaining why the Gruff Goats are no longer in Winters.<p/>
 
 - ClassicGamingGuy
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 10:48:43 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 16:48:43 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4305" title="Simple enough:" author-id="1419" timestamp="2012-02-22 10:50:24 +0600" type="norm" dbname="box41835" last-modified-by="127" %}
+{% include box-open.html box-id="4305" title="Simple enough" author-id="1419" timestamp="2012-02-22 16:50:24 +0000" type="norm" dbname="box41835" last-modified-by="127" %}
 I think they are the Starmen that go into more extreme temperature. Wool keeps you warm, right? They might feel cold like everything else, too.<p/>
 
 - PSI Starstorm OMEGA
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 10:50:42 +0600" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 16:50:42 +0000" last-modified-by-name="Captain Bozo" %}

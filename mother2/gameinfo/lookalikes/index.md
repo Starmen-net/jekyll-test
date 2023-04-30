@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Lookalikes
 categories:
   - mother2
-date: 2007-06-19 02:17:20 +0500
+date: 2007-06-19 07:17:20 +0000
 ---
-{% include box-open.html box-id="3043" title="Temporary Box:" author-id="288" timestamp="2007-06-19 02:17:20 +0500" type="norm" dbname="box42526" last-modified-by="127" %}
+{% include box-open.html box-id="3043" title="Temporary Box" author-id="288" timestamp="2007-06-19 07:17:20 +0000" type="norm" dbname="box42526" last-modified-by="127" %}
 <div class="lookalike">
 	<dl>
 		<dt>Prince Poo</dt>
@@ -35,4 +35,4 @@ date: 2007-06-19 02:17:20 +0500
 	</p>
 </div>
 
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-19 02:17:30 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-19 07:17:30 +0000" last-modified-by-name="Tomato" %}

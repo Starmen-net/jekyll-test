@@ -2,9 +2,9 @@
 title: SSB:B Artwork
 categories:
   - ssbb
-date: 2007-05-20 12:43:25 +0500
+date: 2007-05-20 17:43:25 +0000
 ---
-{% include box-open.html box-id="2893" title="Character Art:" author-id="137" timestamp="2007-05-20 12:43:25 +0500" type="norm" dbname="box15130" last-modified-by="127" %}
+{% include box-open.html box-id="2893" title="Character Art" author-id="137" timestamp="2007-05-20 17:43:25 +0000" type="norm" dbname="box15130" last-modified-by="127" %}
 <center><a href="http://starmen.net/ssbb/artwork/solo_mario_01.jpg"><img src="http://starmen.net/ssbb/artwork/previews/preview_solo_mario_01.jpg" border="0" /></a>
 <a href="http://starmen.net/ssbb/artwork/solo_link_01.jpg"><img src="http://starmen.net/ssbb/artwork/previews/preview_solo_link_01.jpg" border="0" /></a>
 <a href="http://starmen.net/ssbb/artwork/solo_samus_01.jpg"><img src="http://starmen.net/ssbb/artwork/previews/preview_solo_samus_01.jpg" border="0" /></a>
@@ -20,4 +20,4 @@ date: 2007-05-20 12:43:25 +0500
 
 
 </center>
-{% include box-close.html author-name="Jonk" last-modified-on="2007-05-20 20:43:53 +0500" last-modified-by-name="Jonk" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2007-05-21 01:43:53 +0000" last-modified-by-name="Jonk" %}

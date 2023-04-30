@@ -2,9 +2,9 @@
 title: Cheesestrings Ness Card
 categories:
   - merchandise
-date: 2005-01-03 21:21:11 +0600
+date: 2005-01-04 03:21:11 +0000
 ---
-{% include box-open.html box-id="345" title="Cheesestrings Ness Card:" author-id="45" timestamp="2005-01-03 21:21:11 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="345" title="Cheesestrings Ness Card" author-id="45" timestamp="2005-01-04 03:21:11 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/cs_title.jpg" border="0" alt="Cheesestrings Ness Card" />
 	</center>
@@ -26,4 +26,4 @@ date: 2005-01-03 21:21:11 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/cheesestrings.jpg">Card</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 21:21:38 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 03:21:38 +0000" last-modified-by-name="ShadowX" %}

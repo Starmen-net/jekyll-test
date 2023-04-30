@@ -2,9 +2,9 @@
 title: Factoids &amp; Trivia
 categories:
   - mother3
-date: 2016-12-31 01:23:41 +0600
+date: 2016-12-31 07:23:41 +0000
 ---
-{% include box-open.html box-id="4924" title="General:" author-id="28590" timestamp="2016-12-31 01:23:41 +0600" type="norm" dbname="box64998" last-modified-by="127" %}
+{% include box-open.html box-id="4924" title="General" author-id="28590" timestamp="2016-12-31 07:23:41 +0000" type="norm" dbname="box64998" last-modified-by="127" %}
 <img src="Boss Dialogue.png" /> <font size="3"> &nbsp; <b>Boss Dialogue</b></font>
 
 <br /><br />
@@ -165,9 +165,9 @@ Present boxes in MOTHER 3 will sometimes turn into status ailment icons. This se
 
 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 10:37:50 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 16:37:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4925" title="Story:" author-id="28590" timestamp="2016-12-31 01:54:24 +0600" type="norm" dbname="box17860" last-modified-by="127" %}
+{% include box-open.html box-id="4925" title="Story" author-id="28590" timestamp="2016-12-31 07:54:24 +0000" type="norm" dbname="box17860" last-modified-by="127" %}
 <img src="Prologue.png" /> <font size="3"> &nbsp; <b>Prologue</b></font>
 
 <br /><br />
@@ -641,9 +641,9 @@ Present boxes in MOTHER 3 will sometimes turn into status ailment icons. This se
  - Exclusively in the fan translated version, at the “END…?” scene, depending on how much of the Battle Memory has been filled in, the Save Frog will reveal (if all enemies have been logged) the secret Memo menu that the Fan Translation restored or (if all front and back sprites have been logged) the method to activate Hard Mode.
 
 </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-22 19:58:47 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-06-23 00:58:47 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="4926" title="Walk-Through-Walls:" author-id="28590" timestamp="2016-12-31 10:32:57 +0600" type="norm" dbname="box27485" last-modified-by="127" %}
+{% include box-open.html box-id="4926" title="Walk-Through-Walls" author-id="28590" timestamp="2016-12-31 16:32:57 +0000" type="norm" dbname="box27485" last-modified-by="127" %}
 <img src="Walk-Through-Walls.png" /> <font size="3"> &nbsp; <b>Walk-Through-Walls</b></font>
 
 <br /><br />
@@ -682,4 +682,4 @@ There are several things that can only be observed through the walk-through-wall
  - A policeman at the top-left corner of the northernmost New Pork City map will speak of Porky referring to Lucas’s party dear and captivating guests. The policeman will, however, express the opinion that they do not seem special to him.
 
 </p>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 10:42:26 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2016-12-31 16:42:26 +0000" last-modified-by-name="CerealQueen" %}

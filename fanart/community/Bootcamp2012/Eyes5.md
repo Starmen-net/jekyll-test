@@ -2,9 +2,9 @@
 title: Plushies with Eyes5
 categories:
   - fanart
-date: 2012-08-26 14:11:34 +0500
+date: 2012-08-26 19:11:34 +0000
 ---
-{% include box-open.html box-id="4498" title="Plushie lesson:" author-id="6132" timestamp="2012-08-26 14:11:34 +0500" type="norm" dbname="box25056" last-modified-by="127" %}
+{% include box-open.html box-id="4498" title="Plushie lesson" author-id="6132" timestamp="2012-08-26 19:11:34 +0000" type="norm" dbname="box25056" last-modified-by="127" %}
 Eyes5 has been sewing plushies for many a year, providing inspiration and tutorials for the aspiring plushie-maker and selling custom-made plushies to the masses. And now she's back with a tutorial of Mother 3's Negative Man! This video tutorial was made not only for the sole purpose of making Negative Man, but it is also a valuable source of techniques you can apply to the creation of any plushie. We hope that you learn a lot by watching her tutorial!
 <br /><br />
 More tutorials and sewing resources can be found on <a href="http://www.metroidhat.com/mother/tutorials.html">Eyes5's Website.</a>
@@ -38,9 +38,9 @@ Materials:<br /><br />
 <a href="http://www.youtube.com/embed/mz4n1nUp-LE">Video Part 4</a></center>
 
 
-{% include box-close.html author-name="Eyes5" last-modified-on="2012-08-28 17:52:42 +0500" last-modified-by-name="Eyes5" %}
+{% include box-close.html author-name="Eyes5" last-modified-on="2012-08-28 22:52:42 +0000" last-modified-by-name="Eyes5" %}
 
-{% include box-open.html box-id="4499" title="Submissions:" author-id="6132" timestamp="2012-08-26 14:11:52 +0500" type="norm" dbname="box4190" last-modified-by="127" %}
+{% include box-open.html box-id="4499" title="Submissions" author-id="6132" timestamp="2012-08-26 19:11:52 +0000" type="norm" dbname="box4190" last-modified-by="127" %}
 Tallasisco: <br />
 
 <img src="http://starmen.net/fanart/community/Bootcamp2012/Tallasisco_2.JPG"  width="600"/> <br /><br />
@@ -77,4 +77,4 @@ http://starmen.net/fanart/community/Bootcamp2012/Sweets_2.1.jpg"  width=""/> <br
 http://starmen.net/fanart/community/Bootcamp2012/Sweets_2.2.jpg"  width=""/> <br /><br />
 
 
-{% include box-close.html author-name="Eyes5" last-modified-on="2012-09-04 13:55:27 +0500" last-modified-by-name="Eyes5" %}
+{% include box-close.html author-name="Eyes5" last-modified-on="2012-09-04 18:55:27 +0000" last-modified-by-name="Eyes5" %}

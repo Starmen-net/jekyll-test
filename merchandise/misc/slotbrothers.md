@@ -2,9 +2,9 @@
 title: Slot Brothers - Cards &amp; Dice Game
 categories:
   - merchandise
-date: 2005-04-03 22:10:24 +0500
+date: 2005-04-04 03:10:24 +0000
 ---
-{% include box-open.html box-id="890" title="Slot Brothers - Cards & Dice Game:" author-id="45" timestamp="2005-04-03 22:10:24 +0500" type="norm" dbname="box24988" last-modified-by="45" %}
+{% include box-open.html box-id="890" title="Slot Brothers - Cards & Dice Game" author-id="45" timestamp="2005-04-04 03:10:24 +0000" type="norm" dbname="box24988" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/slotbrothers_title.jpg" border="0" alt="Slot Brothers - Cards & Dice Game" />
 	</center>
@@ -30,4 +30,4 @@ date: 2005-04-03 22:10:24 +0500
 	<br />
 	<a href="/merchandise/images/slotbrothers_front.jpg">Front</a> - <a href="/merchandise/images/slotbrothers_back.jpg">Back</a> - <a href="/merchandise/images/slotbrothers_cardsdice.jpg">Cards & Dice</a> - 
 	<a href="/merchandise/images/slotbrothers_set.jpg">Set</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-04-03 22:10:43 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-04-04 03:10:43 +0000" last-modified-by-name="ShadowX" %}

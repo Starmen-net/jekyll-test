@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - ssb4
-date: 2023-01-10 16:27:41 +0600
+date: 2023-01-10 22:27:41 +0000
 ---
-{% include box-open.html box-id="5552" title="Welcome! Fancy finding you here!:" author-id="28590" timestamp="2023-01-10 16:27:41 +0600" type="norm" dbname="box4811" last-modified-by="127" %}
+{% include box-open.html box-id="5552" title="Welcome! Fancy finding you here!" author-id="28590" timestamp="2023-01-10 22:27:41 +0000" type="norm" dbname="box4811" last-modified-by="127" %}
 <center><img src="IMG_7181.JPG" width="300"  /></center>
 
 <br /><br />
@@ -25,4 +25,4 @@ The next and last part of this game is located in the Newsroom Board. Locate the
 
 
 (The picture this time is a giant pancake I made in a rice cooker way back when. Isn't that nuts!? Look how big it is! It tastes just like cake! You should definitely try it some time!)
-{% include box-close.html author-name="CerealQueen" last-modified-on="2023-01-11 14:32:41 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2023-01-11 20:32:41 +0000" last-modified-by-name="CerealQueen" %}

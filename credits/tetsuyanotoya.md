@@ -2,9 +2,9 @@
 title: 'Game Credits: Tetsuya Notoya'
 categories:
   - credits
-date: 2005-05-03 01:21:35 +0500
+date: 2005-05-03 06:21:35 +0000
 ---
-{% include box-open.html box-id="978" title="Tetsuya Notoya:" author-id="2262" timestamp="2005-05-03 01:21:35 +0500" type="norm" dbname="box48164" last-modified-by="127" %}
+{% include box-open.html box-id="978" title="Tetsuya Notoya" author-id="2262" timestamp="2005-05-03 06:21:35 +0000" type="norm" dbname="box48164" last-modified-by="127" %}
 <img src="tetsuyanotoya.JPG" align="right" />
 <b>Game Credits</b>
 <UL>
@@ -25,4 +25,4 @@ Illustrator</LI>
 <LI><b>Super Smash Bros. Melee(GCN 2001)</b><BR />
 Special Thanks</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 19:23:36 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-08 00:23:36 +0000" last-modified-by-name="KingDarian" %}

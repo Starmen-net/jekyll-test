@@ -2,9 +2,9 @@
 title: Jonk Calendar 2006
 categories:
   - merchandise
-date: 2007-01-06 02:54:13 +0600
+date: 2007-01-06 08:54:13 +0000
 ---
-{% include box-open.html box-id="2779" title="Jonk Calendar 2006:" author-id="45" timestamp="2007-01-06 02:54:13 +0600" type="norm" dbname="box53867" last-modified-by="45" %}
+{% include box-open.html box-id="2779" title="Jonk Calendar 2006" author-id="45" timestamp="2007-01-06 08:54:13 +0000" type="norm" dbname="box53867" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/jonkcal06_title.png" width="350" height="270" border="0" alt="Jonk Calendar 2006" />
 	</center>
@@ -49,4 +49,4 @@ date: 2007-01-06 02:54:13 +0600
 	<a href="/merchandise/images/jonkcal06_november.jpg"><img src="/merchandise/images/jonkcal06_11.jpg" border="0" alt="November by Jonk" /></a>
 	<a href="/merchandise/images/jonkcal06_december.jpg"><img src="/merchandise/images/jonkcal06_12.jpg" border="0" alt="December by Jonk" /></a>
 	</center>
-{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-06 03:32:35 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2007-01-06 09:32:35 +0000" last-modified-by-name="ShadowX" %}

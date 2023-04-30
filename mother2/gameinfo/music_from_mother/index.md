@@ -2,9 +2,9 @@
 title: Music from Mother
 categories:
   - mother2
-date: 2017-02-03 17:28:00 +0600
+date: 2017-02-03 23:28:00 +0000
 ---
-{% include box-open.html box-id="4991" title="Remixes and Similarities: :" author-id="28590" timestamp="2017-02-03 17:28:00 +0600" type="norm" dbname="box18554" last-modified-by="127" %}
+{% include box-open.html box-id="4991" title="Remixes and Similarities: " author-id="28590" timestamp="2017-02-03 23:28:00 +0000" type="norm" dbname="box18554" last-modified-by="127" %}
 <ul class="pics">
 	<li>
 EarthBound/MOTHER 2: Choose a File<br />
@@ -345,4 +345,4 @@ EarthBound Beginnings/MOTHER: Eight Melodies
 		<ufo src="http://starmen.net/mother1/music/36%20-%20MOTHER%20-%20Eight%20Melodies.mp3" />
 	</li>
 </ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-13 19:41:17 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-01-14 01:41:17 +0000" last-modified-by-name="CerealQueen" %}

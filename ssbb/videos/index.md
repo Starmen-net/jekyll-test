@@ -2,9 +2,9 @@
 title: I AM A NEW PAGE
 categories:
   - ssbb
-date: 2018-04-24 00:20:14 +0500
+date: 2018-04-24 05:20:14 +0000
 ---
-{% include box-open.html box-id="5204" title="Videos:" author-id="28590" timestamp="2018-04-24 00:20:14 +0500" type="norm" dbname="box58084" last-modified-by="127" %}
+{% include box-open.html box-id="5204" title="Videos" author-id="28590" timestamp="2018-04-24 05:20:14 +0000" type="norm" dbname="box58084" last-modified-by="127" %}
 <ul class="pics">
 <li>
 <a class="picleft" ><youtube vid="PbetJKOQB7k" width="350" height="250"/></a>
@@ -35,4 +35,4 @@ Nintendo conference (Wednesday, October 10th, 2007)</h3><br />
 <div class="hr"><hr /></div>
 </li>
 </ul>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-05-08 14:07:40 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-05-08 19:07:40 +0000" last-modified-by-name="CerealQueen" %}

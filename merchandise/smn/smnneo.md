@@ -2,9 +2,9 @@
 title: SMN NEO LOGO
 categories:
   - merchandise
-date: 2005-01-03 23:15:08 +0600
+date: 2005-01-04 05:15:08 +0000
 ---
-{% include box-open.html box-id="369" title="SMN NEO LOGO:" author-id="45" timestamp="2005-01-03 23:15:08 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="369" title="SMN NEO LOGO" author-id="45" timestamp="2005-01-04 05:15:08 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_neologo_title.png" border="0" alt="SMN NEO LOGO" />
 	</center>
@@ -25,4 +25,4 @@ date: 2005-01-03 23:15:08 +0600
 	<b>Images:</b>
 	<br />
 	<a href="/merchandise/images/smn_neologo_sticker.jpg">Sticker</a> - <a href="/merchandise/images/smn_neologo_design.jpg">Design</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:15:18 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:15:18 +0000" last-modified-by-name="ShadowX" %}

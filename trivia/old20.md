@@ -2,9 +2,9 @@
 title: EarthBound Trivia - Archive 20
 categories:
   - trivia
-date: 2006-06-05 00:24:28 +0500
+date: 2006-06-05 05:24:28 +0000
 ---
-{% include box-open.html box-id="2376" title="Week 207 - Bugs:" author-id="9" timestamp="2006-06-05 00:24:28 +0500" type="norm" dbname="box6058" last-modified-by="9" %}
+{% include box-open.html box-id="2376" title="Week 207 - Bugs" author-id="9" timestamp="2006-06-05 05:24:28 +0000" type="norm" dbname="box6058" last-modified-by="9" %}
 <p>This was Theme Week Bugs.</p>
 
 <p>	<b>What two kinds of insect are associated with Buzz Buzz over the course of the game, in dialogue or otherwise?</b>  Bees and bung deetles.  Uh, dung beetles.<br />
@@ -14,9 +14,9 @@ date: 2006-06-05 00:24:28 +0500
 	<b>What rare, 1/128 item affects only insect enemies?</b>  XTerminator Spray.</p>
 
 <p>This week, we saw 100% correct answers given by Artemis251, Asanyne, Banana, Black Mage of Pain, bluegoo26, bowser, bstring, Captain JonJovi, Culix, Foppy King, Gauntlet, Giegue, GreenCat, JaydeWizard, Jeff of Dalaam, Jeff's Radio, Kahran042, LeChimp, Libra, LordBob Bree, Master JSP, Meridith_Richtore, nekoaitsu, Nearsighted Orange, Ninten1, Pharon, Ravenshaw, Revival of Buzz Buzz, Salookanana, SimonBob, Skeletor, SkyeChan, SneakyLlama, STAREYe, Strawberry Tofu, SuperStarman Deluxe, Tails98, Treasure, Vi, WhoopA, and Zasheir.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-05 00:25:23 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-05 05:25:23 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2389" title="Weekset 208 - Extreme:" author-id="9" timestamp="2006-06-12 00:48:58 +0500" type="norm" dbname="box34777" last-modified-by="9" %}
+{% include box-open.html box-id="2389" title="Weekset 208 - Extreme" author-id="9" timestamp="2006-06-12 05:48:58 +0000" type="norm" dbname="box34777" last-modified-by="9" %}
 <p>This was Theme Week Extreme.</p>
 
 <p>	<b>In general, which of the four main characters will have the most PP if they all reach level 99 while robots?  (Assume that IQ capsules and IQ raises by the Rock candy trick have not disproportionately benefited a character.)</b>  This would be Ness, as he goes from 5 PP/IQ to 15 PP/IQ at the end of Magicant.  (Which means that unless Paula or Poo's IQs more than treble his IQ by the time they reach level 99, he has more than they do.)<br />
@@ -26,9 +26,9 @@ date: 2006-06-05 00:24:28 +0500
 	<b>On the other hand, which item repairable by Jeff can <i>deal damage</i> to the greatest number of enemies?  (Note: 4 and 5 have different answers; the italicised portions are big hints.)</b>  The Broken bazooka, which is mended to the Heavy bazooka.  It operates like an infinite Super bomb, damaging not only the target enemy, but some of the enemies on the same row.  (The rest of Jeff's repairable items either don't affect enemies, like the Defense shower; affect enemies but don't deal damage, like the Slime generator and Shield killer; or are equippable weapons that damage a single enemy, like all the Beams he repairs.</p>
 
 <p>Congratulate: Ambi, Archon Divinus, Artemis251, Asanyne, Black Mage of Pain, bowser, bstring, David Shelton, DDR Paladin, dubs, EB Master, Foppy King, Giegue, gigadragoon89, Greenflannel, Highwayman Johnny, InLikeFlint, JeffMan, Jeff's Radio, jmike, leth, Libra, Master JSP, nb2k, Nearsighted Orange, Pedro, Plarplethingie, Psychic Kid, Radiation, Ravenshaw, Salookanana, Scott Dumblauskas, shamansanchez, SimonBob, SkyCroc, Starman Omega, steveman0, Tails98, Wyborn, Zach.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-12 00:50:02 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-12 05:50:02 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2402" title="Weekset 209 - <i>Jeopardy!</i>:" author-id="9" timestamp="2006-06-19 00:30:58 +0500" type="norm" dbname="box55875" last-modified-by="9" %}
+{% include box-open.html box-id="2402" title="Weekset 209 - <i>Jeopardy!</i>" author-id="9" timestamp="2006-06-19 05:30:58 +0000" type="norm" dbname="box55875" last-modified-by="9" %}
 <p>This was the very experimental <i>Jeopardy!</i> week.</p>
 
 <p>	<b>Crossword Clues "G": The first name of a prominent Foursidian (10).  (You must have the <i>exact</i> spelling.  The answer begins with G.)</b>  What is Geldegarde?  (I didn't accept "Geldegarde Monotoli", as that is not his first name.)<br />
@@ -40,9 +40,9 @@ date: 2006-06-05 00:24:28 +0500
 <p><span align="center">Final Jeopardy</span><br />
 <b>Gigantic Lists of Names: These people won the Jeopardy! theme week.</b><br />
 Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashed, Fourside Resident, Gauntlet, Goggles, GreenCat, Kahran042, kidbond, K Rob, LeChimp, leth, LordBobBree, Moochie, Sarahsuke, SuperStarmanDeluxe, Waitohooru, WhoopA, and WolFox?</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-19 00:36:51 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-19 05:36:51 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2423" title="Weekset 210: Feminine Wiles:" author-id="9" timestamp="2006-06-26 00:36:17 +0500" type="norm" dbname="box1718" last-modified-by="9" %}
+{% include box-open.html box-id="2423" title="Weekset 210: Feminine Wiles" author-id="9" timestamp="2006-06-26 05:36:17 +0000" type="norm" dbname="box1718" last-modified-by="9" %}
 <p>The theme this week was Feminine Wiles.</p>
 
 <p>	<b>What three attack PSI (that is, PSI that deal HP damage) have appeared in all three Mother games?  (Hint: keep this week's theme in mind and it'll come to you easily.)</b>  Fire, Freeze and Thunder.  (Come on, the theme was female-centric, which should've hinted heavily that Paula used those PSI.)<br />
@@ -52,9 +52,9 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>Mothers aside, who are the first two female characters it's <i>necessary</i> to speak with in order to progress through the game?</b>  Paula and the Runaway Five fan in the songroom at the Chaos Theatre.  Alternately, I accepted the ticket lady there - technically, all you do with her is present your Backstage Pass, but some people might construe that as speaking with her.</p>
 
 <p>Predominantly if not entirely male, these people got in touch with their feminine sides: brocoli, Cannotthink, Cyan683, Gennenalyse Rueben, JeffMan, leth, Master JSP, Ninten1, Podo, Salookanana, WhoopA.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-26 01:00:39 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-06-26 06:00:39 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2443" title="Weekset 211: Luck:" author-id="9" timestamp="2006-07-02 23:15:27 +0500" type="norm" dbname="box14035" last-modified-by="9" %}
+{% include box-open.html box-id="2443" title="Weekset 211: Luck" author-id="9" timestamp="2006-07-03 04:15:27 +0000" type="norm" dbname="box14035" last-modified-by="9" %}
 <p>Theme Week Luck.  Were you willing to bet your life?</p>
 
 <p>	<b>Despite the lore associated with its real-world form, what item equipped on the body does not affect Luck at all?</b>  The item I had in mind was the Rabbit's foot.  I also accepted the various Charms; as the Lucky coin is equipped as "Other", I didn't count it.<br />
@@ -64,9 +64,9 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>What two single-use, edible items (in both cases notwithstanding the use of the ...condiment trick) have multiple effects, meaning whatever effect they have is dependent on luck?</b>  The Rock candy (increases a random stat by 1) and the Lucky sandwich.  Also, the Secret herb, if used on an unconscious character (it may not work).</p>
 
 <p>The luckiest people were Adrian Cornwall, Archon Divinus, brocoli, chuggaaconroy, CodPor, Cyan683, darklink570, Dr. Baconman, Gennenanlyse Rueben, Goggles, Kahran042, kidbond, kota12, leth, The Losar, MasterJSP, Radiation, SimonBob, Tails98, Tobias26, TonySaturn, WhoopA and Zach.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-02 23:19:12 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-03 04:19:12 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2454" title="Weekset 212 - <i>Double Jeopardy!</i>:" author-id="9" timestamp="2006-07-10 01:18:12 +0500" type="norm" dbname="box63463" last-modified-by="9" %}
+{% include box-open.html box-id="2454" title="Weekset 212 - <i>Double Jeopardy!</i>" author-id="9" timestamp="2006-07-10 06:18:12 +0000" type="norm" dbname="box63463" last-modified-by="9" %}
 <p>Jeopardy! Theme Week #2.</p>
 
 <p>	<b>Before and After (e.g. Your Sanctuary guardian pretending to be a minor enemy in his dungeon: 'Mondo Mole Playing Rough'): This PSI/PK attack causes a Your Sanctuary to erupt from the caster's fingers.</b> What is PSI Fire Spring?<br />
@@ -76,9 +76,9 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>Common Bonds: Starman, Yes Man, and perhaps an unseen Mook.</b>  What are (or might be) Juniors?  (Starman Junior, Yes Man Junior, and although we never see it, a Mook Junior, since there is a Mook Senior.)</p>
 
 <p>Archon Divinus, TheBlueAvenger, Bluegoo 26, Daniel, Gauntlet, GreenCat, Kahran042, Kelli, leth, Libra, Moochie, Tails98, toader, Tonto Goldstein, WhoopA returned to defend their titles next week.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-10 01:19:53 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-10 06:19:53 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2476" title="Weekset 213 - Shrubberies:" author-id="9" timestamp="2006-07-17 01:31:33 +0500" type="norm" dbname="box64065" last-modified-by="127" %}
+{% include box-open.html box-id="2476" title="Weekset 213 - Shrubberies" author-id="9" timestamp="2006-07-17 06:31:33 +0000" type="norm" dbname="box64065" last-modified-by="127" %}
 <p>This was Theme Week Shrubberies.</p>
 
 <p>	<b>What two buildings must you enter in order to acquire an item that will recover one character's PP by trading for that item?</b>  First the Threed Hospital, to get the Insignificant item, then the Twoson Hospital, to trade that item for the Magic truffle.<br />
@@ -88,9 +88,9 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>What are two of the three items you can receive from the Deep Darkness Tenda Chief <i>after</i> having brought him the Shyness book?</b>  Tendakraut, Bag of Dragonite, the Shyness book.</p>
 
 <p>BlackMageofPain, Bluegoo26, bstring, Culix, David Shelton, Dr. Ancookie, Dr. Baconman, EB Master, Gauntlet, Goggles, Incoherent_Moron, JeffMan, Kahran042, Kelli, kota12, leth, Lord Bob Bree, The Losar, Mad William Vane, Nearsighted Orange, Pharon, PK Boo, Ravenshaw, shivndragon, SimonBob, Tails98 and WhoopA all won this time around.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-08-08 23:37:54 +0500" last-modified-by-name="sarsie" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-08-09 04:37:54 +0000" last-modified-by-name="sarsie" %}
 
-{% include box-open.html box-id="2492" title="Weekset 214: Pokey:" author-id="9" timestamp="2006-07-24 01:27:34 +0500" type="norm" dbname="box22946" last-modified-by="9" %}
+{% include box-open.html box-id="2492" title="Weekset 214: Pokey" author-id="9" timestamp="2006-07-24 06:27:34 +0000" type="norm" dbname="box22946" last-modified-by="9" %}
 <p>This was Theme Week Pokey.  Or Porky for the Mother 2 purists among us.</p>
 
 <p>	<b>What are the two locations in the game that are themselves <i>listed as Teleport locations</i> (i.e., not that one cave in the Lost Underworld from which you travel to the past) where Pokey left something that you can see outside dialogue that indicates he was there (even though he's not there when you're in those locations)?</b>  He left Monotoli's wrecked helicopter in Deep Darkness, and ... um, his droppings in Scaraba.<br />
@@ -100,9 +100,9 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>What epithet is used for Pokey during the coffee/tea scenes?</b>  Worst person in the neighbourhood.</p>
 
 <p>Dr. Baconman, bluegoo26, chuggaaconroy, CodPor, Culix, Elnendil, Fred, JeffMan, MasterJSP, SutterCane, Tails98, WhoopA, and zztman won this week.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-24 01:28:36 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-24 06:28:36 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2493" title="Weekset 215: Cuprum:" author-id="9" timestamp="2006-07-24 01:27:34 +0500" type="norm" dbname="box54803" last-modified-by="9" %}
+{% include box-open.html box-id="2493" title="Weekset 215: Cuprum" author-id="9" timestamp="2006-07-24 06:27:34 +0000" type="norm" dbname="box54803" last-modified-by="9" %}
 <p>This was a theme week for the boys in blue.</p>
 
 <p>	<b>Why does Captain Strong feel he has to resort to using his Super Ultra Mambo Tango Foxtrot martial arts when he fights you?</b>  He feels he'd lose in a fair fight.<br />
@@ -112,9 +112,9 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>What two enemies are most commonly found joining in with police-type enemies in battle?</b>  Runaway Dogs and Tough Guys.</p>
 
 <p>Dr. Baconman, bluegoo26, CodPor, Culix, Goggles, JeffMan, Matt, SilverStreak and Tails98 won this time around.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-31 01:36:26 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-07-31 06:36:26 +0000" last-modified-by-name="Anthadd" %}
 
-{% include box-open.html box-id="2532" title="Weekset 216 - Stat!:" author-id="9" timestamp="2006-08-07 01:51:45 +0500" type="norm" dbname="box59494" last-modified-by="9" %}
+{% include box-open.html box-id="2532" title="Weekset 216 - Stat!" author-id="9" timestamp="2006-08-07 06:51:45 +0000" type="norm" dbname="box59494" last-modified-by="9" %}
 <p>A theme week on the Franklin badge.  Are you <s>shocked</s> surprised?</p>
 
 <p>	<b>Against which two Your Sanctuary guardians might the Franklin badge actually be useful?</b>  Thunder and Storm and Electro Specter are the two guardians in question.<br />
@@ -124,4 +124,4 @@ Who are BlackMageOfPain, TheBlueAvenger, bluegoo26, bstring, DJ Gear, ebunleashe
 	<b>If you speak with Carpainter before obtaining the Franklin badge, which Happy Happy Village resident will joke about Carpainter moving you if you talk to her?</b>  The cow.</p>
 
 <p>Tails98 was the only person to win this week around.</p>
-{% include box-close.html author-name="Anthadd" last-modified-on="2006-08-07 01:53:26 +0500" last-modified-by-name="Anthadd" %}
+{% include box-close.html author-name="Anthadd" last-modified-on="2006-08-07 06:53:26 +0000" last-modified-by-name="Anthadd" %}

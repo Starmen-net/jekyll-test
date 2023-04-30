@@ -2,13 +2,13 @@
 title: Theories - Doctor Andonuts and Porky
 categories:
   - articles
-date: 2012-06-13 13:32:31 +0500
+date: 2012-06-13 18:32:31 +0000
 ---
-{% include box-open.html box-id="4466" title="Theories Topic for the Week of June 6-13, 2012:" author-id="7090" timestamp="2012-06-13 13:32:31 +0500" type="norm" dbname="box40914" last-modified-by="127" %}
+{% include box-open.html box-id="4466" title="Theories Topic for the Week of June 6-13, 2012" author-id="7090" timestamp="2012-06-13 18:32:31 +0000" type="norm" dbname="box40914" last-modified-by="127" %}
 <center>Why is Dr. Andonuts helping Porky in Mother 3?</center>
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 13:34:07 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 18:34:07 +0000" last-modified-by-name="Emily" %}
 
-{% include box-open.html box-id="4467" title="Theory of the Week:" author-id="7090" timestamp="2012-06-13 13:34:13 +0500" type="norm" dbname="box60103" last-modified-by="127" %}
+{% include box-open.html box-id="4467" title="Theory of the Week" author-id="7090" timestamp="2012-06-13 18:34:13 +0000" type="norm" dbname="box60103" last-modified-by="127" %}
 *Yaaawwwwwwnn* hmm, man, my captivity kept me away for so long. Curse you ice cream man and your frozen treats. But, I have recovered from hibernation, and feel it my duty to return to theorizing. And thus, cue intro.<br/><Br/>
 From the ashened questions we let burn out, Pheen-X tries to bring these questions back to life, with an inferno of answers. This weeks question, why would Dr. Andonuts help a despicable person like Porky? Well...he had no choice.<br/><br/>
 You see, it all started back in Winters. Dr. Andonuts was enojoying his meal of beef jerky and donuts when he realized he was upon short supplies of donuts. So he decided to take a trip to the nearby Krispy Kreme. Only upon his arrival, he fell to his knees yelling a loud "NOOOOOOOOO!"
@@ -27,9 +27,9 @@ And thus, another question is left to burn in a deep fried flame. This is PheenX
 -firej7
 
 
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 14:00:19 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 19:00:19 +0000" last-modified-by-name="Emily" %}
 
-{% include box-open.html box-id="4468" title="A Donut Downfall:" author-id="7090" timestamp="2012-06-13 13:37:02 +0500" type="norm" dbname="box63129" last-modified-by="127" %}
+{% include box-open.html box-id="4468" title="A Donut Downfall" author-id="7090" timestamp="2012-06-13 18:37:02 +0000" type="norm" dbname="box63129" last-modified-by="127" %}
 Dr. Andonuts was a very distinguished man. He was well know throughout Winters; he had several certificates for winning science contests and other such things. “Best Laser Toaster”, “Best Milk Flavor Enhancer”, and “Most Moronic” were some of the framed certificates on his wall.<br/><br/>
 Dr. Andonuts had taste in science, but he definitely had a sweet tooth for his two favorite foods: red bean paste, or “anki”, filled donuts. When he wasn’t building absurd contraptions, he was eating those donuts. He wrote papers on whether the word was spelled “donuts” or “doughnuts”. He promoted the 30-day doughnut diet, and donated several thousand dollars to the ‘Donut Daily’ magazine.<br/><br/>
 It should be no surprise that when Dr. Andonuts saw a doughnut laying in front of the doorway that he would try to snatch it.<br/><br/>
@@ -50,9 +50,9 @@ Andonuts sighed. “As long as I get donuts…”<br/><Br/>
 He was sound asleep with a donut stuck in his mouth.<br/><br/>
 
 -Ostricho
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 13:40:55 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 18:40:55 +0000" last-modified-by-name="Emily" %}
 
-{% include box-open.html box-id="4469" title="Melting is Not a Pleasant Experience:" author-id="7090" timestamp="2012-06-13 13:42:41 +0500" type="norm" dbname="box15343" last-modified-by="127" %}
+{% include box-open.html box-id="4469" title="Melting is Not a Pleasant Experience" author-id="7090" timestamp="2012-06-13 18:42:41 +0000" type="norm" dbname="box15343" last-modified-by="127" %}
 With Porky trapped in the Absolutely Safe Capsule, Dr. Andonuts finally muttered, “Free at last.” The group of 4 heroes wondered and Kumatora finally broke the ice and asked, “Why are you so happy? Did Porky force you to work as a slave?” “The last 3 years of my life have been harsh and unforgiving. For you to get this, I need to tell you the story from the beginning.”<br/>
 ~~~~<br/>
 Following Giyig’s defeat, Porky escaped the scene in his Phase Distorter. After discovering the Nowhere Islands, he decides that this place was rather boring, and begins to turn the place into his toybox of insanity. Of course, he needed help to do this. Before he actually started building an army, Porky recruited the help of forced Dr. Andonuts to work for him. “Get in the machine or I will melt you into oblivion!” Porky ordered and Dr. Andonuts complied. They were wooshed to the islands. Andonuts got to work immediately developing new ideas, one of which caught Porky’s attention.<br/>
@@ -72,9 +72,9 @@ Eventually Lucas and his friends made it to New Pork City, in a race vs. the Mas
 “That’s how we all got here,” the doctor finished his tale off with. Kumatora now wondered, “So now we have to destroy your creation and save the world?” “Well you don’t have to destroy Lucas’ brother the Masked Man, but merely defeat him so you can save the world,” Andonuts gave has his last word. “Save the world. For me! For us!”<br/><br/>
 
 -ilikepie21k
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 13:48:02 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 18:48:02 +0000" last-modified-by-name="Emily" %}
 
-{% include box-open.html box-id="4470" title="How Offensive:" author-id="7090" timestamp="2012-06-13 13:48:09 +0500" type="norm" dbname="box47882" last-modified-by="127" %}
+{% include box-open.html box-id="4470" title="How Offensive" author-id="7090" timestamp="2012-06-13 18:48:09 +0000" type="norm" dbname="box47882" last-modified-by="127" %}
 I yawned and sipped my coffee as I skimmed over the papers, the font small but the text aplenty. I scratched the leftover donut off the fuzz above my lip and stared intently at the words, flipping through many pages of the same thesis. The night hours seemed to pass rather quickly and before I knew it, dawn had approached. As I heard the early chirps of the morning's bird, I set the papers down, took off my glasses and cleaned the lens against my white coat. I licked the tip of my ball-point pen and signed the bottom of the last paper with my signature. It was ready for publication.<br/><br/>
 
 Taking the last sip in the mug, I groaned and streched once more, ready for bed. A scientist's hours were unpredictable and I had to make due with what I had. I could hear a light breathing from up the stairs as my son slept. It was early, so I had to be quiet. As I gathered the paperwork and filed it appropriately, an immense banging sound echoed throughout the lab. The door to the winter wonderland had been knocked down and this door was made of solid steel. A short figure loomed before the light from the outside. I heard a deep snort and a laughter that rang through the drums of my ears. I heard their heavy footsteps bounce off the wall and I gapsed as they came into view. A boy, short and round, appeared before me, with a head of blonde shaggy hair and a fine tailored suit. He grinned as he looked behind the glasses and a shiver swept down my back. He licked his teeth and shoved his hands deep into his pockets.<br/><br/>
@@ -103,4 +103,4 @@ With teary eyes, I looked up the stairs and heard his light snores, "Goodbye, Je
 We walked out of the lab and I whispered softly under my breath, "I love you, Son. I love you, Jeff."<br/><br/>
 
 -biehlza<br/>
-{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 14:12:16 +0500" last-modified-by-name="Emily" %}
+{% include box-close.html author-name="Emily" last-modified-on="2012-06-13 19:12:16 +0000" last-modified-by-name="Emily" %}

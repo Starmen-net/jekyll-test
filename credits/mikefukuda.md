@@ -2,9 +2,9 @@
 title: 'Game Credits: Mike Fukuda'
 categories:
   - credits
-date: 2008-06-10 16:39:20 +0500
+date: 2008-06-10 21:39:20 +0000
 ---
-{% include box-open.html box-id="3465" title="Mike Fukuda:" author-id="2262" timestamp="2008-06-10 16:39:20 +0500" type="norm" dbname="box9446" last-modified-by="127" %}
+{% include box-open.html box-id="3465" title="Mike Fukuda" author-id="2262" timestamp="2008-06-10 21:39:20 +0000" type="norm" dbname="box9446" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 
@@ -155,4 +155,4 @@ Special Thanks</LI>
 
 
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 17:24:20 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-10 22:24:20 +0000" last-modified-by-name="KingDarian" %}

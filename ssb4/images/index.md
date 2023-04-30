@@ -2,15 +2,15 @@
 title: Official Art
 categories:
   - ssb4
-date: 2018-06-13 04:42:15 +0500
+date: 2018-06-13 09:42:15 +0000
 ---
-{% include box-open.html box-id="5227" title="Case Art:" author-id="28590" timestamp="2018-06-14 07:18:52 +0500" type="norm" dbname="box26186" last-modified-by="127" %}
+{% include box-open.html box-id="5227" title="Case Art" author-id="28590" timestamp="2018-06-14 12:18:52 +0000" type="norm" dbname="box26186" last-modified-by="127" %}
 <a href="http://starmen.net/ssb4/images/official/3DSbox.jpg" ><img src="http://starmen.net/ssb4/images/official/3DSboxT.jpg" alt="3DS Case" /></a> 
 <a href="http://starmen.net/ssb4/images/official/WiiUbox.jpg" ><img src="http://starmen.net/ssb4/images/official/WiiUboxT.jpg" alt="Wii U Case" /></a> 
 
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 08:06:46 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 13:06:46 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="5225" title="Character Art:" author-id="28590" timestamp="2018-06-13 04:42:15 +0500" type="norm" dbname="box39713" last-modified-by="127" %}
+{% include box-open.html box-id="5225" title="Character Art" author-id="28590" timestamp="2018-06-13 09:42:15 +0000" type="norm" dbname="box39713" last-modified-by="127" %}
 <center><a href="http://starmen.net/ssb4/images/Bowser_1.jpg"><img src="http://starmen.net/ssb4/images/Bowser_1T.png" width="75" height="75" border="1" /></a>
 <a href="http://starmen.net/ssb4/images/Bowser_2.jpg"><img src="http://starmen.net/ssb4/images/Bowser_2T.png" width="75" height="75" border="1" /></a>
 <a href="http://starmen.net/ssb4/images/Bowser_3.jpg"><img src="http://starmen.net/ssb4/images/Bowser_3T.png" width="75" height="75" border="1" /></a>
@@ -529,4 +529,4 @@ date: 2018-06-13 04:42:15 +0500
 
 
 </center>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 07:04:43 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-14 12:04:43 +0000" last-modified-by-name="CerealQueen" %}

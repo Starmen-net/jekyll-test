@@ -2,9 +2,9 @@
 title: Fanart - Community - Saturn Ladder
 categories:
   - fanart
-date: 2009-03-30 08:56:29 +0500
+date: 2009-03-30 13:56:29 +0000
 ---
-{% include box-open.html box-id="3715" title="Saturn Ladder:" author-id="474" timestamp="2009-03-30 08:56:29 +0500" type="norm" dbname="box37225" last-modified-by="127" %}
+{% include box-open.html box-id="3715" title="Saturn Ladder" author-id="474" timestamp="2009-03-30 13:56:29 +0000" type="norm" dbname="box37225" last-modified-by="127" %}
 <center>
 <img src="http://starmen.net/fanart/community/ladder/saturnLadder.png" alt="Saturn Ladder Banner" /><br />
 <h3 style="display: inline;"><b>START DATE:</b></h3> Nov. 1, 2008<br />
@@ -12,9 +12,9 @@ date: 2009-03-30 08:56:29 +0500
 The Saturn Ladder was a project with a simple goal: stack our favorite EarthBound creatures as high as possible! Removing the standard rule that only 5 can Ladder, users gradually submitted their own Mr. Saturns, spanning various media. Each was allowed a maximum of 3 different Saturns; once collected, Fanart staffer Artemis251 stacked them and illustrated a background to show the range of ascent these little guys could climb.
 <br /><br />
 In total, the stack is <b>182 Mr. Saturns tall</b>! As such, the images may take some time to load, so please be patient. To see the name of the artist at each point, simply hover your cursor over a Mr. Saturn and its name will pop up.
-{% include box-close.html author-name="Artemis251" last-modified-on="2009-03-30 19:36:48 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2009-03-31 00:36:48 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3716" title="Ladder:" author-id="474" timestamp="2009-03-30 08:56:32 +0500" type="blank" dbname="box44378" last-modified-by="127" %}
+{% include box-open.html box-id="3716" title="Ladder" author-id="474" timestamp="2009-03-30 13:56:32 +0000" type="blank" dbname="box44378" last-modified-by="127" %}
 <center>
 <img src="http://starmen.net/fanart/community/ladder/pieces/182-EarthBound.png" alt="EarthBound" title="EarthBound" width="600" style="display:block;"/>
 <img src="http://starmen.net/fanart/community/ladder/pieces/181-eyes5.png" alt="eyes5" title="eyes5" width="600" style="display:block;"/>
@@ -180,8 +180,8 @@ In total, the stack is <b>182 Mr. Saturns tall</b>! As such, the images may take
 <img src="http://starmen.net/fanart/community/ladder/pieces/2-Gana0.png" alt="Gana0" title="Gana0" width="600" style="display:block;"/>
 <img src="http://starmen.net/fanart/community/ladder/pieces/1-eyes5.png" alt="eyes5" title="eyes5" width="600" style="display:block;"/>
 </center>
-{% include box-close.html author-name="Artemis251" last-modified-on="2009-03-30 19:32:55 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2009-03-31 00:32:55 +0000" last-modified-by-name="Artemis251" %}
 
-{% include box-open.html box-id="3717" title="Participants:" author-id="474" timestamp="2009-03-30 15:23:32 +0500" type="norm" dbname="box47884" last-modified-by="127" %}
+{% include box-open.html box-id="3717" title="Participants" author-id="474" timestamp="2009-03-30 20:23:32 +0000" type="norm" dbname="box47884" last-modified-by="127" %}
 (insertnamehere), -Pik-, -Qaz, Artemis251, author_lumina, Bananahero, bananaman, bearpigman, Beck, bigcitysoda2, Bird_Person, blrasmu, bobburt444, bonjourduck, Cafechan, Captian_Jim, Chaisu, Chewy, Crav, CrouchingMouse, CSwavely, Darth_Pokey, Daska, Diddgery, Difegue, dmell, EarthBound, EBP, Ecoolarg, elemental101, ElfKitty, elliotw2, emilio, Erniewan, eyes5, Ffish, Fobby, freakyboy05, GameGeekAdvanced, gameguy245, Gana0, GeoPyro, Giegue, Greenfinger, HAK2, handish2000, Hawaiian, iamthewalrus, INVADERSATURN, Jackalope, kakoshei, Kalico, Kalle, Katon, Kaoru_Arika, Kay-O, kebby129, KingDarian, Kupo_KK, legotrekker, LOL, lord_of_farts, Mabyn, Maiko, masheysoup23, Master_Minch, matilda_caboose, Matrix, Meeellla, Meer, meteorite, Missy, mistycat85, MobileSprout, Mrjupiter, MrTruth, Mystic_Pyro_Freak, nekoaitsu, Nezumi, NOISEMAN, Nokekidk, Nosekidk, O-Suchin, omnigiygas, Omnitarian, orangecake, OrochiSaKu, Panda_Kaptain, Phones, Pipomonkeydude, PK_Saturn, PK_Soap, Plan_9, PoeTrader, potato, power12345, Psi-Rockin, PSIBoogy, PSI_GuitarHero, Psychomax, random_encounter, Realn, RedShadow13, Relinquished, rinatan, Rinkuchan, Rufus, s3n4, Saturn-Man, Sebastian, ShadeDevlin, Silver_Streak, somaticdefilement, Spyden, Starpu, Stormgale, Strawberry_Tofu, sunarashi, SuperLucas, TheCompleteAnimorph, TheCreator, TheUltimateChimera, theunderminor, The_Devster, toader, TriForceLink, Unclever_Title, wcrntn, Wilhelmina_Carmel, Yokuba, Yoshistar, _oMeGa_.
-{% include box-close.html author-name="Artemis251" last-modified-on="2009-03-30 19:33:54 +0500" last-modified-by-name="Artemis251" %}
+{% include box-close.html author-name="Artemis251" last-modified-on="2009-03-31 00:33:54 +0000" last-modified-by-name="Artemis251" %}

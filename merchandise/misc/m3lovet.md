@@ -2,9 +2,9 @@
 title: Mother 3 +Love T&#039;s
 categories:
   - merchandise
-date: 2006-07-10 19:41:02 +0500
+date: 2006-07-11 00:41:02 +0000
 ---
-{% include box-open.html box-id="2455" title="Mother 3 +Love T's:" author-id="45" timestamp="2006-07-10 19:41:02 +0500" type="norm" dbname="box34726" last-modified-by="45" %}
+{% include box-open.html box-id="2455" title="Mother 3 +Love T's" author-id="45" timestamp="2006-07-11 00:41:02 +0000" type="norm" dbname="box34726" last-modified-by="45" %}
 	<center>
 	<imgalphapng src="/merchandise/images/m3lovet_title.png" width="350" height="306" border="0" alt="Mother 3 +Love T's" />
 	</center>
@@ -44,4 +44,4 @@ date: 2006-07-10 19:41:02 +0500
 	<a href="/merchandise/images/m3lovet_insert1_front.jpg">Insert 1 (Front)</a> - <a href="/merchandise/images/m3lovet_insert1_back.jpg">Insert 1 (Back)</a> - <a href="/merchandise/images/m3lovet_insert2.jpg">Insert 2</a> - 
 	<a href="/merchandise/images/m3lovet_bag_front1.jpg">Bag (Front 1)</a> - <a href="/merchandise/images/m3lovet_bag_front2.jpg">Bag (Front 2)</a> - <a href="/merchandise/images/m3lovet_bag_back1.jpg">Bag (Back 1)</a> - 
 	<a href="/merchandise/images/m3lovet_bag_back2.jpg">Bag (Back 2)</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2006-07-11 00:33:29 +0500" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2006-07-11 05:33:29 +0000" last-modified-by-name="ShadowX" %}

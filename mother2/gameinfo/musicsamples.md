@@ -2,13 +2,13 @@
 title: Music Samples &amp; Similaries
 categories:
   - mother2
-date: 2007-12-21 23:29:36 +0600
+date: 2007-12-22 05:29:36 +0000
 ---
-{% include box-open.html box-id="3330" title="Music Samples and Similarities:" author-id="849" timestamp="2007-12-21 23:29:36 +0600" type="norm" dbname="box61101" last-modified-by="127" %}
+{% include box-open.html box-id="3330" title="Music Samples and Similarities" author-id="849" timestamp="2007-12-22 05:29:36 +0000" type="norm" dbname="box61101" last-modified-by="127" %}
 If you've played through EarthBound, chances are you've heard some songs that sound strangely familiar. You're not just hearing things, EarthBound contains several songs that sample famous pieces of music. Below is a list of each sample along with MP3s so you can hear the samples yourself as well as a list of other music references found throughout the game.
-{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-22 00:21:42 +0600" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-22 06:21:42 +0000" last-modified-by-name="Ninten1" %}
 
-{% include box-open.html box-id="3331" title="Samples and Similarities:" author-id="849" timestamp="2007-12-21 23:37:15 +0600" type="norm" dbname="box36944" last-modified-by="127" %}
+{% include box-open.html box-id="3331" title="Samples and Similarities" author-id="849" timestamp="2007-12-22 05:37:15 +0000" type="norm" dbname="box36944" last-modified-by="127" %}
 <b>Naming Screen/Liberty Bell March/Monty Python's Flying Circus Theme</b>
 <br />
 This song plays during the naming screen when you start a new file. The sample used is played between "It's" and "Monty Python's". The "Liberty Bell March" is by John Philip Sousa.
@@ -52,9 +52,9 @@ This song plays in the southern desert in Scaraba while Dungeon Man is in your p
 <b>Cave of the Past/La Marseillaise/All You Need Is Love</b>
 <br />
 This song plays in the Cave of the Past in 199X. "La Marseillaise" is the French national anthem, and "All You Need Is Love" is by The Beatles.
-{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-22 00:20:53 +0600" last-modified-by-name="Ninten1" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2007-12-22 06:20:53 +0000" last-modified-by-name="Ninten1" %}
 
-{% include box-open.html box-id="3333" title="References:" author-id="849" timestamp="2007-12-22 00:21:14 +0600" type="norm" dbname="box42974" last-modified-by="127" %}
+{% include box-open.html box-id="3333" title="References" author-id="849" timestamp="2007-12-22 06:21:14 +0000" type="norm" dbname="box42974" last-modified-by="127" %}
 <b>Yesterday</b>
 <br />
 The Beatles song "Yesterday" is referenced in southern Onett in a pop quiz. This is found only in EarthBound and not MOTHER 2.
@@ -74,4 +74,4 @@ Starman is an enemy in EarthBound as well the name of a David Bowie song.
 <b>Diamond Dogs</b>
 <br />
 Diamond Dog is a boss in EarthBound as well the name of a David Bowie song.
-{% include box-close.html author-name="Ninten1" last-modified-on="2016-11-25 23:43:45 +0600" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Ninten1" last-modified-on="2016-11-26 05:43:45 +0000" last-modified-by-name="CerealQueen" %}

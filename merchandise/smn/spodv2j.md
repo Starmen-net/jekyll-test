@@ -2,9 +2,9 @@
 title: SPOD v2.0 Jerseys
 categories:
   - merchandise
-date: 2005-01-03 23:12:06 +0600
+date: 2005-01-04 05:12:06 +0000
 ---
-{% include box-open.html box-id="367" title="SPOD v2.0 Jerseys:" author-id="45" timestamp="2005-01-03 23:12:06 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="367" title="SPOD v2.0 Jerseys" author-id="45" timestamp="2005-01-04 05:12:06 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_spodv2j_title.png" border="0" alt="SPOD v2.0 Jerseys" />
 	</center>
@@ -30,4 +30,4 @@ date: 2005-01-03 23:12:06 +0600
 	<a href="/merchandise/images/smn_spodv2jblack_fdesign.jpg">Front Design (Black)</a> - <a href="/merchandise/images/smn_spodv2jblack_bdesign.jpg">Back Design (Black)</a> - <a href="/merchandise/images/smn_spodv2jblue_front.jpg">Front (Blue)</a> - 
 	<a href="/merchandise/images/smn_spodv2jblue_back.jpg">Back (Blue)</a> - <a href="/merchandise/images/smn_spodv2jblue_fdesign.jpg">Front Design (Blue)</a> - <a href="/merchandise/images/smn_spodv2jblue_bdesign.jpg">Back Design (Blue)</a> - 
 	<a href="/merchandise/images/smn_btc.jpg">Colors</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:12:52 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:12:52 +0000" last-modified-by-name="ShadowX" %}

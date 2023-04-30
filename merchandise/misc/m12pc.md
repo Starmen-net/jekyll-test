@@ -2,9 +2,9 @@
 title: Mother 1+2 Portable Cleaners
 categories:
   - merchandise
-date: 2005-01-03 21:01:47 +0600
+date: 2005-01-04 03:01:47 +0000
 ---
-{% include box-open.html box-id="331" title="Mother 1+2 Portable Cleaners:" author-id="45" timestamp="2005-01-03 21:01:47 +0600" type="norm" dbname="box54208" last-modified-by="127" %}
+{% include box-open.html box-id="331" title="Mother 1+2 Portable Cleaners" author-id="45" timestamp="2005-01-04 03:01:47 +0000" type="norm" dbname="box54208" last-modified-by="127" %}
 	<center>
 	<img src="/merchandise/images/m12_pc_title.jpg" border="0" alt="Mother 1+2 Portable Cleaners" />
 	</center>
@@ -35,4 +35,4 @@ date: 2005-01-03 21:01:47 +0600
 	<a href="/merchandise/images/m12_pc_ninten.jpg">Ninten</a> - <a href="/merchandise/images/m12_pc_ann.jpg">Ann</a> - <a href="/merchandise/images/m12_pc_loid.jpg">Loid</a> - 
 	<a href="/merchandise/images/m12_pc_teddy.jpg">Teddy</a> - <a href="/merchandise/images/m12_pc_foldout1.jpg">Fold Out 1</a> - <a href="/merchandise/images/m12_pc_foldout2.jpg">Fold Out 2</a> - 
 	<a href="/merchandise/images/m12_pc_use.jpg">Use</a> - <a href="/merchandise/images/m12_pc_size.jpg">Size</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 14:21:52 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2011-04-09 19:21:52 +0000" last-modified-by-name="Tomato" %}

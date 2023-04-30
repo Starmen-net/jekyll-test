@@ -2,9 +2,9 @@
 title: Fan Programs - Mini
 categories:
   - fanprograms
-date: 2007-07-18 11:41:25 +0500
+date: 2007-07-18 16:41:25 +0000
 ---
-{% include box-open.html box-id="3234" title="Navigator:" author-id="3404" timestamp="2007-07-18 18:12:58 +0500" type="blank" dbname="box83" last-modified-by="127" %}
+{% include box-open.html box-id="3234" title="Navigator" author-id="3404" timestamp="2007-07-18 23:12:58 +0000" type="blank" dbname="box83" last-modified-by="127" %}
 <table border="0" align="center">
 <tr>
 <td>
@@ -24,9 +24,9 @@ date: 2007-07-18 11:41:25 +0500
 </td>
 </tr>
 </table>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 18:53:48 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-18 23:53:48 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3225" title="Broken Slot Machine:" author-id="3404" timestamp="2007-07-18 11:41:25 +0500" type="norm" dbname="box23889" last-modified-by="127" %}
+{% include box-open.html box-id="3225" title="Broken Slot Machine" author-id="3404" timestamp="2007-07-18 16:41:25 +0000" type="norm" dbname="box23889" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/0801/Fan Game - DiabloW - Broken Slot Machine.zip"><u>Broken Slot Machine</u></a></h1>
 <br />
 <br />
@@ -37,9 +37,9 @@ date: 2007-07-18 11:41:25 +0500
 <b>Content -</b> executable<br />
 <br />
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/broken_slotmachine_1.png" title="Wow, 7-7-7!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/broken_slotmachine_1t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-31 18:45:59 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-31 23:45:59 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3242" title="Dusty Slots:" author-id="3404" timestamp="2007-07-24 09:08:37 +0500" type="norm" dbname="box54167" last-modified-by="127" %}
+{% include box-open.html box-id="3242" title="Dusty Slots" author-id="3404" timestamp="2007-07-24 14:08:37 +0000" type="norm" dbname="box54167" last-modified-by="127" %}
 <h1><a href="http://files.fobby.net/0000/46b3/Dusty Slots.zip"><u>Dusty Slots</u></a></h1>
 <br />
 <br />
@@ -51,9 +51,9 @@ date: 2007-07-18 11:41:25 +0500
 <br />
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/dusty_slots_1.png" title="Let's get started." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/dusty_slots_1t.png"/></a>
 <a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/dusty_slots_2.png" title="Darnit!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/dusty_slots_2t.png"/></a>
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-31 18:45:47 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-31 23:45:47 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3226" title="EarthBoundX Demo #9:" author-id="3404" timestamp="2007-07-18 11:43:16 +0500" type="norm" dbname="box15585" last-modified-by="127" %}
+{% include box-open.html box-id="3226" title="EarthBoundX Demo #9" author-id="3404" timestamp="2007-07-18 16:43:16 +0000" type="norm" dbname="box15585" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/07fb/Fan Game - 288 - EarthboundX Demo #9 .zip"><u>EarthBoundX Demo #9</u></a></h1>
 <br />
 <br />
@@ -64,9 +64,9 @@ date: 2007-07-18 11:41:25 +0500
 <b>Content -</b> Keep Ness in play by bouncing him back into the enemies. Stronger enemies take multiple hits.<br />
 <br />
 (screen shots coming soon)
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:56:18 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:56:18 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3228" title="EB Badges Pack:" author-id="3404" timestamp="2007-07-18 11:44:45 +0500" type="norm" dbname="box12059" last-modified-by="127" %}
+{% include box-open.html box-id="3228" title="EB Badges Pack" author-id="3404" timestamp="2007-07-18 16:44:45 +0000" type="norm" dbname="box12059" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/0805/Fan Game - Mr-Saturnman - EB Badges Pack.rar"><u>EB Badges Pack</u></a></h1>
 <br />
 <br />
@@ -77,9 +77,9 @@ date: 2007-07-18 11:41:25 +0500
 <b>Content -</b> (N/A)<br />
 <br />
 (no screen shots available)
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:56:45 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:56:45 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3227" title="EB Pong:" author-id="3404" timestamp="2007-07-18 11:44:37 +0500" type="norm" dbname="box59076" last-modified-by="127" %}
+{% include box-open.html box-id="3227" title="EB Pong" author-id="3404" timestamp="2007-07-18 16:44:37 +0000" type="norm" dbname="box59076" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/0802/Fan Game - kapong kandqofc - EB Pong.zip"><u>EB Pong</u></a></h1>
 <br />
 <br />
@@ -90,9 +90,9 @@ date: 2007-07-18 11:41:25 +0500
 <b>Content -</b> A standard Pong clone.<br />
 <br />
 (no screen shots available)
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:57:03 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:57:03 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3229" title="Poing:" author-id="3404" timestamp="2007-07-18 11:45:01 +0500" type="norm" dbname="box3034" last-modified-by="127" %}
+{% include box-open.html box-id="3229" title="Poing" author-id="3404" timestamp="2007-07-18 16:45:01 +0000" type="norm" dbname="box3034" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/2a1f/spaanoft-poing101.zip"><u>Poing</u></a></h1>
 <br />
 <br />
@@ -103,9 +103,9 @@ date: 2007-07-18 11:41:25 +0500
 <b>Content -</b> Controls set up to play yourself, if you so choose.<br />
 <br />
 (no screen shots available)
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:57:20 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:57:20 +0000" last-modified-by-name="Capn Muffin" %}
 
-{% include box-open.html box-id="3230" title="PSI Repel:" author-id="3404" timestamp="2007-07-18 11:45:16 +0500" type="norm" dbname="box13307" last-modified-by="127" %}
+{% include box-open.html box-id="3230" title="PSI Repel" author-id="3404" timestamp="2007-07-18 16:45:16 +0000" type="norm" dbname="box13307" last-modified-by="127" %}
 <h1><a href="http://staff.starmen.net/files/0000/0804/Fan Game - Tokage-san - PSI Repel.exe"><u>PSI Repel</u></a></h1>
 <br />
 <br />
@@ -116,4 +116,4 @@ date: 2007-07-18 11:41:25 +0500
 <b>Content -</b> (N/A)<br />
 <br />
 (no screen shots available)
-{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-21 21:57:55 +0500" last-modified-by-name="Capn Muffin" %}
+{% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:57:55 +0000" last-modified-by-name="Capn Muffin" %}

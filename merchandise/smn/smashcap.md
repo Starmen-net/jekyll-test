@@ -2,9 +2,9 @@
 title: Smaaaash Cap
 categories:
   - merchandise
-date: 2005-01-03 23:41:23 +0600
+date: 2005-01-04 05:41:23 +0000
 ---
-{% include box-open.html box-id="378" title="Smaaaash Cap:" author-id="45" timestamp="2005-01-03 23:41:23 +0600" type="norm" last-modified-by="45" %}
+{% include box-open.html box-id="378" title="Smaaaash Cap" author-id="45" timestamp="2005-01-04 05:41:23 +0000" type="norm" last-modified-by="45" %}
 	<center>
 	<img src="/merchandise/images/smn_smashcap_title.png" border="0" alt="Smaaaash Cap" />
 	</center>
@@ -27,4 +27,4 @@ date: 2005-01-03 23:41:23 +0600
 	<br />
 	<a href="/merchandise/images/smn_smashcap_front.jpg">Front</a> - <a href="/merchandise/images/smn_smashcap_design.jpg">Design</a> - <a href="/merchandise/images/smn_hc.jpg">Colors</a> - 
 	<a href="/merchandise/images/smn_hd.jpg">Detial</a>
-{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-03 23:41:33 +0600" last-modified-by-name="ShadowX" %}
+{% include box-close.html author-name="ShadowX" last-modified-on="2005-01-04 05:41:33 +0000" last-modified-by-name="ShadowX" %}

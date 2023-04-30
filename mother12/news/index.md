@@ -2,9 +2,9 @@
 title: News
 categories:
   - mother12
-date: 2004-12-21 18:48:04 +0600
+date: 2004-12-22 00:48:04 +0000
 ---
-{% include box-open.html box-id="107" title="MOTHER 1+2 News:" author-id="288" timestamp="2004-12-21 18:48:04 +0600" type="norm" dbname="box30261" last-modified-by="127" %}
+{% include box-open.html box-id="107" title="MOTHER 1+2 News" author-id="288" timestamp="2004-12-22 00:48:04 +0000" type="norm" dbname="box30261" last-modified-by="127" %}
      Following is a rough timeline of the events that led up to and followed
      MOTHER 1+2's release.
 
@@ -80,4 +80,4 @@ date: 2004-12-21 18:48:04 +0600
 
      <I>Note: For more information on other MOTHER 1+2 promotional items that have been released,
      please check out our <A HREF="/merchandise">merchandise section</A>.</I>
-{% include box-close.html author-name="Tomato" last-modified-on="2007-06-18 12:16:59 +0500" last-modified-by-name="Tomato" %}
+{% include box-close.html author-name="Tomato" last-modified-on="2007-06-18 17:16:59 +0000" last-modified-by-name="Tomato" %}

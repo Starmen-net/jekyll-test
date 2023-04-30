@@ -2,13 +2,13 @@
 title: Theories - Onett Bathrooms
 categories:
   - articles
-date: 2012-07-18 20:57:13 +0500
+date: 2012-07-19 01:57:13 +0000
 ---
-{% include box-open.html box-id="4486" title="Theories topic for the week of July 11 - July 18, 2012:" author-id="1419" timestamp="2012-07-18 20:57:13 +0500" type="norm" dbname="box40641" last-modified-by="127" %}
+{% include box-open.html box-id="4486" title="Theories topic for the week of July 11 - July 18, 2012" author-id="1419" timestamp="2012-07-19 01:57:13 +0000" type="norm" dbname="box40641" last-modified-by="127" %}
 <center>What really lies behind the Onett restrooms? There doesn't seem to be any way of getting in there... or is there?</center>
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-18 20:58:43 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-19 01:58:43 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4487" title="Theory of the Week:" author-id="1419" timestamp="2012-07-18 20:58:45 +0500" type="norm" dbname="box27696" last-modified-by="127" %}
+{% include box-open.html box-id="4487" title="Theory of the Week" author-id="1419" timestamp="2012-07-19 01:58:45 +0000" type="norm" dbname="box27696" last-modified-by="127" %}
 The man hustled for the bathroom. He had to get to that bathroom is less than one minute. But he did not have diarrhea, a bubbling bladder, or other disgusting bathroom needs.<br/>
 The man flung the door open. When it was shut, he glanced at the door. A combination lock, a key lock, a deadbolt, and a fingerprint scanner lock were on the door. He locked them all.<br/>
 The Starman took of his human costume and entered the stall. A toilet sat there waiting for him.<br/>
@@ -26,9 +26,9 @@ The Starman woke up hours later. A humongous rat was sniffing at him.<br/>
 In summary, if it hadn’t been for Giygas’ poor choice in lair entrances, he would have won the war against Ness.<br/>
 The moral of this story is not to side with evil, or you're crap.<br/><br/>
 - Ostricho
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-18 21:01:17 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-19 02:01:17 +0000" last-modified-by-name="Captain Bozo" %}
 
-{% include box-open.html box-id="4488" title="And if you throw 50 bombs into Ganon's lava pit, you can get the triforce :OOO :" author-id="1419" timestamp="2012-07-18 20:59:54 +0500" type="norm" dbname="box7954" last-modified-by="127" %}
+{% include box-open.html box-id="4488" title="And if you throw 50 bombs into Ganon's lava pit, you can get the triforce :OOO " author-id="1419" timestamp="2012-07-19 01:59:54 +0000" type="norm" dbname="box7954" last-modified-by="127" %}
 This happened after a few weeks after Gyigas' fall.Tracy,King, Ness' Mother and Father leaved in a vacantion in Winters and left Ness behind because he dislikes Winters.Ness woke up and wanted to go to the restroom in his house.But,when he reached the restroom the door was locked because Tracy accidentaly took it instead of the key to the house.Ness has thought to go in Onett to see if anybody wants to help him.But all the citizens said Porky came in their houses and,for some weird reason, he destroyed all the restrooms with a strange weapon.After 5 minutes he found out Porky haven't destroyed the restrooms from the library.He went there and a guy was faster than him and entered faster in the restroom.
 After the guy has left the restroom,Ness tired to enter the restroom but the door was locked.When he turned back he heard a pretty creppy sound and it even scared Ness himself!He didn't knew what to do so he went to Hint Man's house and asked for a hint.The hint man wanted 500 dollars.Ness gave the money to the Hint Man.He told Ness a story about a guy called William Andonuts,Jeff's great grandfather which died in the restroom and William cursed the restroom and only a person who is possesed by a Mini Ghost can enter.
 Ness knew what to do: teleport to Threed and let a Zombie Possesor call a Mini Ghost to posses him,but he knew Ness' body will do as the Mini Ghost.Ness went to a "friend" of his dressed all in black who sells mysterious stuff.The mysterious guy gave our hero a "Gyigas Remain" which is able to control even Mini Ghosts.Ness got it for 200 dollars.
@@ -38,4 +38,4 @@ Ness found out he must spend his life in this restroom without any food or cold 
 From now on,Ness was never seen anymore and no one truly knew where our brave hero went,save Porky and the Evil Hint Man!<br/><br/>
 
 -Shadow542
-{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-18 21:00:47 +0500" last-modified-by-name="Captain Bozo" %}
+{% include box-close.html author-name="Captain Bozo" last-modified-on="2012-07-19 02:00:47 +0000" last-modified-by-name="Captain Bozo" %}

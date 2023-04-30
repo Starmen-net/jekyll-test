@@ -2,9 +2,9 @@
 title: MOTHER 3 - Interview - April 15, 2003
 categories:
   - mother3
-date: 2009-03-18 10:21:26 +0500
+date: 2009-03-18 15:21:26 +0000
 ---
-{% include box-open.html box-id="3645" title="Introduction: In Regards to Mother 3:" author-id="2262" timestamp="2009-03-18 10:21:26 +0500" type="norm" dbname="box8985" last-modified-by="127" %}
+{% include box-open.html box-id="3645" title="Introduction: In Regards to Mother 3" author-id="2262" timestamp="2009-03-18 15:21:26 +0000" type="norm" dbname="box8985" last-modified-by="127" %}
 <table width="100%" cellspacing="0" cellpadding="5">
 <TR>
 <TD COLSPAN="2">
@@ -160,4 +160,4 @@ Well, the plotline is based on a script that I wrote, and the actual development
 </TD>
 </TR>
 </table>
-{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 10:21:45 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 15:21:45 +0000" last-modified-by-name="KingDarian" %}

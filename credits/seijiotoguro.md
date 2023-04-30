@@ -2,9 +2,9 @@
 title: 'Game Credits: Seiji Otoguro'
 categories:
   - credits
-date: 2005-05-02 17:47:08 +0500
+date: 2005-05-02 22:47:08 +0000
 ---
-{% include box-open.html box-id="965" title="Seiji Otoguro:" author-id="2262" timestamp="2005-05-02 17:47:08 +0500" type="norm" dbname="box40674" last-modified-by="127" %}
+{% include box-open.html box-id="965" title="Seiji Otoguro" author-id="2262" timestamp="2005-05-02 22:47:08 +0000" type="norm" dbname="box40674" last-modified-by="127" %}
 <b>Game Credits</b>
 <UL>
 <LI><b>Kirby's Adventure(NES 1993)</b><BR />
@@ -20,4 +20,4 @@ Figure Programmer<BR />
 Enemy Programmer<BR />
 Device Programmer</LI>
 </UL>
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 17:56:25 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-07 22:56:25 +0000" last-modified-by-name="KingDarian" %}

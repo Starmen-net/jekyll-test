@@ -2,9 +2,9 @@
 title: RADIO PSI - DJS - Backup Buddies
 categories:
   - radio
-date: 2007-08-18 18:00:10 +0500
+date: 2007-08-18 23:00:10 +0000
 ---
-{% include box-open.html box-id="3265" title="Starmen.Net Radio - Meet the Backup Buddies:" author-id="247" timestamp="2007-08-18 18:00:10 +0500" type="norm" dbname="box48239" last-modified-by="127" %}
+{% include box-open.html box-id="3265" title="Starmen.Net Radio - Meet the Backup Buddies" author-id="247" timestamp="2007-08-18 23:00:10 +0000" type="norm" dbname="box48239" last-modified-by="127" %}
 <p>
 The Backup Buddies fill in for Radio PSI DJs that can't make it to their shows, so that the listeners don't have to go home empty-handed. You never know when a DJ might have another engagement to attend to, but when they do, the Backup Buddies are up to the task. The Backup Buddies are sort of like "regular Radio PSI DJs in training", and in the event that a Radio PSI regular DJ timeslot is free, they will be promoted and assigned to that timeslot.
 </p>
@@ -36,4 +36,4 @@ Buddy MYSTERY hasn't even been hired yet, how in the world are we going to know 
 </tr>
 </p>
 </table>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-25 18:31:12 +0600" last-modified-by-name="nightshade" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2023-01-26 00:31:12 +0000" last-modified-by-name="nightshade" %}

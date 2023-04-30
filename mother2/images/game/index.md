@@ -2,9 +2,9 @@
 title: MOTHER 2 / EarthBound Game Sprites
 categories:
   - mother2
-date: 2005-11-10 12:00:11 +0600
+date: 2005-11-10 18:00:11 +0000
 ---
-{% include box-open.html box-id="1999" title="People:" author-id="75" timestamp="2006-03-01 14:15:28 +0600" type="norm" dbname="box40284" last-modified-by="127" %}
+{% include box-open.html box-id="1999" title="People" author-id="75" timestamp="2006-03-01 20:15:28 +0000" type="norm" dbname="box40284" last-modified-by="127" %}
 <a href="Aloysius.png" title="Aloysius"><img src="AloysiusT.png" width="50" height="50" /></a>
 <a href="AppleKid.png" title="Apple Kid"><img src="AppleKidT.png" width="50" height="50" /></a>
 <a href="BagLady.png" title="Bag Lady"><img src="BagLadyT.png" width="50" height="50" /></a>
@@ -147,9 +147,9 @@ date: 2005-11-10 12:00:11 +0600
 <a href="WealthyMan.png" title="Wealthy Man"><img src="WealthyManT.png" width="50" height="50" /></a>
 <a href="YellowGirl.png" title="Yellow Girl"><img src="YellowGirlT.png" width="50" height="50" /></a>
 
-{% include box-close.html author-name="PoeTrader" last-modified-on="2008-06-03 16:00:22 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2008-06-03 21:00:22 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3422" title="Animals:" author-id="2262" timestamp="2008-06-03 15:02:43 +0500" type="norm" dbname="box21764" last-modified-by="127" %}
+{% include box-open.html box-id="3422" title="Animals" author-id="2262" timestamp="2008-06-03 20:02:43 +0000" type="norm" dbname="box21764" last-modified-by="127" %}
 <a href="BubbleMonkey.png" title="Bubble Monkey"><img src="BubbleMonkeyT.png" width="50" height="50" /></a>
 <a href="BirdPhone.png" title="Bird Phone"><img src="BirdPhoneT.png" width="50" height="50" /></a>
 <a href="BlackRabbit.png" title="Black Rabbit"><img src="BlackRabbitT.png" width="50" height="50" /></a>
@@ -175,9 +175,9 @@ date: 2005-11-10 12:00:11 +0600
 <a href="Tessie.png" title="Tessie"><img src="TessieT.png" width="50" height="50" /></a>
 <a href="YellowBird.png" title="Yellow Bird"><img src="YellowBirdT.png" width="50" height="50" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 16:07:17 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 21:07:17 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="3421" title="Overworld Enemies:" author-id="2262" timestamp="2008-06-03 15:01:59 +0500" type="norm" dbname="box32202" last-modified-by="127" %}
+{% include box-open.html box-id="3421" title="Overworld Enemies" author-id="2262" timestamp="2008-06-03 20:01:59 +0000" type="norm" dbname="box32202" last-modified-by="127" %}
 <a href="AbstractArt.png" title="AbstractArt"><img src="AbstractArtT.png" width="50" height="50" /></a>
 <a href="Arachnid.png" title="Arachnid"><img src="ArachnidT.png" width="50" height="50" /></a>
 <a href="ArmoredFrog.png" title="Armored Frog"><img src="ArmoredFrogT.png" width="50" height="50" /></a>
@@ -248,9 +248,9 @@ date: 2005-11-10 12:00:11 +0600
 <a href="Zombie.png" title="Zombie"><img src="ZombieT.png" width="50" height="50" /></a>
 <a href="ZombieDog.png" title="Zombie Dog"><img src="ZombieDogT.png" width="50" height="50" /></a>
 
-{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 16:00:17 +0500" last-modified-by-name="KingDarian" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2008-06-03 21:00:17 +0000" last-modified-by-name="KingDarian" %}
 
-{% include box-open.html box-id="1997" title="In-Battle Enemies:" author-id="75" timestamp="2006-03-01 13:49:34 +0600" type="norm" dbname="box43033" last-modified-by="127" %}
+{% include box-open.html box-id="1997" title="In-Battle Enemies" author-id="75" timestamp="2006-03-01 19:49:34 +0000" type="norm" dbname="box43033" last-modified-by="127" %}
 <a href="abstracta.png" title="Abstract Art"><img src="abstractat.png" width="50" height="50" /></a>
 <a href="partyman.png" title="Annoying Old Party Man"><img src="partymant.png" width="50" height="50" /></a>
 <a href="areveler.png" title="Annoying Reveler"><img src="arevelert.png" width="50" height="50" /></a>
@@ -388,9 +388,9 @@ date: 2005-11-10 12:00:11 +0600
 <a href="yesman.png" title="Yesman Jr."><img src="yesmant.png" width="50" height="50" /></a>
 <a href="zapeel.png" title="Zap Eel"><img src="zapeelt.png" width="50" height="50" /></a>
 <a href="zombiedog.png" title="Zombie Dog"><img src="zombiedogt.png" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2018-08-14 00:56:49 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2018-08-14 05:56:49 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="1998" title="Bosses:" author-id="75" timestamp="2006-03-01 14:00:46 +0600" type="norm" dbname="box5275" last-modified-by="127" %}
+{% include box-open.html box-id="1998" title="Bosses" author-id="75" timestamp="2006-03-01 20:00:46 +0000" type="norm" dbname="box5275" last-modified-by="127" %}
 <a href="starmanjr.png" title="Starman Jr."><img src="starmanjrt.png" width="50" height="50" /></a>
 <a href="frank.png" title="Frank"><img src="frankt.png" width="50" height="50" /></a>
 <a href="fmarkii.png" title="Frankystein Mark II"><img src="fmarkiit.png" width="50" height="50" /></a>
@@ -417,9 +417,9 @@ date: 2005-11-10 12:00:11 +0600
 <a href="nnightmare.png" title="Ness' Nightmare"><img src="nnightmaret.png" width="50" height="50" /></a>
 <a href="hapokey.png" title="Heavily Armed Pokey"><img src="giygast.png" width="50" height="50" /></a>
 <a href="giygas.png" title="Giygas"><img src="giygast.png" width="50" height="50" /></a>
-{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 11:13:30 +0500" last-modified-by-name="lewahi" %}
+{% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 16:13:30 +0000" last-modified-by-name="lewahi" %}
 
-{% include box-open.html box-id="1716" title="Objects and Effects:" author-id="2262" timestamp="2005-11-10 12:00:11 +0600" type="norm" dbname="box7787" last-modified-by="127" %}
+{% include box-open.html box-id="1716" title="Objects and Effects" author-id="2262" timestamp="2005-11-10 18:00:11 +0000" type="norm" dbname="box7787" last-modified-by="127" %}
 <a href="ATM.png" title="ATM"><img src="ATMT.png" width="50" height="50" /></a>
 <a href="BackHoe.png" title="Back Hoe"><img src="BackHoeT.png" width="50" height="50" /></a>
 <a href="BentoBox.png" title="Bento Box"><img src="BentoBoxT.png" width="50" height="50" /></a>
@@ -493,9 +493,9 @@ date: 2005-11-10 12:00:11 +0600
 <a href="Underwater.png" title="Underwater"><img src="UnderwaterT.png" width="50" height="50" /></a>
 <a href="VendingCart.png" title="VendingCart"><img src="VendingCartT.png" width="50" height="50" /></a>
 <a href="YellowSubmarine.png" title="Yellow Submarine"><img src="YellowSubmarineT.png" width="50" height="50" /></a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2011-10-18 16:23:31 +0500" last-modified-by-name="METC" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2011-10-18 21:23:31 +0000" last-modified-by-name="METC" %}
 
-{% include box-open.html box-id="1717" title="Sprites:" author-id="2262" timestamp="2005-11-10 12:11:19 +0600" type="norm" dbname="box34181" last-modified-by="75" %}
+{% include box-open.html box-id="1717" title="Sprites" author-id="2262" timestamp="2005-11-10 18:11:19 +0000" type="norm" dbname="box34181" last-modified-by="75" %}
  Using <a href="http://forum.starmen.net/?t=usrinfo&amp;id=288">Tomato's</a> EarthBound
       Sprite Editor, we've ripped 1143 sprites straight from the game.
       We then converted them all into transparent .GIFs and zipped them up
@@ -509,4 +509,4 @@ date: 2005-11-10 12:00:11 +0600
 </ul>
 
 <a href="ebani.zip">Animated Sprites</a> - by <a href="mailto:nesseb0@aol.com">David B. Jones</a>
-{% include box-close.html author-name="KingDarian" last-modified-on="2006-02-28 18:54:26 +0600" last-modified-by-name="PoeTrader" %}
+{% include box-close.html author-name="KingDarian" last-modified-on="2006-03-01 00:54:26 +0000" last-modified-by-name="PoeTrader" %}

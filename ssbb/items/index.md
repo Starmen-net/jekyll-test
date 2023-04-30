@@ -2,16 +2,16 @@
 title: SSB:Brawl Items
 categories:
   - ssbb
-date: 2007-10-27 14:20:46 +0500
+date: 2007-10-27 19:20:46 +0000
 ---
-{% include box-open.html box-id="5075" title="Introduction:" author-id="28590" timestamp="2017-07-11 07:41:07 +0500" type="norm" dbname="box44669" last-modified-by="127" %}
+{% include box-open.html box-id="5075" title="Introduction" author-id="28590" timestamp="2017-07-11 12:41:07 +0000" type="norm" dbname="box44669" last-modified-by="127" %}
 Listed below are the items used in battles. This page is currently under construction,
  but it will be finished in the near future.<br /><br />
 
 You can find a full list of stickers <a href="https://starmen.net/ssbb/items/stickers/">here.</a>
-{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 07:46:39 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="CerealQueen" last-modified-on="2017-07-11 12:46:39 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="3315" title="Standard Items:" author-id="137" timestamp="2007-10-27 14:20:46 +0500" type="norm" dbname="box19374" last-modified-by="127" %}
+{% include box-open.html box-id="3315" title="Standard Items" author-id="137" timestamp="2007-10-27 19:20:46 +0000" type="norm" dbname="box19374" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="200px" />
@@ -263,9 +263,9 @@ You can find a full list of stickers <a href="https://starmen.net/ssbb/items/sti
     <th>...</th>
   </tr>
 </table>
-{% include box-close.html author-name="Jonk" last-modified-on="2018-04-23 21:34:50 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2018-04-24 02:34:50 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="3316" title="Assist Trophies:" author-id="137" timestamp="2007-10-27 14:21:26 +0500" type="norm" dbname="box46850" last-modified-by="127" %}
+{% include box-open.html box-id="3316" title="Assist Trophies" author-id="137" timestamp="2007-10-27 19:21:26 +0000" type="norm" dbname="box46850" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="200px" />
@@ -411,9 +411,9 @@ He can produce a flower graphic. This will zoom the camera in on the summoner.</
     <th>Waluigi will repeatedly stomp the ground, which can bury opponents and knock them out of the air, and then follow up with a kick or hit from his tennis racket.</th>
 </tr>
 </table>
-{% include box-close.html author-name="Jonk" last-modified-on="2018-04-23 23:00:10 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2018-04-24 04:00:10 +0000" last-modified-by-name="CerealQueen" %}
 
-{% include box-open.html box-id="3317" title="Pokemon:" author-id="137" timestamp="2007-10-27 14:23:19 +0500" type="norm" dbname="box35017" last-modified-by="127" %}
+{% include box-open.html box-id="3317" title="Pokemon" author-id="137" timestamp="2007-10-27 19:23:19 +0000" type="norm" dbname="box35017" last-modified-by="127" %}
 <table class="fixed" border="1">
     <col width="150px" />
     <col width="200px" />
@@ -569,4 +569,4 @@ He can produce a flower graphic. This will zoom the camera in on the summoner.</
     <th>Wobbuffet does nothing directly, but if it is attacked by any character (including the thrower), it will bounce around, and deal the same amount of damage to its attacker as it would if the attacker hit another player. (Example: if an attack would deal 17% to a player, but hits Wobbuffet, Wobbuffet will bounce back and deal 17% to the attacker)</th>
 </tr>
 </table>
-{% include box-close.html author-name="Jonk" last-modified-on="2018-04-23 23:38:13 +0500" last-modified-by-name="CerealQueen" %}
+{% include box-close.html author-name="Jonk" last-modified-on="2018-04-24 04:38:13 +0000" last-modified-by-name="CerealQueen" %}

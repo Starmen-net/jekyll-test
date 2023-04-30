@@ -2,9 +2,9 @@
 title: RADIO - DOWNLOADS - DJ FLY-BOI MATHYZ ARCHIVES
 categories:
   - radio
-date: 2006-02-20 16:04:31 +0600
+date: 2006-02-20 22:04:31 +0000
 ---
-{% include box-open.html box-id="1926" title="Downloadables!:" author-id="247" timestamp="2006-02-20 16:04:31 +0600" type="norm" dbname="box58420" last-modified-by="127" %}
+{% include box-open.html box-id="1926" title="Downloadables!" author-id="247" timestamp="2006-02-20 22:04:31 +0000" type="norm" dbname="box58420" last-modified-by="127" %}
 <p>
 Downloads are available for every DJ that's done a show for Radio PSI!  Click a link below to open a new page full of downloadable archives from your favorite DJ!
 </p><BR />
@@ -26,9 +26,9 @@ DJ Fly-Boi Mathyz<BR />
 <a href='/radio/downloads/showdax'>DJ Showdax</a><BR />
 <a href='/radio/downloads/simonbob'>DJ Simon Roberts</a><BR />
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:49:41 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:49:41 +0000" last-modified-by-name="Mansion Maniac" %}
 
-{% include box-open.html box-id="1932" title="DJ Fly-Boi Mathyz's Archive Downloads!:" author-id="247" timestamp="2006-02-20 16:20:57 +0600" type="norm" dbname="box54457" last-modified-by="127" %}
+{% include box-open.html box-id="1932" title="DJ Fly-Boi Mathyz's Archive Downloads!" author-id="247" timestamp="2006-02-20 22:20:57 +0000" type="norm" dbname="box54457" last-modified-by="127" %}
 <p>
 <a href="http://radio.starmen.net/dumps/archives/flyboimathyz/radiopsidumpdjmm20070915.ogg">September 15th, 2007</a>
 </p>
@@ -332,4 +332,4 @@ DJ Fly-Boi Mathyz<BR />
 <p>
 <a href="http://radio.starmen.net/dumps/archives/flyboimathyz/radiopsidumpdjmm20050910.ogg">September 10th, 2005</a>
 </p>
-{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 14:33:10 +0500" last-modified-by-name="Mansion Maniac" %}
+{% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-09-23 19:33:10 +0000" last-modified-by-name="Mansion Maniac" %}
