@@ -6,7 +6,7 @@ date: 2005-01-04 08:00:34 +0000
 ---
 {% include box-open.html box-id="455" title="Buyables" author-id="45" timestamp="2005-01-04 08:00:34 +0000" type="norm" dbname="box18582" last-modified-by="45" %}
 <center>
-<img src="http://www.starmen.net/merchandise/images/buyables.png" border="0" alt="Buyables" />
+<img src="http - //www.starmen.net/merchandise/images/buyables.png" border="0" alt="Buyables" />
 </center>
 
 <br />

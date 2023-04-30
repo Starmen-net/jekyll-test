@@ -8,19 +8,19 @@ date: 2007-07-18 16:41:25 +0000
 <table border="0" align="center">
 <tr>
 <td>
-<a href="/fanprograms/rpg.php"><img border="0" src="http://starmen.net/fanprograms/images/button_rpg.png"></img></a>
+<a href="/fanprograms/rpg.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_rpg.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/action.php"><img border="0" src="http://starmen.net/fanprograms/images/button_action.png"></img></a>
+<a href="/fanprograms/action.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_action.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/minigames.php"><img border="0" src="http://starmen.net/fanprograms/images/button_mini.png"></img></a>
+<a href="/fanprograms/minigames.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_mini.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/app.php"><img border="0" src="http://starmen.net/fanprograms/images/button_apps.png"></img></a>
+<a href="/fanprograms/app.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_apps.png"></img></a>
 </td>
 </tr>
 </table>
@@ -36,7 +36,7 @@ date: 2007-07-18 16:41:25 +0000
 <br />
 <b>Content -</b> executable<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/broken_slotmachine_1.png" title="Wow, 7-7-7!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/broken_slotmachine_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/broken_slotmachine_1.png" title="Wow, 7-7-7!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/broken_slotmachine_1t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-31 23:45:59 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3242" title="Dusty Slots" author-id="3404" timestamp="2007-07-24 14:08:37 +0000" type="norm" dbname="box54167" last-modified-by="127" %}
@@ -49,8 +49,8 @@ date: 2007-07-18 16:41:25 +0000
 <br />
 <b>Content -</b> zipped executable<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/dusty_slots_1.png" title="Let's get started." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/dusty_slots_1t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/dusty_slots_2.png" title="Darnit!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/dusty_slots_2t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/dusty_slots_1.png" title="Let's get started." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/dusty_slots_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/dusty_slots_2.png" title="Darnit!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/dusty_slots_2t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-31 23:45:47 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3226" title="EarthBoundX Demo #9" author-id="3404" timestamp="2007-07-18 16:43:16 +0000" type="norm" dbname="box15585" last-modified-by="127" %}

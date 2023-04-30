@@ -5,7 +5,7 @@ categories:
 date: 2012-11-09 15:07:15 +0000
 ---
 {% include box-open.html box-id="4567" author-id="18143" timestamp="2012-11-09 15:12:22 +0000" type="norm" dbname="box52732" last-modified-by="127" %}
-<center><img src="http://local-static0.forum-files.fobby.net/forum_attachments/0032/2295/Logo.png" /></center>
+<center><img src="http - //local-static0.forum-files.fobby.net/forum_attachments/0032/2295/Logo.png" /></center>
 {% include box-close.html author-name="Aangie" last-modified-on="2012-11-09 15:26:08 +0000" last-modified-by-name="Aangie" %}
 
 {% include box-open.html box-id="4566" author-id="18143" timestamp="2012-11-09 15:07:15 +0000" type="norm" dbname="box14959" last-modified-by="127" %}
@@ -18,7 +18,7 @@ The guidelines weren’t all typical of the past collab projects — no backgrou
 {% include box-close.html author-name="Aangie" last-modified-on="2012-11-09 15:12:03 +0000" last-modified-by-name="Aangie" %}
 
 {% include box-open.html box-id="4568" title="THIS NUMBER IS CURRENTLY OUT OF PORK CHOPS" author-id="18143" timestamp="2012-11-09 15:13:19 +0000" type="norm" dbname="box6466" last-modified-by="127" %}
-<center><a href="http://starmen.net/fanart/community/Porky-bot-Invasion.png"><img src="http://starmen.net/fanart/community/PorkyBotSmall.png" border="0" /></a><br />
+<center><a href="http - //starmen.net/fanart/community/Porky-bot-Invasion.png"><img src="http - //starmen.net/fanart/community/PorkyBotSmall.png" border="0" /></a><br />
 <font size="+1">Click on the image to see the full size version.</font></center><br />
 
 <b>Contributing artists:</b> Absoltastic

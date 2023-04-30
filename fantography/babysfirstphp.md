@@ -13,7 +13,7 @@ Regardless, I decided to make my own page instead of editing something that some
 {% include box-open.html box-id="4583" title="The Second Box" author-id="22707" timestamp="2013-03-21 04:26:11 +0000" type="norm" dbname="box32848" last-modified-by="127" %}
 Alright, so here's the second box. <br />
 
-<img src="https://starmen.net/fantography/images/sithbaby.jpeg" /><br />
+<img src="https - //starmen.net/fantography/images/sithbaby.jpeg" /><br />
 
 (img src="https://starmen.net/fantography/images/sithbaby.jpeg" /) (br /)(br /) <br /><br />
 
@@ -52,7 +52,7 @@ First, take all the ones you want to update with and check all of them in the ch
 
 Then once all are checked and processed, hit the "HTMLitize!" button at the top of the page. Then you'll want to copy/paste the text from the top text box and put it in place of the "Insert Submission Code Here" text in this 
 
-<center> <img src="http://starmen.net/fantography/Banner/fantographybanner.png" /> </center>
+<center> <img src="http - //starmen.net/fantography/Banner/fantographybanner.png" /> </center>
 
 Introduction
 

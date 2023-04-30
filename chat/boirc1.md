@@ -75,15 +75,15 @@ These original Best of IRC logs date between 1999-2001, encompassing the officia
 <p>
 <table border="0">
 <tr>
-<td VALIGN="middle" width="275"><a href="http://starmen.net/chat/boirc/mteattak.png">Attack of the MTEs!</a></td>
+<td VALIGN="middle" width="275"><a href="http - //starmen.net/chat/boirc/mteattak.png">Attack of the MTEs!</a></td>
 <td align="middle"><a href="http://starmen.net/chat/boirc/moreoneliners.html">More One-Liners</a></td>
 </tr>
 <tr>
-<td VALIGN="middle"><a href="http://starmen.net/chat/boirc/skattak.png">Attack of the sKaNks!</a></td>
+<td VALIGN="middle"><a href="http - //starmen.net/chat/boirc/skattak.png">Attack of the sKaNks!</a></td>
 <td VALIGN="middle"><a href="http://starmen.net/chat/boirc/topics.html">Topics</a></td>
 </tr>
 <tr>
-<td VALIGN="middle"><a href="http://starmen.net/chat/boirc/dictatorchannel.png">The ops reveal their true identities!</a></td>
+<td VALIGN="middle"><a href="http - //starmen.net/chat/boirc/dictatorchannel.png">The ops reveal their true identities!</a></td>
 <td VALIGN="middle"><a href="http://starmen.net/chat/boirc/gngintro.php">Goofus and Galloofus</a></td>
 </tr>
 <tr>

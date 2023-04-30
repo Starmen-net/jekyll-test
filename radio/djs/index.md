@@ -7,7 +7,7 @@ date: 2006-02-25 13:42:30 +0000
 {% include box-open.html box-id="1957" title="Starmen.Net Radio - Meet the DJs" author-id="247" timestamp="2006-02-25 13:42:30 +0000" type="norm" dbname="box28450" last-modified-by="127" %}
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/dj_mon.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/dj_mon.png" />
 </td>
 
 <td align="center">
@@ -47,7 +47,7 @@ DJ Mon broadcasts every single week ever, presently from 9:00 PM - Midnight, Eas
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/amzrigh.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/amzrigh.png" />
 </td>
 
 <td align="center">
@@ -99,7 +99,7 @@ DJ AmzTrak broadcasts his Throne of Games from 9:00 PM - Midnight, every Saturda
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nightshade.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nightshade.gif" />
 </td>
 
 <td align="center">

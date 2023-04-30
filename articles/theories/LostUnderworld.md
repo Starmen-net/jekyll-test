@@ -5,13 +5,13 @@ categories:
 date: 2012-01-04 19:19:17 +0000
 ---
 {% include box-open.html box-id="4154" title="Theories topic for the week of December  28, 2011 - January 4, 2012" author-id="1419" timestamp="2012-01-04 19:19:17 +0000" type="norm" dbname="box6336" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/41/village.png" title="Dinosaurs was my favorite TV program." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/41/village.png" title="Dinosaurs was my favorite TV program." /><p/>
 
 The Lost Underworld is this impossibly huge cavern beneath Deep Darkness, and perhaps, beneath the entire surface world! But, how did it get there, and why is it full of dinosaurs?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-04 19:23:58 +0000" last-modified-by-name="Captain Bozo" %}
 
 {% include box-open.html box-id="4155" title="Theory of the Week" author-id="1419" timestamp="2012-01-04 19:26:47 +0000" type="norm" dbname="box32579" last-modified-by="127" %}
-<center><img src="http://i.imgur.com/QySDR.png" title="OH FRIG HE'S HITTING ME WITH A BAT" /></center><p/>
+<center><img src="http - //i.imgur.com/QySDR.png" title="OH FRIG HE'S HITTING ME WITH A BAT" /></center><p/>
 
 - Claremonster
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-04 19:28:28 +0000" last-modified-by-name="Captain Bozo" %}

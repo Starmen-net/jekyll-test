@@ -56,7 +56,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-04 05:03:30 +0000" last-modified-by-name="Mr. Accident" %}
 
 {% include box-open.html box-id="1777" title="Tomato" author-id="168" timestamp="2006-01-03 20:49:38 +0000" type="norm" dbname="box17546" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/Tomato.gif" style="float:right;padding:10px" title="Augh! This isn't blood, it's ketchup!"/>
+<img src="http - //pkhack.fobby.net/images/hackers/Tomato.gif" style="float:right;padding:10px" title="Augh! This isn't blood, it's ketchup!"/>
 <p>Tomato is the guy. That's all there is to it around here. Tomato planted the seed from which the community has grown, struggled, and finally flourished, blossoming into a large perennial vining plant of the family <i>Solanaceae</i>.</p>
 
 <p></p>
@@ -65,7 +65,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 20:48:08 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1778" title="Blue Antoid" author-id="168" timestamp="2006-01-04 01:02:35 +0000" type="norm" dbname="box59315" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/BlueAntoid.gif" style="float:left;padding:10px" title="My mouth folds into my buttchin!"/>
+<img src="http - //pkhack.fobby.net/images/hackers/BlueAntoid.gif" style="float:left;padding:10px" title="My mouth folds into my buttchin!"/>
 
 <p>BlueAntoid joined the community a heck of a long time ago, and quickly became a respected fixture. He ascended to the position of de facto community leader after Tomato left, and held the post faithfully for some years.</p>
 
@@ -77,7 +77,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 21:48:39 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1784" title="Michael1" author-id="168" timestamp="2006-01-04 03:14:01 +0000" type="norm" dbname="box34013" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/michael_cayer.gif" style="float:left;padding:10px" title="Green shirt and blue pants: The attire of the Gods"/>
+<img src="http - //pkhack.fobby.net/images/hackers/michael_cayer.gif" style="float:left;padding:10px" title="Green shirt and blue pants: The attire of the Gods"/>
 <p>Lord of all angels, Michael1 stands for all that is great, good, and ASM in the hacking world. Despite being alright at ASM, it is his only weakness. He has super strength and stupor length. Whatever that means.</p>
 
 <p>Mike has made many awesome things, like skipping the naming menu and stuff like that. Only with his divine powers and your help, can, Mike accomplish these things. Go in #pkhax and thank him for his cool. He hates misplaced commas, though.</p>
@@ -88,7 +88,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 20:49:13 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1791" title="GuyInSummers" author-id="168" timestamp="2006-01-04 05:08:13 +0000" type="norm" dbname="box4507" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/GuyInSummers.gif" style="float:left;padding:10px" title="He's a bad bad guy!"/>
+<img src="http - //pkhack.fobby.net/images/hackers/GuyInSummers.gif" style="float:left;padding:10px" title="He's a bad bad guy!"/>
 
 <p>Our main antagonist often appears more than our hero, and many argue/wonder if he's really the protagonist and Radiation is the antagonist. GuyInSummers is a dark man in a dark cloak that likes dark things, like being outside on a Sunday and going to church. Everybody seems to be friends with him in #pkhax, if only they knew his dark secret...</p>
 
@@ -100,7 +100,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 20:49:39 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1779" title="Radiation" author-id="168" timestamp="2006-01-04 02:39:18 +0000" type="norm" dbname="box32317" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/Radiationplaceholder.gif" style="float:left;padding:10px" title="Oh, man! My brain just exploded at looking at how gway this dude is!" /><p>A really Rad (in more than one way!) dude who is the main character of our story. Radiation enjoys hot babes, beating up GuyInSummers and NLA, and making fun of people. He has also been kicked by all OPs and Half-Ops in the #pkhax IRC Channel. Creator of all things Arn, Radiation continues to contribute to society and will do whatever he can to help people and still be a jerk at the same time.</p>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/Radiationplaceholder.gif" style="float:left;padding:10px" title="Oh, man! My brain just exploded at looking at how gway this dude is!" /><p>A really Rad (in more than one way!) dude who is the main character of our story. Radiation enjoys hot babes, beating up GuyInSummers and NLA, and making fun of people. He has also been kicked by all OPs and Half-Ops in the #pkhax IRC Channel. Creator of all things Arn, Radiation continues to contribute to society and will do whatever he can to help people and still be a jerk at the same time.</p>
 
 <p>Radiation also has an unhealthy obsession with Cave Story and currently likes swords very much. Can you take this bad dude on? Well, you probably can't because most likely you'll be playing as him. Unless you're playing as Richter. That I can respect.</p>
 
@@ -110,7 +110,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 20:50:05 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1781" title="JeffMan" author-id="168" timestamp="2006-01-04 02:51:00 +0000" type="norm" dbname="box55542" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/jeffman.jpg" style="float:right;padding:10px" title="JeffMan: Protector of Gotham City!"/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/jeffman.jpg" style="float:right;padding:10px" title="JeffMan: Protector of Gotham City!"/>
 
 <p>JeffMan is a guy, probably. He only spells correctly  when he feels like it, you know? JeffMan has created many, many useful utilities that people use everyday, like the PSI Battle Animation Editor.</p>
 
@@ -124,7 +124,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-30 02:00:27 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1780" title="Mr. Tenda" author-id="168" timestamp="2006-01-04 02:49:00 +0000" type="norm" dbname="box5568" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/M09%20la%20tenda%20-%2042%20carVII.JPG" style="float:left;padding:10px" title="Look at all that raging manpower. The bulging abs. That's our Tenda."/><p>Mr. Tenda is the man with the plan. A vegetarian left-handed liberal spine-less pizza-bones, he is the first coolest character in the story but doesn't really  get that much stage time. He's a creative soul who makes Hat Quests and also Map Editors.</p>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/M09%20la%20tenda%20-%2042%20carVII.JPG" style="float:left;padding:10px" title="Look at all that raging manpower. The bulging abs. That's our Tenda."/><p>Mr. Tenda is the man with the plan. A vegetarian left-handed liberal spine-less pizza-bones, he is the first coolest character in the story but doesn't really  get that much stage time. He's a creative soul who makes Hat Quests and also Map Editors.</p>
 
 <p>Well, actually he only makes Crap Editors but at least they don't corrupt like <i>some people</i> I know.</p>
 
@@ -140,14 +140,14 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-30 02:12:18 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1782" title="Penguin" author-id="168" timestamp="2006-01-04 02:57:13 +0000" type="norm" dbname="box47196" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/opus.gif" style="float:right;padding:10px" title="Don't let his appearance fool you! Penguin is like Opus except with laser eyes."/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/opus.gif" style="float:right;padding:10px" title="Don't let his appearance fool you! Penguin is like Opus except with laser eyes."/>
 <p>JeffMan's mortal enemy, Penguin is a superhacker that is really good at ASM and stuff and hacks Gamecube games. He has powers far beyond what any normal human should have, and that lands him in the average penguin area. Penguin makes some slick hack findings, sometimes, and once went around calling himself Popple. Good times.</p>
 
 <p><br/><b>[This one is surprisingly not particularly factually incorrect. -Ed.]</b></p><br /><br />
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 21:10:57 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1823" title="EBisumaru" author-id="473" timestamp="2006-01-30 21:51:03 +0000" type="norm" dbname="box20937" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/ebisuman2.gif" style="float:left;padding:10px" title="RADIATION YOU $#^@ WHERE'S MY $#@^ING NINJA TURTLE SPRITE"/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/ebisuman2.gif" style="float:left;padding:10px" title="RADIATION YOU $#^@ WHERE'S MY $#@^ING NINJA TURTLE SPRITE"/>
 
 <p>Hey. Shh. Shh! Do you hear that?</p>
 
@@ -157,7 +157,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-30 22:10:31 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1785" title="AnyoneEB" author-id="168" timestamp="2006-01-04 03:15:45 +0000" type="norm" dbname="box15911" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/misc/Junk/aeb_avatar.png" style="float:right;padding:10px" title="Cheerio, gentlemen! I'll cut you!" /><p>AnyoneEB is the grand master-hacko dude and created JHack, which is the new PKHack. He is very skilled at Java. He's a very very cool guy, so I'll let him fill this box up with whatever he wants because I don't want to hurt his feelings or anything.</p>
+<img src="http - //pkhack.fobby.net/misc/Junk/aeb_avatar.png" style="float:right;padding:10px" title="Cheerio, gentlemen! I'll cut you!" /><p>AnyoneEB is the grand master-hacko dude and created JHack, which is the new PKHack. He is very skilled at Java. He's a very very cool guy, so I'll let him fill this box up with whatever he wants because I don't want to hurt his feelings or anything.</p>
 
 <p>He also believes in NPOV, or Neutral Point of View. Anyone that doesn't have a Neutral Point of View is an idiot.</p>
 
@@ -165,7 +165,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-06-09 02:10:09 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1783" title="EB_Girl" author-id="168" timestamp="2006-01-04 02:59:36 +0000" type="norm" dbname="box22889" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/EB_Girl.gif" style="float:left;padding:10px" title="Hitting on EB_Girl is like hitting on a pyromaniac's sister in the way that... uh, okay, so maybe it just is." />
+<img src="http - //pkhack.fobby.net/images/hackers/EB_Girl.gif" style="float:left;padding:10px" title="Hitting on EB_Girl is like hitting on a pyromaniac's sister in the way that... uh, okay, so maybe it just is." />
 <p><i>Did you know Mr. Accident once had a sister? Her name was Gerbil. Like her brother, she wielded powers far beyond that of mortals...</i></p>
 
 <p>EB_Girl is a hotty. <i>Yowza!</i> But no, really, she's cool. She made EarthBound 2.5 - The Giftman Chronicles, arguably one of the best hacks and one of the only two JeffMan has ever played. Are you ready? Can you do it? Do it. <i>Yowza!</i> No, really, she's a good hacker. <font size="1">But only because Mr. Accident helped her.</font></p>
@@ -174,13 +174,13 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-01-29 21:17:38 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1808" title="The NLA" author-id="473" timestamp="2006-01-28 12:50:07 +0000" type="norm" dbname="box47410" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/nla.GIF" style="float:left;padding:10px" title="My friends call me Beautiful NLA."/><P>The NLA is a big ugly dude with a penchant for pain and doing unto others what is done unto him. The NLA is often well-meaning, but will probably kill you if you look him in the eye(s?). He's hacked many things and sat on his butt in PKHACKland a lot, so that has to mean something. But maybe he just likes sitting. Or maybe butt. Either one. NLA was the original #pkhax butt, but(t) something happened and everything changed. He's friends with GiS, so I can't decide whether he's a good guy or a bad butt.</P>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/nla.GIF" style="float:left;padding:10px" title="My friends call me Beautiful NLA."/><P>The NLA is a big ugly dude with a penchant for pain and doing unto others what is done unto him. The NLA is often well-meaning, but will probably kill you if you look him in the eye(s?). He's hacked many things and sat on his butt in PKHACKland a lot, so that has to mean something. But maybe he just likes sitting. Or maybe butt. Either one. NLA was the original #pkhax butt, but(t) something happened and everything changed. He's friends with GiS, so I can't decide whether he's a good guy or a bad butt.</P>
 
 <b>[None of this is actually true, but(t) NLA hasn't said anything so I'm leaving this here. - Eddy]</b><br /><br /><br />
 {% include box-close.html author-name="Radiation" last-modified-on="2006-02-21 21:54:59 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1809" title="The Goplat" author-id="473" timestamp="2006-01-28 12:53:05 +0000" type="norm" dbname="box58509" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/cabbage.png" style="float:left;padding:10px" title="needs more anti-aliasing!"/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/cabbage.png" style="float:left;padding:10px" title="needs more anti-aliasing!"/>
 <p>Goplat is a very nice man and creates many things. He was once known as Cabbage and his hacking skills are unsurpassed... some say he is Tomato in disguise. He has created a Music Editor and many other wonderful things. But can you trust him? Yes, yes you can. I don't know why he scares me a little. Maybe his intelligence reminds me of Gau. That's probably it.</p>
 
 <b>[This could use some further research. Has anyone else any time to put into this development? - Edd]</b>
@@ -188,14 +188,14 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Radiation" last-modified-on="2006-02-06 01:32:57 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1810" title="Cromkayer" author-id="473" timestamp="2006-01-28 12:55:04 +0000" type="norm" dbname="box44975" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/Cromkayer.gif" style="float:left;padding:10px" title="I'm soft and loveable!"/>
+<img src="http - //pkhack.fobby.net/images/hackers/Cromkayer.gif" style="float:left;padding:10px" title="I'm soft and loveable!"/>
 <p>A hacker from long ago, not much is known about the elusive Cromkayer... some say that he can only be defeated with a silver bullet. But they were probably talking about werewolves and I came into the conversation too late. Oops! Also, I think he likes Cocoa pebbles but I'm not really sure about that one.</p>
 
 <b>[Butter toast! - Ed]</b>
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-31 13:46:41 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1818" title="EBrent" author-id="473" timestamp="2006-01-30 02:13:51 +0000" type="norm" dbname="box65310" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/ebrent.jpg" style="float:left;padding:10px" title="EBrent is our blackest whitest PKHacker dude."/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/ebrent.jpg" style="float:left;padding:10px" title="EBrent is our blackest whitest PKHacker dude."/>
 
 <p>EBrent smells like hat to the very end. He also fights for righteousness in a very neutral, self-entertaining kind of way. He enjoys parties and also Cave Story and the name _. Sometimes he can be seen on IRC. Otherwise, he's on crack. He is not a bad jie. Through fire, justice is served.</p>
 
@@ -203,7 +203,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-30 23:21:49 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1824" title="Poik Double O Seven" author-id="473" timestamp="2006-01-30 23:21:58 +0000" type="norm" dbname="box57503" last-modified-by="127" %}
-<img src="http://img236.imageshack.us/img236/3853/spacegordon0za.gif" style="float:right;padding:10px" title="Gordon... FINISH!!!"/>
+<img src="http - //img236.imageshack.us/img236/3853/spacegordon0za.gif" style="float:right;padding:10px" title="Gordon... FINISH!!!"/>
 <p>Poik007 is a mystery, even himself does not understand why he is on this page. He does not understand his pkhack badge. He does not understand anything, all he can do is be around and help, smile, and use weird smileys. Poik is supposed to be some kind of pkhack elite. Maybe he is, he started 5 hacks, all of them died in horrible pain and... KITTIES! Poik loves happy stuff and poik loves hacking. Therefore hacking is happy stuff.</p>
 
 <p>Poik double o seven, whose real name is Jeremie Tessier, is a french canadian programmer in training. And he's 19 years old. And a really nice guy Very Happy He codes with Omelettes du Fromage. Yes, he's that hardcore. Actually, poik loves visual basic, and is starting to leave her to see C++, his awesome lover. He makes stuff in C++, he makes hacking tools? Yes very true!</p>
@@ -212,7 +212,7 @@ date: 2006-01-03 19:11:00 +0000
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-30 23:23:17 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1826" title="ZUSHIBA" author-id="473" timestamp="2006-01-31 13:42:13 +0000" type="norm" dbname="box60304" last-modified-by="127" %}
-<img src="http://pkhack.fobby.net/images/hackers/Frieza.gif" style="float:left;padding:10px" title="Maybe a pizza trophy."/>
+<img src="http - //pkhack.fobby.net/images/hackers/Frieza.gif" style="float:left;padding:10px" title="Maybe a pizza trophy."/>
 
 <p>In the words of GuyInSummers: `In his own words: "I hate stupid people. I like pizza and girls. I'm a Computer Science major and an Archaeology minor."
 That says a lot about the man we know as Frieza (or Zushiba). Wielding the might of Saget Man, Frieza has been with this community from the very beginning. Beyond EarthBound, he has lent his coolness to the creation of editors for various games such as Chrono Trigger, and is a founding member of Sexy Beam Translations.'</p>
@@ -222,7 +222,7 @@ That says a lot about the man we know as Frieza (or Zushiba). Wielding the might
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-31 13:44:15 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="2540" title="n42 moar liek n12 am i rite" author-id="473" timestamp="2006-08-16 01:58:51 +0000" type="norm" dbname="box17468" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/n42.jpg" style="float:left;padding:10px" title="You gotta have blue hair!"/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/n42.jpg" style="float:left;padding:10px" title="You gotta have blue hair!"/>
 
 [n42] I discovered the TPT<br />
 [n42] I made the first TPT editor<br />
@@ -239,7 +239,7 @@ That says a lot about the man we know as Frieza (or Zushiba). Wielding the might
 {% include box-close.html author-name="Radiation" last-modified-on="2006-08-16 02:09:57 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1811" title="Gau - The Big Bad Boss Man" author-id="473" timestamp="2006-01-28 12:56:43 +0000" type="norm" dbname="box51424" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/jauok.gif " style="float:left;padding:10px" title="I'm not really a bad person; Radiation's just a jerk."/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/jauok.gif " style="float:left;padding:10px" title="I'm not really a bad person; Radiation's just a jerk."/>
 <b>THE FOLLOWING IS ALL MADE UP BY RADIATION AND IS NOT REMOTELY TRUE AT ALL:</b><br /><br />
 
 <p>Gau is a soul who loves intelligence, the Japanese language, and Sailor Moon. <i>All things evil.</i> Wait, no, that's not right. But yeah, he likes smarts. More specifically, smart people...</p>
@@ -258,7 +258,7 @@ That says a lot about the man we know as Frieza (or Zushiba). Wielding the might
 {% include box-close.html author-name="Radiation" last-modified-on="2006-06-09 02:08:52 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1813" title="Mr. Accident - Well Meaning Destroyer" author-id="473" timestamp="2006-01-28 13:03:03 +0000" type="norm" dbname="box50367" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/mra.gif" style="float:left;padding:10px" title="Mr. Accident: Friendly pyro or psychopathic programmer?"/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/mra.gif" style="float:left;padding:10px" title="Mr. Accident: Friendly pyro or psychopathic programmer?"/>
 <p>Mr. Accident is a guy we all know and love. He's super<i>bad</i>, super<i>rad</i>, super<i>glad</i>, super<i>had</i>. He has created such famous utilities such as M*p E**t*r *.2 and other things. One of the few original hackers left, Mr. Accident is supercool and blesses us with his ultrabilities.</p>
 
  <p><i>However...</i></p>
@@ -269,7 +269,7 @@ That says a lot about the man we know as Frieza (or Zushiba). Wielding the might
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-30 23:02:30 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1812" title="??? ????? - Bringer of the Apocalypse" author-id="473" timestamp="2006-01-28 13:01:56 +0000" type="norm" dbname="box18106" last-modified-by="127" %}
-<img src="http://starmen.net/pkhack/pk_pixx/gallery/catloverok.gif" style="float:left;padding:10px" title="Radiation's right. I actually am evil."/>
+<img src="http - //starmen.net/pkhack/pk_pixx/gallery/catloverok.gif" style="float:left;padding:10px" title="Radiation's right. I actually am evil."/>
 
 
 <p>This person really, really likes cats. That aside, this man is the incarnate of raw chaos. Even Gau fears his power, which often appears in mysterious, enigmatic topics created without explanation or reason. Few say he is mentally retarded, because if they did, he would zap them. Zow! Zow!</p>
@@ -279,7 +279,7 @@ That says a lot about the man we know as Frieza (or Zushiba). Wielding the might
 {% include box-close.html author-name="Radiation" last-modified-on="2006-01-30 22:55:48 +0000" last-modified-by-name="Radiation" %}
 
 {% include box-open.html box-id="1814" title="DEATH EDITOR BOUND - Final Boss" author-id="473" timestamp="2006-01-28 13:04:27 +0000" type="norm" dbname="box24245" last-modified-by="127" %}
- <img src="http://starmen.net/pkhack/pk_pixx/gallery/deb.PNG" style="float:left;padding:10px" title="BLAARGH I AM CHAOS" /><p>Death Editor Bound is the ultimate bad guy, a creation of raw hatred, corruption, chaos, and ultimately lucidity.</p>
+ <img src="http - //starmen.net/pkhack/pk_pixx/gallery/deb.PNG" style="float:left;padding:10px" title="BLAARGH I AM CHAOS" /><p>Death Editor Bound is the ultimate bad guy, a creation of raw hatred, corruption, chaos, and ultimately lucidity.</p>
 
  <p>Death Editor Bound was created in a freak accident in which a virus lumped files together on ??? ?????'s computer. Being infected with Gau's virus, the virus lumped together that, Map Editor 4, and Freebound. The result? A virus that creates endless copies of FreeBound if you have an EarthBound ROM on your computer, along with infecting all PKHACKing utilities and turning them into new viruses. After raw chaos and corruption surge through your computer, turning all chips into something somewhat like grape jelly, your computer will display nothing but a blank black screen with a white line, blinking. Slowly, slowly... EARTHBOUND. What? It's FreeBound, right? But there is nothing left. All that is left is a grey screen. All characters speak in monotone and all caps except for four character... the main ones.</p>
 

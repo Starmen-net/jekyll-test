@@ -14,23 +14,23 @@ AnnK is an amazing painter with quite a history on Starmen.net. She’s been aro
 {% include box-open.html box-id="4507" title="Submissions" author-id="6132" timestamp="2012-08-28 21:49:35 +0000" type="norm" dbname="box18716" last-modified-by="127" %}
 METC: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/metc_5.jpg"  width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/metc_5.jpg"  width="700"/> <br /><br />
 
 
 oceanlover4evr: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/oceanlover4evr_5.png"  width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/oceanlover4evr_5.png"  width="700"/> <br /><br />
 
 tallasisco: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/tallasisco_5.jpg"  width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/tallasisco_5.jpg"  width="700"/> <br /><br />
 
 With a Hint of Lemon: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/With%20a%20Hint%20of%20Lemon_5.jpg"  width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/With%20a%20Hint%20of%20Lemon_5.jpg"  width="700"/> <br /><br />
 
 smokinthekraken: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/smokinthekraken_5.jpg"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/smokinthekraken_5.jpg"/> <br /><br />
 
 {% include box-close.html author-name="Eyes5" last-modified-on="2012-09-04 19:06:06 +0000" last-modified-by-name="Eyes5" %}

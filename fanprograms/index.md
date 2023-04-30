@@ -26,19 +26,19 @@ If you'd like feedback, help, or just want to advertise a work in progress pleas
 <table border="0" align="center">
 <tr>
 <td>
-<a href="/fanprograms/rpg.php"><img border="0" src="http://starmen.net/fanprograms/images/button_rpg.png"></img></a>
+<a href="/fanprograms/rpg.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_rpg.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/action.php"><img border="0" src="http://starmen.net/fanprograms/images/button_action.png"></img></a>
+<a href="/fanprograms/action.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_action.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/minigames.php"><img border="0" src="http://starmen.net/fanprograms/images/button_mini.png"></img></a>
+<a href="/fanprograms/minigames.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_mini.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/app.php"><img border="0" src="http://starmen.net/fanprograms/images/button_apps.png"></img></a>
+<a href="/fanprograms/app.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_apps.png"></img></a>
 </td>
 </tr>
 </table>

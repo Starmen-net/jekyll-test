@@ -10,7 +10,7 @@ date: 2014-01-13 07:43:06 +0000
 {% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-20 07:30:56 +0000" last-modified-by-name="Strawberry Tofu" %}
 
 {% include box-open.html box-id="4624" title="Hey, kids! It's..." author-id="4164" timestamp="2014-01-13 07:43:06 +0000" type="norm" dbname="box1134" last-modified-by="127" %}
-<center><IMG SRC= "http://starmen.net/mailbag/guidelines.png" ALT="Fun with a Purpose!"/></center>
+<center><IMG SRC= "http - //starmen.net/mailbag/guidelines.png" ALT="Fun with a Purpose!"/></center>
 <br/>
 <p style="text-align: center;"><b>Picky</b> and <b>Porky</b> both enjoy watching Mailbag every week. They've even sent in submissions of their own! However, while Picky's submissions are some of vid and Tofu's favorites, Porky's submissions haven't even shown up in a single episode! Looking over the facts, it's not hard to see why:</p>
 {% include box-close.html author-name="Strawberry Tofu" last-modified-on="2014-01-13 08:02:56 +0000" last-modified-by-name="Strawberry Tofu" %}

@@ -26,8 +26,8 @@ Many music players are able to play Radio PSI.
 </p>
 
 <ul>
-<li><img src="http://starmen.net/radio/images/icons/vlc.png" /> VLC is known to function correctly.</li>
-<li><img src="http://starmen.net/radio/images/icons/winamp.ico" /> Winamp is known to function correctly.</li>
+<li><img src="http - //starmen.net/radio/images/icons/vlc.png" /> VLC is known to function correctly.</li>
+<li><img src="http - //starmen.net/radio/images/icons/winamp.ico" /> Winamp is known to function correctly.</li>
 <li>mplayer is known to function correctly, but version-specific issues have been noted. It is considered supported, but is not guaranteed to be compatible.</li>
 </ul>
 {% include box-close.html author-name="cyan683" last-modified-on="2013-03-14 20:50:07 +0000" last-modified-by-name="cyan683" %}

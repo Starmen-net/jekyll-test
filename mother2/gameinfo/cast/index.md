@@ -24,7 +24,7 @@ Compared to the other members of the chosen four, Ness is the strongest in many 
 
 <p>
 <div style="float: left; width: 55px; margin: 0 1em 0 0;">
-<img class="picleft" src="http://starmen.net/mother2/images/game/paula.png"/><br />
+<img class="picleft" src="http - //starmen.net/mother2/images/game/paula.png"/><br />
 </div>
 Paula is the psychic powerhouse of the team but you probably wouldn’t expect that coming from a teenage preschool aide.  Paula is a native of Twoson, the second town on our hero’s journey.  She lives with her Mother and Father in their home that also serves as a day-care for young children known as the Polestar Preschool.  She is very well liked by all of the children there and some even claim they want to be “juuuusst like Paula” when they grow up.  Paula is also quite the celebrity in her hometown.  Because of her psychic prowess she’s the subject of a lot of talk in Twoson and reporters constantly visit her home in the hopes of getting an interview with such a wunderkind.<br />
 <br />
@@ -77,7 +77,7 @@ Out of battle, Paula’s psychic abilities are able to help out Ness and co. as 
 
 <p>
 <div style="float: left; width: 55px; margin: 0 1em 0 0;">
-<img class="picleft" src="http://starmen.net/mother2/images/game/jeff.png"/><br />
+<img class="picleft" src="http - //starmen.net/mother2/images/game/jeff.png"/><br />
 </div>
 Jeff Andonuts hails from the northern country of Winters.  He spends his days within the stately walls of the Snowwood Boarding School, until one night he is woken by a telepathic call that urges him to travel south.  Against the wishes of his eccentric roommate Tony he heeds the call and ventures out into the dimly lit forests.  Although they haven’t seen each other in over a decade, the only family Jeff possesses is his Father, the famous Dr. Andonuts.  When Jeff comes upon his lab during his southbound trek the family reunion is short as Dr. Andonuts quickly ushers him into his homemade flying saucer, the Sky Runner, and sets the coordinates for Threed where our two heroes are being held captive.<br />
 <br />
@@ -129,7 +129,7 @@ During battle Jeff has the exclusive ability to spy on an enemy.  The spy comman
 
 <p>
 <div style="float: left; width: 55px; margin: 0 1em 0 0;">
-<img class="picleft" src="http://starmen.net/mother2/images/game/poosit.png"/><br />
+<img class="picleft" src="http - //starmen.net/mother2/images/game/poosit.png"/><br />
 </div>
 Our final hero is the esteemed Prince Poo of Dalaam.  He makes his home in the Dalaamese Palace with his master and royal attendants but most of his time is spent performing his arduous Mu training.  Adored by women and respected by men, Poo is the epitome of royal grace and tact and is always willing to lend a hand or a fist to help out.  Poo’s lifelong Mu training has hardened his body and strengthened his mind making him one of the most powerful members of the chosen four.  An impressive blend of martial arts mastery and potent psychic ability, Poo is a welcomed addition when his master tells him to join Ness and the others in their quest to defeat Giygas.<br />
 <br />

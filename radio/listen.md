@@ -62,8 +62,8 @@ Here is a list of confirmed media players able to play the audio source when bei
 </p>
 
 <ul>
-<li><img src="http://starmen.net/radio/images/icons/vlc.png" /> VLC is known to function correctly. To do so, open a Network Stream (Ctrl+N) and copy the URL.</li>
-<li><img src="http://starmen.net/radio/images/icons/winamp.ico" /> Winamp is known to function correctly. To do so, add an URL to the playlist (Ctrl+L) and copy the URL.</li>
+<li><img src="http - //starmen.net/radio/images/icons/vlc.png" /> VLC is known to function correctly. To do so, open a Network Stream (Ctrl+N) and copy the URL.</li>
+<li><img src="http - //starmen.net/radio/images/icons/winamp.ico" /> Winamp is known to function correctly. To do so, add an URL to the playlist (Ctrl+L) and copy the URL.</li>
 </ul>
 
 <p>

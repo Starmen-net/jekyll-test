@@ -6,7 +6,7 @@ date: 2005-04-03 09:03:03 +0000
 ---
 {% include box-open.html box-id="801" title="Plo's HARD Trivia" author-id="56" timestamp="2005-04-03 09:03:03 +0000" type="norm" dbname="box57905" last-modified-by="56" %}
                   <CENTER>
-                     <IMG SRC="http://plo.fobby.net/phtbanners/PHTbanner2.png" WIDTH="480" HEIGHT="358" ALT="Plo's HARD Trivia" />
+                     <IMG SRC="http - //plo.fobby.net/phtbanners/PHTbanner2.png" WIDTH="480" HEIGHT="358" ALT="Plo's HARD Trivia" />
                   </CENTER>
                   <br /><br />
 <br /><br /><A HREF="faq.php">Please read the FAQs first,</A> otherwise you'll get confused.

@@ -6,7 +6,7 @@ date: 2009-08-16 20:42:26 +0000
 ---
 {% include box-open.html box-id="3783" title="BanHammer" author-id="474" timestamp="2009-08-16 20:42:26 +0000" type="blank" dbname="box2170" last-modified-by="127" %}
 <center>
-<img src="http://starmen.net/comics/series/name/namebanner.png" alt="Name Banner" />
+<img src="http - //starmen.net/comics/series/name/namebanner.png" alt="Name Banner" />
 </center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2009-08-16 20:43:10 +0000" last-modified-by-name="Artemis251" %}
 

@@ -5,7 +5,7 @@ categories:
 date: 2006-06-02 21:04:01 +0000
 ---
 {% include box-open.html box-id="2375" title="The Radio PSI Rumble Tournament 2007" author-id="247" timestamp="2006-06-02 21:04:01 +0000" type="norm" dbname="box24667" last-modified-by="127" %}
-<p><div align="center"><img src="http://starmen.net/radio/images/radioPSI_logo_tourney2.png" /></div></p>
+<p><div align="center"><img src="http - //starmen.net/radio/images/radioPSI_logo_tourney2.png" /></div></p>
 
 <p>
 The category for this year's tournament is "#1's", not to be confused with last year's "One Hit Wonders" tournament.  In order to be in the tournament, a song must have spent three weeks total, on the American Billboard's Hot 100 chart.  This does not include the "Pre-Rock and Roll" or "Rock and Roll/Pre-Hot 100" eras.

@@ -23,5 +23,5 @@ The answer is no! He made his return after Halloween with some warmers draped ov
 {% include box-open.html box-id="3701" title="Source" author-id="2262" timestamp="2009-03-18 18:05:16 +0000" type="norm" dbname="box5546" last-modified-by="127" %}
 <a href="http://www.1101.com/otama/index.html">Webcam main page</a><BR />
 <a href="http://www.1101.com/otama/auto.html">Auto-updating Webcam feed</a><BR />
-<a href="http://www.1101.com/IMAGES/fullsize.jpg">Latest Webcam shot</a><BR />
+<a href="http - //www.1101.com/IMAGES/fullsize.jpg">Latest Webcam shot</a><BR />
 {% include box-close.html author-name="KingDarian" last-modified-on="2009-03-18 18:05:27 +0000" last-modified-by-name="KingDarian" %}

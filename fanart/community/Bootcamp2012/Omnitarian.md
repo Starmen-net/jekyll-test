@@ -18,37 +18,37 @@ Omnitarian has been around the site for quite a while, and has made a name for h
 {% include box-open.html box-id="4503" title="Submissions" author-id="6132" timestamp="2012-08-26 19:18:11 +0000" type="norm" dbname="box9425" last-modified-by="127" %}
 BlueDrago: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/BlueDrago_3.png"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/BlueDrago_3.png"  width="600"/> <br /><br />
 
 aviarei: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/aviarei_3.png" width=""/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/aviarei_3.png" width=""/> <br /><br />
 
 
 absoltastic: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/absoltastic_3.png"  width=""/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/absoltastic_3.png"  width=""/> <br /><br />
 
 
 emcee: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/emcee_3.png" width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/emcee_3.png" width="700"/> <br /><br />
 
 
 jojora: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/jojora_3.png"  width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/jojora_3.png"  width="700"/> <br /><br />
 
 tallasisco: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/tallasisco_3.png" width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/tallasisco_3.png" width="700"/> <br /><br />
 
 
 yoshistar: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/yoshistar_3.png"  width="700"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/yoshistar_3.png"  width="700"/> <br /><br />
 
 METC: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/metc_3.png"  width=""/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/metc_3.png"  width=""/> <br /><br />
 {% include box-close.html author-name="Eyes5" last-modified-on="2012-09-04 18:45:16 +0000" last-modified-by-name="Eyes5" %}

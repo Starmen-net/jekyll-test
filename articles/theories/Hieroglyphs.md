@@ -5,7 +5,7 @@ categories:
 date: 2012-01-25 21:08:54 +0000
 ---
 {% include box-open.html box-id="4185" title="Theories topic for the week of January 18 - January 25, 2012" author-id="1419" timestamp="2012-01-25 21:08:54 +0000" type="norm" dbname="box7725" last-modified-by="127" %}
-<center><img src="http://starmen.net/articles/theories/Earthbound_Mummies.jpg" title="DON'T MIND THE MUMMIES" /><p/>
+<center><img src="http - //starmen.net/articles/theories/Earthbound_Mummies.jpg" title="DON'T MIND THE MUMMIES" /><p/>
 
 In Earthbound, you come across a tablet. On the tablet, in the ancient hieroglyphs of the Scarabans, is the story of an ancient struggle with an evil power, and the prophecy of its return. I asked you what this REALLY meant, and two of you delivered some FANTASTIC Theories.</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-01-25 21:17:40 +0000" last-modified-by-name="Captain Bozo" %}

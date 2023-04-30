@@ -5,7 +5,7 @@ categories:
 date: 2012-02-29 21:08:38 +0000
 ---
 {% include box-open.html box-id="4309" title="Theories topic for the week of February 22 - 29, 2012:" author-id="1419" timestamp="2012-02-29 21:08:38 +0000" type="norm" dbname="box28319" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/mother3/image/screens/04/magypsies1.png" title="Right, they're the scary ones..." /><p/>
+<center><img src="http - //walkthrough.starmen.net/mother3/image/screens/04/magypsies1.png" title="Right, they're the scary ones..." /><p/>
 
 The Magypsies are about as mysterious as they come. They're these incredibly old human-like creatures that seem to guard Nowhere Island... but is there more?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-29 21:13:23 +0000" last-modified-by-name="Captain Bozo" %}

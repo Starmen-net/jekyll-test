@@ -5,7 +5,7 @@ categories:
 date: 2011-12-15 04:19:37 +0000
 ---
 {% include box-open.html box-id="4147" title="Theories topic for the week of December 7 - December 14, 2011" author-id="1419" timestamp="2011-12-15 04:19:37 +0000" type="norm" dbname="box47987" last-modified-by="127" %}
-<center><img src="http://starmen.net/mother2/images/game/starmanjr.png" title="I WANT TO SAY HELLO, BUT I THINK I'D BLOW YOUR MIND *whirr*" /><p/>The Starmen seem to be Giygas's elite fighting force, making up the most powerful units in his(her?) military. But what ARE they? Where do they originally come from? Are they organic or robotic? That's what I asked you, the readers of Starmen.net, to answer.</center>
+<center><img src="http - //starmen.net/mother2/images/game/starmanjr.png" title="I WANT TO SAY HELLO, BUT I THINK I'D BLOW YOUR MIND *whirr*" /><p/>The Starmen seem to be Giygas's elite fighting force, making up the most powerful units in his(her?) military. But what ARE they? Where do they originally come from? Are they organic or robotic? That's what I asked you, the readers of Starmen.net, to answer.</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-15 04:22:57 +0000" last-modified-by-name="Captain Bozo" %}
 
 {% include box-open.html box-id="4148" title="Theory of the Week" author-id="1419" timestamp="2011-12-15 04:23:04 +0000" type="norm" dbname="box32871" last-modified-by="127" %}

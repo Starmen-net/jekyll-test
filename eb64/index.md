@@ -45,7 +45,7 @@ The playable demo at <a href="spaceworld">Spaceworld 1999</a> featured a wide va
 <br />
 <a class="picright" href="images/lookingup.jpg"><img src="images/lookingupt.jpg" alt="EB64 Screenshot" /></a>The 64DD, however, was quickly canned, and Mother 3 was shifted to the normal Nintendo 64 lineup. The game suffered further delays following Spaceworld, and seemed to be losing interest as Nintendo's next-generation Gamecube system prepared to dethrone the Nintendo 64. Rumors of the game's troubles spread, and fans went on the offensive, organizing a <a href="/petition/eb64">petition</a> to indicate their continued interest in the game despite the many delays. In spite of this, the game was <a href="cancellation">cancelled</a> late in the summer of 2000.<br />
 <br />
-In September 2002, <a href="http://starmen.net/siteinfo/image/smnetinegm3.jpg">EGM rumored that the game was being resurrected</a>. In the following months and years, the game's creator, Shigesato Itoi, began dropping hints on his personal website that he had indeed resumed work on the game, and in early 2006 he announced that the game, <a href="/mother3">Mother 3 on the Game Boy Advance</a>, had been completed.</p>
+In September 2002, <a href="http - //starmen.net/siteinfo/image/smnetinegm3.jpg">EGM rumored that the game was being resurrected</a>. In the following months and years, the game's creator, Shigesato Itoi, began dropping hints on his personal website that he had indeed resumed work on the game, and in early 2006 he announced that the game, <a href="/mother3">Mother 3 on the Game Boy Advance</a>, had been completed.</p>
 
 {% include box-close.html author-name="Skulryk" last-modified-on="2006-11-07 11:57:13 +0000" last-modified-by-name="reidman" %}
 

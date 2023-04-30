@@ -31,7 +31,7 @@ date: 2011-01-10 03:22:22 +0000
 		</tr>
 		<tr>
 			<td class="label">Rare Rating:</td>
-			<td><img src="http://starmen.net/merchandise/images/ness_icon.gif" /></td>
+			<td><img src="http - //starmen.net/merchandise/images/ness_icon.gif" /></td>
 		</tr>
 		<tr>
 			<td class="label">Get It:</td>

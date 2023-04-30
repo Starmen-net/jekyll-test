@@ -5,7 +5,7 @@ categories:
 date: 2012-03-28 22:28:13 +0000
 ---
 {% include box-open.html box-id="4380" title="Theories topic for the week of March 21 - March 28, 2012" author-id="1419" timestamp="2012-03-28 22:28:13 +0000" type="norm" dbname="box26779" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/43/flyingman.png" title="My name is Captain Bozo, and I am a furry man." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/43/flyingman.png" title="My name is Captain Bozo, and I am a furry man." /><p/>
 The Flying Man is enlist-able help in the world of Magicant. But that seems to be ALL we know. What is the TRUE nature of the Flying man?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-28 22:31:19 +0000" last-modified-by-name="Captain Bozo" %}
 

@@ -5,7 +5,7 @@ categories:
 date: 2012-05-03 03:52:10 +0000
 ---
 {% include box-open.html box-id="4437" title="Theories topic for the week of April 25 - May 2, 2012" author-id="1419" timestamp="2012-05-03 03:52:10 +0000" type="norm" dbname="box57849" last-modified-by="127" %}
-<center><img src="http://starmen.net/articles/theories/FoursideM3Building.png" title="SUCH SECRETS AND WONDERS. WHEN WILL THIS GAME COME OUT :OOO" /><p/>
+<center><img src="http - //starmen.net/articles/theories/FoursideM3Building.png" title="SUCH SECRETS AND WONDERS. WHEN WILL THIS GAME COME OUT :OOO" /><p/>
 
 Man, who doesn't know about this building? Back in the day, I played this game, and always visited this landmark, and wondered, "Man... what's going on behind those doors?"<p/>
 

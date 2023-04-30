@@ -5,7 +5,7 @@ categories:
 date: 2012-02-15 07:42:51 +0000
 ---
 {% include box-open.html box-id="4271" title="Theories topic for the week of February 9 - 15, 2012:" author-id="1419" timestamp="2012-02-15 07:42:51 +0000" type="norm" dbname="box52748" last-modified-by="127" %}
-<center><img src="http://i.imgur.com/JhVKZ.png" title="That's one attractive rock~" /><p/>
+<center><img src="http - //i.imgur.com/JhVKZ.png" title="That's one attractive rock~" /><p/>
 
 Magnet Hill. Behind the Fourside Department Store, and secluded from all of the world. Only accessible via the sewer system. What is it? Why is it there? How was it made?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-15 07:46:09 +0000" last-modified-by-name="Captain Bozo" %}

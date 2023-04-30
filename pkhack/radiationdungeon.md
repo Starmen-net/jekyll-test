@@ -15,5 +15,5 @@ anyway I could hotlink some anigifs but I really don't feel like it so bye<br />
 
 <b>SUBMAGICIANS</b>:<br /><br />
 
-<a href="http://starmen.net/vote/vote.php?id=12078"><img src="http://starmen.net/files/0000/2f2e/gispunch.gif.thumb.gif" border="0" /></a>
+<a href="http://starmen.net/vote/vote.php?id=12078"><img src="http - //starmen.net/files/0000/2f2e/gispunch.gif.thumb.gif" border="0" /></a>
 {% include box-close.html author-name="Radiation" last-modified-on="2006-02-21 22:24:22 +0000" last-modified-by-name="Radiation" %}

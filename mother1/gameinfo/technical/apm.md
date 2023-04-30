@@ -15,7 +15,7 @@ While it is very unlikely to experience the screen in the third or first version
 
 As for how to identify each version of the ROM, the user only has to examine the title screen to find out! The first, unmodified version of the ROM showcases the standard “Earth Bound” text, with only a Trademark ( TM ) and copyright information present. The second version of the ROM displays a solid white “Zero” under the logo alongside all other information, while the third version showcases a frosted “Zero”, decorated with blue at the top and white across the bottom of each letter. For both, an image can be seen below. <br /><br />
 
-<img src="https://starmen.net/mother1/gameinfo/technical/EbbAPM1.gif" /> <img src="https://starmen.net/mother1/gameinfo/technical/EbbAPM2.gif" /><br /><br />
+<img src="https - //starmen.net/mother1/gameinfo/technical/EbbAPM1.gif" /> <img src="https - //starmen.net/mother1/gameinfo/technical/EbbAPM2.gif" /><br /><br />
 
 In more recent years, one more feat was accomplished by Starmen.net forum user, wyatt8740, who managed to generate a method of modification that is able to remedy an already defective ROM, which can be found <a href="https://forum.starmen.net/forum/Community/PKHack/I-found-out-how-to-fix-anti-piracy-Screens-in-hacked-EarthBound-Zero-ROMs-by-Changing-a-single-byte/page/1#post1894796">here.</a>
 {% include box-close.html author-name="Sith" last-modified-on="2015-08-03 01:16:42 +0000" last-modified-by-name="Sith" %}

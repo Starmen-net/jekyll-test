@@ -11,7 +11,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 {% include box-open.html box-id="4538" title="DJ Mon's \"The_Crew\" (DJ Mon - Digital Monsters and RPG Club)" author-id="5884" timestamp="2012-10-02 17:38:02 +0000" type="norm" dbname="box45592" last-modified-by="127" %}
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -40,7 +40,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 
 <table>
 <p align="center" valign="middle"><td rowspan="3" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -69,7 +69,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -95,7 +95,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -118,7 +118,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -144,7 +144,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -169,7 +169,7 @@ Over the years, Radio PSI has accumulated many supporting members. While not DJs
 {% include box-open.html box-id="4543" title="DJ Amztrak's Throne of Games" author-id="5884" timestamp="2012-10-10 17:49:19 +0000" type="norm" dbname="box54486" last-modified-by="127" %}
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">

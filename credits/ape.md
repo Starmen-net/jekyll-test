@@ -6,7 +6,7 @@ date: 2005-09-22 01:16:03 +0000
 ---
 {% include box-open.html box-id="1467" title="APE, Inc." author-id="2262" timestamp="2005-09-22 01:16:03 +0000" type="norm" dbname="box25651" last-modified-by="127" %}
 <b>Bio</b><BR />
-<img src="http://starmen.net/credits/APE.png" align="right" />
+<img src="http - //starmen.net/credits/APE.png" align="right" />
 Ape was started as a development team to work on Shigesato Itoi's Famicom(NES) RPG Mother. Tsunekazu
 Ishihara joined APE after Mother's release and became very involved with the company. In 1991, Ishihara became vice president where he took charge the production of such games as Mother 2(Earthbound) and Picross no Mario(Mario's Picross).<BR />
 <BR />

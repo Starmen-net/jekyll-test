@@ -66,11 +66,11 @@ These logs, dating around the same timeframe as Version 2 of BoIRC, take place i
 <p>
 <table border="0">
 <tr>
-<td VALIGN="middle" width="275"><a href="http://starmen.net/chat/boirc/alisc.png">[22:09] At least I screwed Cyan</a></td>
+<td VALIGN="middle" width="275"><a href="http - //starmen.net/chat/boirc/alisc.png">[22:09] At least I screwed Cyan</a></td>
 <td align="middle"><a href="http://starmen.net/chat/boirc/slamsintro.php">Slamming the OPs!</a></td>
 </tr>
 <tr>
-<td VALIGN="middle"><a href="http://starmen.net/chat/boirc/captainattack.png">Captain Clones</a></td>
+<td VALIGN="middle"><a href="http - //starmen.net/chat/boirc/captainattack.png">Captain Clones</a></td>
 <td VALIGN="middle"><a href="http://starmen.net/chat/boirc/spainintro.php">The Little Spanish Girl</a></td>
 </tr>
 <tr>

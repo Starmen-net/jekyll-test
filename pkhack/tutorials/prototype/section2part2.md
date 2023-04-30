@@ -50,7 +50,7 @@ tile blocks. There are two tile blocks directly to the right of Onett, six tile 
 Of course, you can get rid of sections of the map, or use (1.1.7) the ROM clearing tool to start with an empty map.
 If you are planning on making small changes, feel free to edit away. If you want to make a completely new experience, use the tool so you have a blank slate to work with. This will remove the hotspots as well, preventing old remnants of the original game from seeping into your hack. Decide before you edit the map if you will use the tool or not, and then do so.
 <br /><br />
-<center><img src="http://starmen.net/pkhack/tutorials/prototype/images/mapeditors.jpg" height="75%" width="75%" /></center>
+<center><img src="http - //starmen.net/pkhack/tutorials/prototype/images/mapeditors.jpg" height="75%" width="75%" /></center>
 <br /><br />
 There are two tools for editing the map, provided you follow the order listed above. The JHack editor, and Mr.
 Accident’s 4.6.1(current stable release?). You will be using Mr. A’s first, then JHack’s editor after you finish doing

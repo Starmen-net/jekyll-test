@@ -5,7 +5,7 @@ categories:
 date: 2012-09-27 03:59:13 +0000
 ---
 {% include box-open.html box-id="4520" title="Theories topic for the week of September 12 - 26, 2012" author-id="1419" timestamp="2012-09-27 03:59:13 +0000" type="norm" dbname="box16245" last-modified-by="127" %}
-<center><img src="http://starmen.net/articles/theories/superfriends_large.png" title="Special Thanks to BB Gang Zombie for this picture!" /><p/>How was Starmen.net _really_ founded?</center>
+<center><img src="http - //starmen.net/articles/theories/superfriends_large.png" title="Special Thanks to BB Gang Zombie for this picture!" /><p/>How was Starmen.net _really_ founded?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-28 07:40:52 +0000" last-modified-by-name="Captain Bozo" %}
 
 {% include box-open.html box-id="4521" title="Theory of the Week" author-id="1419" timestamp="2012-09-27 03:59:52 +0000" type="norm" dbname="box28590" last-modified-by="127" %}

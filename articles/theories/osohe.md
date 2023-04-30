@@ -5,7 +5,7 @@ categories:
 date: 2012-02-08 19:57:56 +0000
 ---
 {% include box-open.html box-id="4202" title="Theories topic for the week of February 1 - 8, 2012:" author-id="1419" timestamp="2012-02-08 19:57:56 +0000" type="norm" dbname="box45019" last-modified-by="127" %}
-<center><img src="http://i.imgur.com/m8QU3.png" title="Jinkies!" /><p/>
+<center><img src="http - //i.imgur.com/m8QU3.png" title="Jinkies!" /><p/>
 
 The kingdom of Osohe was on Nowhere Island long before the White Ship arived... but by time they got there, it was ruins. What happened here? Why did the kingdom die out?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-08 20:03:00 +0000" last-modified-by-name="Captain Bozo" %}

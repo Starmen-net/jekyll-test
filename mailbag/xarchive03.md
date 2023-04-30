@@ -5,7 +5,7 @@ categories:
 date: 2006-03-05 03:26:14 +0000
 ---
 {% include box-open.html box-id="2025" title="Logo" author-id="6" timestamp="2006-03-05 03:26:14 +0000" type="blank" dbname="box38393" last-modified-by="6" %}
-<center><img src="http://starmen.net/mailbag/banner.jpg" /></center>
+<center><img src="http - //starmen.net/mailbag/banner.jpg" /></center>
 {% include box-close.html author-name="SimonBob" last-modified-on="2006-03-05 03:26:59 +0000" last-modified-by-name="SimonBob" %}
 
 {% include box-open.html box-id="2029" title="This Week's Topic" author-id="6" timestamp="2006-03-05 03:29:51 +0000" type="norm" dbname="box37904" last-modified-by="6" %}

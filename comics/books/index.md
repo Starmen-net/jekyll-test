@@ -13,7 +13,7 @@ date: 2007-07-16 23:41:24 +0000
 <a href="sunshine/index.php"><img src="sunshine/sunshinebutton.gif" alt="Sunshine in the Forest" border="0" /></a>
 <a href="whohat/index.php"><img src="whohat/whohatbutton.gif" alt="Whose Hat is This?" border="0" /></a>
 <a href="jourlucas/index.php"><img src="jourlucas/jourlucasbutton.gif" alt="Le Jour de Lucas" border="0" /></a>
-<a href="http://starmen.net/holiday08/entries/belch/index.html"><img src="http://starmen.net/comics/books/belchmasbutton.gif" alt="How Master Belch Stole Christmas!" border="0" /></a>
+<a href="http://starmen.net/holiday08/entries/belch/index.html"><img src="http - //starmen.net/comics/books/belchmasbutton.gif" alt="How Master Belch Stole Christmas!" border="0" /></a>
 </center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2009-07-19 21:21:31 +0000" last-modified-by-name="Artemis251" %}
 

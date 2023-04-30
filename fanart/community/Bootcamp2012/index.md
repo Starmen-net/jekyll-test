@@ -5,7 +5,7 @@ categories:
 date: 2012-08-02 18:51:05 +0000
 ---
 {% include box-open.html box-id="4489" title="Intro" author-id="6132" timestamp="2012-08-02 18:51:05 +0000" type="norm" dbname="box18169" last-modified-by="127" %}
-<center><img src="http://starmen.net/fanart/community/Bootcamp2012/Bootcamp2012Banner.png" /></center>
+<center><img src="http - //starmen.net/fanart/community/Bootcamp2012/Bootcamp2012Banner.png" /></center>
 
 <br />
 

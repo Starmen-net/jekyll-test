@@ -9,7 +9,7 @@ Our Hack Database is designed to provide you with quick and easy access to the g
 {% include box-close.html author-name="NESluver" last-modified-on="2011-11-02 16:10:10 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4080" title="Choose a Category" author-id="6189" timestamp="2011-11-02 16:32:24 +0000" type="norm" dbname="box49622" last-modified-by="127" %}
-<center><a href="http://starmen.net/pkhack/hacks/story/"><img src="http://starmen.net/pkhack/images/storybutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/tacoriffic/"><img src="http://starmen.net/pkhack/images/tacorifficbutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/technical/"><img src="http://starmen.net/pkhack/images/technicalbutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/experimental/"><img src="http://starmen.net/pkhack/images/experimentalbutton.png" /></a></center>
+<center><a href="http://starmen.net/pkhack/hacks/story/"><img src="http - //starmen.net/pkhack/images/storybutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/tacoriffic/"><img src="http - //starmen.net/pkhack/images/tacorifficbutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/technical/"><img src="http - //starmen.net/pkhack/images/technicalbutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/experimental/"><img src="http - //starmen.net/pkhack/images/experimentalbutton.png" /></a></center>
 {% include box-close.html author-name="NESluver" last-modified-on="2011-11-05 01:38:56 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4079" title="A Quick Guide to Categorization" author-id="6189" timestamp="2011-11-02 16:10:55 +0000" type="norm" dbname="box61414" last-modified-by="127" %}

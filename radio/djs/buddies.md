@@ -15,7 +15,7 @@ The Backup Buddies fill in for Radio PSI DJs that can't make it to their shows, 
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/nophoto.gif" />
 </td>
 
 <td align="center">

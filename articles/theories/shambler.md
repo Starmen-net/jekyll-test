@@ -5,7 +5,7 @@ categories:
 date: 2012-02-22 16:41:36 +0000
 ---
 {% include box-open.html box-id="4301" title="Theories topic for the week of February 15 - 22, 2012:" author-id="1419" timestamp="2012-02-22 16:41:36 +0000" type="norm" dbname="box54598" last-modified-by="127" %}
-<center><img src="http://starmen.net/mother2/images/game/wwshambler.png" title="Less fun than a Wooly Willy" /><p/>
+<center><img src="http - //starmen.net/mother2/images/game/wwshambler.png" title="Less fun than a Wooly Willy" /><p/>
 
 The Wooly Shambler is some creature of alien origin enlisted in Giygas's ranks... but is there more? It's a very strange creature, and the only one to seemingly wear clothes, for that matter. I asked you to tell me what it was, and you responded below.</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-22 16:44:42 +0000" last-modified-by-name="Captain Bozo" %}

@@ -59,7 +59,7 @@ For more information, be sure to check out <a href="http://www.smashbros.com/">t
 <p>
 <table1><ul>
 <li>On Friday, August 10th, the <a href="http://www.smashbros.com/en_uk/items/item08.html">smashbros.com</a> update revealed that the <a href="http://starmen.net/merchandise/misc/fbadge.php">Franklin Badge</a> will be an item in SSB:B. When a character picks this item up, they will temporarily have a "reflector" that reflects projectiles.</li>
-<li>On September 20th, at the Tokyo Game Show, some pictures surfaced of Snake being demonstrated in Brawl. <a href="http://starmen.net/ssbb/confirmed/mrsaturn.jpg" title="Not shown here because of Snake's butt">One such picture</a> revealed Mr. Saturn's return!</li>
+<li>On September 20th, at the Tokyo Game Show, some pictures surfaced of Snake being demonstrated in Brawl. <a href="http - //starmen.net/ssbb/confirmed/mrsaturn.jpg" title="Not shown here because of Snake's butt">One such picture</a> revealed Mr. Saturn's return!</li>
 <li>On October 1st, Lucas from MOTHER 3 <a href="http://www.smashbros.com/en_us/characters/lucas.html">was revealed</a> as a playable character onthe DOJO site.</li>
 <li>On October 29th, in the <a href="http://www.smashbros.com/en_us/gamemode/various/various10.html">Stage Builder</a> update, it was revealed that new MOTHER music, <a href="/mother1/music/Snowman.mp3">the Snowman theme</a>, will be in Brawl.</li>
 </ul>

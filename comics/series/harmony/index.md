@@ -6,7 +6,7 @@ date: 2009-07-12 22:26:05 +0000
 ---
 {% include box-open.html box-id="3764" title="Rock Bander" author-id="474" timestamp="2009-07-12 22:26:05 +0000" type="blank" dbname="box32640" last-modified-by="127" %}
 <center>
-<img src="http://starmen.net/comics/series/harmony/harmonybanner2.jpg" alt="MOTHER 2 Harmony Banner" />
+<img src="http - //starmen.net/comics/series/harmony/harmonybanner2.jpg" alt="MOTHER 2 Harmony Banner" />
 </center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2010-01-31 22:33:18 +0000" last-modified-by-name="Artemis251" %}
 
@@ -16,7 +16,7 @@ date: 2009-07-12 22:26:05 +0000
 
 {% include box-open.html box-id="3947" title="Series Download" author-id="474" timestamp="2011-01-16 17:35:27 +0000" type="blank" dbname="box25263" last-modified-by="127" %}
 <center>
-<a href="http://www.mediafire.com/?d1gdpu87yh5y0uu"><img src="http://starmen.net/comics/series/harmony/pdfdl.png" alt="Download all of this series's comics!" border="0" /></a>
+<a href="http://www.mediafire.com/?d1gdpu87yh5y0uu"><img src="http - //starmen.net/comics/series/harmony/pdfdl.png" alt="Download all of this series's comics!" border="0" /></a>
 </center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2011-01-16 17:38:02 +0000" last-modified-by-name="Artemis251" %}
 

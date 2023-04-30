@@ -9,21 +9,21 @@ date: 2012-02-10 16:12:29 +0000
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 17:12:31 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4215" title="Rule #1" author-id="6189" timestamp="2012-02-10 16:15:04 +0000" type="norm" dbname="box7309" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/backups.png" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/backups.png" /><br /><br /></center>
 
 Keep multiple backups of the original ROM, as well as the ROM you are working on. I’d go so far
 as to recommend you keep a history of ROM backups, so it’s easier to pinpoint what went wrong (and when) when your ROM gets glitched out. JHack is notorious for destroying ROMs and ruining hours, days, months, and even years of effort. Don’t let it happen to you. Be smart, keep copies and backups. I have copies of my copies on multiple PC’s. Don’t say I didn’t warn you.
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:21:10 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4216" title="Rule #2" author-id="6189" timestamp="2012-02-10 16:21:11 +0000" type="norm" dbname="box56609" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/freespace.jpg" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/freespace.jpg" /><br /><br /></center>
 
 The original ROM is only 3MB’s, and tightly packed, you can’t really ADD things without expanding.
 Any change you make that is larger than what was there in the first place will most likely overwrite the section after it, and this can either cause minor fixable problems, or completely break a ROM. As a general rule, if you plan on ADDING anything, you MUST expand your ROM, and put the new stuff in the expanded area. Doing this is explained later, just keep the rule in mind.
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-20 23:59:00 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4217" title="Rule #3" author-id="6189" timestamp="2012-02-10 16:23:48 +0000" type="norm" dbname="box27952" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/writeitdown.png" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/writeitdown.png" /><br /><br /></center>
 
 Know what you are doing BEFORE you start hacking. I don’t mean fully understand every little detail
 beforehand, I mean have a VERY clear idea of what you want. Before you even open JHack, sit down with a pencil and paper,
@@ -35,7 +35,7 @@ areas? Are you changing enemies? Items? Getting it all out on paper will help yo
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:27:31 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4218" title="Rule #4" author-id="6189" timestamp="2012-02-10 16:29:49 +0000" type="norm" dbname="box5835" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/ebshoptext.jpg" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/ebshoptext.jpg" /><br /><br /></center>
 
 EarthBound was made by people who must have been on drugs. The ROM is one of the most disorganized and
 messy pieces of code in existance. The above picture is of the code used by the game for the Stores. It’s a giant
@@ -49,7 +49,7 @@ or why some completely unrelated things have a tendacy to effect one another. Th
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-20 23:57:12 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4219" title="Rule #5" author-id="6189" timestamp="2012-02-10 16:35:30 +0000" type="norm" dbname="box60436" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/disassembled.png" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/disassembled.png" /><br /><br /></center>
 Understand the components. The ROM has sections of itself that are Audio data, Graphical data, Assembly,
 plain text, Compressed text, Compressed Graphical data, an internal control code system, and some stuff we haven’t ID’d yet.
 These parts aren’t always contigious either. The Audio data alone is scattered all over the ROM in 15 different areas.
@@ -58,7 +58,7 @@ and how to access it and alter it are key to hacking. This ties in with Rule #8.
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:37:54 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4220" title="Rule #6" author-id="6189" timestamp="2012-02-10 16:39:51 +0000" type="norm" dbname="box49953" last-modified-by="127" %}
-<center><img src="http://starmen.net/pkhack/tutorials/prototype/images/hex.png" /></center><br /><br />Know the terms and concepts. Do you understand the concept of Hexadecimal? Do you know what a pointer
+<center><img src="http - //starmen.net/pkhack/tutorials/prototype/images/hex.png" /></center><br /><br />Know the terms and concepts. Do you understand the concept of Hexadecimal? Do you know what a pointer
 is in the context of programs and memory? Are you familiar with the concept of binary flags? Do you understand the flow-
 chart of a program? Do you know what an argument is in context to programming? Do you know how the EarthBound ROM stores
 pointers, and how to convert them to a hex pointer you can follow? Do you understand the programming concept of a IF/ELSE
@@ -78,7 +78,7 @@ require learning far more than this tutoral is for. This ties in with Rule #8.
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:42:00 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4222" title="Rule #8" author-id="6189" timestamp="2012-02-10 16:40:21 +0000" type="norm" dbname="box18768" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/tool.png" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/tool.png" /><br /><br /></center>
 Know the tools needed for the job. As a simple rule, if it involves editing Audio or sound effects,
 EBMused, PKMidi, and a different tutorial is what you need. If it involves editing graphical data of any kind, you will
 be using one of the built-in editors in JHack, or using the Reset Button in JHack to decompress the data(if needed), and
@@ -88,7 +88,7 @@ operates, odds are you will need to do the work in Assembly, and as I’ve said 
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:44:10 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4223" title="Rule #9" author-id="6189" timestamp="2012-02-10 16:40:23 +0000" type="norm" dbname="box49087" last-modified-by="127" %}
-<center><img src="http://www.starmen.net/pkhack/tutorials/prototype/images/badluck.png" /><br /><br /></center>
+<center><img src="http - //www.starmen.net/pkhack/tutorials/prototype/images/badluck.png" /><br /><br /></center>
 You can do everything right and still be not able to finish. JHack eats ROMs, and sometimes things
 break and we don’t know why, or how to fix them. Like I’ve said, many parts of the EarthBound ROM are unknown, and we
 don’t fully understand the ROM. Messianic created EB:DX, a super hard edition hack of Earthbound. He put tons of effort,
@@ -97,7 +97,7 @@ Hacks do get done, but there is always that chance. Better you know now before y
 {% include box-close.html author-name="NESluver" last-modified-on="2012-02-10 16:49:08 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4224" title="Rule #10" author-id="6189" timestamp="2012-02-10 16:40:25 +0000" type="norm" dbname="box40762" last-modified-by="127" %}
-<center><img src="http://starmen.net/pkhack/images/frontpage/hotm/hotm012012tmm.png" /><br /><br /></center>
+<center><img src="http - //starmen.net/pkhack/images/frontpage/hotm/hotm012012tmm.png" /><br /><br /></center>
 Hacking takes time and effort, completing a hack takes time, effort, persiverance, and a bit of luck.
 There is no way you will accomplish anything in editing the EarthBound ROM if you are not willing to put effort into it.
 Trial and error, breaking the ROM with editing, examining how the game does things and trying to emulate that, this all

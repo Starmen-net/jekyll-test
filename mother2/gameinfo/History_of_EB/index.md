@@ -33,7 +33,7 @@ During the game’s localization, many changes were made for a number of differe
 
 <br /><br />
 
-The localization team made some changes to the graphics to avoid lawsuits. An example is the above picture, where the Japanese version’s truck very closely resembles the <a href="http://img3.wikia.nocookie.net/__cb20130530125633/logopedia/images/3/37/Coca-Cola-Logo.jpg">Coca-Cola logo.</a>
+The localization team made some changes to the graphics to avoid lawsuits. An example is the above picture, where the Japanese version’s truck very closely resembles the <a href="http - //img3.wikia.nocookie.net/__cb20130530125633/logopedia/images/3/37/Coca-Cola-Logo.jpg">Coca-Cola logo.</a>
 Other notable examples include:
 
 <br /><br />

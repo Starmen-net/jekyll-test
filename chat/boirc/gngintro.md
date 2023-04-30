@@ -10,7 +10,7 @@ In case you weren't introduced to it when you were a child, "Highlights" is a ma
 </p>
 
 <p>
-<div align="center"><img src="http://starmen.net/chat/boirc/gng.png" /></div>
+<div align="center"><img src="http - //starmen.net/chat/boirc/gng.png" /></div>
 </p>
 
 <p>

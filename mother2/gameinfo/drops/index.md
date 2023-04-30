@@ -56,7 +56,7 @@ Math and Examples (The Fun Part):<br />
 
 The formula used is fairly easy to use, if you were able to follow so far:<br />
 
-<img src="http://starmen.net/mother2/gameinfo/drops/dropformula.png"></img>, where N is the number of enemies.<br />
+<img src="http - //starmen.net/mother2/gameinfo/drops/dropformula.png"></img>, where N is the number of enemies.<br />
 
 <b>Example #3</b>: Sword of Kings:
 <ul>

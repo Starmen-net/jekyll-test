@@ -42,7 +42,7 @@ The petitions made a measurable impact, but unfortunately Nintendo still refuses
 <ul>
 <li><a href="http://penny-arcade.com">Penny Arcade</a> - <a href="http://www.penny-arcade.com/news/post/2002/03/29/i-rhyme-with-pink">"EarthBound Petition"</a> - March 29, 2002</li>
 <li><a href="http://slashdot.org">Slashdot</a> - <a href="http://games.slashdot.org/article.pl?sid=03/09/14/235245&tid=202">"EarthBound Petition Making a Difference?"</a> - Sept 14, 2003</li>
-<li><a href="http://starmen.net/siteinfo/image/edge-m3-june06.jpg">Edge Magazine Mother 3 Article</a> (a European gaming mag) - June 2006 issue 166</li>
+<li><a href="http - //starmen.net/siteinfo/image/edge-m3-june06.jpg">Edge Magazine Mother 3 Article</a> (a European gaming mag) - June 2006 issue 166</li>
 </ul>
 Our favorite, however, came from <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>, a man popularly considered to be the father of modern video gaming:
 <div class="quote">

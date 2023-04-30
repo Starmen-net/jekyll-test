@@ -20,7 +20,7 @@ date: 2007-06-24 08:20:54 +0000
 <input type="hidden" name="lc" value="US" />
 <input type="hidden" name="bn" value="PP-DonationsBF" />
 <input type="image" src="http://starmen.net/donate/paypalDonationBtn.png" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+<img alt="" border="0" src="https - //www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 <p>To mail checks, cash (US currency only!), cashiers checks, money orders, etc, send your mail to</p>
 <p class="address" style="margin-left: 2em">
@@ -129,7 +129,7 @@ donor, check out the <a href="#giovanni">Giovanni section</a> ;) There is no upp
 <input type="hidden" name="lc" value="US" />
 <input type="hidden" name="bn" value="PP-DonationsBF" />
 <input type="image" src="http://starmen.net/donate/paypalDonationBtn.png" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+<img alt="" border="0" src="https - //www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 <p>To mail checks, cash (US currency only!), cashiers checks, money orders, etc, send your mail to</p>
 <p class="address" style="margin-left: 2em">
@@ -165,31 +165,31 @@ what you can get for your donation:</p>
 	<tbody>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$5-$10</td>
-			<td><img src="http://starmen.net/forum/badges/donor1.gif" alt="Green donor badge" title="Green donor - has donated $5 - $10 to Starmen.Net" /></td>
+			<td><img src="http - //starmen.net/forum/badges/donor1.gif" alt="Green donor badge" title="Green donor - has donated $5 - $10 to Starmen.Net" /></td>
 			<td><br /></td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #0e0e56">
 			<td class="rowhead">$10-$30</td>
-			<td><img src="http://starmen.net/forum/badges/donor2.gif" alt="Bronze donor badge" title="Bronze donor - has donated $10 - $30 to Starmen.Net" /></td>
+			<td><img src="http - //starmen.net/forum/badges/donor2.gif" alt="Bronze donor badge" title="Bronze donor - has donated $10 - $30 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$30-$50</td>
-			<td><img src="http://starmen.net/forum/badges/donor3.gif" alt="Silver donor badge" title="Silver donor - has donated $30 - $50 to Starmen.Net" /></td>
+			<td><img src="http - //starmen.net/forum/badges/donor3.gif" alt="Silver donor badge" title="Silver donor - has donated $30 - $50 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #0e0e56">
 			<td class="rowhead">$50-$100</td>
-			<td><img src="http://starmen.net/forum/badges/donor4.gif" alt="Gold donor badge" title="Gold donor - has donated $50 - $100 to Starmen.Net" /></td>
+			<td><img src="http - //starmen.net/forum/badges/donor4.gif" alt="Gold donor badge" title="Gold donor - has donated $50 - $100 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td>Yes</td>
 		</tr>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$100+</td>
-			<td><img src="http://starmen.net/forum/badges/donor5.gif" alt="Platinum donor badge" title="Platinum donor - has donated more than $100 to Starmen.Net" /></td>
+			<td><img src="http - //starmen.net/forum/badges/donor5.gif" alt="Platinum donor badge" title="Platinum donor - has donated more than $100 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td>Yes</td>
 		</tr>

@@ -15,18 +15,18 @@ If you get 5 Theory of the Week wins, YOU GET THIS BADGE!<p/>
 
 <center><img 
 
-src="http://starmen.net/articles/theories/Octobadge.gif" title="YEAH BABY YEAH!" /></center>
+src="http - //starmen.net/articles/theories/Octobadge.gif" title="YEAH BABY YEAH!" /></center>
 
 BUT<p/>
 
 If you get 7 Theory of the Week wins, you get THIS badge!<p/>
 
-<center><img src="http://starmen.net/articles/theories/Octobadge2.gif" title="OH SNAP!"/></center>
+<center><img src="http - //starmen.net/articles/theories/Octobadge2.gif" title="OH SNAP!"/></center>
 
 <p>FURTHERMORE</p>
 <p>Just for submitting lots of theories (oh, I don't know, how does ten sound?) to the TotW prompts, you earn THIS fancy badge!</p>
 
-<center><img src="http://starmen.net/articles/theories/Giygas_Theory_Badge.png" title="big mac?" /></center>
+<center><img src="http - //starmen.net/articles/theories/Giygas_Theory_Badge.png" title="big mac?" /></center>
 
 <p>Check the <a href="http://starmen.net/articles/theories/TheoriesHOF.php">Hall of Fame</a> to see all of the winning theories, and see <a href="http://starmen.net/articles/theories/TheoriesTally.php">this page</a> for a count of all the progress towards the Giygas participation badge!</p>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2015-07-11 01:53:32 +0000" last-modified-by-name="J_Spade" %}

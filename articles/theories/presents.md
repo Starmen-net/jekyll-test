@@ -5,7 +5,7 @@ categories:
 date: 2012-09-13 05:17:11 +0000
 ---
 {% include box-open.html box-id="4514" title="Theories Topic for the week of August 29 - September 12, 2012" author-id="1419" timestamp="2012-09-13 05:17:11 +0000" type="norm" dbname="box44879" last-modified-by="127" %}
-<center><img src="http://starmen.net/articles/theories/cookie.png" title="OH BOY A CROW COOKIE! I SURE HOPE THOSE ARE CHOCOLATE CHIPS!" /><p/>You ever wonder where the presents enemies leave behind come from? Well wonder no more, because you guys told me!</center>
+<center><img src="http - //starmen.net/articles/theories/cookie.png" title="OH BOY A CROW COOKIE! I SURE HOPE THOSE ARE CHOCOLATE CHIPS!" /><p/>You ever wonder where the presents enemies leave behind come from? Well wonder no more, because you guys told me!</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-09-13 05:25:39 +0000" last-modified-by-name="Captain Bozo" %}
 
 {% include box-open.html box-id="4515" title="Theory of the Week" author-id="1419" timestamp="2012-09-13 05:32:26 +0000" type="norm" dbname="box50984" last-modified-by="127" %}

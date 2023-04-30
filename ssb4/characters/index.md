@@ -23,15 +23,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:44:01 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -50,15 +50,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:44:21 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -77,15 +77,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:44:48 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -104,15 +104,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:11:17 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -131,15 +131,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:11:40 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -158,15 +158,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:11:58 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -185,15 +185,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:12:17 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -212,15 +212,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:12:36 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -240,15 +240,15 @@ Works:
 </td></tr>
 <tr><td><center><img src="/ssb4/characters/Diddy/Stock_1.png" width="32" height="32" /> <img src="/ssb4/characters/Diddy/Stock_2.png" width="32" height="32" /> <img src="/ssb4/characters/Diddy/Stock_3.png" width="32" height="32" /> <img src="/ssb4/characters/Diddy/Stock_4.png" width="32" height="32" /> <br /><img src="/ssb4/characters/Diddy/Stock_5.png" width="32" height="32" /> <img src="/ssb4/characters/Diddy/Stock_6.png" width="32" height="32" /> <img src="/ssb4/characters/Diddy/Stock_7.png" width="32" height="32" /> <img src="/ssb4/characters/Diddy/Stock_8.png" width="32" height="32" /></center>
 </td><td>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 </td></tr></table>
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:23:49 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -267,15 +267,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 18:14:14 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -346,15 +346,15 @@ Works:
 <li>Mother 3 (GBA)</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:39:05 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -405,15 +405,15 @@ Works:
 <li>EarthBound (SNES)</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Ness/Ness_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Ness/Ness_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Ness/Ness_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Ness/Ness_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Ness/Ness_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Ness/Ness_U_2.JPG" width="120" height="65" border="1" /></a> 
+<a href="http - //starmen.net/ssb4/characters/Ness/Ness_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Ness/Ness_U_2.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Ness/Ness_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Ness/Ness_U_3.JPG" width="120" height="65" border="1" /></a> 
+<a href="http - //starmen.net/ssb4/characters/Ness/Ness_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Ness/Ness_U_3.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Ness/Ness_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Ness/Ness_U_4.JPG" width="120" height="65" border="1" /></a> 
+<a href="http - //starmen.net/ssb4/characters/Ness/Ness_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Ness/Ness_U_4.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Ness/Ness_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Ness/Ness_U_5.JPG" width="120" height="65" border="1" /></a> </center>
+<a href="http - //starmen.net/ssb4/characters/Ness/Ness_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Ness/Ness_U_5.JPG" width="120" height="65" border="1" /></a> </center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 09:11:16 +0000" last-modified-by-name="CerealQueen" %}
 

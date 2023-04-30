@@ -9,7 +9,7 @@ date: 2012-03-11 22:13:58 +0000
 {% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:21:17 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4339" title="1. General Information" author-id="6189" timestamp="2012-03-11 22:14:45 +0000" type="norm" dbname="box12350" last-modified-by="127" %}
-<center><img src="http://starmen.net/pkhack/tutorials/prototype/images/TilesetEditorlegend.jpg" height="75%" width="75%" /></center><br /><br />There are 20 tilesets you can use(#5), each containing 511 minitiles(#8) you can edit(with one tile reserved by the
+<center><img src="http - //starmen.net/pkhack/tutorials/prototype/images/TilesetEditorlegend.jpg" height="75%" width="75%" /></center><br /><br />There are 20 tilesets you can use(#5), each containing 511 minitiles(#8) you can edit(with one tile reserved by the
 game), and over 1,000 tiles(#13) made up of 16 minitiles in a 4×4 grid. Each tile has it’s own collision properties(#12),
 controlling if the player can move onto that tile, or if the player should be represented as being underwater or whatever. Any part of the map you will be making needs to be made of tiles already made in the tileset. The first 384 minitiles have a foreground and a background layer, the last 128 only have the background layer. Thus any trees or buildings the player can walk behind NEED to be made using the first 384 minitiles to provide that transparency effect.
 <br /><br />
@@ -17,7 +17,7 @@ Remember to Apply your changes, and save your ROM after editing, and as I’ve s
 {% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:34:13 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4340" title="2. Palettes, Subpalettes, and Color Editing" author-id="6189" timestamp="2012-03-11 22:17:29 +0000" type="norm" dbname="box23488" last-modified-by="127" %}
-<center><img src="http://starmen.net/pkhack/tutorials/prototype/images/palette.jpg" /></center><br /><br />Each Tileset has a different number of Palettes and Subpalettes(#6) that can be used for the tileset. Each
+<center><img src="http - //starmen.net/pkhack/tutorials/prototype/images/palette.jpg" /></center><br /><br />Each Tileset has a different number of Palettes and Subpalettes(#6) that can be used for the tileset. Each
 palette for a tileset is 16 colors, but the first color is always transparent. You can not add palettes, so you need to
 make use of the palettes you have for tilesets. If you plan on having tilesets that use multible palettes(for a day and
 night appearance or whatever), make sure you pick a tileset with enough palettes to accomplish the effect you want. This is why it’s important to plan out your hack ahead of time, so you know which tilesets you are re-using, which you will be editing, and what you can do with the ones you are editing. With only 15 colors per palette, you need to be very creative in how you make locations.

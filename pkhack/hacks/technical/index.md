@@ -5,7 +5,7 @@ categories:
 date: 2011-11-03 21:57:30 +0000
 ---
 {% include box-open.html box-id="4098" title="New Box, Edit me :(" author-id="6189" timestamp="2011-11-03 21:57:30 +0000" type="db" dbname="box44834" last-modified-by="127" %}
-<center>You are currently viewing our database of <b>Technical Hacks and Patches</b>. Please feel free to pick a new category using the buttons below:<br /><br /><a href="http://starmen.net/pkhack/hacks/story/"><img src="http://starmen.net/pkhack/images/storybutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/tacoriffic/"><img src="http://starmen.net/pkhack/images/tacorifficbutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/experimental/"><img src="http://starmen.net/pkhack/images/experimentalbutton.png" /></a></center>
+<center>You are currently viewing our database of <b>Technical Hacks and Patches</b>. Please feel free to pick a new category using the buttons below:<br /><br /><a href="http://starmen.net/pkhack/hacks/story/"><img src="http - //starmen.net/pkhack/images/storybutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/tacoriffic/"><img src="http - //starmen.net/pkhack/images/tacorifficbutton.png" /></a>  <a href="http://starmen.net/pkhack/hacks/experimental/"><img src="http - //starmen.net/pkhack/images/experimentalbutton.png" /></a></center>
 {% include box-close.html author-name="NESluver" last-modified-on="2011-11-05 01:44:02 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4109" title="Blue Magic Hack" author-id="6189" timestamp="2011-11-05 15:30:17 +0000" type="norm" dbname="box3926" last-modified-by="127" %}
@@ -33,7 +33,7 @@ Taking a page from Chrono Trigger, this patch allows you - upon finishing the ga
 {% include box-close.html author-name="NESluver" last-modified-on="2011-11-07 13:03:39 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4103" title="Party Selector" author-id="6189" timestamp="2011-11-03 22:23:05 +0000" type="norm" dbname="box54042" last-modified-by="127" %}
-<img style="float:right;padding:10px" src="http://local-static3.forum-files.fobby.net/forum_attachments/0025/5318/Earthbound_00000.PNG" title="Tony sez: 'Where da Jeffs at?'" />
+<img style="float:right;padding:10px" src="http - //local-static3.forum-files.fobby.net/forum_attachments/0025/5318/Earthbound_00000.PNG" title="Tony sez: 'Where da Jeffs at?'" />
 <div style="min-height:244px"><b>By Gaia Dragon<br />
 <a href="http://local-static1.forum-files.fobby.net/forum_attachments/0025/5296/partyshifter.ips">Download</a></b> (88.9 KB, .ips patch)<br /><hr />
 This nifty little hack adds the option to add and remove party members from your party via use of an item. Want to do a solo Jeff run? No problem! Ever wanted to have King run with you through Twoson? You can do that too! The patch also changes some of the NPC character stats to make them stronger. Just be sure not to remove everyone from the party, or else your ROM will explode like a fat kid at an all-you can eat buffet.<br /><br /><br /></div>
@@ -54,7 +54,7 @@ This patch turns those cute little Teddy Bears that absorb attacks for you into 
 {% include box-close.html author-name="NESluver" last-modified-on="2011-11-05 15:36:58 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4100" title="XX Stone's EB Enemies Patch" author-id="6189" timestamp="2011-11-03 22:07:45 +0000" type="norm" dbname="box51731" last-modified-by="127" %}
-<img style="float:right;padding:10px" src="http://forum.starmen.net/forum_attachments/0007/7008/014-Chicken_Hunter.png" title="Look out, he can jump pretty high." />
+<img style="float:right;padding:10px" src="http - //forum.starmen.net/forum_attachments/0007/7008/014-Chicken_Hunter.png" title="Look out, he can jump pretty high." />
 <div style="min-height:244px"><b>By XX Stone<br />
 <a href="http://local-static3.forum-files.fobby.net/forum_attachments/0015/9553/eb_enemies_hack_2.ips">Download</a></b> (600 KB, .ips patch)<br /><hr />
 This nifty little patch changes almost every single enemy in EarthBound in some way -- by turning them into Starmen.netters! Be sure to check it out!<br /><br /><br /></div>

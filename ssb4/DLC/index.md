@@ -153,15 +153,15 @@ A stage based on the Miiverse social network featured on the Nintendo 3DS and Wi
 <tr>
    <th><center><a href="error" ><font color="##3a96b8" >No. 8</font></a></center></th>
    <td><center>Persona 5</center></td>
-   <td><center> <img src="https://thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4688_orig.png" height="200" ></center></td>
-   <td><center> <img src="https://thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4689_orig.png" height="170" ></center></td>
+   <td><center> <img src="https - //thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4688_orig.png" height="200" ></center></td>
+   <td><center> <img src="https - //thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4689_orig.png" height="170" ></center></td>
 </tr>
 
 <tr>
    <th><center><a href="error" ><font color="##3a96b8" >No. 9</font></a></center></th>
    <td><center>Persona 5</center></td>
-   <td><center> <img src="https://thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4680_orig.png" height="200" ></center></td>
-   <td><center> <img src="https://thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4681_orig.png" height="170" ></center></td>
+   <td><center> <img src="https - //thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4680_orig.png" height="200" ></center></td>
+   <td><center> <img src="https - //thegamingshelf.weebly.com/uploads/1/4/5/1/14511760/image-4681_orig.png" height="170" ></center></td>
 </tr>
 
 

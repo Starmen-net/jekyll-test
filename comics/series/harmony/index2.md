@@ -6,7 +6,7 @@ date: 2009-09-06 22:08:01 +0000
 ---
 {% include box-open.html box-id="3794" title="Harmonner" author-id="474" timestamp="2009-09-06 22:08:01 +0000" type="blank" dbname="box61908" last-modified-by="127" %}
 <center>
-<img src="http://starmen.net/comics/series/harmony/harmonybanner2.jpg" alt="MOTHER 2 Harmony Banner" />
+<img src="http - //starmen.net/comics/series/harmony/harmonybanner2.jpg" alt="MOTHER 2 Harmony Banner" />
 </center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2010-01-31 22:33:36 +0000" last-modified-by-name="Artemis251" %}
 

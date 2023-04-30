@@ -20,7 +20,7 @@ This hack was made for EB Funktastic Gameplay in the summer of 2005. It commemor
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2006-10-29 02:21:38 +0000" last-modified-by-name="Mr. Accident" %}
 
 {% include box-open.html box-id="1771" title="<a href=\"http://starmen.net/pkhack/pk_hacks/arnswinterquest.zip\">Arn's Winter Quest - Gway Edition</a>" author-id="168" timestamp="2006-01-02 01:48:12 +0000" type="norm" dbname="box43649" last-modified-by="127" %}
-<img style="float:right;padding:10px;" src="http://starmen.net/pkhack/pk_hacks/arnswinterquest.png" title="Starmen with capes!" />
+<img style="float:right;padding:10px;" src="http - //starmen.net/pkhack/pk_hacks/arnswinterquest.png" title="Starmen with capes!" />
 
 <div style="min-height:244px"><b>By Radiation <br />
 <a href="http://starmen.net/pkhack/pk_hacks/arnswinterquest.zip">Download</a></b> (355 KB, .zip compressed) - 48 Megabits<br /><hr />

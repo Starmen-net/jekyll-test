@@ -13,7 +13,7 @@ date: 2005-10-03 01:01:13 +0000
 <a href="koma/"><img src="koma/komakomicsmini0.gif" alt="Koma Komics" border="0" /></a>
 <a href="mangatang/"><img src="mangatang/mangatangmini0.gif" alt="Mangatang Theatre" border="0" /></a>
 <a href="http://starmen.net/comics/series/tazmily/warningwillrobinson.php">
-<img src="http://starmen.net/comics/series/tazmily/tazmilybutton.gif" alt="Life in Tazmily" border="0" /></a>
+<img src="http - //starmen.net/comics/series/tazmily/tazmilybutton.gif" alt="Life in Tazmily" border="0" /></a>
 </center>
 
 {% include box-close.html author-name="Artemis251" last-modified-on="2007-07-16 23:31:28 +0000" last-modified-by-name="Artemis251" %}

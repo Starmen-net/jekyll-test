@@ -13,7 +13,7 @@ Creativity seems to just ooze out of Starmen.Net's artistic community. Realizing
 {% include box-close.html author-name="PoeTrader" last-modified-on="2012-02-23 21:55:00 +0000" last-modified-by-name="Aangie" %}
 
 {% include box-open.html box-id="3612" title="Giegue (MOTHER)" author-id="75" timestamp="2009-02-26 22:08:40 +0000" type="norm" dbname="box21710" last-modified-by="127" %}
-<center><a href="http://starmen.net/fanart/community/Porky-bot-Invasion.png"><img src="giegue_small.png" border="0" /></a><br />
+<center><a href="http - //starmen.net/fanart/community/Porky-bot-Invasion.png"><img src="giegue_small.png" border="0" /></a><br />
 <font size="+1">Click on the image to see the full size version.</font></center><br />
 
 <b>Contributing artists:</b> 22hunter, AnnK, Aquas, Cafechan, Chaisu, Crescendo, CrouchingMouse, DragonKazooie89, Dr Shlub, Evanatt, Ffish, Frau Landers, GameGeekAdvanced, Garlar, Giegue, Greenfinger, IcyAntoid, Jonkku, Katon, kevinchai, kota12, Kupo_KK, masheysoup23, Missy, mrsaturn95, Mystic Pyro Freak, nana, NewAgeRetroWario, Nosekidk, OfficerJordan, Omnitarian, Phones, Pipomonkeydude, PkTriforce, Plushraysetiger, potato, Radiation, Ranger, Reconstructed Dragon, Red, Shaon, Soupaboy, tfn, toof, Yokuba, Zero_Diamond.
@@ -55,7 +55,7 @@ Creativity seems to just ooze out of Starmen.Net's artistic community. Realizing
 {% include box-close.html author-name="PoeTrader" last-modified-on="2012-02-23 21:40:47 +0000" last-modified-by-name="Aangie" %}
 
 {% include box-open.html box-id="4307" title="MOTHER 1- Magicant Dragon" author-id="18143" timestamp="2012-02-23 21:40:30 +0000" type="norm" dbname="box24559" last-modified-by="127" %}
-<center><a href="http://starmen.net/fanart/brb%20copy.png"><img src="http://starmen.net/fanart/brb.png" border="0" /></a><br />
+<center><a href="http - //starmen.net/fanart/brb%20copy.png"><img src="http - //starmen.net/fanart/brb.png" border="0" /></a><br />
 <font size="+1">Click on the image to see the full size version.</font></center><br />
 
 <b>Contributing artists:</b> Aangie, AnnK, PoeTrader, Marcotto, Sebastian, Aviarei,kenisu3000,TCAnimorph,PSI Rocker, Blitzer, goldenbound, Artemis251, TheDisturber, isaiahdjkim, BubblegumMonkey,vgamer164, Starlight36, CrouchingMouse, AnOddityToAll, and Bluwiikoon
@@ -66,7 +66,7 @@ Creativity seems to just ooze out of Starmen.Net's artistic community. Realizing
 {% include box-close.html author-name="Aangie" last-modified-on="2012-02-23 22:00:09 +0000" last-modified-by-name="Aangie" %}
 
 {% include box-open.html box-id="4308" title="EarthBound/MOTHER 2- Mu Spirit" author-id="18143" timestamp="2012-02-23 21:49:25 +0000" type="norm" dbname="box2867" last-modified-by="127" %}
-<center><a href="http://starmen.net/fanart/muu.png"><img src="http://starmen.net/fanart/muu%20copy.png" border="0" /></a><br />
+<center><a href="http - //starmen.net/fanart/muu.png"><img src="http - //starmen.net/fanart/muu%20copy.png" border="0" /></a><br />
 <font size="+1">Click on the image to see the full size version.</font></center><br />
 
 <b>Contributing artists:</b> jojora, toof, Aviarei, ozwalled, Mistycat85, Marcotto,  Bluwiikoon

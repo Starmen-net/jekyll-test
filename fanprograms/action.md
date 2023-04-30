@@ -8,19 +8,19 @@ date: 2007-07-17 21:27:10 +0000
 <table border="0" align="center">
 <tr>
 <td>
-<a href="/fanprograms/rpg.php"><img border="0" src="http://starmen.net/fanprograms/images/button_rpg.png"></img></a>
+<a href="/fanprograms/rpg.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_rpg.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/action.php"><img border="0" src="http://starmen.net/fanprograms/images/button_action.png"></img></a>
+<a href="/fanprograms/action.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_action.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/minigames.php"><img border="0" src="http://starmen.net/fanprograms/images/button_mini.png"></img></a>
+<a href="/fanprograms/minigames.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_mini.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/app.php"><img border="0" src="http://starmen.net/fanprograms/images/button_apps.png"></img></a>
+<a href="/fanprograms/app.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_apps.png"></img></a>
 </td>
 </tr>
 </table>
@@ -36,7 +36,7 @@ date: 2007-07-17 21:27:10 +0000
 <br />
 <b>Content -</b> Install and then connect to a running server with friends to start the fun.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_tag_1.png" title="Online tag with Earthbound heroes!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_tag_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eb_tag_1.png" title="Online tag with Earthbound heroes!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eb_tag_1t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:51:59 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3218" title="EBLite" author-id="3404" timestamp="2007-07-17 21:29:24 +0000" type="norm" dbname="box41038" last-modified-by="127" %}
@@ -49,9 +49,9 @@ date: 2007-07-17 21:27:10 +0000
 <br />
 <b>Content -</b> Avoid enemies and attack using PSI or your bat/frying pan as you move through the stage to defeat the boss awaiting you at the end. Collect food for more HP.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eblite_1.png" title="Character select screen." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eblite_1t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eblite_2.png" title="Paula using PSI Freeze!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eblite_2t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eblite_3.png" title="Ness exploring the caves." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eblite_3t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eblite_1.png" title="Character select screen." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eblite_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eblite_2.png" title="Paula using PSI Freeze!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eblite_2t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eblite_3.png" title="Ness exploring the caves." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eblite_3t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:53:02 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3219" title="Eventide Assault" author-id="3404" timestamp="2007-07-17 21:29:26 +0000" type="norm" dbname="box58857" last-modified-by="127" %}
@@ -64,9 +64,9 @@ date: 2007-07-17 21:27:10 +0000
 <br />
 <b>Content -</b> A nifty game with various modes of play that utilizes both the keyboard and the mouse.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eventide_assault_1.png" title="The title and stage select screen." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eventide_assault_1t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eventide_assault_2.png" title="Uh oh! Let's get outa here!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eventide_assault_2t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eventide_assault_3.png" title="An arsenal of exploding pumpkins." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eventide_assault_3t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eventide_assault_1.png" title="The title and stage select screen." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eventide_assault_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eventide_assault_2.png" title="Uh oh! Let's get outa here!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eventide_assault_2t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eventide_assault_3.png" title="An arsenal of exploding pumpkins." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eventide_assault_3t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:53:34 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3221" title="Mommy!" author-id="3404" timestamp="2007-07-17 21:29:30 +0000" type="norm" dbname="box10261" last-modified-by="127" %}
@@ -82,10 +82,10 @@ Rescue the Runaway Five and help them save Venus before she is turned into a min
 <br />
 <b>Content -</b> A "The Legend of Zelda" type game. Swing your weapons to destroy baddies or use a limited amount of projectile ammo as you maneuver through the levels.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_1.png" title="The title screen." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_1t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_2.png" title="Night of the living dead!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_2t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_3.png" title="Attack with your melee weapon, or..." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_3t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/mommy_4.png" title="Attack with a ranged weapon." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/mommy_4t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/mommy_1.png" title="The title screen." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/mommy_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/mommy_2.png" title="Night of the living dead!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/mommy_2t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/mommy_3.png" title="Attack with your melee weapon, or..." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/mommy_3t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/mommy_4.png" title="Attack with a ranged weapon." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/mommy_4t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:54:27 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3222" title="MOTHER 2 EB Racers" author-id="3404" timestamp="2007-07-17 21:34:22 +0000" type="norm" dbname="box36662" last-modified-by="127" %}
@@ -98,8 +98,8 @@ Rescue the Runaway Five and help them save Venus before she is turned into a min
 <br />
 <b>Content -</b> A straightforward racing game created in RPG Maker 2000.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_races_1.png" title="Choose your racer." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_races_1t.png"/></a>
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_races_2.png" title="Cruisin' through Onett." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_races_2t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eb_races_1.png" title="Choose your racer." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eb_races_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eb_races_2.png" title="Cruisin' through Onett." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eb_races_2t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:54:51 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3223" title="Seek and Tag" author-id="3404" timestamp="2007-07-17 21:35:45 +0000" type="norm" dbname="box27318" last-modified-by="127" %}

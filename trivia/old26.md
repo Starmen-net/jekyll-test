@@ -89,7 +89,7 @@ date: 2012-01-05 00:38:09 +0000
 
 <p><b>Answer 1:</b> Three claymen, throughout the factory.</p>
 <p><b>Answer 2:</b> The big ol' trooper is weak against DCMC merchandise!  You can essentially stun him for a few rounds, making the fight much easier.</p>
-<p><b>Answer 3:</b> There was a bit of confusion here, so there are two acceptable answers.  I originally referred to <a href="http://walkthrough.starmen.net/mother3/image/screens/13/fence.png">these presents</a>, which can be found in <b>Chapter 7</b>.  However, I can understand how the question could be mistaken for <a href="http://walkthrough.starmen.net/mother3/image/screens/10/candrumcave.png">these presents</a>, which can be grabbed by Salsa in <b>Chapter 3</b>.  Either answer was acceptable.</p>
+<p><b>Answer 3:</b> There was a bit of confusion here, so there are two acceptable answers.  I originally referred to <a href="http - //walkthrough.starmen.net/mother3/image/screens/13/fence.png">these presents</a>, which can be found in <b>Chapter 7</b>.  However, I can understand how the question could be mistaken for <a href="http - //walkthrough.starmen.net/mother3/image/screens/10/candrumcave.png">these presents</a>, which can be grabbed by Salsa in <b>Chapter 3</b>.  Either answer was acceptable.</p>
 {% include box-close.html author-name="aurilliux" last-modified-on="2012-02-16 02:08:52 +0000" last-modified-by-name="aurilliux" %}
 
 {% include box-open.html box-id="4306" title="Week 277: Lucky!" author-id="12306" timestamp="2012-02-23 02:40:53 +0000" type="norm" dbname="box53734" last-modified-by="127" %}

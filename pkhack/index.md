@@ -5,7 +5,7 @@ categories:
 date: 2005-12-18 01:56:39 +0000
 ---
 {% include box-open.html box-id="2668" title="Introduction" author-id="8" timestamp="2006-11-07 22:30:21 +0000" type="norm" dbname="box26217" last-modified-by="127" %}
-<center><img src="http://starmen.net/pkhack/images/pkhacklogo.png" /></center>
+<center><img src="http - //starmen.net/pkhack/images/pkhacklogo.png" /></center>
 
 <p>Welcome to the PK Hack section of Starmen.net! PK Hack is an extremely powerful tool that allows users to edit the EarthBound ROM as they see fit. There is very little in terms of what cannot be changed in the EarthBound ROM, with the only limiting factors being the user's free time and imagination. With PK Hack, anyone can create their own little fan game using the EarthBound engine.</p>
 
@@ -17,7 +17,7 @@ date: 2005-12-18 01:56:39 +0000
 {% include box-close.html author-name="reidman" last-modified-on="2012-10-17 11:19:30 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="1750" title="Featured Hack of the Month" author-id="168" timestamp="2005-12-18 01:56:39 +0000" type="norm" dbname="box53449" last-modified-by="127" %}
-<center><a href="http://local-static4.forum-files.fobby.net/forum_attachments/0032/7889/HolidayHex.zip"><img src="http://starmen.net/pkhack/images/frontpage/hotm/hotm0113.png" /></a><br />January 2013:<a href="http://local-static4.forum-files.fobby.net/forum_attachments/0032/7889/HolidayHex.zip">Holiday Hex</a> by <a href="http://forum.starmen.net/members/H-S">H.S</a> and <a href="http://forum.starmen.net/members/361">Mr. Tenda</a> (with music by <a href="http://forum.starmen.net/members/Yokuba">Reg</a>)<br /><a href="http://forum.starmen.net/forum/Community/PKHack/Holiday-Hex-A-brand-new-COMPLETE-hack/first/">Official Forum Thread</a><br /><br /></center>
+<center><a href="http://local-static4.forum-files.fobby.net/forum_attachments/0032/7889/HolidayHex.zip"><img src="http - //starmen.net/pkhack/images/frontpage/hotm/hotm0113.png" /></a><br />January 2013:<a href="http://local-static4.forum-files.fobby.net/forum_attachments/0032/7889/HolidayHex.zip">Holiday Hex</a> by <a href="http://forum.starmen.net/members/H-S">H.S</a> and <a href="http://forum.starmen.net/members/361">Mr. Tenda</a> (with music by <a href="http://forum.starmen.net/members/Yokuba">Reg</a>)<br /><a href="http://forum.starmen.net/forum/Community/PKHack/Holiday-Hex-A-brand-new-COMPLETE-hack/first/">Official Forum Thread</a><br /><br /></center>
 
 Holiday Hex is a collaborative project between Mr. Tenda and H.S, who are among the best hackers we have in the PK Hack community. This hack took forty days to complete, and even though it might be short, it stands as a testament to what exactly can be achieved with CoilSnake and a little effort. Holiday Hex has brand new maps, a cute story, dialogue with a sense of humor, and even new music in some places composed by Reg! Please be sure to check it out!
 {% include box-close.html author-name="Mr. Accident" last-modified-on="2013-01-10 22:57:59 +0000" last-modified-by-name="NESluver" %}

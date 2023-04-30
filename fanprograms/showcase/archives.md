@@ -9,23 +9,23 @@ Today we would like to present to you the first Fan-Game Showcase! And it's a di
 <br />
 <br />
 <center>
-<a href="http://www.dcmsoftware.net/files/games/DCM_EOIS_v20108.zip"><img src="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_1.jpg" /></a>
+<a href="http://www.dcmsoftware.net/files/games/DCM_EOIS_v20108.zip"><img src="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_1.jpg" /></a>
 <br />
 <font size="1">Click title for download. Click on the thumbnails below for more screen shots.</font>
 <br />
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_2.jpg" title="It's Ego Orb and... it's in space!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_2t.png" alt="It's Ego Orb and... it's in space!" width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_2.jpg" title="It's Ego Orb and... it's in space!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_2t.png" alt="It's Ego Orb and... it's in space!" width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_3.jpg" title="Whoa, close one!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_3t.png" alt="Whoa, close one!" width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_3.jpg" title="Whoa, close one!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_3t.png" alt="Whoa, close one!" width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_4.jpg" title="Nice and big now." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_4t.png" alt="Nice and big now." width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_4.jpg" title="Nice and big now." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_4t.png" alt="Nice and big now." width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_5.jpg" title="AHH! Heavy fire!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_5t.png" alt="AHH! Heavy fire!" width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_5.jpg" title="AHH! Heavy fire!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_5t.png" alt="AHH! Heavy fire!" width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_6.jpg" title="Don't forget your handy bottle rockets." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_6t.png" alt="Don't forget your handy bottle rockets." width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_6.jpg" title="Don't forget your handy bottle rockets." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_6t.png" alt="Don't forget your handy bottle rockets." width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_7.jpg" title="This might get ugly..." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_7t.png" alt="This might get ugly..." width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_7.jpg" title="This might get ugly..." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_7t.png" alt="This might get ugly..." width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://www.dcmsoftware.net/images/Screens/EOIS/EOIS_8.jpg" title="Is that a r-r-reward?!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/ego_space_8t.png" alt="Is that a r-r-reward?!" width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //www.dcmsoftware.net/images/Screens/EOIS/EOIS_8.jpg" title="Is that a r-r-reward?!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/ego_space_8t.png" alt="Is that a r-r-reward?!" width="50" height="50" /></a>
 </center>
 <br />
 <br />
@@ -87,7 +87,7 @@ It's another Fan-Game Showcase comin' atchya! This time around there's an interv
 <br />
 <br />
 <center>
-<a href="http://www.skyon.be/v2/index.php/downloads/34-downloads/13-saturn-valley-online-alpha"><img src="http://www.skyon.be/images/buttons/svo.gif" /></a>
+<a href="http://www.skyon.be/v2/index.php/downloads/34-downloads/13-saturn-valley-online-alpha"><img src="http - //www.skyon.be/images/buttons/svo.gif" /></a>
 <br />
 <font size="1">Click title for download. Click on the link below for screen shots and more detailed info.</font>
 <br />
@@ -200,17 +200,17 @@ Time for another Fan-Game Showcase! If you're not familiar with it yet, the Show
 <br />
 <br />
 <center>
-<a href="http://cogdis.tazmily.com/download.html"><img src="http://starmen.net/fanprograms/images/screens/cogdis_promo.png" /></a>
+<a href="http://cogdis.tazmily.com/download.html"><img src="http - //starmen.net/fanprograms/images/screens/cogdis_promo.png" /></a>
 <br />
 <font size="1">Click title for download. Click on the link below for screen shots and more detailed info.</font>
 <br />
-<a rel="lightbox[20070716]" href="http://forum-files2.fobby.net/0003/7411/nobow.PNG" title="Bizarre alien landscapes!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/cogdis_1t.png" alt="Bizarre alien landscapes!" width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //forum-files2.fobby.net/0003/7411/nobow.PNG" title="Bizarre alien landscapes!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/cogdis_1t.png" alt="Bizarre alien landscapes!" width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://forum-files2.fobby.net/0005/2079/apple.JPG" title="Seems to be a diverse cast of characters." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/cogdis_2t.png" alt="Seems to be a diverse cast of characters." width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //forum-files2.fobby.net/0005/2079/apple.JPG" title="Seems to be a diverse cast of characters." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/cogdis_2t.png" alt="Seems to be a diverse cast of characters." width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://forum-files2.fobby.net/0009/0092/comb.PNG" title="The Combinulator well... combines things. Proceed with caution!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/cogdis_3t.png" alt="The Combinulator well... combines things. Proceed with caution!" width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //forum-files2.fobby.net/0009/0092/comb.PNG" title="The Combinulator well... combines things. Proceed with caution!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/cogdis_3t.png" alt="The Combinulator well... combines things. Proceed with caution!" width="50" height="50" /></a>
 &nbsp;
-<a rel="lightbox[20070716]" href="http://forum-files2.fobby.net/0007/1663/thunderton.PNG" title="Hmm, this place looks more familiar." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/cogdis_4t.png" alt="Hmm, this place looks more familiar." width="50" height="50" /></a>
+<a rel="lightbox[20070716]" href="http - //forum-files2.fobby.net/0007/1663/thunderton.PNG" title="Hmm, this place looks more familiar." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/cogdis_4t.png" alt="Hmm, this place looks more familiar." width="50" height="50" /></a>
 &nbsp;
 <br />
 <a href="http://cogdis.tazmily.com/">Cognitive Dissonance official website!</a>

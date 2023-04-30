@@ -5,7 +5,7 @@ categories:
 date: 2011-12-07 22:30:59 +0000
 ---
 {% include box-open.html box-id="4142" title="Theories topic for the week of November 30 - December  7, 2011" author-id="1419" timestamp="2011-12-07 22:30:59 +0000" type="norm" dbname="box24558" last-modified-by="127" %}
-<center><img src="http://i.imgur.com/WMRies.png" title="Let the celebrations begin!" /><p/>Tazmily is a secluded society, one that we don't know much about. We can only assume that they have SOME kind of regular celebration, though. That's what I asked you to clear up, and two of you came forward. Only one of you could've been Theory of the Week, though. Below is the winner, followed by the runner up!</center>
+<center><img src="http - //i.imgur.com/WMRies.png" title="Let the celebrations begin!" /><p/>Tazmily is a secluded society, one that we don't know much about. We can only assume that they have SOME kind of regular celebration, though. That's what I asked you to clear up, and two of you came forward. Only one of you could've been Theory of the Week, though. Below is the winner, followed by the runner up!</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2011-12-07 22:44:03 +0000" last-modified-by-name="Captain Bozo" %}
 
 {% include box-open.html box-id="4143" title="Theory of the Week" author-id="1419" timestamp="2011-12-07 22:44:17 +0000" type="norm" dbname="box57480" last-modified-by="127" %}

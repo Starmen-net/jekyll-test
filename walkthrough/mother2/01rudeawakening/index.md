@@ -16,14 +16,14 @@ date: 2005-11-09 23:38:32 +0000
 </tr>
 
 <tr bgcolor="#101010">
-<td background="../lrside.png"><img src="http://starmen.net/spacer.png" width="5" height="1" /></td>
+<td background="../lrside.png"><img src="http - //starmen.net/spacer.png" width="5" height="1" /></td>
 <td valign="top">
 <b>&nbsp; Location</b>
 </td>
 <td valign="top">
 Onett - Ness's House
 </td>
-<td background="../lrside.png"><img src="http://starmen.net/spacer.png" width="5" height="1" /></td>
+<td background="../lrside.png"><img src="http - //starmen.net/spacer.png" width="5" height="1" /></td>
 </tr>
 
 <tr bgcolor="#101010">

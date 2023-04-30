@@ -5,7 +5,7 @@ categories:
 date: 2012-03-22 00:15:32 +0000
 ---
 {% include box-open.html box-id="4364" title="Theories topic for the week of March 14 - March 21, 2012" author-id="1419" timestamp="2012-03-22 00:15:32 +0000" type="norm" dbname="box10259" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/01/frankystein.png" title="It is most definitely not made out of potatoes." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/01/frankystein.png" title="It is most definitely not made out of potatoes." /><p/>
 
 Frank is the head of the local Onett gang, the Sharks. But he also owns his own attack robot! How is this possible? Did he build it or find it or something entirely different? </center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-22 00:19:27 +0000" last-modified-by-name="Captain Bozo" %}

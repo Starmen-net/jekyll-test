@@ -11,9 +11,9 @@ date: 2023-01-13 05:31:57 +0000
     <col width="300px" /> 
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%201.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%201.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%201.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%201.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%201.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 1.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%201.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 1.png"  height="200" 
  /></a></th>
 </tr>
 </table>
@@ -31,9 +31,9 @@ Very obvious difference, the first is a title screen, while the second is a game
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%202.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%202.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%202.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%202.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%202.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 2.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%202.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 2.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -50,9 +50,9 @@ Other than the cursor, it's the same, aside from a font change that made some sy
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%203.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%203.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%203.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%203.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%203.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 3.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%203.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 3.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -68,9 +68,9 @@ In the first, Ninten overlaps on the box, but he has his own space in the latter
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%204.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%204.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%204.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%204.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%204.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 4.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%204.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 4.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -89,9 +89,9 @@ The same as above, except it shows Loid in Mother_Image 3.png, and Ana in Image 
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%205.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%204.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%205.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%204.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%205.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 4.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%205.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 4.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -108,9 +108,9 @@ The same as C, except it shows Teddy in Mother_Image 5.png, and Loid in Image 5.
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%206.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%206.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%206.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%206.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%206.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 6.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%206.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 6.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -126,9 +126,9 @@ The same as C, except it you are choosing your favorite food in Mother_Image 5.p
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%207.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%207.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%207.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%207.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%207.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 7.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%207.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 7.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -144,9 +144,9 @@ Mother_Image 7.png is the screen to confirm all of your choices in naming, while
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%208.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%208.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%208.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%208.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%208.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 8.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%208.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 8.png"  height="200" 
  /></a></th>
 </tr>
 
@@ -162,9 +162,9 @@ Similar to the one above, except some font changes. Mother_Image 8.png is after 
     <col width="300px" />
 
 <tr>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%209.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%209.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother/Part_1_Mother_Image%209.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother/Part_1_Mother_Image%209.png"  height="200" 
  /></a></th>
-   <th><a rel="lightbox[01]" href="https://starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%209.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 9.png"  height="200" 
+   <th><a rel="lightbox[01]" href="https - //starmen.net/mother12/diff/images/mother12/Part_1_Mother_1-2_Image%209.png" class="thumbnail"><img style="border:1px solid black;" src="/mother12/diff/images/mother12/Part_1_Mother_1-2_Image 9.png"  height="200" 
  /></a></th>
 </tr>
 

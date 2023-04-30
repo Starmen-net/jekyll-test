@@ -5,7 +5,7 @@ categories:
 date: 2010-01-25 15:13:01 +0000
 ---
 {% include box-open.html box-id="3827" title="Bannerrrr" author-id="474" timestamp="2010-01-31 22:30:41 +0000" type="blank" dbname="box14148" last-modified-by="127" %}
-<center><img src="http://starmen.net/comics/series/harmony/harmonybanner2.jpg" /></center>
+<center><img src="http - //starmen.net/comics/series/harmony/harmonybanner2.jpg" /></center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2010-01-31 22:34:07 +0000" last-modified-by-name="Artemis251" %}
 
 {% include box-open.html box-id="3823" title="MOTHER 2 Harmony" author-id="474" timestamp="2010-01-25 15:13:01 +0000" type="norm" dbname="box8700" last-modified-by="127" %}

@@ -34,7 +34,7 @@ date: 2007-10-08 01:13:32 +0000
 	<center>Contest Over!</center>
 	<b>The Answer:</b><br />
 <center>
-<img src="http://www.starmen.net/merchandise/images/main/koganswer2.jpg" border="1" />
+<img src="http - //www.starmen.net/merchandise/images/main/koganswer2.jpg" border="1" />
 </center>
 
 {% include box-close.html author-name="ShadowX" last-modified-on="2007-10-23 05:09:04 +0000" last-modified-by-name="ShadowX" %}

@@ -11,7 +11,7 @@ These are the DJs of ages past that are no longer part of the current Radio PSI 
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/vid.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/vid.png" />
 </td>
 
 <td align="center">
@@ -40,7 +40,7 @@ These are the DJs of ages past that are no longer part of the current Radio PSI 
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/aquas.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/aquas.gif" />
 </td>
 
 <td align="center">
@@ -75,7 +75,7 @@ DJ Aquazition eventually retired, using his past experiences to go full time on 
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/kame.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/kame.png" />
 </td>
 
 <td align="center">
@@ -103,7 +103,7 @@ Miss Kame eventually retired from Radio PSI having to focus less on the Internet
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/eggs.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/eggs.png" />
 </td>
 
 <td align="center">
@@ -134,7 +134,7 @@ DJ Eggstreme eventually announced his retirement and proceeded to broadcast a sh
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/edo.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/edo.gif" />
 </td>
 
 <td align="center">
@@ -164,7 +164,7 @@ Edo the DJ Alchemist eventually announced her retirement and proceeded to make a
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/izumi.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/izumi.png" />
 </td>
 
 <td align="center">
@@ -199,7 +199,7 @@ DJ Pollyanna eventually announced her retirement from active duty and broadcaste
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/serialpsychosis.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/serialpsychosis.png" />
 </td>
 
 <td align="center">
@@ -226,7 +226,7 @@ DJ Pollyanna eventually announced her retirement from active duty and broadcaste
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -257,7 +257,7 @@ DJ Kobaugh vanished, never to be heard from again at the end of 2011, but The_No
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/gammaphotob.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/gammaphotob.gif" />
 </td>
 
 <td align="center">
@@ -281,7 +281,7 @@ He has no favorite artists or genres.  Ironically, he actually hates music.
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/chaz.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/chaz.gif" />
 </td>
 
 <td align="center">
@@ -306,7 +306,7 @@ His favorite artist is Meat Loaf. He enjoys 80's and Oldies music.
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/ozwalledphoto-2.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/ozwalledphoto-2.png" />
 </td>
 
 <td align="center">
@@ -329,7 +329,7 @@ His favorite artists include Beck, They Might Be Giants, Sarah Slean, Weezer, Th
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/wilhelminaphoto-1.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/wilhelminaphoto-1.gif" />
 </td>
 
 <td align="center">
@@ -352,7 +352,7 @@ DJ Wilhelmina is fond of video game soundtracks, j-pop, techno and the various f
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/katonphoto.gif"/>
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/katonphoto.gif"/>
 </td>
 
 <td align="center">
@@ -375,7 +375,7 @@ His favorite artists include Bill Eager, Five Iron Frenzy, and Meat Loaf. He enj
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/brewsterphoto-1.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/brewsterphoto-1.gif" />
 </td>
 
 <td align="center">
@@ -398,7 +398,7 @@ Brewster enjoys almost any kind of music, but his favorite genres include J-Pop,
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/tansunnpic.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/tansunnpic.gif" />
 </td>
 
 <td align="center">
@@ -421,7 +421,7 @@ His personal playlist consists almost exclusively of videogame music, but he als
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/slingphoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/slingphoto.gif" />
 </td>
 
 <td align="center">
@@ -444,7 +444,7 @@ Although not confirmed, his favorite artist is allegedly Moby (wtf?! MOBY?!?!! R
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -467,7 +467,7 @@ Mathyz's favorite artists included Gary Numan, Foo Fighters, Queens of the Stone
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/simonbobphoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/simonbobphoto.gif" />
 </td>
 
 <td align="center">
@@ -491,7 +491,7 @@ His favorite artist is Pearl Jam.  He enjoys Canadian music.
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/erikphoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/erikphoto.gif" />
 </td>
 
 <td align="center">
@@ -515,7 +515,7 @@ Although not confirmed, his favorite artists allegedly include Gary Numan and Br
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/sephyphoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/sephyphoto.gif" />
 </td>
 
 <td align="center">
@@ -538,7 +538,7 @@ Despite his genuine enthusiasm to help make the official Starmen.net Podcast, he
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -561,7 +561,7 @@ He has no known favorite artists or genres.
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/jamiemphoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/jamiemphoto.gif" />
 </td>
 
 <td align="center">
@@ -584,7 +584,7 @@ Although not confirmed, his favorite artists allegedly include Dave Matthews Ban
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -607,7 +607,7 @@ He has no known favorite artists or genres.
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/eboundingphoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/eboundingphoto.gif" />
 </td>
 
 <td align="center">
@@ -630,7 +630,7 @@ He has no known favorite artists or genres.
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -659,7 +659,7 @@ These are the Backup Buddies of ages past that are no longer part of the current
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/j_spade.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/j_spade.png" />
 </td>
 
 <td align="center">
@@ -687,7 +687,7 @@ These are the Backup Buddies of ages past that are no longer part of the current
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/clare.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/clare.png" />
 </td>
 
 <td align="center">
@@ -719,7 +719,7 @@ Buddy Indie Anna left us to help elect a president and got stuck in an intricate
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/dj_pictures/bozo.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/dj_pictures/bozo.png" />
 </td>
 
 <td align="center">
@@ -743,7 +743,7 @@ Buddy Indie Anna left us to help elect a president and got stuck in an intricate
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -767,7 +767,7 @@ Buddy Papercut has a predilection for hip-hop and electronica music.
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/abjurephoto-1.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/abjurephoto-1.png" />
 </td>
 
 <td align="center">
@@ -791,7 +791,7 @@ Buddy Abby Rhode brings to the table, an eclectic collection of indie/alternativ
 
 <table>
 <p align="center"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/nophoto.gif" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/nophoto.gif" />
 </td>
 
 <td align="center">
@@ -815,7 +815,7 @@ He has no known favorite artists or genres, but there's a rumour going around th
 
 <table>
 <p align="center" valign="middle"><td rowspan="2" align="center" width="275, *">
-<img style="margin-right: 12px" src="http://starmen.net/radio/images/rangerphoto-1.png" />
+<img style="margin-right: 12px" src="http - //starmen.net/radio/images/rangerphoto-1.png" />
 </td>
 
 <td align="center">

@@ -7,7 +7,7 @@ date: 2005-08-15 18:20:04 +0000
 {% include box-open.html box-id="1264" title="Current Fan Art of the Week" author-id="75" timestamp="2005-08-15 18:20:04 +0000" type="norm" dbname="box45952" last-modified-by="127" %}
 <center><font size="+1">August 26th, 2013</font><br /><br /> </center>
 
-<center><a href="http://starmen.net/vote/vote.php?id=35587" target="_blank"><img src="http://files.fobby.net/0000/8b03/meteor%20chcking.png" border="0" /></a><br />
+<center><a href="http://starmen.net/vote/vote.php?id=35587" target="_blank"><img src="http - //files.fobby.net/0000/8b03/meteor%20chcking.png" border="0" /></a><br />
 
 <a href="http://starmen.net/vote/vote.php?id=35587">Meteor Checking - Biiru</a></center><br />
 {% include box-close.html author-name="PoeTrader" last-modified-on="2013-08-27 03:24:10 +0000" last-modified-by-name="Eyes5" %}

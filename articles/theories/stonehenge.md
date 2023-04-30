@@ -5,7 +5,7 @@ categories:
 date: 2012-04-26 00:47:47 +0000
 ---
 {% include box-open.html box-id="4431" title="Theories topic for the double week of April 11 - 25, 2012" author-id="1419" timestamp="2012-04-26 00:47:47 +0000" type="norm" dbname="box11487" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/38/metalarea.png" title="That Starman is about to beat up some youngins :O" /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/38/metalarea.png" title="That Starman is about to beat up some youngins :O" /><p/>
 The Stonehenge base is huge, deep underground, and full of technological wonders. It seems to have been around forever, at least long before Giygas's influence developed. So where did it come from?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-26 00:51:31 +0000" last-modified-by-name="Captain Bozo" %}
 

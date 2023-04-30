@@ -25,7 +25,7 @@ date: 2007-04-15 20:04:11 +0000
 	<center>CONTEST OVER!</center>
 	<br /><br />
 	<b>The Answer:</b><br />
-	<center><img src="http://www.starmen.net/merchandise/images/main/koganswer.jpg" border="1" /></center>
+	<center><img src="http - //www.starmen.net/merchandise/images/main/koganswer.jpg" border="1" /></center>
 {% include box-close.html author-name="ShadowX" last-modified-on="2007-04-23 01:56:21 +0000" last-modified-by-name="ShadowX" %}
 
 {% include box-open.html box-id="2865" title="Rules & Conditions" author-id="45" timestamp="2007-04-15 20:06:44 +0000" type="norm" dbname="box25839" last-modified-by="45" %}

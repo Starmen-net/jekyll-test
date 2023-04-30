@@ -6,7 +6,7 @@ date: 2009-09-20 23:27:51 +0000
 ---
 {% include box-open.html box-id="3798" title="Barn 'er" author-id="474" timestamp="2009-09-20 23:27:51 +0000" type="blank" dbname="box9995" last-modified-by="127" %}
 <center>
-<img src="http://starmen.net/comics/series/lateshowlucas/lateshowlucasbanner.png" alt="Late Night Show with Lucas Banner" />
+<img src="http - //starmen.net/comics/series/lateshowlucas/lateshowlucasbanner.png" alt="Late Night Show with Lucas Banner" />
 </center>
 {% include box-close.html author-name="Artemis251" last-modified-on="2009-09-20 23:31:37 +0000" last-modified-by-name="Artemis251" %}
 

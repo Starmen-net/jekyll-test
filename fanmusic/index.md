@@ -5,7 +5,7 @@ categories:
 date: 2005-04-04 05:13:35 +0000
 ---
 {% include box-open.html box-id="899" title="Welcome to Fan Music" author-id="926" timestamp="2005-04-04 05:13:35 +0000" type="norm" dbname="box1980" last-modified-by="127" %}
-<center><img src="http://local-static1.forum-files.fobby.net/forum_attachments/0028/6351/TESTING_FAN_MUSIC.png" /></center> <br />
+<center><img src="http - //local-static1.forum-files.fobby.net/forum_attachments/0028/6351/TESTING_FAN_MUSIC.png" /></center> <br />
 <center>Welcome to the Fan Music section! If you're musically talented, and you love recording Earthbound and Mother music, then this is the place for you to shine! </center>
 
 <center>Fan Music is currently under <b />heavy construction!<b /> With a new staff in charge of Fan Music, it will take some time for new things to come. Hopefully we will be able to catergorize everything that hasn't been and will start finally uploading new fanmusic. Don't forget to check updates on every Friday! </center>

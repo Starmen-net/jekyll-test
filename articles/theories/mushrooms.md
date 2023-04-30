@@ -5,7 +5,7 @@ categories:
 date: 2012-03-14 18:23:39 +0000
 ---
 {% include box-open.html box-id="4357" title="Theories topic for the week of March 7 - March 14, 2012" author-id="1419" timestamp="2012-03-14 18:23:39 +0000" type="norm" dbname="box30210" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/enemies/struttinevilmushroom1.png" title="Man even looking at those spots makes me dizzy..." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/enemies/struttinevilmushroom1.png" title="Man even looking at those spots makes me dizzy..." /><p/>
 
 The Struttin' Evil Mushroom is one of the most iconic EarthBound enemies, and definitely one of the most remembered. We really get a feel for the theme of the game when we get our first head-shroom, and even more so when someone PAYS us to get rid of it! But how did these walking mushrooms come to be?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-03-14 18:26:49 +0000" last-modified-by-name="Captain Bozo" %}

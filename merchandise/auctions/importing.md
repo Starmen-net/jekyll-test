@@ -20,7 +20,7 @@ date: 2007-01-29 03:56:31 +0000
 
 {% include box-open.html box-id="2818" title="Celga.com" author-id="45" timestamp="2007-01-29 03:59:04 +0000" type="norm" dbname="box61171" last-modified-by="45" %}
 	<center>
-	<a href="http://www.celga.com"><img src="http://www.starmen.net/merchandise/auctions/celga.jpg" border="1" alt="Celga.jpg" /><br />www.celga.com</a>
+	<a href="http://www.celga.com"><img src="http - //www.starmen.net/merchandise/auctions/celga.jpg" border="1" alt="Celga.jpg" /><br />www.celga.com</a>
 	</center>
 	<br /><br />
 	<b>Information:</b>

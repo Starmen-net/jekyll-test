@@ -7,7 +7,7 @@ date: 2005-04-03 07:46:42 +0000
 {% include box-open.html box-id="2142" title="Starmen.Net EarthBound Walkthrough" author-id="75" timestamp="2006-03-30 19:03:50 +0000" type="norm" dbname="box36617" last-modified-by="127" %}
 <center><a href="http://walkthrough.starmen.net/earthbound"><img src="smnebwalkthrough.png" border="0" /></a></center>
 <p />
-<img src="http://starmen.net/include/submitimage/m2.png" /> <a href="http://walkthrough.starmen.net/earthbound/">The Starmen.Net EarthBound Walkthrough</a><br />
+<img src="http - //starmen.net/include/submitimage/m2.png" /> <a href="http://walkthrough.starmen.net/earthbound/">The Starmen.Net EarthBound Walkthrough</a><br />
 Created by a long list of Starmen.Net staffers and forum-goers, this is the biggest and most comprehensive EarthBound Walkthrough you'll ever find on the web.  It covers the entire game and also has enemy stats, item info, PSI lists, maps, hotel and shop info, FAQs, and tons of tips and tricks.<br />
 <i>- Highly Recommended -</i>
 {% include box-close.html author-name="PoeTrader" last-modified-on="2007-06-19 17:58:42 +0000" last-modified-by-name="Tomato" %}

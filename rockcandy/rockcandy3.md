@@ -5,8 +5,8 @@ categories:
 date: 2007-05-20 03:07:04 +0000
 ---
 {% include box-open.html box-id="2885" title="Rock Candy - 3rd Album" author-id="137" timestamp="2007-05-20 03:07:04 +0000" type="norm" dbname="box23284" last-modified-by="127" %}
-<center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_banner_album_3.png" /></center><center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_separator.png" /></center>
-<center><a href="http://jonk.fobby.net/smn/rockcandy/release/rc3.1.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part1.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc3.2.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part2.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc3.3.zip"><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part3.png" border="0" /></a></center>
+<center><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_banner_album_3.png" /></center><center><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_separator.png" /></center>
+<center><a href="http://jonk.fobby.net/smn/rockcandy/release/rc3.1.zip"><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part1.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc3.2.zip"><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part2.png" border="0" /></a> <a href="http://jonk.fobby.net/smn/rockcandy/release/rc3.3.zip"><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part3.png" border="0" /></a></center>
 
 {% include box-close.html author-name="Jonk" last-modified-on="2007-05-20 05:35:23 +0000" last-modified-by-name="Jonk" %}
 

@@ -2536,7 +2536,7 @@ The trophies' names and descriptions are taken from the North American release o
     <col width="100px" />
     <col width="600px" />
   <tr>
-    <th><img src="? Block.png" /></th>
+    <th><img src="_ Block.png" /></th>
     <th><b>? Block</b></th>
     <th>How many times do you think you and Mario have punched ? Blocks? What if we added up the numbers for the entire world? If you were walking down the street and suddenly found a ? Block just floating there, would you jump up and punch it like Mario?</th>
   </tr>

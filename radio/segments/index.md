@@ -41,13 +41,13 @@ The Radio PSI Participation Award (or RPPA for short) is an all encompassing awa
 
 <table>
 <tr>
-	<td><img src="http://starmen.net/radio/images/badges/treasure_hunt-1.png" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/treasure_hunt-1.png" /></td>
 	<td width="150">13 points</td>
-	<td><img src="http://starmen.net/radio/images/badges/treasure_hunt-2.png" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/treasure_hunt-2.png" /></td>
 	<td width="150">26 points</td>
-	<td><img src="http://starmen.net/radio/images/badges/treasure_hunt-3.png" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/treasure_hunt-3.png" /></td>
 	<td width="150">52 points</td>
-	<td><img src="http://starmen.net/radio/images/badges/treasure_hunt-4.png" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/treasure_hunt-4.png" /></td>
 	<td>104 points</td>
 </tr>
 </table>
@@ -85,13 +85,13 @@ Things that generally don't count as more specific:
 </p>
 <table>
 <tr>
-	<td><img src="http://starmen.net/radio/images/badges/nt4rift-05.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/nt4rift-05.gif" /></td>
 	<td width="150">5 points</td>
-	<td><img src="http://starmen.net/radio/images/badges/nt4rift-10.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/nt4rift-10.gif" /></td>
 	<td width="150">10 points</td>
-	<td><img src="http://starmen.net/radio/images/badges/nt4rift-15.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/nt4rift-15.gif" /></td>
 	<td width="150">15 points</td>
-	<td><img src="http://starmen.net/radio/images/badges/nt4rift-star.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/nt4rift-star.gif" /></td>
 	<td>25 points</td>
 </tr>
 </table>
@@ -301,11 +301,11 @@ Things that generally don't count as more specific:
 </p>
 <table>
 <tr>
-	<td><img src="http://starmen.net/radio/images/badges/golden_medley-gold.png" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/golden_medley-gold.png" /></td>
 	<td width="250">Participant in “Name That Tune”</td>
-	<td><img src="http://starmen.net/radio/images/badges/golden_medley-multicolor.png" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/golden_medley-multicolor.png" /></td>
 	<td width="250">Winner of “Name That Tune”</td>
-	<td><img src="http://starmen.net/radio/images/badges/golden_medley-fancy.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/golden_medley-fancy.gif" /></td>
 	<td>Winner of “Golden Medley” Bonus Round</td>
 </tr>
 </table>
@@ -377,15 +377,15 @@ Things that generally don't count as more specific:
 </p>
 <table>
 <tr>
-	<td><img src="http://starmen.net/radio/images/badges/who_arted-07.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/who_arted-07.gif" /></td>
 	<td width="150">7 wins</td>
-	<td><img src="http://starmen.net/radio/images/badges/who_arted-13.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/who_arted-13.gif" /></td>
 	<td width="150">13 wins</td>
-	<td><img src="http://starmen.net/radio/images/badges/who_arted-17.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/who_arted-17.gif" /></td>
 	<td width="150">17 wins</td>
-	<td><img src="http://starmen.net/radio/images/badges/who_arted-27.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/who_arted-27.gif" /></td>
 	<td width="150">27 wins</td>
-	<td><img src="http://starmen.net/radio/images/badges/who_arted-37.gif" /></td>
+	<td><img src="http - //starmen.net/radio/images/badges/who_arted-37.gif" /></td>
 	<td>37 wins</td>
 </tr>
 </table>

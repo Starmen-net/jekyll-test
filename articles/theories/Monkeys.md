@@ -5,7 +5,7 @@ categories:
 date: 2011-11-24 00:05:06 +0000
 ---
 {% include box-open.html box-id="4131" title="Theories topic for the week of November 16 - 23, 2011" author-id="1419" timestamp="2011-11-24 00:05:06 +0000" type="norm" dbname="box47879" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/23/mankman.png" title="Man K. Man and I go way back, man." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/23/mankman.png" title="Man K. Man and I go way back, man." /><p/>
 Monkeys in the desert. Why? They're a long way off from the jungle, where the monkey is supposed to run free. I asked you to respond, and the lone user <b>onakagapekopekodesu</b> delivered. I submitted my own to make things a little more interesting. Be sure to submit more in the future, to keep things from getting stale and boring around here!</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-24 00:08:10 +0000" last-modified-by-name="Captain Bozo" %}
 

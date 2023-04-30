@@ -31,7 +31,7 @@ date: 2007-03-17 02:02:18 +0000
 		</tr>
 		<tr>
 			<td class="label">Rare Rating:</td>
-			<td><img src="http://starmen.net/merchandise/images/ness_icon.gif" /><img src="http://starmen.net/merchandise/images/ness_icon.gif" /><img src="http://starmen.net/merchandise/images/ness_icon.gif" /></td>
+			<td><img src="http - //starmen.net/merchandise/images/ness_icon.gif" /><img src="http - //starmen.net/merchandise/images/ness_icon.gif" /><img src="http - //starmen.net/merchandise/images/ness_icon.gif" /></td>
 		</tr>
 		<tr>
 			<td class="label">Get It:</td>
@@ -60,7 +60,7 @@ date: 2007-03-17 02:02:18 +0000
 	<br /><br />
 	This is actually the second Mr. Saturn plushie. <a href="http://starmen.net/merchandise/misc/msplushie.php">The first</a> 
 	came from Nintendo, vacuum sealed in a box along with an <a href="http://starmen.net/merchandise/misc/m12artbook.php">Art Book</a>. 
-	By <a href="http://starmen.net/merchandise/images//merchandise/images/ims_plushie_comparison.jpg">comparing</a> the two plushies you can 
+	By <a href="http - //starmen.net/merchandise/images//merchandise/images/ims_plushie_comparison.jpg">comparing</a> the two plushies you can 
 	see that the Banpresto one is slightly larger, the material is nicer, and has a much bigger nose.
 <br /><br />
 

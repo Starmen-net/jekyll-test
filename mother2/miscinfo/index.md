@@ -35,7 +35,7 @@ A more accurate prayer FAQ that corrects the player's guide mistakes, with more 
 <SUBMISSION id="1749" /><br />
 A humorous and logical view about the naming of places in EarthBound.
 <p />
-<img src="http://staff.starmen.net/include/submitimage/m2.png" /> <a href="../fullmaps/index.php">EarthBound Area Maps</a> by <a href="http://forum.starmen.net/?t=usrinfo&amp;id=419">kindarspirit</a><br />
+<img src="http - //staff.starmen.net/include/submitimage/m2.png" /> <a href="../fullmaps/index.php">EarthBound Area Maps</a> by <a href="http://forum.starmen.net/?t=usrinfo&amp;id=419">kindarspirit</a><br />
 An incomplete project that involves mapping the world of EarthBound.
 <p />
 <SUBMISSION id="1750" /><br />

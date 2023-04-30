@@ -34,7 +34,7 @@ Note of Clarification: If you take a picture of something that you physically cr
 {% include box-close.html author-name="PoeTrader" last-modified-on="2009-01-11 19:01:24 +0000" last-modified-by-name="PoeTrader" %}
 
 {% include box-open.html box-id="1669" title="Submission" author-id="75" timestamp="2005-10-28 01:16:48 +0000" type="db" dbname="box60514" last-modified-by="127" %}
-<center><img src="http://starmen.net/fantography/images/submittofantography.jpg" /></center><br />
+<center><img src="http - //starmen.net/fantography/images/submittofantography.jpg" /></center><br />
 
 <center>Take pictures of look-a-likes, your personal hoard of merchandise, cosplay, and tattoos! Anything that falls into those categories is accepted into Fantography.</center>
 <p />

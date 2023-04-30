@@ -5,7 +5,7 @@ categories:
 date: 2011-11-30 20:26:34 +0000
 ---
 {% include box-open.html box-id="4136" title="Theories topic for the week of November 23 - 30, 2011" author-id="1419" timestamp="2011-11-30 20:26:34 +0000" type="norm" dbname="box9201" last-modified-by="127" %}
-<center><img src="http://starmen.net/mother2/images/game/hapokey.png" title="Looking a little blue, there..." /><p/>
+<center><img src="http - //starmen.net/mother2/images/game/hapokey.png" title="Looking a little blue, there..." /><p/>
 
 At the end of Earthbound/Mother 2, Pokey escaped before Giygas was destroyed. We all know that somehow he ended up on Nowhere Island in Mother 3, but it's never clear exactly WHAT he did in the meantime. That's what I asked you to clear up for us, and the winner is below, followed by the rest!</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-30 20:30:23 +0000" last-modified-by-name="Captain Bozo" %}

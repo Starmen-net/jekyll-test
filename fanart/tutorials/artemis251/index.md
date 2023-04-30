@@ -5,7 +5,7 @@ categories:
 date: 2005-09-29 02:50:17 +0000
 ---
 {% include box-open.html box-id="1512" title="THE ART OF COLORED PENCILS: A tutorial by Artemis251" author-id="474" timestamp="2005-09-29 02:50:17 +0000" type="norm" dbname="box3305" last-modified-by="127" %}
-<a href="http://starmen.net/fanart/tutorials/artemis251/cpstuff.JPG" target="_new">
+<a href="http - //starmen.net/fanart/tutorials/artemis251/cpstuff.JPG" target="_new">
 <img src="cpstuffsm.JPG" border="0" align="left" hspace="13" target="_blank" /></a>
 
 <br /><br />To start, you'll need the essentials - paper, your pencils, pens, whatever other media types you plan to use, and a good imagination. Think up what you want to draw and plan it all out. This stuff fairly, obvious, sure, but stick with me until you get far enough for the techniques -- you may learn a thing or two.<br /><br /><br /><br />

@@ -5,7 +5,7 @@ categories:
 date: 2007-01-24 19:59:42 +0000
 ---
 {% include box-open.html box-id="2813" title="Mother/EarthBound Fan Videos" author-id="288" timestamp="2007-01-24 19:59:42 +0000" type="norm" dbname="box42712" last-modified-by="127" %}
-<center><img src="http://starmen.net/fanvideos/fanvideos_banner.png"/></center><br/>
+<center><img src="http - //starmen.net/fanvideos/fanvideos_banner.png"/></center><br/>
 
 Welcome to Fan Videos: Where you will find videos collected from all around the internet that are EB-centric!
 This section will be updated weekly (or as new videos come in), so if you have any suggestions, a link to a video you just made, or just want to say "Hi!", shoot your lovely admins (StoicMani and Absoltastic!)<a href="mailto:youtube@starmen.net"> an e-mail!</a>

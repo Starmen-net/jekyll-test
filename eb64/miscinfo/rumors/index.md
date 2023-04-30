@@ -6,7 +6,7 @@ date: 2019-12-16 10:09:06 +0000
 ---
 {% include box-open.html box-id="5534" title="Ness Returns" author-id="28590" timestamp="2019-12-16 10:09:06 +0000" type="norm" dbname="box40072" last-modified-by="127" %}
 <ul class="pics"><li>
-<center><a class="picleft" href="http://staff.starmen.net/eb64/images/1996/n_Early_Claus_2.jpg"><img src="http://staff.starmen.net/eb64/images/1996/n_Early_Claus_2.jpg" border="1" height="150" align="center" /></a>
+<center><a class="picleft" href="http - //staff.starmen.net/eb64/images/1996/n_Early_Claus_2.jpg"><img src="http - //staff.starmen.net/eb64/images/1996/n_Early_Claus_2.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
 <b><font size="2">Ness is in EB64, whether it be as a flashback or he's returning as a character.<br /></font></b>
 
@@ -26,7 +26,7 @@ In an early trailer of the game, a character bearing a resemblance to Ness was s
 
 {% include box-open.html box-id="5535" title="Just a Demo" author-id="28590" timestamp="2019-12-16 10:23:51 +0000" type="norm" dbname="box62139" last-modified-by="127" %}
 <ul class="pics"><li>
-<center><a class="picleft" href="http://staff.starmen.net/eb64/images/1998/Hiroki-Chan.jpg"><img src="http://staff.starmen.net/eb64/images/1998/Hiroki-Chan.jpg" border="1" height="150" align="center" /></a>
+<center><a class="picleft" href="http - //staff.starmen.net/eb64/images/1998/Hiroki-Chan.jpg"><img src="http - //staff.starmen.net/eb64/images/1998/Hiroki-Chan.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
 <b><font size="2">EarthBound 64 was nothing more than a demo<br /></font></b>
 
@@ -46,7 +46,7 @@ Surprisingly, there was actually a rumor that stated EB64 was nothing but a demo
 
 {% include box-open.html box-id="5536" title="Porky Finished the Job" author-id="28590" timestamp="2019-12-16 10:52:40 +0000" type="norm" dbname="box51997" last-modified-by="127" %}
 <ul class="pics"><li>
-<center><a class="picleft" href="http://staff.starmen.net/eb64/images/2000/n_World_Doomed_2.JPG"><img src="http://staff.starmen.net/eb64/images/2000/n_World_Doomed_2.JPG" border="1" height="150" align="center" /></a>
+<center><a class="picleft" href="http - //staff.starmen.net/eb64/images/2000/n_World_Doomed_2.JPG"><img src="http - //staff.starmen.net/eb64/images/2000/n_World_Doomed_2.JPG" border="1" height="150" align="center" /></a>
 <br /><br />
 <b><font size="2">There was a cutscene showing Porky kill the main cast from EarthBound.<br /></font></b>
 

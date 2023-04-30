@@ -5,7 +5,7 @@ categories:
 date: 2012-09-28 23:19:23 +0000
 ---
 {% include box-open.html box-id="4523" title="New Box, Edit me :(" author-id="49" timestamp="2012-09-28 23:19:23 +0000" type="blank" dbname="box30682" last-modified-by="127" %}
-<center><img src="http://starmen.net/misc/KISSOFDEATH.png" title="DON'T GET SPOOKED" /></center>
+<center><img src="http - //starmen.net/misc/KISSOFDEATH.png" title="DON'T GET SPOOKED" /></center>
 {% include box-close.html author-name="ROFISH" last-modified-on="2012-10-01 23:45:19 +0000" last-modified-by-name="Captain Bozo" %}
 
 {% include box-open.html box-id="4524" title="Halloween Funfest 2012" author-id="1419" timestamp="2012-10-01 23:44:53 +0000" type="norm" dbname="box15762" last-modified-by="127" %}
@@ -24,9 +24,9 @@ EVENT ENDS ON NOVEMBER 5th. GET YOUR SUBMISSIONS IN BY THEN.
 <b>CATEGORY WINNER BADGES!</b><p/>
 
 <table>
-<tr><td><img src="http://starmen.net/misc/SwampThingBadge3.gif" /></td><td>1st Place in Category (Handart, Compart, Writing, or Audio-Visual)</td></tr>
-<tr><td><img src="http://starmen.net/misc/LilUFOStrings2.gif" /></td><td>2nd Place in Category (Handart, Compart, Writing, or Audio-Visual)</td></tr>
-<tr><td><img src="http://starmen.net/misc/bloodandonauts.png" /></td><td>3rd Place in Category (Handart, Compart, Writing, or Audio-Visual)</td></tr>
+<tr><td><img src="http - //starmen.net/misc/SwampThingBadge3.gif" /></td><td>1st Place in Category (Handart, Compart, Writing, or Audio-Visual)</td></tr>
+<tr><td><img src="http - //starmen.net/misc/LilUFOStrings2.gif" /></td><td>2nd Place in Category (Handart, Compart, Writing, or Audio-Visual)</td></tr>
+<tr><td><img src="http - //starmen.net/misc/bloodandonauts.png" /></td><td>3rd Place in Category (Handart, Compart, Writing, or Audio-Visual)</td></tr>
 </table><p/>
 
 <b>OVERALL WINNER PRIZES!</b><p/>

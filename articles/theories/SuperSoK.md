@@ -5,7 +5,7 @@ categories:
 date: 2012-03-07 20:21:36 +0000
 ---
 {% include box-open.html box-id="4325" title="Theories topic for the week of February 29 - March 7, 2012" author-id="1419" timestamp="2012-03-07 20:21:36 +0000" type="norm" dbname="box44329" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/38/swordofkings.png" title="That only took a few days..." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/38/swordofkings.png" title="That only took a few days..." /><p/>
 
 The Sword of Kings is easily the most sought-after and infamous item in Earthbound... but why does the Starman Super have it to begin with? It isn't of alien origin... or is it?</center>
 

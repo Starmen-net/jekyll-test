@@ -5,7 +5,7 @@ categories:
 date: 2012-04-11 22:45:29 +0000
 ---
 {% include box-open.html box-id="4407" title="Theories topic for the week of April 4 - April 11, 2012" author-id="1419" timestamp="2012-04-11 22:45:29 +0000" type="norm" dbname="box4310" last-modified-by="127" %}
-<center><img src="http://i.imgur.com/3VyDC.png" title="They're on a mission from God." /><p/>
+<center><img src="http - //i.imgur.com/3VyDC.png" title="They're on a mission from God." /><p/>
 
 The Runaway Five are Eagleland's premier Blues band, and boy do they have quite the sound! But how did they meet?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-11 22:53:18 +0000" last-modified-by-name="Captain Bozo" %}

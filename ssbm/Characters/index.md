@@ -183,15 +183,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:53:53 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -210,15 +210,15 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:52:46 +0000" last-modified-by-name="CerealQueen" %}
 
@@ -269,14 +269,14 @@ Works:
 <li>GAMES</li>
 
 </td></tr></table>
-<center><a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
+<center><a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_1.JPG" width="120" height="65" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_2.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_3.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_4.JPG" width="120" height="65" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http://starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
+<a href="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" ><img src="http - //starmen.net/ssb4/characters/Lucas/Lucas_U_5.JPG" width="120" height="65" border="1" /></a></center>
 
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:55:35 +0000" last-modified-by-name="CerealQueen" %}

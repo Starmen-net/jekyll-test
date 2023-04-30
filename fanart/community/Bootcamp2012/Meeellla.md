@@ -17,22 +17,22 @@ If there were ever an artist that needed no introductions in the Starmen.net com
 {% include box-open.html box-id="4501" title="Submissions" author-id="6132" timestamp="2012-08-26 19:17:14 +0000" type="norm" dbname="box42589" last-modified-by="127" %}
 HockeyMonkey: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/HockeyMonkey_4.2.png"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/HockeyMonkey_4.2.png"/> <br /><br />
 
 METC: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/METC_4.1.jpg" width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/METC_4.1.jpg" width="600"/> <br /><br />
 
 
 tallasisco: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/tallasisco_4.JPG"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/tallasisco_4.JPG"  width="600"/> <br /><br />
 
 oceanlover4evr: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/oceanlover4evr_4.png"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/oceanlover4evr_4.png"  width="600"/> <br /><br />
 
 gmfk07: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/gmfk07_4.JPG"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/gmfk07_4.JPG"  width="600"/> <br /><br />
 {% include box-close.html author-name="Eyes5" last-modified-on="2012-09-05 01:56:09 +0000" last-modified-by-name="Eyes5" %}

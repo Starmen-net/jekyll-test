@@ -6,7 +6,7 @@ date: 2019-09-25 11:51:53 +0000
 ---
 {% include box-open.html box-id="5439" title="All but Confirmed Theories" author-id="28590" timestamp="2019-09-25 11:51:53 +0000" type="norm" dbname="box48932" last-modified-by="127" %}
 <ul class="pics"><li>
-<center><a class="picleft" href="http://staff.starmen.net/eb64/images/1996/n_Tazmily_Crossroads.jpg"><img src="http://staff.starmen.net/eb64/images/1996/n_Tazmily_Crossroads.jpg" border="1" height="150" align="center" /></a>
+<center><a class="picleft" href="http - //staff.starmen.net/eb64/images/1996/n_Tazmily_Crossroads.jpg"><img src="http - //staff.starmen.net/eb64/images/1996/n_Tazmily_Crossroads.jpg" border="1" height="150" align="center" /></a>
 <br /><br />
 <b><font size="2">The New Age Retro Hippie was originally took the role of Item Guy.<br /></font></b>
 
@@ -26,7 +26,7 @@ There are a couple screenshots showing an NPC, dubbed "Hippie" by fans, in a mob
 
 {% include box-open.html box-id="5440" title="Plausible Theories" author-id="28590" timestamp="2019-09-25 11:59:02 +0000" type="norm" dbname="box35328" last-modified-by="127" %}
 <ul class="pics"><li>
-<center><a class="picleft" href="https://starmen.net/eb64/images/2000/n_Pork_Trooper.JPG"><img src="https://starmen.net/eb64/images/2000/n_Pork_Trooper.JPG" border="1" height="150" align="center" /></a>
+<center><a class="picleft" href="https - //starmen.net/eb64/images/2000/n_Pork_Trooper.JPG"><img src="https - //starmen.net/eb64/images/2000/n_Pork_Trooper.JPG" border="1" height="150" align="center" /></a>
 <br />
 <b><font size="2">Wess and Duster were originally intended to fight the Fierce Pork Trooper as mini-boss in Chapter 2, rather than a Clayman, like in the final GBA game.<br /></font></b>
 
@@ -79,7 +79,7 @@ This theory doesn't have a lot of backing, but there is a similarity between one
 
 
 <ul class="pics"><li>
-<center><a class="picleft" href="http://staff.starmen.net/eb64/images/2000/n_Salsa_Samba.JPG"><img src="http://staff.starmen.net/eb64/images/2000/n_Salsa_Samba.JPG" border="1" height="150" align="center" /></a>
+<center><a class="picleft" href="http - //staff.starmen.net/eb64/images/2000/n_Salsa_Samba.JPG"><img src="http - //staff.starmen.net/eb64/images/2000/n_Salsa_Samba.JPG" border="1" height="150" align="center" /></a>
 <br /><br />
 
 <b><font size="2">Magypsy house designs were designed like lily pads.<br /></font></b>

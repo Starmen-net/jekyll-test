@@ -8,19 +8,19 @@ date: 2007-07-17 21:01:09 +0000
 <table border="0" align="center">
 <tr>
 <td>
-<a href="/fanprograms/rpg.php"><img border="0" src="http://starmen.net/fanprograms/images/button_rpg.png"></img></a>
+<a href="/fanprograms/rpg.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_rpg.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/action.php"><img border="0" src="http://starmen.net/fanprograms/images/button_action.png"></img></a>
+<a href="/fanprograms/action.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_action.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/minigames.php"><img border="0" src="http://starmen.net/fanprograms/images/button_mini.png"></img></a>
+<a href="/fanprograms/minigames.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_mini.png"></img></a>
 </td>
 <td></td>
 <td>
-<a href="/fanprograms/app.php"><img border="0" src="http://starmen.net/fanprograms/images/button_apps.png"></img></a>
+<a href="/fanprograms/app.php"><img border="0" src="http - //starmen.net/fanprograms/images/button_apps.png"></img></a>
 </td>
 </tr>
 </table>
@@ -66,7 +66,7 @@ date: 2007-07-17 21:01:09 +0000
 <br />
 <b>Content -</b> A neat little screen saver bound to bring back memories.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/eb_screensaver_1.png" title="Animated screen saver." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/eb_screensaver_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/eb_screensaver_1.png" title="Animated screen saver." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/eb_screensaver_1t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 02:58:42 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3209" title="EarthBound: Source" author-id="3404" timestamp="2007-07-17 21:07:57 +0000" type="norm" dbname="box14271" last-modified-by="127" %}
@@ -128,7 +128,7 @@ write it.  Anyway, Here's a sumary of all the keys that can be used in SaturnTim
 <br />
 <b>Content -</b> A unique clock, perfect for your EarthBound themese desktop.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/saturn_time_1.png" title="I tell time at you. Boing!" class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/saturn_time_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/saturn_time_1.png" title="I tell time at you. Boing!" class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/saturn_time_1t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 03:00:41 +0000" last-modified-by-name="Capn Muffin" %}
 
 {% include box-open.html box-id="3214" title="Ness Mouse Trailer" author-id="3404" timestamp="2007-07-17 21:21:57 +0000" type="norm" dbname="box45448" last-modified-by="127" %}
@@ -167,5 +167,5 @@ write it.  Anyway, Here's a sumary of all the keys that can be used in SaturnTim
 <br />
 <b>Content -</b> A snazzy new look to your old Solitaire. Just click and play.<br />
 <br />
-<a rel="lightbox[20070716]" href="http://starmen.net/fanprograms/images/screens/sm_solitaire_1.png" title="Familiar faces chillin' Solitaire-style." class="thumbnail"><img src="http://starmen.net/fanprograms/images/thumbs/sm_solitaire_1t.png"/></a>
+<a rel="lightbox[20070716]" href="http - //starmen.net/fanprograms/images/screens/sm_solitaire_1.png" title="Familiar faces chillin' Solitaire-style." class="thumbnail"><img src="http - //starmen.net/fanprograms/images/thumbs/sm_solitaire_1t.png"/></a>
 {% include box-close.html author-name="Capn Muffin" last-modified-on="2007-07-22 03:02:29 +0000" last-modified-by-name="Capn Muffin" %}

@@ -133,7 +133,7 @@ A few highlights from the game:
 <br />
 Itoi's minimalist quirkiness, stylized humor, and spare sentimentality resonated immediately with Japan's RPG-hungry gamers, and MOTHER sold over 400,000 copies in its initial release.<br />
 <br />
-An English localization began immediately, with firm plans for a <a href="http://starmen.net/mother1/images/publication/eb0preview.jpg">September 1991 release</a>. An 80-page instruction-manual-<em>cum</em>-player's-guide was produced. The game's odd soundtrack, orchestrated and performed by Suzuki and a band of unknown British singers, was prepped for release. Things… worked out a little differently. <br />
+An English localization began immediately, with firm plans for a <a href="http - //starmen.net/mother1/images/publication/eb0preview.jpg">September 1991 release</a>. An 80-page instruction-manual-<em>cum</em>-player's-guide was produced. The game's odd soundtrack, orchestrated and performed by Suzuki and a band of unknown British singers, was prepped for release. Things… worked out a little differently. <br />
 </p>
 <br class="cleary" />
 {% include box-close.html author-name="LiarXAgerate" last-modified-on="2010-09-26 00:58:57 +0000" last-modified-by-name="LiarXAgerate" %}

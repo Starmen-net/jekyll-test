@@ -9,7 +9,7 @@ date: 2007-06-20 01:58:20 +0000
 {% include box-close.html author-name="reidman" last-modified-on="2007-06-20 01:59:48 +0000" last-modified-by-name="reidman" %}
 
 {% include box-open.html box-id="3052" title="EB Siege - Donation Drive!" author-id="8" timestamp="2007-06-20 01:59:51 +0000" type="norm" dbname="box2677" last-modified-by="8" %}
-<img src="http://starmen.net/ebsiege/donations/keychain_sm.png" style="float: right; margin-left: 10px;" />
+<img src="http - //starmen.net/ebsiege/donations/keychain_sm.png" style="float: right; margin-left: 10px;" />
 <p>The most ambitious part of the Siege is a project Jonk has been quietly working on in the background -- we'll call it the uberSiege Project. We want to keep it a secret until after it has been launched; unfortunately, it will require lots of money to launch.</p>
 <p>So, we need some cash, and since we can't just phone it in we're asking you guys for help. Although we admit that it would be pretty fun to bother some Japanese businessmen until they gave us the money, we think we've come up with some good incentives:</p>
 <ul><li><strong>All donors</strong> will receive access to a secret forum where they can see some previews of the uberSiege project, as well as some other previews/news.</li>
@@ -40,7 +40,7 @@ date: 2007-06-20 01:58:20 +0000
 <input type="hidden" name="lc" value="US" />
 <input type="hidden" name="bn" value="PP-DonationsBF" />
 <input type="image" src="http://starmen.net/donate/paypalDonationBtn.png" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+<img alt="" border="0" src="https - //www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
 {% include box-close.html author-name="reidman" last-modified-on="2007-07-06 04:39:19 +0000" last-modified-by-name="reidman" %}

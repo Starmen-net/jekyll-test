@@ -164,15 +164,15 @@ Works:
 
 </td></tr></table>
 
-<center><a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_1.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_1.png" width="127.5" height="93.1" border="1" /></a> 
+<center><a href="http - //starmen.net/smashbros/characters/thumbs/Ness_64_1.png" ><img src="http - //starmen.net/smashbros/characters/thumbs/Ness_64_1.png" width="127.5" height="93.1" border="1" /></a> 
 &nbsp; &nbsp;
-<a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_2.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_2.png" width="127.5" height="93.1" border="1" /></a>
+<a href="http - //starmen.net/smashbros/characters/thumbs/Ness_64_2.png" ><img src="http - //starmen.net/smashbros/characters/thumbs/Ness_64_2.png" width="127.5" height="93.1" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_3.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_3.png" width="127.5" height="93.1" border="1" /></a>
+<a href="http - //starmen.net/smashbros/characters/thumbs/Ness_64_3.png" ><img src="http - //starmen.net/smashbros/characters/thumbs/Ness_64_3.png" width="127.5" height="93.1" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_4.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_4.png" width="127.5" height="93.1" border="1" /></a>
+<a href="http - //starmen.net/smashbros/characters/thumbs/Ness_64_4.png" ><img src="http - //starmen.net/smashbros/characters/thumbs/Ness_64_4.png" width="127.5" height="93.1" border="1" /></a>
 &nbsp; &nbsp;
-<a href="http://starmen.net/smashbros/characters/thumbs/Ness_64_5.png" ><img src="http://starmen.net/smashbros/characters/thumbs/Ness_64_5.png" width="127.5" height="93.1" border="1" /></a> </center>
+<a href="http - //starmen.net/smashbros/characters/thumbs/Ness_64_5.png" ><img src="http - //starmen.net/smashbros/characters/thumbs/Ness_64_5.png" width="127.5" height="93.1" border="1" /></a> </center>
 {% include box-close.html author-name="CerealQueen" last-modified-on="2018-06-16 12:31:48 +0000" last-modified-by-name="CerealQueen" %}
 
 {% include box-open.html box-id="4872" title="<a name=\"pikachu\">Pikachu</a>" author-id="28590" timestamp="2016-11-26 23:09:46 +0000" type="norm" dbname="box62380" last-modified-by="127" %}

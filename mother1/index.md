@@ -77,7 +77,7 @@ A few highlights from the game:
 <br />
 Itoi's minimalist quirkiness, stylized humor, and spare sentimentality resonated immediately with Japan's RPG-hungry gamers, and MOTHER sold over 400,000 copies in its initial release.<br />
 <br />
-An English localization began immediately, with firm plans for a <a href="http://starmen.net/mother1/images/publication/eb0preview.jpg">September 1991 release</a>. An 80-page instruction manual/player's guide was produced. The game's odd soundtrack, orchestrated and performed by Suzuki and a band of unknown British singers, was prepped for release. Things… worked out a little differently. <br />
+An English localization began immediately, with firm plans for a <a href="http - //starmen.net/mother1/images/publication/eb0preview.jpg">September 1991 release</a>. An 80-page instruction manual/player's guide was produced. The game's odd soundtrack, orchestrated and performed by Suzuki and a band of unknown British singers, was prepped for release. Things… worked out a little differently. <br />
 </p>
 <br class="cleary" />
 {% include box-close.html author-name="EvilJim Christo" last-modified-on="2016-10-28 22:18:27 +0000" last-modified-by-name="CerealQueen" %}
@@ -89,7 +89,7 @@ Here are a few important links that MOTHER fans might find interesting and/or he
 
  <li><a href="http://www.1101.com/MOTHER/MOTHER.html">Shigesato Itoi interviews, etc.</a> - Lots of info here—if you can read Japanese.</li>
 
-<li><a href="/credits/nes.php">MOTHER / EarthBound Zero credits</a> - Learn more about the people behind the game!</li>
+<li><a href="/credits/nes.md">MOTHER / EarthBound Zero credits</a> - Learn more about the people behind the game!</li>
 
 <li><a href="/merchandise">MOTHER / EarthBound Zero merchandise</a> - All the swag you can't buy in America.</li>
 

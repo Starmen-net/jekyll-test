@@ -25,8 +25,8 @@ Materials:<br /><br />
 -Needles<br />
 -chopsticks, a blunt pencil, or hemostats <br />
 -Negative man pattern, 
-<a href="http://www.metroidhat.com/mother/negativemanpattern1.jpg">Part 1,</a>
-<a href="http://www.metroidhat.com/mother/negativemanpattern2.jpg">Part 2</a>
+<a href="http - //www.metroidhat.com/mother/negativemanpattern1.jpg">Part 1,</a>
+<a href="http - //www.metroidhat.com/mother/negativemanpattern2.jpg">Part 2</a>
 
 <br />
 
@@ -43,38 +43,38 @@ Materials:<br /><br />
 {% include box-open.html box-id="4499" title="Submissions" author-id="6132" timestamp="2012-08-26 19:11:52 +0000" type="norm" dbname="box4190" last-modified-by="127" %}
 Tallasisco: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/Tallasisco_2.JPG"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/Tallasisco_2.JPG"  width="600"/> <br /><br />
 
 Velpi: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/Velpi_2.png" width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/Velpi_2.png" width="600"/> <br /><br />
 
 
 gmfk07: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/gmfk07_2.jpg"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/gmfk07_2.jpg"  width="600"/> <br /><br />
 
 
 
 METC: <br />
 
 <img src="
-http://starmen.net/fanart/community/Bootcamp2012/METC_2.jpg"  width="600"/> <br /><br />
+http - //starmen.net/fanart/community/Bootcamp2012/METC_2.jpg"  width="600"/> <br /><br />
 
 
 oceanlover4evr: <br />
 
-<img src="http://starmen.net/fanart/community/Bootcamp2012/oceanlover4evr_2.png"  width="600"/> <br /><br />
+<img src="http - //starmen.net/fanart/community/Bootcamp2012/oceanlover4evr_2.png"  width="600"/> <br /><br />
 
 
 Sweets: <br />
 
 <img src="
-http://starmen.net/fanart/community/Bootcamp2012/Sweets_2.1.jpg"  width=""/> <br /><br />
+http - //starmen.net/fanart/community/Bootcamp2012/Sweets_2.1.jpg"  width=""/> <br /><br />
 
 
 <img src="
-http://starmen.net/fanart/community/Bootcamp2012/Sweets_2.2.jpg"  width=""/> <br /><br />
+http - //starmen.net/fanart/community/Bootcamp2012/Sweets_2.2.jpg"  width=""/> <br /><br />
 
 
 {% include box-close.html author-name="Eyes5" last-modified-on="2012-09-04 18:55:27 +0000" last-modified-by-name="Eyes5" %}

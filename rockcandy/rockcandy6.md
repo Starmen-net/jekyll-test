@@ -5,9 +5,9 @@ categories:
 date: 2007-08-05 00:01:58 +0000
 ---
 {% include box-open.html box-id="3256" title="Rock Candy - 6th Album" author-id="137" timestamp="2007-08-05 00:01:58 +0000" type="norm" dbname="box11688" last-modified-by="127" %}
-<center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_banner_album_6.png" /></center>
-<center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_separator.png" /></center>
-<center><img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part1_faded.png" border="0" /> <img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part2_faded.png" border="0" /> <img src="http://jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part3_faded.png" border="0" /></center>
+<center><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_banner_album_6.png" /></center>
+<center><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_separator.png" /></center>
+<center><img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part1_faded.png" border="0" /> <img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part2_faded.png" border="0" /> <img src="http - //jonk.fobby.net/smn/rockcandy/sitesection/banners/rc_album_part3_faded.png" border="0" /></center>
 
 
 {% include box-close.html author-name="Jonk" last-modified-on="2008-04-22 03:16:47 +0000" last-modified-by-name="Jonk" %}

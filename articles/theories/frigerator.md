@@ -5,7 +5,7 @@ categories:
 date: 2012-02-01 20:37:15 +0000
 ---
 {% include box-open.html box-id="4196" title="Theories topic for the week of January 25 - February 1, 2012" author-id="1419" timestamp="2012-02-01 20:37:15 +0000" type="norm" dbname="box36853" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/mother3/image/screens/23/fridge.png" title="Alright Indiana Jones, that's totally how you get down from a mountain safely..." /><p/>
+<center><img src="http - //walkthrough.starmen.net/mother3/image/screens/23/fridge.png" title="Alright Indiana Jones, that's totally how you get down from a mountain safely..." /><p/>
 The refrigerator at the top of Snowcap... it's how you get down once you're finally done. But why is it even up there? That's NOT a normal place for a fridge to be. How did it get up there? Who did it? Below are some answers!</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-02-01 20:43:38 +0000" last-modified-by-name="Captain Bozo" %}
 

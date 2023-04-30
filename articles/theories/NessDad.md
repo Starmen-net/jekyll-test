@@ -5,7 +5,7 @@ categories:
 date: 2011-11-16 06:39:47 +0000
 ---
 {% include box-open.html box-id="4123" title="Theories topic for the week of November 8 - 15, 2011" author-id="1419" timestamp="2011-11-16 06:39:47 +0000" type="norm" dbname="box31791" last-modified-by="127" %}
-<center><img src="http://starmen.net/mother2/images/game/Telephone.png" title="HELLO? THIS IS DOG." /><p/>
+<center><img src="http - //starmen.net/mother2/images/game/Telephone.png" title="HELLO? THIS IS DOG." /><p/>
 Ness's dad is a bit of a mystery. You never see him, only receive calls from him and call him yourself to save and find out what your bank balance is. I asked you, the readers, what his profession is, and how he can afford to give you that much money to begin with, and you delivered.</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2011-11-16 06:42:52 +0000" last-modified-by-name="Captain Bozo" %}
 

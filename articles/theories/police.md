@@ -5,7 +5,7 @@ categories:
 date: 2012-04-05 00:27:17 +0000
 ---
 {% include box-open.html box-id="4388" title="Theories topic for the week of March 28 - April 4, 2012" author-id="1419" timestamp="2012-04-05 00:27:17 +0000" type="norm" dbname="box39458" last-modified-by="127" %}
-<center><img src="http://walkthrough.starmen.net/earthbound/image/screens/03/copfight.png" title="No, I said I want a small fries, and a coke." /><p/>
+<center><img src="http - //walkthrough.starmen.net/earthbound/image/screens/03/copfight.png" title="No, I said I want a small fries, and a coke." /><p/>
 
 The Onett Police force seems a little... weird. Why would they beat up on a little 12 year old boy? Is there more to this than meets the eye?</center>
 {% include box-close.html author-name="Captain Bozo" last-modified-on="2012-04-05 00:29:40 +0000" last-modified-by-name="Captain Bozo" %}

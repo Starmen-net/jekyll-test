@@ -24,9 +24,9 @@ date: 2007-06-19 07:17:20 +0000
 <div class="lookalike">
 	<dl>
 		<dt>Ruby Puppy</dt>
-		<dd><img src="http://static.flickr.com/49/112481942_4ffd3a9c60_m.jpg" /></dd>
+		<dd><img src="http - //static.flickr.com/49/112481942_4ffd3a9c60_m.jpg" /></dd>
 		<dt>Icedogcicle</dt>
-		<dd><img src="http://starmen.net/mother3/mother3world/images/m_03.gif" /></dd>
+		<dd><img src="http - //starmen.net/mother3/mother3world/images/m_03.gif" /></dd>
 	</dl>
 	<p>
 		Ruby is a puppy. Ruby is somewhat poopy, and extremely peepy. Instead of barking, Ruby often 'buff's.

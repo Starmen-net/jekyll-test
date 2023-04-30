@@ -5,7 +5,7 @@ categories:
 date: 2008-11-11 18:41:17 +0000
 ---
 {% include box-open.html box-id="3565" title="EarthBound Zero Easy Patch" author-id="288" timestamp="2008-11-11 18:41:17 +0000" type="norm" dbname="box9271" last-modified-by="127" %}
-<center><img src="http://starmen.net/mother1/easypatch/easy.png" /></center>
+<center><img src="http - //starmen.net/mother1/easypatch/easy.png" /></center>
 
 <p>For a lot of people, EarthBound Zero isn't very fun because of the excessive level-grinding necessary, particularly during the early parts of the game. To help alleviate this problem, we've made a very small IPS patch that doubles the experience and the money you receive from enemies. According to some, this actually makes the game a little <b>too</b> easy, but for the first-time player, it's probably pretty decent.</p>
 

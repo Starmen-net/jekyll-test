@@ -5,11 +5,11 @@ categories:
 date: 2009-02-14 22:01:08 +0000
 ---
 {% include box-open.html box-id="3609" title="The Sad Story of EarthBound on the Virtual Console" author-id="49" timestamp="2009-02-14 22:01:08 +0000" type="norm" dbname="box62171" last-modified-by="8" %}
-<a rel="lightbox" style="float: right; width: 250px; margin: 0 0 10px 20px;" href="http://starmen.net/ebvc/eb-no-vc-2.jpg"><img src="http://starmen.net/ebvc/eb-no-vc-2.thumb.jpg" alt="Looks like you got your head handed to you, Ness." title="Looks like you got your head handed to you, Ness." /></a>
+<a rel="lightbox" style="float: right; width: 250px; margin: 0 0 10px 20px;" href="http - //starmen.net/ebvc/eb-no-vc-2.jpg"><img src="http - //starmen.net/ebvc/eb-no-vc-2.thumb.jpg" alt="Looks like you got your head handed to you, Ness." title="Looks like you got your head handed to you, Ness." /></a>
 <em>[Edit: Tomato posted <a href="http://earthboundcentral.com/2009/02/earthbound-legal-issues/">EarthBound & Legal Issues</a> over at his <a href="http://earthboundcentral.com">EarthBound Central Blog</a>. Consider it a postrequisite to this article!]</em>
 <p>Early in the summer of 2007 Starmen.Net received an unsolicited message:</p>
 <blockquote>"EB on VC in July."</blockquote>
-<p>There wasn't much else to the message. We were skeptical at first -- EarthBound fans have endured more <a href="http://www.destructoid.com/surfer-girl-mother-earthbound-series-to-hit-us-on-wii-or-ds-61411.phtml">ill-fated</a> <a href="http://nintendo.joystiq.com/2006/07/13/earthbound-compilation-en-route/">rumors</a>, <a href="http://hijola.fobby.net/mother3/news.shtml">delays</a>, <a href="http://starmen.net/siteinfo/image/smnetinegm3.jpg">false starts</a>, <a href="http://starmen.net/eb64/cancellation/">cancellations</a> and <a href="http://forum.starmen.net/forum/Site/Newsroom/28924/first">disappointments</a> than probably any other fanbase in gaming history, so we approach everything with a healthy skepticism. Like, 0% body fat skepticism.</p>
+<p>There wasn't much else to the message. We were skeptical at first -- EarthBound fans have endured more <a href="http://www.destructoid.com/surfer-girl-mother-earthbound-series-to-hit-us-on-wii-or-ds-61411.phtml">ill-fated</a> <a href="http://nintendo.joystiq.com/2006/07/13/earthbound-compilation-en-route/">rumors</a>, <a href="http://hijola.fobby.net/mother3/news.shtml">delays</a>, <a href="http - //starmen.net/siteinfo/image/smnetinegm3.jpg">false starts</a>, <a href="http://starmen.net/eb64/cancellation/">cancellations</a> and <a href="http://forum.starmen.net/forum/Site/Newsroom/28924/first">disappointments</a> than probably any other fanbase in gaming history, so we approach everything with a healthy skepticism. Like, 0% body fat skepticism.</p>
 
 <p>After a little investigation, though, we were assured the source of the message was totally legit. In addition to that, we had actually heard from other sources (namely, <a href="http://starmen.net/zomgoldforum/?t=msg&th=28393&start=0#msg_num_24">a post from Lucas Thomas of IGN on our forum</a>) that EarthBound was slated for a summer '07 VC release.</p>
 
@@ -52,7 +52,7 @@ date: 2009-02-14 22:01:08 +0000
 
 <h2>Brawl and the ESRB rating</h2>
 
-<a rel="lightbox" style="float: right; width: 250px; margin: 0 0 10px 20px;" href="http://starmen.net/ebvc/smnet-stats-brawl-esrb.png"><img src="http://starmen.net/ebvc/smnet-stats-brawl-esrb.thumb.jpg" alt="Starmen.Net traffic from June 2007 - June 2008" title="Starmen.Net traffic from June 2007 - June 2008" /></a>
+<a rel="lightbox" style="float: right; width: 250px; margin: 0 0 10px 20px;" href="http - //starmen.net/ebvc/smnet-stats-brawl-esrb.png"><img src="http - //starmen.net/ebvc/smnet-stats-brawl-esrb.thumb.jpg" alt="Starmen.Net traffic from June 2007 - June 2008" title="Starmen.Net traffic from June 2007 - June 2008" /></a>
 
 <p>In March '08, Brawl was released and our traffic peaked. The game came with an unpleasant surprise: <a href="http://forum.starmen.net/forum/Site/Newsroom/44268/first">EarthBound's demo had been removed from the Masterpieces section</a>, even though it was present in the Japanese version of the game. The following Mondays were agonizing, and when EB failed to materialize on the VC we contacted our source to find out what was going on. This is when we found out that NoA's lawyers were refusing to release the game without changes, and NCL was refusing to authorize those changes. The stalemate, if it continued, guaranteed that the game would go unreleased.</p>
 

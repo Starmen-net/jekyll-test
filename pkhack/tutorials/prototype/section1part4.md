@@ -291,7 +291,7 @@ to convert the addresses around.<br /><br />
 
 If the idea of reversing pointers confuses you, here is a nifty little animated graphic made by Jeffman to help you along:<br /><br />
 
-<center><img src="http://starmen.net/pkhack/tutorials/prototype/images/bytereverse.gif" /></center>
+<center><img src="http - //starmen.net/pkhack/tutorials/prototype/images/bytereverse.gif" /></center>
 {% include box-close.html author-name="NESluver" last-modified-on="2012-03-11 23:51:55 +0000" last-modified-by-name="NESluver" %}
 
 {% include box-open.html box-id="4258" title="New Box, Edit me :(" author-id="6189" timestamp="2012-02-12 03:09:58 +0000" type="blank" dbname="box64732" last-modified-by="127" %}
