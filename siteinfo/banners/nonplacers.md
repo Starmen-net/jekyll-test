@@ -17,27 +17,27 @@ Though there were many, and quite hard to choose from for the winners, there hav
 {% include box-open.html box-id="2195" title="Horizontal" author-id="247" timestamp="2006-04-07 21:02:22 +0000" type="norm" dbname="box33470" last-modified-by="127" %}
 <p>
 JeffMan<br />
-<img src="/siteinfo/banners/images/individual/jeffman-horizontal.png" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/jeffman-horizontal.png" />
 </p>
 
 <p>
 KidBond<br />
-<img src="/siteinfo/banners/images/individual/kidbond-horizontal.png" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/kidbond-horizontal.png" />
 </p>
 
 <p>
 Sonic 65<br />
-<img src="/siteinfo/banners/images/individual/sonic65-horizontal.png" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/sonic65-horizontal.png" />
 </p>
 
 <p>
 Spam_Man<br />
-<img src="/siteinfo/banners/images/individual/spam_man-horizontal.png" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/spam_man-horizontal.png" />
 </p>
 
 <p>
 xfisjmg1<br />
-<img src="/siteinfo/banners/images/individual/xfisjmg1-horizontal.gif" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/xfisjmg1-horizontal.gif" />
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:26:32 +0000" last-modified-by-name="Mansion Maniac" %}
 
@@ -50,19 +50,19 @@ The Vertical category had the least turnout with only two applicable banners.  B
 {% include box-open.html box-id="2197" title="Button" author-id="247" timestamp="2006-04-07 21:02:25 +0000" type="norm" dbname="box840" last-modified-by="127" %}
 <p>
 Steam<br />
-<img src="/siteinfo/banners/images/individual/steam-button.gif" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/steam-button.gif" />
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:26:47 +0000" last-modified-by-name="Mansion Maniac" %}
 
 {% include box-open.html box-id="2198" title="Micro" author-id="247" timestamp="2006-04-07 21:02:26 +0000" type="norm" dbname="box58049" last-modified-by="127" %}
 <p>
 Emperor Bambi<br />
-<img src="/siteinfo/banners/images/individual/emperor_bambi-micro.gif" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/emperor_bambi-micro.gif" />
 </p>
 
 <p>
 Firegirl<br />
-<img src="/siteinfo/banners/images/individual/firegirl-micro.gif" />
+<img src="http://starmen.net/siteinfo/banners/images/individual/firegirl-micro.gif" />
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:26:54 +0000" last-modified-by-name="Mansion Maniac" %}
 
@@ -76,17 +76,17 @@ Firegirl<br />
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/ambivalentiowa-vertical.jpg" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/ambivalentiowa-vertical.jpg" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/ambivalentiowa-horizontal.jpg" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/ambivalentiowa-horizontal.jpg" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/ambivalentiowa-button.jpg" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/ambivalentiowa-button.jpg" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/ambivalentiowa-micro.jpg" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/ambivalentiowa-micro.jpg" /></td>
 </tr>
 </table>
 <br /><br />
@@ -101,17 +101,17 @@ Firegirl<br />
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/bjeatles-vertical.gif" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/bjeatles-vertical.gif" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/bjeatles-horizontal.gif" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/bjeatles-horizontal.gif" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/bjeatles-button.gif" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/bjeatles-button.gif" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/bjeatles-micro.gif" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/bjeatles-micro.gif" /></td>
 </tr>
 </table>
 <br /><br />
@@ -126,17 +126,17 @@ Firegirl<br />
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/lechimp-vertical.png" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/lechimp-vertical.png" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/lechimp-horizontal.png" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/lechimp-horizontal.png" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/lechimp-button.png" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/lechimp-button.png" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/lechimp-micro.png" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/lechimp-micro.png" /></td>
 </tr>
 </table>
 <br /><br />
@@ -151,17 +151,17 @@ Firegirl<br />
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/spam_man-vertical.png" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/spam_man-vertical.png" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="/siteinfo/banners/images/sets/spam_man-horizontal.png" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/spam_man-horizontal.png" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/spam_man-button.png" />
+<img src="http://starmen.net/siteinfo/banners/images/sets/spam_man-button.png" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="/siteinfo/banners/images/sets/spam_man-micro.png" /></td>
+<img src="http://starmen.net/siteinfo/banners/images/sets/spam_man-micro.png" /></td>
 </tr>
 </table>
 <br /><br />

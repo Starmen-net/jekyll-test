@@ -165,31 +165,31 @@ what you can get for your donation:</p>
 	<tbody>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$5-$10</td>
-			<td><img src="/forum/badges/donor1.gif" alt="Green donor badge" title="Green donor - has donated $5 - $10 to Starmen.Net" /></td>
+			<td><img src="http://starmen.net/forum/badges/donor1.gif" alt="Green donor badge" title="Green donor - has donated $5 - $10 to Starmen.Net" /></td>
 			<td><br /></td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #0e0e56">
 			<td class="rowhead">$10-$30</td>
-			<td><img src="/forum/badges/donor2.gif" alt="Bronze donor badge" title="Bronze donor - has donated $10 - $30 to Starmen.Net" /></td>
+			<td><img src="http://starmen.net/forum/badges/donor2.gif" alt="Bronze donor badge" title="Bronze donor - has donated $10 - $30 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$30-$50</td>
-			<td><img src="/forum/badges/donor3.gif" alt="Silver donor badge" title="Silver donor - has donated $30 - $50 to Starmen.Net" /></td>
+			<td><img src="http://starmen.net/forum/badges/donor3.gif" alt="Silver donor badge" title="Silver donor - has donated $30 - $50 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #0e0e56">
 			<td class="rowhead">$50-$100</td>
-			<td><img src="/forum/badges/donor4.gif" alt="Gold donor badge" title="Gold donor - has donated $50 - $100 to Starmen.Net" /></td>
+			<td><img src="http://starmen.net/forum/badges/donor4.gif" alt="Gold donor badge" title="Gold donor - has donated $50 - $100 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td>Yes</td>
 		</tr>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$100+</td>
-			<td><img src="/forum/badges/donor5.gif" alt="Platinum donor badge" title="Platinum donor - has donated more than $100 to Starmen.Net" /></td>
+			<td><img src="http://starmen.net/forum/badges/donor5.gif" alt="Platinum donor badge" title="Platinum donor - has donated more than $100 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td>Yes</td>
 		</tr>

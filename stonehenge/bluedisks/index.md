@@ -9,7 +9,7 @@ Mother 3, also known as EarthBound 64, was in development for several years on t
 <br /><br />
 In May of 2004 (a year and a half ago) a jovial fellow who we'll refer to as 'Sourceperson' from here on out contacted Jonk via email with this picture:
 <br /><br />
-<img align="center" src="/reidman/holy.jpg" />
+<img align="center" src="http://www.starmen.net/reidman/holy.jpg" />
 <br /><br />
 The disks in the picture are serially marked with the letters 'M3' and 'KM'. We didn't know what the 'KM' might be, but we knew what the 'M3' probably meant - the disks in the picture are Nintendo 64 Disk Drive (64DD) development discs. For those who don't know, Mother 3 was originally slated to debut on the 64DD.
 <br /><br />

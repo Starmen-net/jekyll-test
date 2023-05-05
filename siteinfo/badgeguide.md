@@ -14,7 +14,7 @@ Badges that are currently able to be collected will have <font color="green">gre
 <table>
 
 <tr>
-<td width="80"><center><img src="/forum/badges/fs.gif" />
+<td width="80"><center><img src="http://starmen.net/forum/badges/fs.gif" />
 <br/><font color="grey">Fukunaga Snipe</font></center></td>
 <td>Given to those who made fanart for Tomato's run-in with super DBZ-related professor Fukunaga Snipe.</td>
 </tr>
@@ -52,7 +52,7 @@ yeah okay I am making a program to do all this for me
 <table>
 
 <tr>
-<td width="80"><center><img src="/mailbag/aces.gif" />
+<td width="80"><center><img src="http://classic.starmen.net/mailbag/aces.gif" />
 <br/><font color="grey">Aces!</font></center></td>
 <td>Given to ninja royalty only.</td>
 </tr>
