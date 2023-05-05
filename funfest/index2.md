@@ -10,7 +10,7 @@ date: 2004-12-05 03:59:33 +0000
 
 {% include box-open.html box-id="85" title="Funfest FAQ" author-id="49" timestamp="2004-12-05 03:59:33 +0000" type="norm" dbname="box59132" last-modified-by="75" %}
 <center>
-<img SRC="whatis.gif" WIDTH="330" HEIGHT="40" ALT="What is the Funfest?" />
+<img SRC="/funfest/whatis.gif" WIDTH="330" HEIGHT="40" ALT="What is the Funfest?" />
 </center>
 
       <br />
@@ -18,7 +18,7 @@ date: 2004-12-05 03:59:33 +0000
       <br /><br />
 
       <center>
-         <img SRC="whatcan.gif" WIDTH="330" HEIGHT="40" ALT="What can I submit?" />
+         <img SRC="/funfest/whatcan.gif" WIDTH="330" HEIGHT="40" ALT="What can I submit?" />
       </center>
       <br />
       There are no real limitations to what type of files you submit. Here are some suggestions:
@@ -39,7 +39,7 @@ date: 2004-12-05 03:59:33 +0000
 
       <br /><br />
       <center>
-         <img SRC="judging.gif" WIDTH="330" HEIGHT="40" ALT="Judging and Prizes" />
+         <img SRC="/funfest/judging.gif" WIDTH="330" HEIGHT="40" ALT="Judging and Prizes" />
       </center>
       <br />
       So whats in it for the people who participate? Well, not only do they get a
@@ -93,7 +93,7 @@ date: 2004-12-05 03:59:33 +0000
       <B>3rd</B> - Bragging Rights<br /><br />
       <br /><br />
       <center>
-         <img SRC="submission.gif" WIDTH="330" HEIGHT="40" ALT="Submission Guidelines" />
+         <img SRC="/funfest/submission.gif" WIDTH="330" HEIGHT="40" ALT="Submission Guidelines" />
       </center>
      <br />
      Now the important part. This section will give you all the information you'll
