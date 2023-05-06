@@ -59,7 +59,7 @@ this huge, nor this expensive. Everyone who works on this site is a
 volunteer and gets no monetary payment or compensation for their work, 
 nor has anyone ever been paid in the past. All of the money goes to 
 paying for the server bills, software, registration fees, and 
-miscellaneous other costs related to running the website such as printing costs, <a href="http://starmen.net/merchandise/smn/mugz0rz.php">prizes</a>, shipping costs, etc.</p>
+miscellaneous other costs related to running the website such as printing costs, <a href="./../merchandise/smn/mugz0rz.html">prizes</a>, shipping costs, etc.</p>
 <a href="#top" class="backtotop">Back to Top</a>
 
 {% include box-close.html author-name="reidman" last-modified-on="2007-06-24 09:35:26 +0000" last-modified-by-name="reidman" %}
@@ -82,7 +82,7 @@ Cafepress Premium Store Fees: <b>$5</b>/month<br />
 {% include box-close.html author-name="reidman" last-modified-on="2007-06-24 09:35:47 +0000" last-modified-by-name="reidman" %}
 
 {% include box-open.html box-id="3117" title="<a name=\"besides\">Why don't you try something besides donations?</a>" author-id="8" timestamp="2007-06-24 09:35:50 +0000" type="norm" dbname="box44701" last-modified-by="8" %}
-<p>When the funds are running low, we do lots of cool things for fundraisers, including auctions and fundraisers. You can find some of our many donor rewards from past donation drives in the <a href="/merchandise">Merchandise</a> section.
+<p>When the funds are running low, we do lots of cool things for fundraisers, including auctions and fundraisers. You can find some of our many donor rewards from past donation drives in the <a href="./../merchandise">Merchandise</a> section.
 We've also got the <a href="http://www.cafepress.com/starmen">Starmen.Net Store</a>, which, thanks to <a href="http://forum.starmen.net/?t=ppost&toi=137">Jonk</a>, has been successful 
 beyond anyone's best expectations. Our profit margin from the Starmen.Net store is fairly meager, though, and it is for 
 this reason that donations have been and always will be our biggest and 
@@ -165,31 +165,31 @@ what you can get for your donation:</p>
 	<tbody>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$5-$10</td>
-			<td><img src="http://starmen.net/forum/badges/donor1.gif" alt="Green donor badge" title="Green donor - has donated $5 - $10 to Starmen.Net" /></td>
+			<td><img src="./../forum/badges/donor1.gif" alt="Green donor badge" title="Green donor - has donated $5 - $10 to Starmen.Net" /></td>
 			<td><br /></td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #0e0e56">
 			<td class="rowhead">$10-$30</td>
-			<td><img src="http://starmen.net/forum/badges/donor2.gif" alt="Bronze donor badge" title="Bronze donor - has donated $10 - $30 to Starmen.Net" /></td>
+			<td><img src="./../forum/badges/donor2.gif" alt="Bronze donor badge" title="Bronze donor - has donated $10 - $30 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$30-$50</td>
-			<td><img src="http://starmen.net/forum/badges/donor3.gif" alt="Silver donor badge" title="Silver donor - has donated $30 - $50 to Starmen.Net" /></td>
+			<td><img src="./../forum/badges/donor3.gif" alt="Silver donor badge" title="Silver donor - has donated $30 - $50 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td><br /></td>
 		</tr>
 		<tr style="background-color: #0e0e56">
 			<td class="rowhead">$50-$100</td>
-			<td><img src="http://starmen.net/forum/badges/donor4.gif" alt="Gold donor badge" title="Gold donor - has donated $50 - $100 to Starmen.Net" /></td>
+			<td><img src="./../forum/badges/donor4.gif" alt="Gold donor badge" title="Gold donor - has donated $50 - $100 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td>Yes</td>
 		</tr>
 		<tr style="background-color: #242488">
 			<td class="rowhead">$100+</td>
-			<td><img src="http://starmen.net/forum/badges/donor5.gif" alt="Platinum donor badge" title="Platinum donor - has donated more than $100 to Starmen.Net" /></td>
+			<td><img src="./../forum/badges/donor5.gif" alt="Platinum donor badge" title="Platinum donor - has donated more than $100 to Starmen.Net" /></td>
 			<td>Yes</td>
 			<td>Yes</td>
 		</tr>

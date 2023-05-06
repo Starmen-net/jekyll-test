@@ -31,17 +31,17 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/ataribaby-vertical.png" />
+<img src="./images/sets/ataribaby-vertical.png" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/ataribaby-horizontal.png" /></td>
+<img src="./images/sets/ataribaby-horizontal.png" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/ataribaby-button.png" />
+<img src="./images/sets/ataribaby-button.png" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/ataribaby-micro.png" /></td>
+<img src="./images/sets/ataribaby-micro.png" /></td>
 </tr>
 </table>
 <br /><br />
@@ -56,17 +56,17 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/pbalfredo-vertical.gif" />
+<img src="./images/sets/pbalfredo-vertical.gif" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/pbalfredo-horizontal.gif" /></td>
+<img src="./images/sets/pbalfredo-horizontal.gif" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/pbalfredo-button.gif" />
+<img src="./images/sets/pbalfredo-button.gif" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/pbalfredo-micro.gif" /></td>
+<img src="./images/sets/pbalfredo-micro.gif" /></td>
 </tr>
 </table>
 <br /><br />
@@ -81,17 +81,17 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 </tr>
 <tr align="center">
 <td align="center" rowspan="2" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/bluepanda-vertical.jpg" />
+<img src="./images/sets/bluepanda-vertical.jpg" />
 </td>
 <td align="center" valign="middle" colspan="2" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/bluepanda-horizontal.jpg" /></td>
+<img src="./images/sets/bluepanda-horizontal.jpg" /></td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/bluepanda-button.gif" />
+<img src="./images/sets/bluepanda-button.gif" />
 </td>
 <td align="center" valign="middle" width="300">
-<img src="http://starmen.net/siteinfo/banners/images/sets/bluepanda-micro.gif" /></td>
+<img src="./images/sets/bluepanda-micro.gif" /></td>
 </tr>
 </table>
 </p>
@@ -100,63 +100,63 @@ Sets are made for the full immersion of bannerness on a website, so a consistent
 {% include box-open.html box-id="2184" title="Micro Banner Winners" author-id="247" timestamp="2006-04-07 18:02:27 +0000" type="norm" dbname="box16984" last-modified-by="127" %}
 <p>
 1st Place - Mr. Spoon<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/mrspoon-micro.png" />
+<img src="./images/individual/mrspoon-micro.png" />
 <br />
 <br />
 </p>
 
 <p>
 2nd Place - Sonic65<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/sonic65-micro.png" />
+<img src="./images/individual/sonic65-micro.png" />
 <br />
 <br />
 </p>
 
 <p>
 3rd Place - Radiation<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/radiation-micro.png" />
+<img src="./images/individual/radiation-micro.png" />
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:38:43 +0000" last-modified-by-name="Mansion Maniac" %}
 
 {% include box-open.html box-id="2183" title="Button Banner Winners" author-id="247" timestamp="2006-04-07 18:02:26 +0000" type="norm" dbname="box53597" last-modified-by="127" %}
 <p>
 1st Place - Firegirl<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/firegirl-button.gif" />
+<img src="./images/individual/firegirl-button.gif" />
 <br />
 <br />
 </p>
 
 <p>
 2nd Place - xfisjmg1<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/xfisjmg1-button.gif" />
+<img src="./images/individual/xfisjmg1-button.gif" />
 <br />
 <br />
 </p>
 
 <p>
 3rd Place - Cap'n Crunch + Erik<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/capncrunch-button.jpg" />
+<img src="./images/individual/capncrunch-button.jpg" />
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 22:08:26 +0000" last-modified-by-name="Mansion Maniac" %}
 
 {% include box-open.html box-id="2181" title="Horizontal Banner Winners" author-id="247" timestamp="2006-04-07 18:02:24 +0000" type="norm" dbname="box28630" last-modified-by="127" %}
 <p>
 1st Place - kakashi0freak<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/kakashi0freak-horizontal.png" />
+<img src="./images/individual/kakashi0freak-horizontal.png" />
 <br />
 <br />
 </p>
 
 <p>
 2nd Place - RedShadow13<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/redshadow13-horizontal.gif" />
+<img src="./images/individual/redshadow13-horizontal.gif" />
 <br />
 <br />
 </p>
 
 <p>
 3rd Place - Cappucino<br />
-<img src="http://starmen.net/siteinfo/banners/images/individual/cappucino-horizontal.png" />
+<img src="./images/individual/cappucino-horizontal.png" />
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2006-04-07 21:37:42 +0000" last-modified-by-name="Mansion Maniac" %}
 
@@ -172,9 +172,9 @@ Vertical was, admittedly, the category with the lowest turnout.  The only other 
 <TD WIDTH="25%">2nd Place - Stevesesy</TD>
 </TR>
 <TR>
-<TD WIDTH="25%"><img src="http://starmen.net/siteinfo/banners/images/individual/capnmuffin-vertical.png" />
+<TD WIDTH="25%"><img src="./images/individual/capnmuffin-vertical.png" />
 </TD>
-<TD WIDTH="25%"><img src="http://starmen.net/siteinfo/banners/images/individual/stevesesy-vertical.png" />
+<TD WIDTH="25%"><img src="./images/individual/stevesesy-vertical.png" />
 </TD>
 </TR>
 </TABLE>
@@ -183,8 +183,8 @@ Vertical was, admittedly, the category with the lowest turnout.  The only other 
 
 {% include box-open.html box-id="2190" title="The Non-Placers" author-id="247" timestamp="2006-04-07 20:46:18 +0000" type="norm" dbname="box6377" last-modified-by="127" %}
 <p>
-For those that didn't place, we'll always have a shrine for you here on <a href="http://starmen.net/siteinfo/banners/nonplacers.php">this page</a>.
+For those that didn't place, we'll always have a shrine for you here on <a href="./nonplacers.html">this page</a>.
 <br /><br />
-Also, you can view the older banners by clicking <a href="http://starmen.net/siteinfo/banners.php">here</a>
+Also, you can view the older banners by clicking <a href="./../banners.html">here</a>
 </p>
 {% include box-close.html author-name="Mansion Maniac" last-modified-on="2007-06-11 21:51:05 +0000" last-modified-by-name="Artemis251" %}

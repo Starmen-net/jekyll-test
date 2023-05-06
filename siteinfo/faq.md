@@ -30,7 +30,7 @@ Starmen.Net is a large fansite and community based on the somewhat overlooked Mo
 <a NAME="paidfor"></a>
 Starmen.Net is paid for in part by income from the <A HREF="http://www.cafepress.com/starmen">Starmen.Net Online Store</A>. However, our main source of income is from our donors.
 <p>Starmen.Net is <i>not for profit</i>. This means that any and all money generated for the site goes towards paying bills (webhosting, domain names), purchasing prizes (mugs, other merchandise), and miscellaneous other costs attached to running the website (shipping packages, printing large documents, etc). No individuals profit from the website in any way.</p>
-<p>There is much more information to be found on the <A HREF="http://www.starmen.net/donation.php">Donations Page</A>.</p>
+<p>There is much more information to be found on the <A HREF="./../donation.html">Donations Page</A>.</p>
 {% include box-close.html author-name="Dragonair" last-modified-on="2005-08-20 19:57:48 +0000" last-modified-by-name="Dragonair" %}
 
 {% include box-open.html box-id="1316" title="How do I join Starmen.Net?" author-id="57" timestamp="2005-08-20 19:58:14 +0000" type="norm" dbname="box8462" last-modified-by="127" %}
@@ -40,7 +40,7 @@ You can sign up for a free Starmen.Net account <a href="http://forum.starmen.net
 
 {% include box-open.html box-id="1317" title="Can I link to Starmen.Net?" author-id="57" timestamp="2005-08-20 20:04:25 +0000" type="norm" dbname="box30344" last-modified-by="127" %}
 <A NAME="linking"></A>
-As with the vast majority of the Internet, of course you can. If you want to link to us using a banner, we request that you use the ones in our <a href="banners/">Banner section</a>.
+As with the vast majority of the Internet, of course you can. If you want to link to us using a banner, we request that you use the ones in our <a href="./banners/">Banner section</a>.
 
 <p>However, because of bandwidth issues, please do not link to any of the files on the site. If you want to use one, upload it to your own server.</p>
 {% include box-close.html author-name="Dragonair" last-modified-on="2007-06-11 21:49:21 +0000" last-modified-by-name="Artemis251" %}
@@ -54,7 +54,7 @@ There isn't a straight answer. Usually, you can only get a staff position if we 
 {% include box-open.html box-id="1319" title="How can I get a Starmen.Net e-mail address?" author-id="57" timestamp="2005-08-20 20:37:27 +0000" type="norm" dbname="box12021" last-modified-by="57" %}
 <A NAME="email"></A>
 Sometimes we hold contests in which people can win e-mail accounts here. This is true of many, if not all, of the Funfests. Also, you might want to keep an eye on the <A HREF="http://forum.starmen.net/">Starmen.Net Forum</A>, as from time to time you can win cool stuff there.
-<p>Also, you are offered an email address if you <A HREF="http://starmen.net/donation.php">donate</A> to the website. Any Starmen.Net email addresses you have will be available to you as long as the website and its email capabilities remain.</p>
+<p>Also, you are offered an email address if you <A HREF="./../donation.html">donate</A> to the website. Any Starmen.Net email addresses you have will be available to you as long as the website and its email capabilities remain.</p>
 {% include box-close.html author-name="Dragonair" last-modified-on="2005-08-20 20:41:35 +0000" last-modified-by-name="Dragonair" %}
 
 {% include box-open.html box-id="1320" title="How can I get web space at Starmen.Net?" author-id="57" timestamp="2005-08-20 20:41:39 +0000" type="norm" dbname="box54846" last-modified-by="57" %}
@@ -75,7 +75,7 @@ All staffers have to do some basic HTML to some extent.
 
 {% include box-open.html box-id="1324" title="I want to submit something. What do I do?" author-id="57" timestamp="2005-08-20 20:45:58 +0000" type="norm" dbname="box40546" last-modified-by="127" %}
 <A NAME="submit"></A>
-It depends on which section your submission is for. First, check the section you want to submit to, and if you can't find instructions, upload your file using our <a href="http://starmen.net/submit/">general upload form.</a>
+It depends on which section your submission is for. First, check the section you want to submit to, and if you can't find instructions, upload your file using our <a href="./../submit/">general upload form.</a>
 <p>
 DO NOT mail files to any of the staff unless otherwise specified.</p>
 	
@@ -98,7 +98,7 @@ The answer is really quite simple: ROMs are illegal. We wouldn't want to be sued
 
 {% include box-open.html box-id="1327" title="Where can I buy the EarthBound soundtrack CDs?" author-id="57" timestamp="2005-08-20 20:52:04 +0000" type="norm" dbname="box30745" last-modified-by="57" %}
 <A NAME="cds"></A>
-You can find information on these CDs and a lot of other EarthBound/Mother merchandise in our <A HREF="/merchandise/">merchandise section</A>.
+You can find information on these CDs and a lot of other EarthBound/Mother merchandise in our <A HREF="./../merchandise/">merchandise section</A>.
 {% include box-close.html author-name="Dragonair" last-modified-on="2005-08-20 20:52:46 +0000" last-modified-by-name="Dragonair" %}
 
 {% include box-open.html box-id="1328" title="What is Mother?" author-id="57" timestamp="2005-08-20 20:52:56 +0000" type="norm" dbname="box41193" last-modified-by="57" %}

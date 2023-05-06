@@ -15,16 +15,16 @@ Note that most of this only covers up to 2006/2007, a lot has happened since the
 {% include box-open.html box-id="1510" title="<a name=\"literary\">Literary Moments in Starmen.Net History</a>" author-id="8" timestamp="2005-09-27 05:56:38 +0000" type="norm" dbname="box12676" last-modified-by="8" %}
 <ul><li>(1999) <a href="http://hijola.fobby.net/misc/somemail.txt">The email that started it all</a> - an email from Tomato to reidman about his vision for EarthBound.Net</li>
 <li>(1999) <a href="http://classic.fobby.net/fanfics/group/mrsparkle/">EarthBound.Net Sieges NOA</a> - possibly the most awesome/stupid fanfic of all time</li>
-<li>(1999) <a href="http://classic.fobby.net/articles/fttp/695.php">A Site is Born</a> - Written by Tomato in 2003</li>
-<li>(2000) <a href="http://starmen.net/vote/vote.php?id=14251">A protracted history of how EarthBound.Net became Starmen.Net</a> - by Anthadd</li>
-<li>(2002) <a href="http://classic.fobby.net/misc/reidmsg.php">Stafftastic Letterage I - Part 1</a> - by reidman</li>
-<li>(2002) <a href="http://classic.fobby.net/misc/tomatomsg.php">Stafftastic Letterage I - Part 2</a> - by Tomato</li>
+<li>(1999) <a href="http://classic.fobby.net/articles/fttp/695.html">A Site is Born</a> - Written by Tomato in 2003</li>
+<li>(2000) <a href="./../vote/vote.php?id=14251">A protracted history of how EarthBound.Net became Starmen.Net</a> - by Anthadd</li>
+<li>(2002) <a href="http://classic.fobby.net/misc/reidmsg.html">Stafftastic Letterage I - Part 1</a> - by reidman</li>
+<li>(2002) <a href="http://classic.fobby.net/misc/tomatomsg.html">Stafftastic Letterage I - Part 2</a> - by Tomato</li>
 <li>(2003) <a href="http://classic.fobby.net/misc/letterage2.html">Stafftastic Letterage II</a> - wherein reidman is giddy about the success of the Mother 3 Petition and the future of the site</li>
-<li>(2003) <a href="http://classic.fobby.net/misc/staffletter.php">Letter to the Staff</a> - wherein reidman sounds like a washed-up motivational speaker</li>
-<li>(2005) <a href="http://starmen.net/stonehenge/bluedisks/">Starmen.Net v Sourceperson - Blue Disk Saga</a> The story of the EarthBound 64 DD Disks</li>
+<li>(2003) <a href="http://classic.fobby.net/misc/staffletter.html">Letter to the Staff</a> - wherein reidman sounds like a washed-up motivational speaker</li>
+<li>(2005) <a href="./bluedisks/">Starmen.Net v Sourceperson - Blue Disk Saga</a> The story of the EarthBound 64 DD Disks</li>
 </ul>
 
-There is also the <a href="timeline/">Site Timeline</a>, which is still very much under (re)construction.
+There is also the <a href="./timeline/">Site Timeline</a>, which is still very much under (re)construction.
 {% include box-close.html author-name="reidman" last-modified-on="2016-09-09 18:57:40 +0000" last-modified-by-name="reidman" %}
 
 {% include box-open.html box-id="2651" title="<a name=\"petitions\">Petitions</a>" author-id="8" timestamp="2006-11-06 23:31:40 +0000" type="norm" dbname="box3357" last-modified-by="8" %}
@@ -42,7 +42,7 @@ The petitions made a measurable impact, but unfortunately Nintendo still refuses
 <ul>
 <li><a href="http://penny-arcade.com">Penny Arcade</a> - <a href="http://www.penny-arcade.com/news/post/2002/03/29/i-rhyme-with-pink">"EarthBound Petition"</a> - March 29, 2002</li>
 <li><a href="http://slashdot.org">Slashdot</a> - <a href="http://games.slashdot.org/article.pl?sid=03/09/14/235245&tid=202">"EarthBound Petition Making a Difference?"</a> - Sept 14, 2003</li>
-<li><a href="http://starmen.net/siteinfo/image/edge-m3-june06.jpg">Edge Magazine Mother 3 Article</a> (a European gaming mag) - June 2006 issue 166</li>
+<li><a href="./../siteinfo/image/edge-m3-june06.jpg">Edge Magazine Mother 3 Article</a> (a European gaming mag) - June 2006 issue 166</li>
 </ul>
 Our favorite, however, came from <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>, a man popularly considered to be the father of modern video gaming:
 <div class="quote">
@@ -61,7 +61,7 @@ Jonk (as well as ShadowX and reidman) spent a lot of time organizing two specifi
 <li><a href="http://classic.fobby.net/petition/npsiege/">NP Siege</a> (2000)</li>
 <li><a href="http://classic.fobby.net/petition/npsiege2/">NP Siege II</a> (2001)</li>
 <li><a href="http://classic.fobby.net/fanart/npsiege3/">NP Siege III</a> (2002)</li>
-<li><a href="http://classic.fobby.net/jonk/nprs/nprsmain.php">NP Ransom Siege</a> (2003)</li>
+<li><a href="http://classic.fobby.net/jonk/nprs/nprsmain.html">NP Ransom Siege</a> (2003)</li>
 </ul>
 <b>PK Call 'Ns</b>
 <ul>
@@ -90,8 +90,8 @@ In addition to Starmen.Net's many websites/designs, the community has switched f
 
 {% include box-open.html box-id="2672" title="<a name=\"gifts\">Rare Staff / Donor Gifts</a>" author-id="8" timestamp="2006-11-08 11:50:09 +0000" type="norm" dbname="box28513" last-modified-by="127" %}
 Jonk and many other site artists have put, literally, hundreds upon hundreds of hours of work into the <a href="http://cafepress.com/starmen">Starmen.Net Store</a>. In addition to the items there, however, there are several sets of very rare items that have appeared throughout the site's history:
-<ul><li><a href="http://starmen.net/merchandise/smn/psirockin.php">PSI Rockin'</a>, Rock Candy <a href="http://starmen.net/merchandise/smn/rockcandy1.php">1</a>, <a href="http://starmen.net/merchandise/smn/rockcandy2.php">2</a>, and <a href="http://starmen.net/merchandise/smn/rockcandy3.php">3</a> (Thank-you gifts for staff and donors painstakingly handcrafted by Jonk, sent out between 2002 and 2004)</li>
-<li><a href="http://starmen.net/merchandise/smn/smnsculptures.php">Staff Gifts - Resin Starmen / Mr. Saturn Sculptures by Meeellla</a> (Thank-you gifts for the staff, sent out in 2003 - roughly 20 of each in existence)</li>
-<li><a href="http://starmen.net/merchandise/smn/mugz0rz.php">Staff Gifts - 1st Edition mugz0rz by reidman</a> (Thank-you gifts for the staff, sent out in 1999 - 50 total in existence)</li>
+<ul><li><a href="./../merchandise/smn/psirockin.html">PSI Rockin'</a>, Rock Candy <a href="./../merchandise/smn/rockcandy1.html">1</a>, <a href="./../merchandise/smn/rockcandy2.html">2</a>, and <a href="./../merchandise/smn/rockcandy3.html">3</a> (Thank-you gifts for staff and donors painstakingly handcrafted by Jonk, sent out between 2002 and 2004)</li>
+<li><a href="./../merchandise/smn/smnsculptures.html">Staff Gifts - Resin Starmen / Mr. Saturn Sculptures by Meeellla</a> (Thank-you gifts for the staff, sent out in 2003 - roughly 20 of each in existence)</li>
+<li><a href="./../merchandise/smn/mugz0rz.html">Staff Gifts - 1st Edition mugz0rz by reidman</a> (Thank-you gifts for the staff, sent out in 1999 - 50 total in existence)</li>
 </ul>
 {% include box-close.html author-name="reidman" last-modified-on="2007-06-23 00:02:29 +0000" last-modified-by-name="Tomato" %}

@@ -14,99 +14,99 @@ For more general site questions, either contact one of the Staff Managers or ema
 <ul class="staff">
 	<li class="games"><h3>Game Sections</h3>
 		<dl>All game sections staffed by <a href="http://forum.starmen.net/members/NorthofOnett">NorthofOnett</a>
-			<dt><a href="/mother1">Mother / EarthBound Zero</a></dt>
+			<dt><a href="./../mother1">Mother / EarthBound Zero</a></dt>
 
-			<dt><a href="/mother2">Mother 2 / EarthBound</a></dt>
+			<dt><a href="./../mother2">Mother 2 / EarthBound</a></dt>
 
-			<dt><a href="/mother3">Mother 3</a></dt>
+			<dt><a href="./../mother3">Mother 3</a></dt>
 
-			<dt><a href="/mother12">Mother 1+2</a></dt>
+			<dt><a href="./../mother12">Mother 1+2</a></dt>
 
-			<dt><a href="/eb64">EarthBound 64</a></dt>
+			<dt><a href="./../eb64">EarthBound 64</a></dt>
 
-			<dt><a href="/smashbros">Super Smash Bros.</a></dt>
+			<dt><a href="./../smashbros">Super Smash Bros.</a></dt>
 
-			<dt><a href="/ssbm">Super Smash Bros. Melee</a></dt>
+			<dt><a href="./../ssbm">Super Smash Bros. Melee</a></dt>
 
-			<dt><a href="/ssbb">Super Smash Bros. Brawl</a></dt>
+			<dt><a href="./../ssbb">Super Smash Bros. Brawl</a></dt>
                         
-                        <dt><a href="/mother2/ebdb">EBDB</a></dt>
+                        <dt><a href="./../mother2/ebdb">EBDB</a></dt>
 
 		</dl>
 	</li>
 	<li class="fansubs"><h3>Visual Arts</h3>
 		<dl>
-			<dt><a href="/fanart">Fan Art</a></dt>
+			<dt><a href="./../fanart">Fan Art</a></dt>
 				<dd><a href="http://forum.starmen.net/members/Aangie">Aangie</a></dd>
                                 <dd><a href="http://forum.starmen.net/members/9125">LitoNico</a></dd>
 
-			<dt><a href="/comics">Fan Comics</a></dt>
+			<dt><a href="./../comics">Fan Comics</a></dt>
 				<dd><a href="http://forum.starmen.net/members/474">Artemis251</a></dd>
 
-			<dt><a href="/fantography">Fantography</a></dt>
+			<dt><a href="./../fantography">Fantography</a></dt>
                                 <dd><a href="http://forum.starmen.net/members/11098">Buck Fever</a></dd>
                                 <dd><a href="http://forum.starmen.net/members/sithmaster96">Sith</a></dd>
 
-			<dt><a href="/flukes">Flukes</a></dt>
+			<dt><a href="./../flukes">Flukes</a></dt>
 				<dd>(Vacant)</dd>
 		</dl>
 	</li>
 	<li class="misc"><h3>Writing</h3>
 		<dl>
-			<dt><a href="/fanfics">Fanfiction</a></dt>
+			<dt><a href="./../fanfics">Fanfiction</a></dt>
 				<dd><a href="http://forum.starmen.net/members/Emily">Emily</a></dd>
 				<dd><a href="http://forum.starmen.net/members/ohboy">ohboy</a></dd>
 
-			<dt><a href="/poems">Poems and Songs</a></dt>
+			<dt><a href="./../poems">Poems and Songs</a></dt>
 				<dd><a href="http://forum.starmen.net/members/Emily">Emily</a></dd>
 				<dd><a href="http://forum.starmen.net/members/ohboy">ohboy</a></dd>
 
-			<dt><a href="/articles">Articles and Theories</a></dt>
+			<dt><a href="./../articles">Articles and Theories</a></dt>
 				<dd><a href="http://forum.starmen.net/members/J-Spade">J_Spade</a></dd>
 				
 		</dl>
 	</li>
 	<li class="comm"><h3>Media</h3>
 		<dl>
-			<dt><a href="/fanmusic">Fan Music</a></dt>
+			<dt><a href="./../fanmusic">Fan Music</a></dt>
 				<dd>(Vacant)</dd>
 
-			<dt><a href="/fanvideos">Fan Videos</a></dt>
+			<dt><a href="./../fanvideos">Fan Videos</a></dt>
 				<dd><a href="http://forum.starmen.net/members/stoicmani">stoicmani</a></dd>
 				<dd><a href="http://forum.starmen.net/members/Absoltastic">Absoltastic</a></dd>
 		</dl>
 	</li>
 	<li class="goods"><h3>Technology</h3>
 		<dl>
-			<dt><a href="/pkhack">PK Hack</a></dt>
+			<dt><a href="./../pkhack">PK Hack</a></dt>
 				<dd>(Vacant)</dd>
 				
 
-			<dt><a href="/fanprograms">Fan Games/Programs</a></dt>
+			<dt><a href="./../fanprograms">Fan Games/Programs</a></dt>
 				<dd><a href="http://forum.starmen.net/members/3404">Capn Muffin</a></dd>
 		</dl>
 	</li>
 	<li class="labs"><h3>Community Sections</h3>
 		<dl>
-			<dt><a href="/polls">Polls</a></dt>
+			<dt><a href="./../polls">Polls</a></dt>
 				<dd><a href="http://forum.starmen.net/members/MrNameless">MrNameless</a></dd>
 
-			<dt><a href="/trivia">Trivia</a></dt>
+			<dt><a href="./../trivia">Trivia</a></dt>
 				<dd>(Vacant)</dd>
 				
-			<dt><a href="/hardtrivia">Hard Trivia</a></dt>
+			<dt><a href="./../hardtrivia">Hard Trivia</a></dt>
 				<dd><a href="http://forum.starmen.net/members/56">Ploqazxswm</a></dd>
 
-			<dt><a href="/radio">Radio</a></dt>
+			<dt><a href="./../radio">Radio</a></dt>
 				<dd><a href="http://forum.starmen.net/members/5884">cyan683</a></dd>
 
-			<dt><a href="/merchandise">Merchandise</a></dt>
+			<dt><a href="./../merchandise">Merchandise</a></dt>
 				<dd><a href="http://forum.starmen.net/members/45">ShadowX</a></dd>
 
-			<dt><a href="/events">Events</a></dt>
+			<dt><a href="./../events">Events</a></dt>
 				<dd><a href="http://forum.starmen.net/members/11438">Marcotto</a></dd>
 
-			<dt><a href="/mailbag">Mailbag</a></dt>
+			<dt><a href="./../mailbag">Mailbag</a></dt>
 				<dd><a href="http://forum.starmen.net/members/vidkid7">vid</a></dd>
 				<dd><a href="http://forum.starmen.net/members/4164">Strawberry Tofu</a></dd>
 		</dl>

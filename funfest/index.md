@@ -18,9 +18,9 @@ You'll find the many funfest archives below. Please note that some links on the 
 <li><a href="http://classic.fobby.net/funfest/halloween02/">Halloween Funfest 2002</a></li>
 <li><a href="http://classic.fobby.net/funfest/halloween03/">Halloween Funfest 2003</a></li>
 <li><a href="http://classic.fobby.net/funfest/">Halloween Funfest 2004</a></li>
-<li><a href="/halloween06/">Halloween Funfest 2006</a></li>
-<li><a href="/halloween07/">Halloween Funfest 2007</a></li>
-<li><a href="/halloween08/">Halloween Funfest 2008</a></li>
+<li><a href="./../halloween06/">Halloween Funfest 2006</a></li>
+<li><a href="./../halloween07/">Halloween Funfest 2007</a></li>
+<li><a href="./../halloween08/">Halloween Funfest 2008</a></li>
 <li><a href="http://forum.starmen.net/halloween09/">Halloween Funfest 2009</a></li>
 </ul>
 {% include box-close.html author-name="PoeTrader" last-modified-on="2009-10-22 13:48:21 +0000" last-modified-by-name="PoeTrader" %}
@@ -33,15 +33,15 @@ You'll find the many funfest archives below. Please note that some links on the 
 <li><a href="http://classic.fobby.net/funfest/holiday02/">Holiday Funfest 2002</a></li>
 <li><a href="http://classic.fobby.net/funfest/holiday03/">Holiday Funfest 2003</a></li>
 <li><a href="http://classic.fobby.net/funfest/holiday04/">Holiday Funfest 2004</a></li>
-<li><a href="/holiday06">Holiday Funfest 2006</a></li>
-<li><a href="/holiday07">Holiday Funfest 2007</a></li>
-<li><a href="/holiday08">Holiday Funfest 2008</a></li>
+<li><a href="./../holiday06">Holiday Funfest 2006</a></li>
+<li><a href="./../holiday07">Holiday Funfest 2007</a></li>
+<li><a href="./../holiday08">Holiday Funfest 2008</a></li>
 </ul>
 {% include box-close.html author-name="PoeTrader" last-modified-on="2009-02-12 00:44:43 +0000" last-modified-by-name="PoeTrader" %}
 
 {% include box-open.html box-id="3583" title="Other Funfests" author-id="75" timestamp="2008-12-08 17:35:02 +0000" type="norm" dbname="box37147" last-modified-by="75" %}
 <ul>
-<li><a href="http://classic.fobby.net/funfest/summer04/index.php">Summer Funfest 2004</a></li>
-<li><a href="/funfest05/">Fall / Winter Funfest 2005</a></li>
+<li><a href="http://classic.fobby.net/funfest/summer04/index.html">Summer Funfest 2004</a></li>
+<li><a href="./../funfest05/">Fall / Winter Funfest 2005</a></li>
 </ul>
 {% include box-close.html author-name="PoeTrader" last-modified-on="2008-12-08 18:11:53 +0000" last-modified-by-name="PoeTrader" %}
